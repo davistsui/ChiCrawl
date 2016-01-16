@@ -1,0 +1,82 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<!-- Top background picture -->
+<div id="header"></div>
+
+<!-- Show form -->
+<div class="frame">
+    <form method="get"> 
+        <fieldset class="set">
+            <legend>Bar Crawler Preferences</legend>
+            <div class="search">
+            <div class="row1">
+                <label id="lab" for="id_search">Search terms:</label>
+                {{ form.search }}
+            </div>
+            <div class="row2">
+                <label id="lab" for="id_num_bars">Number of bars to visit:</label>
+                {{ form.num_bars }}
+            </div>
+            <div class="row3">
+                {{ form.neighborhood.errors }}
+                <label id="lab" for="id_neighborhood">Distance/Neighborhood:</label>
+                {{ form.neighborhood }}
+            </div>
+            <div class="row4">
+                <label id="lab" for="id_prices">Prices:</label>
+                {{ form.prices }}
+            </div>
+            </div>
+        </fieldset>
+        <fieldset>
+            <div class="submit"><input type="submit" value="Submit" id="but"/></div>
+        </fieldset>
+    </form>
+</div>
+
+<!-- Middle background picture -->
+<div id="mid"></div>
+
+<!-- Show result as list -->
+{% if result != None %}
+<!-- Show list of results -->
+<!--<div class="wrapper">-->
+<div class="wrapper">
+<div class="frame-left">
+    <div class="results">
+        <ul id="list">
+            {% for entry in result %}
+                {% for name in entry|slice:":1" %}
+                    <li>
+                        {{ name }}
+                    </li>
+                {% endfor %}
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="waypt">
+        <button onclick="calcRoute()">Show locations</button>
+    </div>
+    <div id="travel-mode">
+        <label for="travel">Travel Mode:</label>
+        <select id="mode" onchange="calcSingleRoute()">
+            <option value="DRIVING">Driving</option>
+            <option value="WALKING">Walking</option>
+            <option value="TRANSIT">Transit</option>
+        </select>
+    </div>
+    <div id="panel"></div>
+</div>
+
+<!-- Show map -->
+<div class="frame-right">
+    <div id="map"></div>
+</div>
+</div>
+
+<!-- Bottom background picture -->
+<div id="bottom"></div>
+{% endif %}
+
+{% endblock %}

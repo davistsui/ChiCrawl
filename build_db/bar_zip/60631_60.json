@@ -1,0 +1,1003 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.09726123000000086,
+      "longitude_delta":0.12507714999998143
+    },
+    "center":{
+      "latitude":41.99668965,
+      "longitude":-87.81173125000001
+    }
+  },
+  "total":1052,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/sutherlands-food-and-spirits-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":93,
+      "name":"Sutherland's Food & Spirits",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/sutherlands-food-and-spirits-chicago",
+      "is_closed":false,
+      "phone":"7739304790",
+      "snippet_text":"Sutherland is just the place the neighborhood, and surrounding neighborhoods needed. Their Burgers and tater tots are great, and i'm a fan of the macaroni...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/EUiA8m3CYr31Avgcu3dfZQ/ms.jpg",
+      "categories":[
+        [
+          "Burgers",
+          "burgers"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-930-4790",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"sutherlands-food-and-spirits-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/5ofYsI6SUkP2H5rTRcOfwg/ms.jpg",
+      "location":{
+        "cross_streets":"Lockwood Ave & Long Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5353 W Irving Park Rd",
+          "Portage Park",
+          "Chicago, IL 60641"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Portage Park"
+        ],
+        "postal_code":"60641",
+        "country_code":"US",
+        "address":[
+          "5353 W Irving Park Rd"
+        ],
+        "coordinate":{
+          "latitude":41.9529419,
+          "longitude":-87.7617111
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/the-capital-grille-rosemont",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":178,
+      "name":"The Capital Grille",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/the-capital-grille-rosemont",
+      "is_closed":false,
+      "id":"the-capital-grille-rosemont",
+      "phone":"8476718125",
+      "snippet_text":"I visited this restaurant for lunch with my team from work. From the moment we walked in the door, the service was outstanding. Our coats were taken, we...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/pXKDnYTOJoxuycgkOWxrPg/ms.jpg",
+      "categories":[
+        [
+          "Steakhouses",
+          "steak"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Seafood",
+          "seafood"
+        ]
+      ],
+      "display_phone":"+1-847-671-8125",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1425311693,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/R9OqvsR0dwyulFjCanjEzw/ms.jpg",
+      "location":{
+        "city":"Rosemont",
+        "display_address":[
+          "5340 N River Rd",
+          "Rosemont, IL 60018"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60018",
+        "country_code":"US",
+        "address":[
+          "5340 N River Rd"
+        ],
+        "coordinate":{
+          "latitude":41.974551,
+          "longitude":-87.862823
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/libertad-skokie",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":290,
+      "name":"Libertad",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/libertad-skokie",
+      "is_closed":false,
+      "id":"libertad-skokie",
+      "phone":"8476748100",
+      "snippet_text":"Absolutely amazing! Food, service & drinks... In Skokie! Loved it so much! Coming back for sure! \nCarne Asada\nCamarones\nhummus\nSangria... All a must!",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/GkRSmLViy_g5xAj_R5OKvQ/ms.jpg",
+      "categories":[
+        [
+          "Latin American",
+          "latin"
+        ]
+      ],
+      "display_phone":"+1-847-674-8100",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1415792032,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/4WTGeBA8TK5JZyi4aY_x9Q/ms.jpg",
+      "location":{
+        "cross_streets":"Niles Center Rd & Galitz St",
+        "city":"Skokie",
+        "display_address":[
+          "7931 Lincoln Ave",
+          "Skokie, IL 60077"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60077",
+        "country_code":"US",
+        "address":[
+          "7931 Lincoln Ave"
+        ],
+        "coordinate":{
+          "latitude":42.025581,
+          "longitude":-87.754875
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.0,
+      "mobile_url":"http://m.yelp.com/biz/teasers-pub-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png",
+      "review_count":34,
+      "name":"Teasers Pub",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png",
+      "url":"http://www.yelp.com/biz/teasers-pub-chicago",
+      "is_closed":false,
+      "phone":"7737757975",
+      "snippet_text":"A good place to go to if you are too drunk to remember where you are. Which I was and I'm happy that I can't remember.",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/-b_zKQ3CCkCKU-Fu768Zcg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-775-7975",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png",
+      "id":"teasers-pub-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/76rSWjv9LNaEw5_ZgSJd0A/ms.jpg",
+      "location":{
+        "cross_streets":"Mont Clare Ave & Neva Ave",
+        "city":"Chicago",
+        "display_address":[
+          "7123 W Higgins Ave",
+          "Norwood Park",
+          "Chicago, IL 60656"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60656",
+        "country_code":"US",
+        "address":[
+          "7123 W Higgins Ave"
+        ],
+        "coordinate":{
+          "latitude":41.980556,
+          "longitude":-87.805611
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/brigadoon-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":9,
+      "name":"Brigadoon",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/brigadoon-chicago",
+      "is_closed":false,
+      "phone":"7737772403",
+      "snippet_text":"Yea this bar is a great dive bar great staff and a young  really good looking bar back lol",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-777-2403",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"brigadoon-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5748 W Lawrence Ave",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "5748 W Lawrence Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9679794,
+          "longitude":-87.7716522
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/marys-place-chicago-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":4,
+      "name":"Mary's Place",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/marys-place-chicago-2",
+      "is_closed":false,
+      "phone":"7737757587",
+      "snippet_text":"One of the longest standing establishments in the area! From the outside you wouldn't know there is a bar, the inside has a full hand painted mural on the...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/zOlupuY_mPFbMThH4nGbug/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-775-7587",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"marys-place-chicago-2",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/XUf3QpgwAMFKewzoAIUfqQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "6300 N Milwaukee Ave",
+          "Norwood Park",
+          "Chicago, IL 60646"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60646",
+        "country_code":"US",
+        "address":[
+          "6300 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.995079,
+          "longitude":-87.7861862
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/ram-restaurant-and-brewery-rosemont",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":217,
+      "name":"Ram Restaurant & Brewery",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/ram-restaurant-and-brewery-rosemont",
+      "is_closed":false,
+      "id":"ram-restaurant-and-brewery-rosemont",
+      "phone":"8476924426",
+      "snippet_text":"Went to this place for lunch with co-workers . I had the mahi Mahi tacos which were fantastic. Service was prompt and friendly. Will definitely be back.",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/LJHRN6zIG5wOKrJKs3CrQg/ms.jpg",
+      "categories":[
+        [
+          "Breweries",
+          "breweries"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ],
+        [
+          "Sandwiches",
+          "sandwiches"
+        ]
+      ],
+      "display_phone":"+1-847-692-4426",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1400874083,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/dmuCNL-5byMNqGlpRPQUig/ms.jpg",
+      "location":{
+        "cross_streets":"Gage St & Willow Creek Dr",
+        "city":"Rosemont",
+        "display_address":[
+          "9520 Higgins Rd",
+          "Rosemont, IL 60018"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60018",
+        "country_code":"US",
+        "address":[
+          "9520 Higgins Rd"
+        ],
+        "coordinate":{
+          "latitude":41.992054235095,
+          "longitude":-87.862923423455
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/park-tavern-rosemont",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":219,
+      "name":"Park Tavern",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/park-tavern-rosemont",
+      "is_closed":false,
+      "id":"park-tavern-rosemont",
+      "phone":"8473495151",
+      "snippet_text":"The only negative thing I have to say is the $15 price tag on the bloody mary with a cheeseburger slider is total unwarranted. Let's do the math...\n\nHow...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/06JuSQR4QTkl0Jg3Svtplg/ms.jpg",
+      "categories":[
+        [
+          "Gastropubs",
+          "gastropubs"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-847-349-5151",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1424248651,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/LICFdFDprWx1UmrLWh6FLQ/ms.jpg",
+      "location":{
+        "city":"Rosemont",
+        "display_address":[
+          "5433 Park Pl",
+          "Rosemont, IL 60018"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60018",
+        "country_code":"US",
+        "address":[
+          "5433 Park Pl"
+        ],
+        "coordinate":{
+          "latitude":41.978316,
+          "longitude":-87.867798
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/hugos-frog-bar-and-chop-house-des-plaines",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":100,
+      "name":"Hugo's Frog Bar & Chop House",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/hugos-frog-bar-and-chop-house-des-plaines",
+      "is_closed":false,
+      "id":"hugos-frog-bar-and-chop-house-des-plaines",
+      "phone":"8477685200",
+      "snippet_text":"I visited Hugo's Frog Bar within the Rivers Casino for an outing with my work team. This was my second time there, however this time we were in the private...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/0AA2jwSBrKE63JTGmviNTg/ms.jpg",
+      "categories":[
+        [
+          "Steakhouses",
+          "steak"
+        ],
+        [
+          "Seafood",
+          "seafood"
+        ]
+      ],
+      "display_phone":"+1-847-768-5200",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1420890586,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/zGFSU8O8IBR4R79Ox02rCQ/ms.jpg",
+      "location":{
+        "city":"Des Plaines",
+        "display_address":[
+          "3000 S River Rd",
+          "Des Plaines, IL 60018"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60018",
+        "country_code":"US",
+        "address":[
+          "3000 S River Rd"
+        ],
+        "coordinate":{
+          "latitude":42.0001183,
+          "longitude":-87.8637085
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/darlins-lounge-niles",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":4,
+      "name":"Darlin's Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/darlins-lounge-niles",
+      "is_closed":false,
+      "phone":"8476478588",
+      "snippet_text":"Completely horrifying in the best way possible. Whenever I'm home visiting my parents I try to come here. Seriously, love.",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/grbaieC0vQblm4KuV0YbNw/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-847-647-8588",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"darlins-lounge-niles",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Oay9U56mvu89DXZl0N8vRQ/ms.jpg",
+      "location":{
+        "city":"Niles",
+        "display_address":[
+          "7247 N Waukegan Rd",
+          "Niles, IL 60714"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60714",
+        "country_code":"US",
+        "address":[
+          "7247 N Waukegan Rd"
+        ],
+        "coordinate":{
+          "latitude":42.013149,
+          "longitude":-87.801872
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/shotzees-bar-and-grill-niles",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":9,
+      "name":"Shotzee's Bar & Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/shotzees-bar-and-grill-niles",
+      "is_closed":false,
+      "phone":"8476478312",
+      "snippet_text":"If I could just write lol over and over again, it would pretty much sum up my shotzees experiences. This was our main spot for a while when I worked at a...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/Ajo9-yHL7Z4uaWEDmmhlmw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-847-647-8312",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"shotzees-bar-and-grill-niles",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/_8A9RTO6Qle7_6GppOYsEw/ms.jpg",
+      "location":{
+        "cross_streets":"Lehigh Ave & Merrimac Ave",
+        "city":"Niles",
+        "display_address":[
+          "6055 W Howard St",
+          "Niles, IL 60714"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60714",
+        "country_code":"US",
+        "address":[
+          "6055 W Howard St"
+        ],
+        "coordinate":{
+          "latitude":42.0184593200684,
+          "longitude":-87.7792282104492
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/bar-57-west-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":11,
+      "name":"Bar 57 West",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/bar-57-west-chicago",
+      "is_closed":false,
+      "phone":"7734276635",
+      "snippet_text":"I wouldnt call this place a hole in a wall because it looks really nice inside.  Its small but its cool.  They show the games, easy to talk to folks...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/ffw9-EfdgDWzPwSkbyq4fQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-427-6635",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"bar-57-west-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/9E6xuiWF6KVdSwcJpdYP_A/ms.jpg",
+      "location":{
+        "cross_streets":"Major Ave & Mango Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5722 W Higgins Ave",
+          "Jefferson Park",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Jefferson Park"
+        ],
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "5722 W Higgins Ave"
+        ],
+        "coordinate":{
+          "latitude":41.971645,
+          "longitude":-87.771431
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/hofbr%C3%A4uhaus-chicago-rosemont-3",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":371,
+      "name":"Hofbr\u00e4uhaus Chicago",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/hofbr%C3%A4uhaus-chicago-rosemont-3",
+      "is_closed":false,
+      "id":"hofbr\u00e4uhaus-chicago-rosemont-3",
+      "phone":"8476712739",
+      "snippet_text":"Really really an amazing place!! It was a celebration!!! My first time visit to a German bar and I absolutely loved the atmosphere. Beer was great but food...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/gnY2KPjuTPKjnNBSvzkQqg/ms.jpg",
+      "categories":[
+        [
+          "German",
+          "german"
+        ],
+        [
+          "Breweries",
+          "breweries"
+        ]
+      ],
+      "display_phone":"+1-847-671-2739",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1413522785,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/wEdBKn_5ml_aauwtpeTVyQ/ms.jpg",
+      "location":{
+        "city":"Rosemont",
+        "display_address":[
+          "5500 Park Pl",
+          "Rosemont, IL 60018"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60018",
+        "country_code":"US",
+        "address":[
+          "5500 Park Pl"
+        ],
+        "coordinate":{
+          "latitude":41.9787292,
+          "longitude":-87.8683167
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/tava-restaurant-and-bar-morton-grove-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":222,
+      "name":"TAVA Restaurant & Bar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/tava-restaurant-and-bar-morton-grove-3",
+      "is_closed":false,
+      "id":"tava-restaurant-and-bar-morton-grove-3",
+      "deals":[
+        {
+          "is_popular":true,
+          "time_start":1343688300,
+          "title":"$20 for $30 Worth Food and Drink",
+          "url":"http://www.yelp.com/deals/tava-morton-grove-3",
+          "additional_restrictions":"Promotion lasts for 1 year from date of purchase. After that period, your voucher is redeemable for the amount you paid. Only 1 voucher can be redeemed per person. Up to 1 voucher may be purchased as a gift for others. Must be used in single visit. Gratuity not included, please tip on full value. Not to be combined with other vouchers, coupons or discounts. Subject to the <a target=\"_blank\" href=\"http://www.yelp.com/tos/general_b2c_us_20120911\">General Terms</a>.",
+          "id":"DDCYkIwKUvGl0mJCrk9CUw",
+          "important_restrictions":"Not valid towards buffet, special dinner for two or for takeout and delivery\nNot valid on Fridays and Saturdays, Valentine's Day, New Years Eve, and Mother's Day\nLimit 1 voucher per table",
+          "image_url":"http://s3-media3.fl.yelpcdn.com/dphoto/fVA1QTGSMPKr4byoaAU7gg/m.jpg",
+          "options":[
+            {
+              "original_price":3000,
+              "title":"$20 for $30 Worth Food and Drink",
+              "price":2000,
+              "purchase_url":"https://www.yelp.com/checkout/deal/EOTNPwTnzb3YNq6hGxRvng",
+              "formatted_original_price":"$30",
+              "formatted_price":"$20",
+              "is_quantity_limited":false
+            }
+          ],
+          "currency_code":"USD"
+        }
+      ],
+      "phone":"8479668282",
+      "snippet_text":"I wanted to say how much I love Tava! I love Indian food. I'm also cautious eating out because I eat vegan, gluten-free and dairy-free foods so not all...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/UZH5evXtIZuVljAf086BUw/ms.jpg",
+      "categories":[
+        [
+          "Indian",
+          "indpak"
+        ],
+        [
+          "Vegan",
+          "vegan"
+        ],
+        [
+          "Gluten-Free",
+          "gluten_free"
+        ]
+      ],
+      "display_phone":"+1-847-966-8282",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"eat24",
+      "menu_date_updated":1414190714,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/tDHWKWXQIi8JvaXorZ2aeQ/ms.jpg",
+      "location":{
+        "cross_streets":"Shermer Rd & Harlem Ave",
+        "city":"Morton Grove",
+        "display_address":[
+          "7172 Dempster St",
+          "Morton Grove, IL 60053"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60053",
+        "country_code":"US",
+        "address":[
+          "7172 Dempster St"
+        ],
+        "coordinate":{
+          "latitude":42.0409431,
+          "longitude":-87.8056183
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-portage-chicago-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":308,
+      "name":"The Portage",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-portage-chicago-2",
+      "is_closed":false,
+      "id":"the-portage-chicago-2",
+      "phone":"7738530779",
+      "snippet_text":"A few months ago I was looking for dinner options for the night and every place I was looking at was booked. I then started looking for more neighborhood...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/yLT0PxuKkyOWpbEDUyHAOA/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Salad",
+          "salad"
+        ],
+        [
+          "Soup",
+          "soup"
+        ]
+      ],
+      "display_phone":"+1-773-853-0779",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1418737506,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/uOVXZ0kuftuCOUtMfaopZQ/ms.jpg",
+      "location":{
+        "cross_streets":"Dakin St & Irving Park Rd",
+        "city":"Chicago",
+        "display_address":[
+          "3938 N Central Ave",
+          "Portage Park",
+          "Chicago, IL 60634"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Portage Park"
+        ],
+        "postal_code":"60634",
+        "country_code":"US",
+        "address":[
+          "3938 N Central Ave"
+        ],
+        "coordinate":{
+          "latitude":41.95248,
+          "longitude":-87.767321
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/the-nil-tap-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":9,
+      "name":"The Nil Tap",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/the-nil-tap-chicago",
+      "is_closed":false,
+      "phone":"7735941288",
+      "snippet_text":"This sports bar is nice to go for a weekday wind down or a weekend wind up.  It's well-lit and has lots of TVs.  Groups come here, but also couples can...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/2nMQPd-TMDBS1Rf8eQOjpA/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-594-1288",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"the-nil-tap-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/5Q2e_uNsQPtI6Mr6MZPbwg/ms.jpg",
+      "location":{
+        "cross_streets":"Parkside Ave & Major Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5734 N Elston Ave",
+          "Jefferson Park",
+          "Chicago, IL 60646"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Jefferson Park"
+        ],
+        "postal_code":"60646",
+        "country_code":"US",
+        "address":[
+          "5734 N Elston Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9855194091797,
+          "longitude":-87.7697067260742
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/curragh-irish-pub-skokie-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":63,
+      "name":"Curragh Irish Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/curragh-irish-pub-skokie-3",
+      "is_closed":false,
+      "phone":"8476759600",
+      "snippet_text":"This place has really good burgers. The atmosphere is fun and the drink list is great! I found a local beer which has now become my favorite!\n\nThe style...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/n1UfK-cvSew9FvW94Geeuw/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Irish",
+          "irish"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-847-675-9600",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"curragh-irish-pub-skokie-3",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/BjufcgITOd6t8SPcVCf7mA/ms.jpg",
+      "location":{
+        "cross_streets":"Niles Center Rd & Brown St",
+        "city":"Skokie",
+        "display_address":[
+          "8266 Lincoln Ave",
+          "Skokie, IL 60077"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60077",
+        "country_code":"US",
+        "address":[
+          "8266 Lincoln Ave"
+        ],
+        "coordinate":{
+          "latitude":42.0317637,
+          "longitude":-87.7566175
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/cube-des-plaines",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":24,
+      "name":"Cube",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/cube-des-plaines",
+      "is_closed":false,
+      "phone":"8883070777",
+      "snippet_text":"OK, the cube is part of the rivers casino, which has its drawbacks.  Normally, I am not one to hang in a casino.  However, the cube has tons of TVs for...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/44KpfJB9435TzORETALbyQ/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Dance Clubs",
+          "danceclubs"
+        ]
+      ],
+      "display_phone":"+1-888-307-0777",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"cube-des-plaines",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Des Plaines",
+        "display_address":[
+          "3000 S River Rd",
+          "Des Plaines, IL 60018"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60018",
+        "country_code":"US",
+        "address":[
+          "3000 S River Rd"
+        ],
+        "coordinate":{
+          "latitude":42.0001183,
+          "longitude":-87.8637085
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/corrib-irish-pub-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":3,
+      "name":"Corrib Irish Pub",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/corrib-irish-pub-chicago",
+      "is_closed":false,
+      "phone":"7733727783",
+      "snippet_text":"What a great surprise this place is!  I happened in on a Thursday night and there was a session going on.  Amazing musicians!  Sessions on Thurs and Sun and...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/JQY5HL7qgt5PEZTqCl2GPw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-372-7783",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"corrib-irish-pub-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Lynch Ave & Long Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5522 N Elston Ave",
+          "Jefferson Park",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Jefferson Park"
+        ],
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "5522 N Elston Ave"
+        ],
+        "coordinate":{
+          "latitude":41.981432,
+          "longitude":-87.762394
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/avantgarde-bg-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":5,
+      "name":"Avantgarde BG",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/avantgarde-bg-chicago",
+      "is_closed":false,
+      "id":"avantgarde-bg-chicago",
+      "phone":"7735949742",
+      "snippet_text":"Food was excellent.  I had the meat sampler which came with battered french fries (I avoid fries so not judging these) and cut up tomatoes and cucumbers....",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/lyJ4tTN8_fGfYMqc0AV3Kg/ms.jpg",
+      "categories":[
+        [
+          "Dance Clubs",
+          "danceclubs"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-594-9742",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1390509097,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/IMchvyDQlYIRyyqOcb2rfA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5241 N Harlem Ave",
+          "Norwood Park",
+          "Chicago, IL 60656"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60656",
+        "country_code":"US",
+        "address":[
+          "5241 N Harlem Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9767625,
+          "longitude":-87.8070235
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

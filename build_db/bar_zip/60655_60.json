@@ -1,0 +1,955 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.1017312999999973,
+      "longitude_delta":0.15453319126947918
+    },
+    "center":{
+      "latitude":41.6944925,
+      "longitude":-87.72724004033205
+    }
+  },
+  "total":355,
+  "businesses":[
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/xs-and-os-palos-heights",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":13,
+      "name":"X's & O's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/xs-and-os-palos-heights",
+      "is_closed":false,
+      "phone":"7088249600",
+      "snippet_text":"Okay I am writing this review base on the outstanding service of the only waitress that was there Saturday night Jessica. I have never seen someone as...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/xbYV-XtEaBTVHybwH3mEJA/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-824-9600",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"xs-and-os-palos-heights",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/UdmuNceICPwfpoowZMTf7A/ms.jpg",
+      "location":{
+        "cross_streets":"Ridgeland Ave",
+        "city":"Palos Heights",
+        "display_address":[
+          "6405 W 127th St",
+          "Palos Heights, IL 60463"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60463",
+        "country_code":"US",
+        "address":[
+          "6405 W 127th St"
+        ],
+        "coordinate":{
+          "latitude":41.660702,
+          "longitude":-87.77813
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/whitneys-95th-street-bar-and-grill-oak-lawn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":15,
+      "name":"Whitney's 95th Street Bar & Grill",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/whitneys-95th-street-bar-and-grill-oak-lawn",
+      "is_closed":false,
+      "id":"whitneys-95th-street-bar-and-grill-oak-lawn",
+      "phone":"7082298888",
+      "snippet_text":"Came across this place based on Yelp reviews. Overlooked it often because it's a hotel restaurant but the food is really good. \nThey have some of the best...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/ilNAvXpqaop07yTof0W6nQ/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ]
+      ],
+      "display_phone":"+1-708-229-8888",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"locu",
+      "menu_date_updated":1411636465,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/NgPA6FnhZyGI9QmXkd9ODQ/ms.jpg",
+      "location":{
+        "city":"Oak Lawn",
+        "display_address":[
+          "9333 S Cicero Ave",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "9333 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.723278,
+          "longitude":-87.737511
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.0,
+      "mobile_url":"http://m.yelp.com/biz/hooters-oak-lawn",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png",
+      "review_count":74,
+      "name":"Hooters",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png",
+      "url":"http://www.yelp.com/biz/hooters-oak-lawn",
+      "is_closed":false,
+      "id":"hooters-oak-lawn",
+      "phone":"7084234668",
+      "snippet_text":"Happy Birthday, Danny W!\n\nSo, today I went on a one of kind trolley bar crawl organized by the one and only Danny W. None of us knew where we were going or...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/Vg5pZR-EJOgnEuBQi9L6QA/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Chicken Wings",
+          "chicken_wings"
+        ]
+      ],
+      "display_phone":"+1-708-423-4668",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1423563497,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/elTDJ2bzifJqs8UsUzdfrA/ms.jpg",
+      "location":{
+        "city":"Oak Lawn",
+        "display_address":[
+          "9159 S Cicero Ave",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "9159 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.725836623971,
+          "longitude":-87.740712267933
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/tanks-pub-blue-island",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":2,
+      "name":"Tank's Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/tanks-pub-blue-island",
+      "is_closed":false,
+      "snippet_text":"Good crowd and music.",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"tanks-pub-blue-island",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/qhMqGXlK2vGf-_Ep7eoAEg/ms.jpg",
+      "location":{
+        "cross_streets":"Krueger St & Orchard St",
+        "city":"Blue Island",
+        "display_address":[
+          "12401 S Western Ave",
+          "Blue Island, IL 60406"
+        ],
+        "geo_accuracy":6.0,
+        "postal_code":"60406",
+        "country_code":"US",
+        "address":[
+          "12401 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.633659362793,
+          "longitude":-87.6776123046875
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/pockets-billiards-crestwood",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":8,
+      "name":"Pockets Billiards",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/pockets-billiards-crestwood",
+      "is_closed":false,
+      "phone":"7083717665",
+      "snippet_text":"I come here multiple times a week and love it!! The table are in great shape whether it's the regular size or the 7'! The kitchen had really good food and...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/sUJ7m71UVlZW9OYegd9QuQ/ms.jpg",
+      "categories":[
+        [
+          "Pool Halls",
+          "poolhalls"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-371-7665",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"pockets-billiards-crestwood",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/rv9pHVo3HqYZCveT8_P6Gg/ms.jpg",
+      "location":{
+        "city":"Crestwood",
+        "display_address":[
+          "13430 S Cicero",
+          "Crestwood, IL 60445"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60445",
+        "country_code":"US",
+        "address":[
+          "13430 S Cicero"
+        ],
+        "coordinate":{
+          "latitude":41.6482506,
+          "longitude":-87.7386398
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/chilis-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":18,
+      "name":"Chili's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/chilis-chicago-3",
+      "is_closed":false,
+      "phone":"7732643611",
+      "snippet_text":"I get my food to go and usually pay $1.50 for enough food to feed six people. Gift cards love me! Certain meals do not look like the pictures. I tend to...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/V6kehaOJv04sE9CHZvRSfA/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-264-3611",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"chilis-chicago-3",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/tQD5ZVJYDgx3n4_ArKf32A/ms.jpg",
+      "location":{
+        "cross_streets":"Paulina St & Page St",
+        "city":"Chicago",
+        "display_address":[
+          "1750 W 119th St",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "1750 W 119th St"
+        ],
+        "coordinate":{
+          "latitude":41.6775248944759,
+          "longitude":-87.6644202321768
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/harrys-long-bar-blue-island",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":5,
+      "name":"Harry's Long Bar",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/harrys-long-bar-blue-island",
+      "is_closed":false,
+      "phone":"7083885319",
+      "snippet_text":"Alright, the first thing that comes to mind is PERFECT Jager Bombs in a FROSTED mug, they still do the glass shots if you ask. I hear the apple pie shots...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/LNjY696fRNW3I_h7KLqIVw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ]
+      ],
+      "display_phone":"+1-708-388-5319",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"harrys-long-bar-blue-island",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/mhUbYHSCQD4TPUpxcHp6PA/ms.jpg",
+      "location":{
+        "cross_streets":"Vermont St & Grove St",
+        "city":"Blue Island",
+        "display_address":[
+          "13115 Western Ave",
+          "Blue Island, IL 60406"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60406",
+        "country_code":"US",
+        "address":[
+          "13115 Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.654955854209,
+          "longitude":-87.6799063012004
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/grouchos-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":7,
+      "name":"Groucho's Bar & Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/grouchos-bar-and-grill-chicago",
+      "is_closed":false,
+      "phone":"7737674838",
+      "snippet_text":"This was the spot back in the 90s.  But sadly all good things must end.  This place is Closed.",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-767-4838",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"grouchos-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/fl81UlXO80D3ximgbhzhtQ/ms.jpg",
+      "location":{
+        "cross_streets":"83rd Pl & 84th St",
+        "city":"Chicago",
+        "display_address":[
+          "8355 S Pulaski Rd",
+          "Ashburn",
+          "Chicago, IL 60652"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Ashburn"
+        ],
+        "postal_code":"60652",
+        "country_code":"US",
+        "address":[
+          "8355 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.7405357,
+          "longitude":-87.7214279
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/home-run-inn-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":31,
+      "name":"Home Run Inn",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/home-run-inn-chicago-3",
+      "is_closed":false,
+      "id":"home-run-inn-chicago-3",
+      "phone":"7734329696",
+      "snippet_text":"This location was perfect and very clean. The 8.99 lunch special was a nice surprise. My waitress wasn't very social but the guy who brought more pizza was...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/2HOHevvH71CMNhAwYUzxhQ/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Chicken Wings",
+          "chicken_wings"
+        ]
+      ],
+      "display_phone":"+1-773-432-9696",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1412968753,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/_5Snv5ys_yVM4cEU2JmGVQ/ms.jpg",
+      "location":{
+        "cross_streets":"109th St & 110th St",
+        "city":"Chicago",
+        "display_address":[
+          "10900 S Western Ave",
+          "Morgan Park",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Morgan Park"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "10900 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.695289,
+          "longitude":-87.681678
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-forge-pub-blue-island",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"The Forge Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-forge-pub-blue-island",
+      "is_closed":false,
+      "phone":"7083887919",
+      "snippet_text":"A local \"bar\" with the working class regulars.  Owners are very generous and often have free food.  They will even spring for a drink if you hang out for a...",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-708-388-7919",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-forge-pub-blue-island",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/wVG2X7dHFyAstZOfIZ48pA/ms.jpg",
+      "location":{
+        "city":"Blue Island",
+        "display_address":[
+          "3400 W 127th St",
+          "Blue Island, IL 60406"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60406",
+        "country_code":"US",
+        "address":[
+          "3400 W 127th St"
+        ],
+        "coordinate":{
+          "latitude":41.662379,
+          "longitude":-87.704781
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/detox-sports-lounge-calumet-park",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Detox Sports Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/detox-sports-lounge-calumet-park",
+      "is_closed":false,
+      "phone":"7089269167",
+      "snippet_text":"Its a really nice hang out spot. My long island was on point. There was plenty of room to dance and to sit.",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/zYMMEQwKl5xWyd9L3qm0HA/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-926-9167",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"detox-sports-lounge-calumet-park",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/5baJXWOfWVNrTmwwXDHIDg/ms.jpg",
+      "location":{
+        "cross_streets":"Ashland Ave & Justine St",
+        "city":"Calumet Park",
+        "display_address":[
+          "1566 W 127th",
+          "Calumet Park, IL 60827"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60827",
+        "country_code":"US",
+        "address":[
+          "1566 W 127th"
+        ],
+        "coordinate":{
+          "latitude":41.663193,
+          "longitude":-87.660126
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/murphys-law-bar-and-grill-oak-lawn",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":2,
+      "name":"Murphy's Law Bar & Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/murphys-law-bar-and-grill-oak-lawn",
+      "is_closed":false,
+      "phone":"7086361555",
+      "snippet_text":"This is a pretty good bar. Every time I've been here the staff and patrons have all been nice. The bars seems to be clean. I haven't tired the food here...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/wqjg0UTNDiMIdiJP5Ga2Yg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-708-636-1555",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"murphys-law-bar-and-grill-oak-lawn",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Oak Lawn",
+        "display_address":[
+          "9247 S Cicero Ave",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "9247 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7243059724569,
+          "longitude":-87.7408812940121
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/barcode-111-worth",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":8,
+      "name":"Barcode 111",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/barcode-111-worth",
+      "is_closed":false,
+      "phone":"7084484040",
+      "snippet_text":"What a great place to meet friends & hang out. Go in hang out and hit the dance floor if you are feeling up to grove'n to some blast from the past. \n\nThis...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/7S68OGzP5ZZg_isrH4vZFg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-448-4040",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"barcode-111-worth",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/xjIxjuuXdQ2wwTxNybqhwQ/ms.jpg",
+      "location":{
+        "cross_streets":"Depot St & Worth Ave",
+        "city":"Worth",
+        "display_address":[
+          "7016 W 111th St",
+          "Worth, IL 60482"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60482",
+        "country_code":"US",
+        "address":[
+          "7016 W 111th St"
+        ],
+        "coordinate":{
+          "latitude":41.6901932,
+          "longitude":-87.7940445
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/o-connor-pub-and-grill-chicago-ridge",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":3,
+      "name":"O'Connor Pub & Grill",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/o-connor-pub-and-grill-chicago-ridge",
+      "is_closed":false,
+      "phone":"7084226400",
+      "snippet_text":"A nice looking bar on 111 th street. the dinning area is small, but the bar has a unique modern look without much wall decor or anything. This place looks...",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-708-422-6400",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"o-connor-pub-and-grill-chicago-ridge",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/QUv1kpz92Q4VkrnCqPbUbQ/ms.jpg",
+      "location":{
+        "cross_streets":"Mayfield Ave & Mason Ave",
+        "city":"Chicago Ridge",
+        "display_address":[
+          "5900 W. 111th St.",
+          "Chicago Ridge, IL 60415"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60415",
+        "country_code":"US",
+        "address":[
+          "5900 W. 111th St."
+        ],
+        "coordinate":{
+          "latitude":41.6907616,
+          "longitude":-87.766922
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/mister-mos-palos-heights-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":20,
+      "name":"Mister Mo's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/mister-mos-palos-heights-2",
+      "is_closed":false,
+      "id":"mister-mos-palos-heights-2",
+      "phone":"7086710288",
+      "snippet_text":"My wife bought a Living Social, for Mister Mos, the had her knee replaced. She remembered that she had that and since Mister Mos is down the street from the...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/9BsgmE3urTfKuEz1rCdHAw/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-671-0288",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1406584979,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/zTt3C5YeUK8Ih9uBiz3Wtw/ms.jpg",
+      "location":{
+        "cross_streets":"74th Ave & Illinois Route 43",
+        "city":"Palos Heights",
+        "display_address":[
+          "7214 W College Dr",
+          "Palos Heights, IL 60463"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60463",
+        "country_code":"US",
+        "address":[
+          "7214 W College Dr"
+        ],
+        "coordinate":{
+          "latitude":41.675334200263,
+          "longitude":-87.7989484369755
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/wrongstap-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":1,
+      "name":"WrongsTap",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/wrongstap-chicago",
+      "is_closed":false,
+      "phone":"7732385534",
+      "snippet_text":"Another small neighborhood tap bar in Beverly. This place is a dive too but gets it right. They have a quick bartender and a pool table. Sports was up on...",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-238-5534",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"wrongstap-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/QUv1kpz92Q4VkrnCqPbUbQ/ms.jpg",
+      "location":{
+        "cross_streets":"100th St & 101st St",
+        "city":"Chicago",
+        "display_address":[
+          "10014 Western Ave",
+          "Beverly",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Beverly"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "10014 Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7113304138184,
+          "longitude":-87.6821823120117
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/calumet-oaks-restaurant-and-bar-calumet-park",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":12,
+      "name":"Calumet Oaks Restaurant & Bar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/calumet-oaks-restaurant-and-bar-calumet-park",
+      "is_closed":false,
+      "phone":"7086290048",
+      "snippet_text":"Nice place to stumble upon I think.\n\nI liked it, real friendly manager/bartender (double duty) I'm really not sure what the 'Rude Staff' or 'Lazy' comments...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/iDhXifdZ4h0_YAaiyJgAig/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-708-629-0048",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"calumet-oaks-restaurant-and-bar-calumet-park",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/QEmx0FHpTCMAghwxIOm80w/ms.jpg",
+      "location":{
+        "cross_streets":"Loomis St & Bishop St",
+        "city":"Calumet Park",
+        "display_address":[
+          "1413 W 127th St",
+          "Calumet Park, IL 60827"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60827",
+        "country_code":"US",
+        "address":[
+          "1413 W 127th St"
+        ],
+        "coordinate":{
+          "latitude":41.6628265380859,
+          "longitude":-87.6569976806641
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/angies-restaurant-and-pizzeria-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":7,
+      "name":"Angie's Restaurant & Pizzeria",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/angies-restaurant-and-pizzeria-chicago",
+      "is_closed":false,
+      "id":"angies-restaurant-and-pizzeria-chicago",
+      "phone":"7737358527",
+      "snippet_text":"Grew up in this neighborhood and this was a great neighborhood bar and pizza joint.  I stopped back in here last weekend and they completely remodeled the...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/adHfcpsDL0Pe0EKAYTRsww/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-735-8527",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1424796139,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"83rd Pl & 84th St",
+        "city":"Chicago",
+        "display_address":[
+          "8352 S Pulaski Rd",
+          "Ashburn",
+          "Chicago, IL 60652"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Ashburn"
+        ],
+        "postal_code":"60652",
+        "country_code":"US",
+        "address":[
+          "8352 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.740734,
+          "longitude":-87.7218174
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/palermos-95th-oak-lawn-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":156,
+      "name":"Palermo's 95th",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/palermos-95th-oak-lawn-2",
+      "is_closed":false,
+      "id":"palermos-95th-oak-lawn-2",
+      "phone":"7084256262",
+      "snippet_text":"First time eating in at this Palermo's.\n\nI had a very pleasant experience - no complaints.\nLots of hustle and bustle with both customers and employees...to...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/fXWhUaZHQmvuD2QHyBvNgg/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-708-425-6262",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"yelp",
+      "menu_date_updated":1386009596,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/nDUqz-ehlfU5j97_1-S34Q/ms.jpg",
+      "location":{
+        "cross_streets":"49th Ave & La Crosse Ave",
+        "city":"Oak Lawn",
+        "display_address":[
+          "4849 W 95th St",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "4849 W 95th St"
+        ],
+        "coordinate":{
+          "latitude":41.719976,
+          "longitude":-87.742543
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/krapils-the-great-steak-worth",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":78,
+      "name":"Krapil's The Great Steak",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/krapils-the-great-steak-worth",
+      "is_closed":false,
+      "phone":"7084482012",
+      "snippet_text":"Great meal tonite! Ordered the 8oz filet & shrimp meal - and garlic smashed potatoes! Service was excellent and food was outstanding! Dessert was great -...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/M3Yy3JEEE0zcECBS_yyDmg/ms.jpg",
+      "categories":[
+        [
+          "Steakhouses",
+          "steak"
+        ]
+      ],
+      "display_phone":"+1-708-448-2012",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"krapils-the-great-steak-worth",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/OMWVEt4fyk7YC0gZC-FDNQ/ms.jpg",
+      "location":{
+        "cross_streets":"Nashville Ave & Natoma Ave",
+        "city":"Worth",
+        "display_address":[
+          "6600 W 111th St",
+          "Worth, IL 60482"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60482",
+        "country_code":"US",
+        "address":[
+          "6600 W 111th St"
+        ],
+        "coordinate":{
+          "latitude":41.6909294,
+          "longitude":-87.7825775
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

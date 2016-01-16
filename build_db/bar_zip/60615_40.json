@@ -1,0 +1,1017 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.11814153999999633,
+      "longitude_delta":0.0721776000000034
+    },
+    "center":{
+      "latitude":41.8117547,
+      "longitude":-87.62781960000001
+    }
+  },
+  "total":663,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/village-inn-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Village Inn",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/village-inn-chicago",
+      "is_closed":false,
+      "snippet_text":"This neighborhood tavern is populated by people from the slobbic states... jeans, sweatshirts, and not a pretense in the world. If you start a conversation...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/1oJtOhRmtvKzV_q_KYi4Tg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"village-inn-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/XcDjfsl0aPjO6snqFPhmnQ/ms.jpg",
+      "location":{
+        "cross_streets":"41st St & 40th Pl",
+        "city":"Chicago",
+        "display_address":[
+          "4035 S Wallace",
+          "New City",
+          "Chicago, IL 60609"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "New City",
+          "Canaryville"
+        ],
+        "postal_code":"60609",
+        "country_code":"US",
+        "address":[
+          "4035 S Wallace"
+        ],
+        "coordinate":{
+          "latitude":41.8206634521484,
+          "longitude":-87.6406097412109
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/the-shrine-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":102,
+      "name":"The Shrine",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/the-shrine-chicago",
+      "is_closed":false,
+      "phone":"3127535700",
+      "snippet_text":"Came here Saturday because my buddy wanted to hear good hip-hop, like other reviews, that the Shrine does have. On one side is the nightclub, the other is...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/wu4tVDCaJzKi5XKqi4VmFg/ms.jpg",
+      "categories":[
+        [
+          "Dance Clubs",
+          "danceclubs"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Performing Arts",
+          "theater"
+        ]
+      ],
+      "display_phone":"+1-312-753-5700",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"the-shrine-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/i01P25XzFb8ahM1R2kL8sA/ms.jpg",
+      "location":{
+        "cross_streets":"Cermak Rd & 21st St",
+        "city":"Chicago",
+        "display_address":[
+          "2109 S Wabash Ave",
+          "Near Southside",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near Southside"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "2109 S Wabash Ave"
+        ],
+        "coordinate":{
+          "latitude":41.853928,
+          "longitude":-87.62513
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/lao-you-ju-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":158,
+      "name":"Lao You Ju",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/lao-you-ju-chicago",
+      "is_closed":false,
+      "id":"lao-you-ju-chicago",
+      "phone":"3122257818",
+      "snippet_text":"I LOVE DIM SUM (i.e., asian tapas). And this place has good hong kong style dim sum. \n\nFIRST: MAKE A RESERVATION IF YOU HAVE A LARGE GROUP. They take group...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/3vzML9XNP0-bt9gsn1aKTw/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Dim Sum",
+          "dimsum"
+        ]
+      ],
+      "display_phone":"+1-312-225-7818",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"eat24",
+      "menu_date_updated":1401913681,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/UvdEVN_lNQIH2MIV1Wgxvg/ms.jpg",
+      "location":{
+        "cross_streets":"Cullerton St & 21st St",
+        "city":"Chicago",
+        "display_address":[
+          "2002 S Wentworth Ave",
+          "Chinatown",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Chinatown"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "2002 S Wentworth Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8550682,
+          "longitude":-87.6320801
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/u-s-cellular-field-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":448,
+      "name":"U.S. Cellular Field",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/u-s-cellular-field-chicago",
+      "is_closed":false,
+      "phone":"3126741000",
+      "snippet_text":"Aged grievances of Comiskey's renaming to a certain phone company's name aside, plus my childhood memories of old Comiskey(particularly the submerged picnic...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/cyIcPINn1ygzf8bvfb-Fdg/ms.jpg",
+      "categories":[
+        [
+          "Stadiums & Arenas",
+          "stadiumsarenas"
+        ]
+      ],
+      "display_phone":"+1-312-674-1000",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"u-s-cellular-field-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/LhcspEA3jeD-zDyPF5FHew/ms.jpg",
+      "location":{
+        "cross_streets":"Shields Ave & Calumet Ave",
+        "city":"Chicago",
+        "display_address":[
+          "333 W 35th St",
+          "Bridgeport",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Bridgeport"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "333 W 35th St"
+        ],
+        "coordinate":{
+          "latitude":41.8308493494987,
+          "longitude":-87.6349642127752
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/lindas-lounge-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":4,
+      "name":"Linda's Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/lindas-lounge-chicago-2",
+      "is_closed":false,
+      "phone":"7733732351",
+      "snippet_text":"I was there with Laura- We had a blast!  Highlife planned this and we were there with 70 other people! This little hole in the wall in Bronzeville were any...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/_ZgLufqh5HO8davrq0lMuw/ms.jpg",
+      "categories":[
+        [
+          "Jazz & Blues",
+          "jazzandblues"
+        ]
+      ],
+      "display_phone":"+1-773-373-2351",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"lindas-lounge-chicago-2",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/3w6kXxaIquWEVpqNUJGPEA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "1044 W 51st St",
+          "New City",
+          "Chicago, IL 60686"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "New City",
+          "Back of the Yards"
+        ],
+        "postal_code":"60686",
+        "country_code":"US",
+        "address":[
+          "1044 W 51st St"
+        ],
+        "coordinate":{
+          "latitude":41.801743,
+          "longitude":-87.652016
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/chisox-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":8,
+      "name":"ChiSox Bar & Grill",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/chisox-bar-and-grill-chicago",
+      "is_closed":false,
+      "phone":"3126745860",
+      "snippet_text":"There are not a lot of pre-game dining options near Comiskey Park (it will never be US Cellular Field to us ). We were very early so we decided to check it...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/oYncqRTCzWTq3DTj6tlDAw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-312-674-5860",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"chisox-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/iFLUGUCEdYkhWursumHc5A/ms.jpg",
+      "location":{
+        "cross_streets":"Giles Ave & Shields Ave",
+        "city":"Chicago",
+        "display_address":[
+          "320 W 35th St",
+          "Bridgeport",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Bridgeport"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "320 W 35th St"
+        ],
+        "coordinate":{
+          "latitude":41.8310398,
+          "longitude":-87.6338511
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/acadia-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":234,
+      "name":"Acadia",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/acadia-chicago",
+      "is_closed":false,
+      "id":"acadia-chicago",
+      "phone":"3123609500",
+      "snippet_text":"I been going to Acadia for a last 2 years.I have to say they are so good!!! \nInterior the music and the vibe.You never want to leave that place and always...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/qx6qgjdUMan9Sp7LpeJp2A/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-312-360-9500",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1422338502,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/GLz3aBGSe_A44ZRRgqpq2Q/ms.jpg",
+      "location":{
+        "cross_streets":"18th St & 16th St",
+        "city":"Chicago",
+        "display_address":[
+          "1639 S Wabash Ave",
+          "Near Southside",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near Southside"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "1639 S Wabash Ave"
+        ],
+        "coordinate":{
+          "latitude":41.85902,
+          "longitude":-87.625137
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/kellys-tavern-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":1,
+      "name":"Kelly's Tavern",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/kellys-tavern-chicago",
+      "is_closed":false,
+      "phone":"7739240796",
+      "snippet_text":"For a tap so landlocked, the \"sailors\" sure are salty here.  By sailors, I mean, testosteroneous men in sweatshirts navigating their way through seas of...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/igZs6JOQqLuwoil4hpWI5Q/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-773-924-0796",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"kellys-tavern-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/XcDjfsl0aPjO6snqFPhmnQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "4403 S Wallace St",
+          "New City",
+          "Chicago, IL 60609"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "New City",
+          "Canaryville"
+        ],
+        "postal_code":"60609",
+        "country_code":"US",
+        "address":[
+          "4403 S Wallace St"
+        ],
+        "coordinate":{
+          "latitude":41.814247,
+          "longitude":-87.640457
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/reggies-music-joint-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":223,
+      "name":"Reggie's Music Joint",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/reggies-music-joint-chicago",
+      "is_closed":false,
+      "id":"reggies-music-joint-chicago",
+      "phone":"3129490120",
+      "snippet_text":"I came here on a Tuesday evening for their wing special. They had live music and charged a cover fee of $5 a person, but it got you a beer. The catch is,...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/MPtJNVsLV5rrTir95cRELA/ms.jpg",
+      "categories":[
+        [
+          "Music & DVDs",
+          "musicvideo"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-312-949-0120",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1401261960,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/nekrqgAqORLmRBrczpbolw/ms.jpg",
+      "location":{
+        "cross_streets":"Cermak Rd & 21st St",
+        "city":"Chicago",
+        "display_address":[
+          "2105 S State St",
+          "Near Southside",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near Southside"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "2105 S State St"
+        ],
+        "coordinate":{
+          "latitude":41.8539505,
+          "longitude":-87.6267929
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/simones-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":495,
+      "name":"Simone's",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/simones-chicago-2",
+      "is_closed":false,
+      "phone":"3126668601",
+      "snippet_text":"This place was amazing!\n\nMy husband and I visited it for the first time (after living in Pilsen now for nearly two years!) on this past Sunday, and we're...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/Iy1SbZNF1-UVY-aDBcmkjQ/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-312-666-8601",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"simones-chicago-2",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/jP6dGY2Uzu0IEQyNwagGLg/ms.jpg",
+      "location":{
+        "cross_streets":"Sangamon St & Morgan St",
+        "city":"Chicago",
+        "display_address":[
+          "960 W 18th St",
+          "Pilsen",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Pilsen"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "960 W 18th St"
+        ],
+        "coordinate":{
+          "latitude":41.8582687,
+          "longitude":-87.6510925
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/flo-and-santos-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":472,
+      "name":"Flo & Santos",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/flo-and-santos-chicago-3",
+      "is_closed":false,
+      "phone":"3125669817",
+      "snippet_text":"Always cops eating here, so you know its good.\n\nEaten here quite a bit.  Always a great crowd of people, friendly staff, and amazing food.  Pizza is always...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/ctcif77kKLphX7Om3qFL8w/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-312-566-9817",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"flo-and-santos-chicago-3",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/UibV-5crJN8671WPclmFkA/ms.jpg",
+      "location":{
+        "cross_streets":"13th St & 14th St",
+        "city":"Chicago",
+        "display_address":[
+          "1310 S Wabash Ave",
+          "Near Southside",
+          "Chicago, IL 60605"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near Southside"
+        ],
+        "postal_code":"60605",
+        "country_code":"US",
+        "address":[
+          "1310 S Wabash Ave"
+        ],
+        "coordinate":{
+          "latitude":41.865395,
+          "longitude":-87.626228
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/mikes-stoop-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":3,
+      "name":"Mike's Stoop",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/mikes-stoop-chicago",
+      "is_closed":false,
+      "phone":"3125769567",
+      "snippet_text":"When I leave Maria's and a person says \"come on over \" on yer way south you might be skeptical. But here it's utopian in a dot communist way. You will feel...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/3WT4_Gm_OUntB5adfwCLXQ/ms.jpg",
+      "categories":[
+        [
+          "Community Service/Non-Profit",
+          "nonprofit"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-312-576-9567",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"mikes-stoop-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/WlDTwQUqH_6qlYWduGYdMw/ms.jpg",
+      "location":{
+        "cross_streets":"Farrell St & Morgan St",
+        "city":"Chicago",
+        "display_address":[
+          "938 W 31st Pl",
+          "Bridgeport",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Bridgeport"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "938 W 31st Pl"
+        ],
+        "coordinate":{
+          "latitude":41.837443,
+          "longitude":-87.650269
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/yusho-chicago-4",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":60,
+      "name":"Yusho",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/yusho-chicago-4",
+      "is_closed":false,
+      "phone":"7736431652",
+      "snippet_text":"It was my first time trying Japanese food, a great spot to try something new!\n\nHomemade pickles were a interesting variety of vegetables and nice start to...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/IUoF6s-HV6oL1rleKuc4lA/ms.jpg",
+      "categories":[
+        [
+          "Ramen",
+          "ramen"
+        ]
+      ],
+      "display_phone":"+1-773-643-1652",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"yusho-chicago-4",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/8Yokb_xdQW3N9x8Gxurq_g/ms.jpg",
+      "location":{
+        "cross_streets":"Kimbark Ave & Kenwood Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1301 E 53rd St",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "1301 E 53rd St"
+        ],
+        "coordinate":{
+          "latitude":41.7994051426649,
+          "longitude":-87.5949697941542
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/weather-mark-tavern-chicago-3",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":212,
+      "name":"Weather Mark Tavern",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/weather-mark-tavern-chicago-3",
+      "is_closed":false,
+      "id":"weather-mark-tavern-chicago-3",
+      "phone":"3125880230",
+      "snippet_text":"Reliable neighborhood hangout! \n\nThe Weathermark is a South Loop Chicago staple with solid food, big portions, a decent drink menu, and fair prices. It is...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/W6DnjtoU6Q6DeawDAiFZJw/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-312-588-0230",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1418364214,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/13glojKuM0fbO1xy_WIJRA/ms.jpg",
+      "location":{
+        "cross_streets":"14th St",
+        "city":"Chicago",
+        "display_address":[
+          "1503 S Michigan Ave",
+          "Near Southside",
+          "Chicago, IL 60605"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near Southside"
+        ],
+        "postal_code":"60605",
+        "country_code":"US",
+        "address":[
+          "1503 S Michigan Ave"
+        ],
+        "coordinate":{
+          "latitude":41.861835,
+          "longitude":-87.623566
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/harbee-liquor-and-tavern-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":34,
+      "name":"Harbee Liquor & Tavern",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/harbee-liquor-and-tavern-chicago",
+      "is_closed":false,
+      "phone":"3127330333",
+      "snippet_text":"My Tuesday and Thursday hang out!\nThursdays is Karaoke night!!!!!!! \nThe bartenders are always pleasant.",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/A6tqmSohSdZQKgNxFVakgQ/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-312-733-0333",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"harbee-liquor-and-tavern-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Z2bBt5Sz7wCl0w0dDrLc2w/ms.jpg",
+      "location":{
+        "cross_streets":"Blue Island Ave & Loomis St",
+        "city":"Chicago",
+        "display_address":[
+          "1345 W 18th St",
+          "Pilsen",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Pilsen"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "1345 W 18th St"
+        ],
+        "coordinate":{
+          "latitude":41.857624,
+          "longitude":-87.660591
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/punch-house-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":88,
+      "name":"Punch House",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/punch-house-chicago",
+      "is_closed":false,
+      "phone":"3125263851",
+      "snippet_text":"Dark, sexy and yet also like your grandparents' basement. \n\nWe were waiting for a table upstairs at Dusek's so we killed time with a great American pastime:...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/SmvqZ3V8rE1__O7LBwF7Nw/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-312-526-3851",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"punch-house-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/sIKaX83cl5od2ZvYJ3KfQQ/ms.jpg",
+      "location":{
+        "cross_streets":"Allport St & Racine Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1227 W 18th St.",
+          "Pilsen",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Pilsen"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "1227 W 18th St."
+        ],
+        "coordinate":{
+          "latitude":41.8578893691301,
+          "longitude":-87.6574169844389
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/the-spokenword-lounge-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":3,
+      "name":"The Spokenword Lounge",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/the-spokenword-lounge-chicago",
+      "is_closed":false,
+      "phone":"3124779587",
+      "snippet_text":"Man...I was so shocked. Great music, great vibe, great experience. The live music was on point and the DJ was fantastic. Loved everything.",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/8SXpK-4kE71iSYyLcJEjOA/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-312-477-9587",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"the-spokenword-lounge-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/GhWoOJ_ctNld1kERjWNz5Q/ms.jpg",
+      "location":{
+        "cross_streets":"Racine Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1200 W 35th St",
+          "Bridgeport",
+          "Chicago, IL 60609"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Bridgeport"
+        ],
+        "postal_code":"60609",
+        "country_code":"US",
+        "address":[
+          "1200 W 35th St"
+        ],
+        "coordinate":{
+          "latitude":41.831223,
+          "longitude":-87.656559
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/duseks-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":341,
+      "name":"Dusek's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/duseks-chicago",
+      "is_closed":false,
+      "phone":"3125263851",
+      "snippet_text":"I've come to Dusek's a few times only to be met with long waits and an insanely crowded bar. My friend and I tried our luck last week on a weeknight and it...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/m6aQPuuZENZMGHiz1fAS3A/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ]
+      ],
+      "display_phone":"+1-312-526-3851",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"duseks-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/YWKASeE_bumYD3_PvOmYmQ/ms.jpg",
+      "location":{
+        "cross_streets":"Allport St & Racine Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1227 W 18th St",
+          "Pilsen",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Pilsen"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "1227 W 18th St"
+        ],
+        "coordinate":{
+          "latitude":41.8578893691301,
+          "longitude":-87.6574169844389
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/willas-50-yard-line-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":4,
+      "name":"Willa's 50 Yard Line",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/willas-50-yard-line-chicago",
+      "is_closed":false,
+      "phone":"7738460005",
+      "snippet_text":"Last night I went to visit some friends at a birthday party and when the party was over, we wanted to continue the good times.   Well, it was suggested we...",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-846-0005",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"willas-50-yard-line-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/DBJWGcRaS2IFMqRYIEnV1g/ms.jpg",
+      "location":{
+        "cross_streets":"Wabash Ave & Michigan Ave",
+        "city":"Chicago",
+        "display_address":[
+          "69 E 75th St",
+          "Greater Grand Crossing",
+          "Chicago, IL 60619"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Greater Grand Crossing"
+        ],
+        "postal_code":"60619",
+        "country_code":"US",
+        "address":[
+          "69 E 75th St"
+        ],
+        "coordinate":{
+          "latitude":41.758053,
+          "longitude":-87.622017
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/sakura-karaoke-lounge-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":58,
+      "name":"Sakura Karaoke Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/sakura-karaoke-lounge-chicago",
+      "is_closed":false,
+      "phone":"3123269168",
+      "snippet_text":"Love this place  Great time with friends always Karaoke all night with drinks in your face. We won't stop the party until world peace. LOL",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/VxoPuWg1wl7Z3Hhy6swsRA/ms.jpg",
+      "categories":[
+        [
+          "Japanese",
+          "japanese"
+        ],
+        [
+          "Karaoke",
+          "karaoke"
+        ]
+      ],
+      "display_phone":"+1-312-326-9168",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"sakura-karaoke-lounge-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/__q06ea8939F1r16tEihrw/ms.jpg",
+      "location":{
+        "cross_streets":"Indiana Ave & Cottage Grove Ave",
+        "city":"Chicago",
+        "display_address":[
+          "234 W Cermak Rd",
+          "Chinatown",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Chinatown"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "234 W Cermak Rd"
+        ],
+        "coordinate":{
+          "latitude":41.853134,
+          "longitude":-87.633163
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+#Uses Foursquare API to get price tier (number of $ signs) for each bar
+#modified other Foursquare scraping script to get price
+#we didn't decide to add price until we already scraped Foursquare for menu items
+#which is why we performed the same search twice
+
+import sqlite3
+import foursquare
+
+client = foursquare.Foursquare(
+		client_id='JZ0P123UOI1WX2UA5GBKJ5R15EG5SXPJPQI43QBW12IX1BBT',
+		client_secret='PFPZXOCWBJZULOP4KNPLX2USVTL34PPI1EVH15SIIC4QSZQQ'
+		)
+
+
+#returns list of tuples of (bar name, price tier)
+def scrape(r):
+    rv = []
+    for entry in r:
+        name = entry[0]
+        ll = str(entry[1]) + ',' + str(entry[2])
+	info = client.venues.search(params = {'name': name, 'll': ll})
+	v = {}
+        #each search by name returns multiple results
+        #looks for the venue with the matching name
+	for venue in info['venues']:
+	    if venue['name'] == name:
+	        v = venue
+		venue_id = venue['id']
+                x = client.venues(venue_id)
+                price = x.get('venue').get('price')
+                    if price != None:
+                        tier = price.get('tier')
+                        rv.append((name, tier))
+                    #some bars lacked price data, stored as NULL
+                    else:
+                        rv.append((name, 'NULL'))
+	                break
+    return rv
+
+#insert data into sqlite database by searching for name
+def insert_db(c, rv):
+    for price in rv:
+        name = price[0]
+        tier = price[1]
+        s = '''UPDATE bars SET price = ''' + str(tier) + ''' WHERE name = "''' + str(name)+ '''"'''
+        print s
+        c.execute(s).fetchall()
+
+
+if __name__ == "__main__":
+    db = sqlite3.connect('../bars3.db')
+    c = db.cursor()
+    s = 'SELECT name, latitude, longitude FROM bars GROUP BY name'
+    r = c.execute(s).fetchall()
+    results = scrape(r)
+    insert_db(c, results)
+    db.commit()
+    db.close()
+
+
+    
+
+
+
+
+
+
+

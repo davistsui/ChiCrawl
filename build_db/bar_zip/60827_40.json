@@ -1,0 +1,930 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.13814063142099542,
+      "longitude_delta":0.19941833999999403
+    },
+    "center":{
+      "latitude":41.649275017067055,
+      "longitude":-87.628114
+    }
+  },
+  "total":215,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/cullinans-stadium-club-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":7,
+      "name":"Cullinan's Stadium Club",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/cullinans-stadium-club-chicago",
+      "is_closed":false,
+      "phone":"7734455620",
+      "snippet_text":"stopped in here for lunch and a few drinks with our friend paul. it was two for one burgers on saturday so paul and chris ordered their burgers. i had my...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/j4sxUYW21_Ro6Qia7E_HVQ/ms.jpg",
+      "categories":[
+        [
+          "Restaurants",
+          "restaurants"
+        ]
+      ],
+      "display_phone":"+1-773-445-5620",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"cullinans-stadium-club-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "11610 S Western Avenue",
+          "Morgan Park",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Morgan Park"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "11610 S Western Avenue"
+        ],
+        "coordinate":{
+          "latitude":41.6823273,
+          "longitude":-87.6810455
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/mamas-villa-pizza-midlothian",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":2,
+      "name":"Mamas Villa Pizza",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/mamas-villa-pizza-midlothian",
+      "is_closed":false,
+      "phone":"7083884744",
+      "snippet_text":"Awesome thin crust pizza. Great prices wings are pretty good too. Definitely one of better thin crusts on south side always crispy.",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/6S66ctMJC6bnpfUlZM4-jA/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-388-4744",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"mamas-villa-pizza-midlothian",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Central Park Ave & Millard Ave",
+        "city":"Midlothian",
+        "display_address":[
+          "3636 W 147th St",
+          "Midlothian, IL 60445"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60445",
+        "country_code":"US",
+        "address":[
+          "3636 W 147th St"
+        ],
+        "coordinate":{
+          "latitude":41.625973,
+          "longitude":-87.709452
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/beacon-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Beacon",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/beacon-chicago",
+      "is_closed":false,
+      "snippet_text":"I really didnt wanna go but i did, the beacon is like  the best and then i go threw my stages of hating it when i know i love it . I know its pretty...",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"beacon-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/fDWiJIsPFPFT-6JcmQHRag/ms.jpg",
+      "location":{
+        "cross_streets":"133rd St & 134th St",
+        "city":"Chicago",
+        "display_address":[
+          "13300 S Brandon Ave",
+          "Hegewisch",
+          "Chicago, IL 60633"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hegewisch"
+        ],
+        "postal_code":"60633",
+        "country_code":"US",
+        "address":[
+          "13300 S Brandon Ave"
+        ],
+        "coordinate":{
+          "latitude":41.653545,
+          "longitude":-87.546265
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/blackthorn-pub-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":12,
+      "name":"Blackthorn Pub",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/blackthorn-pub-chicago",
+      "is_closed":false,
+      "phone":"7737793033",
+      "snippet_text":"I've been here a few times for a number of different things and have had a great experience every time. \n\nThere can occasionally be some college students...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/eZy-fpSDkLVoJ_vHIsduBw/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-779-3033",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"blackthorn-pub-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/2ckorYArmrh9WHvls83lFQ/ms.jpg",
+      "location":{
+        "cross_streets":"Spaulding Ave & Christiana Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3300 W 111th St",
+          "Mount Greenwood",
+          "Chicago, IL 60655"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Mount Greenwood"
+        ],
+        "postal_code":"60655",
+        "country_code":"US",
+        "address":[
+          "3300 W 111th St"
+        ],
+        "coordinate":{
+          "latitude":41.6917801,
+          "longitude":-87.7035675
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/milanos-pizza-and-specialties-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":46,
+      "name":"Milano's Pizza & Specialties",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/milanos-pizza-and-specialties-chicago",
+      "is_closed":false,
+      "id":"milanos-pizza-and-specialties-chicago",
+      "phone":"7734454010",
+      "snippet_text":"Affordable prices and good food, what more could you ask for?  \n\nI love their deep dish/stuffed pizza.  It has just the right amount of sauce, and it's...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/MemnDTZpx8KQF4Pc1LGFEw/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-773-445-4010",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1425552741,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/nMwyK_Npo_vk0AybeuIfjA/ms.jpg",
+      "location":{
+        "cross_streets":"109th St & 110th St",
+        "city":"Chicago",
+        "display_address":[
+          "10945 S Western Ave",
+          "Morgan Park",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Morgan Park"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "10945 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.6944476217031,
+          "longitude":-87.6811766624451
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/foxs-chicago-5",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":62,
+      "name":"Fox's",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/foxs-chicago-5",
+      "is_closed":false,
+      "id":"foxs-chicago-5",
+      "phone":"7732393212",
+      "snippet_text":"Some of my favorite thin crust on the south side. Their pizza is distinct, you know its foxes pizza even if you're blindfolded. I also love their baked...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/i-UGBxmT8lVSu-SNBsfYdw/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-239-3212",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1417937091,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/drEkCV_znsEY-DAhLVCLyA/ms.jpg",
+      "location":{
+        "cross_streets":"100th St & 99th St",
+        "city":"Chicago",
+        "display_address":[
+          "9956 S Western Ave",
+          "Beverly",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Beverly"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "9956 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7120662131675,
+          "longitude":-87.6820735789356
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/skybox-steak-and-sports-bar-harvey-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":2,
+      "name":"Skybox Steak & Sports Bar",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/skybox-steak-and-sports-bar-harvey-2",
+      "is_closed":false,
+      "phone":"7083391717",
+      "snippet_text":"I love skybox !! If u like good price drinks ,, 1.50 weekends ,, .50 beers t-thr! .& ethnic beauties !! This is the spot!! However !! U must keep ur (...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/VcygV6RIALHEkczdNX-7mg/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-339-1717",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"skybox-steak-and-sports-bar-harvey-2",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/V7e7LUOGFFIhRcPYeZHn_w/ms.jpg",
+      "location":{
+        "cross_streets":"Geneva Dr & Carse Ave",
+        "city":"Harvey",
+        "display_address":[
+          "341 E 167th St",
+          "Harvey, IL 60426"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60426",
+        "country_code":"US",
+        "address":[
+          "341 E 167th St"
+        ],
+        "coordinate":{
+          "latitude":41.5864838209666,
+          "longitude":-87.6366261335907
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/club-81-too-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":9,
+      "name":"Club 81 Too",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/club-81-too-chicago",
+      "is_closed":false,
+      "phone":"7736464292",
+      "snippet_text":"They have the BEST chicken and burgers EVER! we order for work a lot and we are never disappointed!",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/N21Vs-Ak8-Kn9n0pUDb-4A/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-646-4292",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"club-81-too-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/-Pr9K3wf3rs0Cjv1GEWbBA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "13157 S Ave M",
+          "Hegewisch",
+          "Chicago, IL 60633"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hegewisch"
+        ],
+        "postal_code":"60633",
+        "country_code":"US",
+        "address":[
+          "13157 S Ave M"
+        ],
+        "coordinate":{
+          "latitude":41.655632,
+          "longitude":-87.537117
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/green-olive-the-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":4,
+      "name":"Green Olive the",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/green-olive-the-chicago",
+      "is_closed":false,
+      "phone":"7736466200",
+      "snippet_text":"Okay, if anyone is from the Southeast Side, be informed that this is the ONLY halfway decent place in our area that's good for those nights when you want to...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/DL9WfbUSw0bHiGkSPlNqLA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-646-6200",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"green-olive-the-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/8S-MmahjZ6fTN36Ci7MYWA/ms.jpg",
+      "location":{
+        "cross_streets":"135th St",
+        "city":"Chicago",
+        "display_address":[
+          "13501 S Avenue N",
+          "Hegewisch",
+          "Chicago, IL 60633"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hegewisch"
+        ],
+        "postal_code":"60633",
+        "country_code":"US",
+        "address":[
+          "13501 S Avenue N"
+        ],
+        "coordinate":{
+          "latitude":41.6498756408691,
+          "longitude":-87.5383071899414
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/lanigans-irish-pub-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":11,
+      "name":"Lanigan's Irish Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/lanigans-irish-pub-chicago",
+      "is_closed":false,
+      "phone":"7732334004",
+      "snippet_text":"I was here after the Southside Irish parade and seeing as it's been cancelled I am now able to sleep at night.\n\nI don't remember much about being here,...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/z9KZJcB-_LnYUJ0Bq9NqMg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-233-4004",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"lanigans-irish-pub-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/EWz9eW_K6vgWdkeHiouIGw/ms.jpg",
+      "location":{
+        "cross_streets":"Albany Ave & Troy St",
+        "city":"Chicago",
+        "display_address":[
+          "3119 W 111th St",
+          "Mount Greenwood",
+          "Chicago, IL 60655"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Mount Greenwood"
+        ],
+        "postal_code":"60655",
+        "country_code":"US",
+        "address":[
+          "3119 W 111th St"
+        ],
+        "coordinate":{
+          "latitude":41.691326,
+          "longitude":-87.699242
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/mrs-o-learys-dubliner-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":4,
+      "name":"Mrs O'Leary's Dubliner",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/mrs-o-learys-dubliner-chicago",
+      "is_closed":false,
+      "phone":"7732380784",
+      "snippet_text":"Don't come here if you're looking for a higher-classed, elaborately-decorated, hipster-esque establishment with fancy, expensive drinks that so many bars on...",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-238-0784",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"mrs-o-learys-dubliner-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/LqzCMHIeVlMz9_kLBjz8GA/ms.jpg",
+      "location":{
+        "cross_streets":"109th St & 110th St",
+        "city":"Chicago",
+        "display_address":[
+          "10910 Western Ave",
+          "Morgan Park",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Morgan Park"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "10910 Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.6949196,
+          "longitude":-87.6816635
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/club-505-inc-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"Club 505 Inc",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/club-505-inc-chicago",
+      "is_closed":false,
+      "phone":"7736469819",
+      "snippet_text":"This is not a place to go if you are just wandering around and looking for a happenin' place.  Fortunately,  I will explore just about anywhere.  I first...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/LS2XNQrgjQGe8yBtc7Sy8Q/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-646-9819",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"club-505-inc-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/KW7FGMUYAToqsCYBzZqoyA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "13505 S Brainard Ave",
+          "Hegewisch",
+          "Chicago, IL 60633"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hegewisch"
+        ],
+        "postal_code":"60633",
+        "country_code":"US",
+        "address":[
+          "13505 S Brainard Ave"
+        ],
+        "coordinate":{
+          "latitude":41.649345,
+          "longitude":-87.5467
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/dingers-sports-bar-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":8,
+      "name":"Dinger's Sports Bar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/dingers-sports-bar-chicago",
+      "is_closed":false,
+      "phone":"7732339960",
+      "snippet_text":"I'm really surprised at some of the reviews here because I had a great time. First of all, the prices are incredible. We ordered two craft drinks (Three...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/w5xw2lDcXkbZ2j2a4pxBxw/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-233-9960",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"dingers-sports-bar-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/-VSozXLvOU_1uYqZHcccTA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "10638 S Western Ave",
+          "Beverly",
+          "Chicago, IL 60655"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Beverly"
+        ],
+        "postal_code":"60655",
+        "country_code":"US",
+        "address":[
+          "10638 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.699776,
+          "longitude":-87.681824
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/end-zone-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":5,
+      "name":"End Zone",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/end-zone-chicago",
+      "is_closed":false,
+      "phone":"7732387969",
+      "snippet_text":"We went to watch a Sunday Bears game and had a great time. Beers were reasonably priced. They had a decent microbrew bottle selection around $4-5 a pop....",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/37WOW0JJ7Ex38COIhVJfMg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-238-7969",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"end-zone-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/ftjwK9jm_gy30OPAh707yw/ms.jpg",
+      "location":{
+        "cross_streets":"100th St & 101st St",
+        "city":"Chicago",
+        "display_address":[
+          "10034 S Western Ave",
+          "Beverly",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Beverly"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "10034 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7107277,
+          "longitude":-87.6819305
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/skybox-harvey",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":23,
+      "name":"Skybox",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/skybox-harvey",
+      "is_closed":false,
+      "phone":"7083391717",
+      "snippet_text":"Went this past Saturday night with one of my former co-workers. Had a heck of a time. My only complaint is that at times, it took a while to get the...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/J2LNEotnO_kkLZ93Ft6WvQ/ms.jpg",
+      "categories":[
+        [
+          "Adult Entertainment",
+          "adultentertainment"
+        ]
+      ],
+      "display_phone":"+1-708-339-1717",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"skybox-harvey",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Harvey",
+        "display_address":[
+          "16700 S Halsted St",
+          "Harvey, IL 60426"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60426",
+        "country_code":"US",
+        "address":[
+          "16700 S Halsted St"
+        ],
+        "coordinate":{
+          "latitude":41.5864868420921,
+          "longitude":-87.6367073074097
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/secrets-dolton",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":6,
+      "name":"Secrets",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/secrets-dolton",
+      "is_closed":false,
+      "phone":"7082019845",
+      "snippet_text":"This place is now called Deja Vu.  \nA group of us went for a birthday party(Saturday) and after reading reviews, it was better than I expected. Staff...",
+      "categories":[
+        [
+          "Nightlife",
+          "nightlife"
+        ]
+      ],
+      "display_phone":"+1-708-201-9845",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"secrets-dolton",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/H7i6R6s6LyGhBuVcRqj_Sw/ms.jpg",
+      "location":{
+        "city":"Dolton",
+        "display_address":[
+          "14112 Chicago Rd",
+          "Dolton, IL 60419"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60419",
+        "country_code":"US",
+        "address":[
+          "14112 Chicago Rd"
+        ],
+        "coordinate":{
+          "latitude":41.6384315,
+          "longitude":-87.6077271
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-forge-pub-blue-island",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"The Forge Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-forge-pub-blue-island",
+      "is_closed":false,
+      "phone":"7083887919",
+      "snippet_text":"A local \"bar\" with the working class regulars.  Owners are very generous and often have free food.  They will even spring for a drink if you hang out for a...",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-708-388-7919",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-forge-pub-blue-island",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/wVG2X7dHFyAstZOfIZ48pA/ms.jpg",
+      "location":{
+        "city":"Blue Island",
+        "display_address":[
+          "3400 W 127th St",
+          "Blue Island, IL 60406"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60406",
+        "country_code":"US",
+        "address":[
+          "3400 W 127th St"
+        ],
+        "coordinate":{
+          "latitude":41.662379,
+          "longitude":-87.704781
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":1.0,
+      "mobile_url":"http://m.yelp.com/biz/john-ls-ii-blue-island",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png",
+      "review_count":1,
+      "name":"John L's II",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png",
+      "url":"http://www.yelp.com/biz/john-ls-ii-blue-island",
+      "is_closed":false,
+      "snippet_text":"We need juice.",
+      "categories":[
+        [
+          "Gay Bars",
+          "gaybars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/cc5d90a21966/ico/stars/v1/stars_large_1.png",
+      "id":"john-ls-ii-blue-island",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/3EYjS5mrD2bFtIctl9F2Ug/ms.jpg",
+      "location":{
+        "cross_streets":"Collins St & Cochran St",
+        "city":"Blue Island",
+        "display_address":[
+          "12456 Western Ave",
+          "Blue Island, IL 60406"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60406",
+        "country_code":"US",
+        "address":[
+          "12456 Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.6665081189625,
+          "longitude":-87.6807719841599
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.0,
+      "mobile_url":"http://m.yelp.com/biz/mugs-bunny-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png",
+      "review_count":2,
+      "name":"Mugs Bunny",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png",
+      "url":"http://www.yelp.com/biz/mugs-bunny-chicago",
+      "is_closed":false,
+      "phone":"7736464560",
+      "snippet_text":"A no-frills, blue-collar local-hangout corner bar in, fittingly enough, a blue-collar neighborhood. Exactly three beers on tap: Coors Light, some other...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/N_bx3dGFIIMfeqbUYZCeqg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-646-4560",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png",
+      "id":"mugs-bunny-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "13401 S Baltimore Avenue",
+          "Hegewisch",
+          "Chicago, IL 60633"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hegewisch"
+        ],
+        "postal_code":"60633",
+        "country_code":"US",
+        "address":[
+          "13401 S Baltimore Avenue"
+        ],
+        "coordinate":{
+          "latitude":41.6517181,
+          "longitude":-87.5467834
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/tjs-bar-and-grill-midlothian",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":5,
+      "name":"Tj's Bar & Grill",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/tjs-bar-and-grill-midlothian",
+      "is_closed":false,
+      "phone":"7083897686",
+      "snippet_text":"The bartender makes a really good Long Island ice tea. Good staff prices aren't too shabby. I haven't eaten here yet just had some drinks but I'll redo the...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/AEEXqykXmW9WHSYCZPSJ2g/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-708-389-7686",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"tjs-bar-and-grill-midlothian",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/_jqPVhMVFnQ8O2Z4VAiSXw/ms.jpg",
+      "location":{
+        "cross_streets":"Crawford Ave & Keystone Ave",
+        "city":"Midlothian",
+        "display_address":[
+          "4025 147th St",
+          "Midlothian, IL 60445"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60445",
+        "country_code":"US",
+        "address":[
+          "4025 147th St"
+        ],
+        "coordinate":{
+          "latitude":41.6253967,
+          "longitude":-87.7190781
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

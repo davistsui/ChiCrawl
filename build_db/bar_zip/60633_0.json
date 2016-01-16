@@ -1,0 +1,991 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.13894429999999147,
+      "longitude_delta":0.20512811000000397
+    },
+    "center":{
+      "latitude":41.6733763,
+      "longitude":-87.58836794999999
+    }
+  },
+  "total":806,
+  "businesses":[
+    {
+      "is_claimed":true,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/rock-island-public-house-blue-island",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":40,
+      "name":"Rock Island Public House",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/rock-island-public-house-blue-island",
+      "is_closed":false,
+      "phone":"7083885513",
+      "snippet_text":"This is hand down one of my favorite bars. I love the Beer selection they have, also love that they have craft beer! Not a lot of places have good craft...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/jySkP5Vkz-jrN74fO_Pwfw/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-708-388-5513",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"rock-island-public-house-blue-island",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Blue Island",
+        "display_address":[
+          "13328 Olde Western Ave",
+          "Blue Island, IL 60406"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60406",
+        "country_code":"US",
+        "address":[
+          "13328 Olde Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.650635,
+          "longitude":-87.681412
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/small-world-inn-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":2,
+      "name":"Small World Inn Bar & Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/small-world-inn-bar-and-grill-chicago",
+      "is_closed":false,
+      "phone":"7739338663",
+      "snippet_text":"Great place for your local Serbian/Croatian food.  Have been to this place a couple of times since they reopened and both times had good food.  \n\nThis place...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/o47t87Ovcqc_cLjfCAQ_nQ/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-933-8663",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"small-world-inn-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/kTwvONUsBLXXvRrff1AmaA/ms.jpg",
+      "location":{
+        "cross_streets":"Calumet River St & Buffalo Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3325 E 106th St",
+          "East Side",
+          "Chicago, IL 60617"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "East Side"
+        ],
+        "postal_code":"60617",
+        "country_code":"US",
+        "address":[
+          "3325 E 106th St"
+        ],
+        "coordinate":{
+          "latitude":41.7024918,
+          "longitude":-87.5427399
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/steves-lounge-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":5,
+      "name":"Steve's Lounge",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/steves-lounge-chicago",
+      "is_closed":false,
+      "phone":"7736461071",
+      "snippet_text":"Hey you guys, If you're lookin' for fried chicken to die for, Steve's Lounge is the place to find it.......and die they do!!!  Not from the chicken of...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/g26785Qa6549JOBA0tcKhg/ms.jpg",
+      "categories":[
+        [
+          "Polish",
+          "polish"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-646-1071",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"steves-lounge-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/IU6rNmxELB-GvfRAQt-gNA/ms.jpg",
+      "location":{
+        "cross_streets":"133rd St & 132nd St",
+        "city":"Chicago",
+        "display_address":[
+          "13200 S Baltimore Ave",
+          "Hegewisch",
+          "Chicago, IL 60633"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hegewisch"
+        ],
+        "postal_code":"60633",
+        "country_code":"US",
+        "address":[
+          "13200 S Baltimore Ave"
+        ],
+        "coordinate":{
+          "latitude":41.655346,
+          "longitude":-87.547516
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/keegans-pub-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":24,
+      "name":"Keegan's Pub",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/keegans-pub-chicago",
+      "is_closed":false,
+      "phone":"7732336829",
+      "snippet_text":"This is my favorite Irish pub on Western Ave....and in Chicago in general.  \n\nThis is a place where everyone and anyone feels welcome when they walk through...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/oPPwJlaX4ri8BM7J49f0Kw/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-233-6829",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"keegans-pub-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/tlQMGVtPK_YUZGziFdgDZw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "10618 S Western Ave",
+          "Beverly",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Beverly"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "10618 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7002716,
+          "longitude":-87.6818314
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/bulldog-brewery-whiting",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":26,
+      "name":"Bulldog Brewery",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/bulldog-brewery-whiting",
+      "is_closed":false,
+      "phone":"2196555284",
+      "snippet_text":"If you can get there when the have the barrel aged scottish ale, then RUN by all means. Husband digs their industrial harbor IPA. High ABV as well.  Their...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/EYCeO5_yg7ppd-gDFdGkkw/ms.jpg",
+      "categories":[
+        [
+          "Breweries",
+          "breweries"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-219-655-5284",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"bulldog-brewery-whiting",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/tVmpwfQ2ozCwILzl6KG4Fw/ms.jpg",
+      "location":{
+        "city":"Whiting",
+        "display_address":[
+          "1409 119th St",
+          "Whiting, IN 46394"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"46394",
+        "country_code":"US",
+        "address":[
+          "1409 119th St"
+        ],
+        "coordinate":{
+          "latitude":41.679388359189,
+          "longitude":-87.4951151758432
+        },
+        "state_code":"IN"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/adrians-lounge-east-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":14,
+      "name":"Adrians Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/adrians-lounge-east-chicago",
+      "is_closed":false,
+      "phone":"2193975951",
+      "snippet_text":"Excellent food! I was skeptical at first and the sign that reminds you to \"pull up your pants and get off of your cell phone\" at the entrance indicates the...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/qH_IXRJArnRrcfgOCRNpSQ/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-219-397-5951",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"adrians-lounge-east-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/1rJvPo7GpOTQh-cwLh7xYQ/ms.jpg",
+      "location":{
+        "city":"East Chicago",
+        "display_address":[
+          "1208 Carroll St",
+          "East Chicago, IN 46312"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"46312",
+        "country_code":"US",
+        "address":[
+          "1208 Carroll St"
+        ],
+        "coordinate":{
+          "latitude":41.6102066,
+          "longitude":-87.4859695
+        },
+        "state_code":"IN"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/maple-tree-inn-blue-island",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":162,
+      "name":"Maple Tree Inn",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/maple-tree-inn-blue-island",
+      "is_closed":false,
+      "id":"maple-tree-inn-blue-island",
+      "phone":"7083883461",
+      "snippet_text":"Quite possibly my true go to restaurant. This place is amazing. Pick anything on the menu and you can't go wrong. They even have a shot with an oyster in it...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/py-5U4zW7zZlIK-uwjujOQ/ms.jpg",
+      "categories":[
+        [
+          "Southern",
+          "southern"
+        ],
+        [
+          "Cajun/Creole",
+          "cajun"
+        ],
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-708-388-3461",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387916448,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/fWHbP8mHEGRYXdBFPdI_nw/ms.jpg",
+      "location":{
+        "city":"Blue Island",
+        "display_address":[
+          "13301 Olde Western Ave",
+          "Blue Island, IL 60406"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60406",
+        "country_code":"US",
+        "address":[
+          "13301 Olde Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.651317,
+          "longitude":-87.680809
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/club-81-too-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":9,
+      "name":"Club 81 Too",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/club-81-too-chicago",
+      "is_closed":false,
+      "phone":"7736464292",
+      "snippet_text":"They have the BEST chicken and burgers EVER! we order for work a lot and we are never disappointed!",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/N21Vs-Ak8-Kn9n0pUDb-4A/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-646-4292",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"club-81-too-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/-Pr9K3wf3rs0Cjv1GEWbBA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "13157 S Ave M",
+          "Hegewisch",
+          "Chicago, IL 60633"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hegewisch"
+        ],
+        "postal_code":"60633",
+        "country_code":"US",
+        "address":[
+          "13157 S Ave M"
+        ],
+        "coordinate":{
+          "latitude":41.655632,
+          "longitude":-87.537117
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/papi-chulos-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":4,
+      "name":"Papi Chulo's Bar and Grill",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/papi-chulos-bar-and-grill-chicago",
+      "is_closed":false,
+      "deals":[
+        {
+          "is_popular":true,
+          "what_you_get":"You get a voucher redeemable for $40 at Papi Chulo's Bar and Grill.\nPrint out your voucher, or redeem on your phone with the <a href=\"http://www.yelp.com/yelpmobile\">Yelp app</a>.",
+          "time_start":1332033764,
+          "title":"$20 for $40",
+          "url":"http://www.yelp.com/deals/papi-chulos-bar-and-grill-chicago",
+          "additional_restrictions":"Promotion lasts for 1 year from date of purchase. After that period, your voucher is redeemable for the amount you paid, less any value you may have received. Not valid with other vouchers, certificates, or offers. Only 1 voucher(s) can be purchased and redeemed per person. Up to 3 can be purchased as gifts for others. Subject to the <a target=\"_blank\" href=\"http://www.yelp.com/tos/general_b2c_us_20120911\">General Terms</a>.",
+          "id":"e2P_UQ1cQyRPuqPYQ6fGKw",
+          "important_restrictions":"Limit 1 voucher(s) per table.",
+          "image_url":"http://s3-media2.fl.yelpcdn.com/dphoto/j-o-US_76Pm9IAVB3EUoFw/m.jpg",
+          "options":[
+            {
+              "original_price":4000,
+              "title":"$20 for $40",
+              "price":2000,
+              "purchase_url":"https://www.yelp.com/checkout/deal/grAy8woMzO7avdiEErLkrg",
+              "remaining_count":29,
+              "formatted_original_price":"$40",
+              "formatted_price":"$20",
+              "is_quantity_limited":true
+            }
+          ],
+          "currency_code":"USD"
+        }
+      ],
+      "phone":"7736469000",
+      "snippet_text":"If you're storing your boat its a nice precursor to windjammers.  Great staff and facilities.   The wings were hot the beers were cold!\nWhat more do ya want?",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/Ws3jeqYTu064hNjNqE0fQQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-646-9000",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"papi-chulos-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/qTeq8agfSte7W8udxw1ZYg/ms.jpg",
+      "location":{
+        "cross_streets":"136th St",
+        "city":"Chicago",
+        "display_address":[
+          "13601 S Calhoun Ave",
+          "Hegewisch",
+          "Chicago, IL 60633"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hegewisch"
+        ],
+        "postal_code":"60633",
+        "country_code":"US",
+        "address":[
+          "13601 S Calhoun Ave"
+        ],
+        "coordinate":{
+          "latitude":41.647575378418,
+          "longitude":-87.5613784790039
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/up-for-grabs-whiting",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":11,
+      "name":"Up For Grabs",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/up-for-grabs-whiting",
+      "is_closed":false,
+      "phone":"2196594508",
+      "snippet_text":"Thee best burgers in the area.  I love these burgers!!!",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/26Rr6qv6Bx7bqlWVZRLi4g/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-219-659-4508",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"up-for-grabs-whiting",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/lXF5tIYgBa5r70S1i6eHOQ/ms.jpg",
+      "location":{
+        "city":"Whiting",
+        "display_address":[
+          "1923 Calumet Ave",
+          "Whiting, IN 46394"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"46394",
+        "country_code":"US",
+        "address":[
+          "1923 Calumet Ave"
+        ],
+        "coordinate":{
+          "latitude":41.6783866882324,
+          "longitude":-87.5082015991211
+        },
+        "state_code":"IN"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/latin-rhythm-lounge-blue-island",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":10,
+      "name":"Latin Rhythm Lounge",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/latin-rhythm-lounge-blue-island",
+      "is_closed":false,
+      "phone":"7082390136",
+      "snippet_text":"Amazing service\nAmazing drinks\nAmazing food\nDancing and DJ on the weekends\nThis place is a gem !!!",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/Z877XHEkKOQ21Hzwn3xHNA/ms.jpg",
+      "categories":[
+        [
+          "Dance Clubs",
+          "danceclubs"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Spanish",
+          "spanish"
+        ]
+      ],
+      "display_phone":"+1-708-239-0136",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"latin-rhythm-lounge-blue-island",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/kx1vVjPAwkutWkfidWLSEw/ms.jpg",
+      "location":{
+        "city":"Blue Island",
+        "display_address":[
+          "13308 Olde Western Ave",
+          "Blue Island, IL 60406"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60406",
+        "country_code":"US",
+        "address":[
+          "13308 Olde Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.651095,
+          "longitude":-87.681425
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/sixth-street-bar-hammond",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":5,
+      "name":"Sixth Street Bar",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/sixth-street-bar-hammond",
+      "is_closed":false,
+      "snippet_text":"Let me start this by saying, that I am not a beer drinker.  I rarely if ever drink beer, and I still found this place to be awesome!\n\nThe bartenders were...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/MXLoRvR0HfLVlCEu2SyzAw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"sixth-street-bar-hammond",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/-YTyP1SRERlK2RpqgpR9Aw/ms.jpg",
+      "location":{
+        "city":"Hammond",
+        "display_address":[
+          "777 Casino Center Dr",
+          "Hammond, IN 46320"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"46320",
+        "country_code":"US",
+        "address":[
+          "777 Casino Center Dr"
+        ],
+        "coordinate":{
+          "latitude":41.692955,
+          "longitude":-87.5077438
+        },
+        "state_code":"IN"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/horse-thief-hollow-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":133,
+      "name":"Horse Thief Hollow",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/horse-thief-hollow-chicago",
+      "is_closed":false,
+      "id":"horse-thief-hollow-chicago",
+      "phone":"7737792739",
+      "snippet_text":"Live jams Tuesday evenings, tasty brews, solid burgers, hearty salads and featured dishes, a lively, friendly crowd and talented bartenders (Holla, Lizzy)...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/UTJ08sq8CpodCm5Y0Fs4pw/ms.jpg",
+      "categories":[
+        [
+          "Breweries",
+          "breweries"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-773-779-2739",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1401170009,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/qVVDoAOYtuUXhEvMib3Dpw/ms.jpg",
+      "location":{
+        "cross_streets":"104th St & 105th St",
+        "city":"Chicago",
+        "display_address":[
+          "10426 S Western Ave",
+          "Beverly",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Beverly"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "10426 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7037308,
+          "longitude":-87.6815386
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/loncars-liquors-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":12,
+      "name":"Loncar's Liquors",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/loncars-liquors-chicago",
+      "is_closed":false,
+      "phone":"7737343933",
+      "snippet_text":"Great \"Workingmans Lunch Counter\"/ Bar in the \"Land that time forgot\"!!  Food is good, prices are dirt cheap, patrons are shady and the service is just...",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Restaurants",
+          "restaurants"
+        ]
+      ],
+      "display_phone":"+1-773-734-3933",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"loncars-liquors-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/YAbHS-qXOGjHu-wdQKHH2g/ms.jpg",
+      "location":{
+        "cross_streets":"Brandon Ave & Burley Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3201 E 92nd St",
+          "South Chicago",
+          "Chicago, IL 60617"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "South Chicago"
+        ],
+        "postal_code":"60617",
+        "country_code":"US",
+        "address":[
+          "3201 E 92nd St"
+        ],
+        "coordinate":{
+          "latitude":41.728024,
+          "longitude":-87.546669
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/green-olive-the-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":4,
+      "name":"Green Olive the",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/green-olive-the-chicago",
+      "is_closed":false,
+      "phone":"7736466200",
+      "snippet_text":"Okay, if anyone is from the Southeast Side, be informed that this is the ONLY halfway decent place in our area that's good for those nights when you want to...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/DL9WfbUSw0bHiGkSPlNqLA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-646-6200",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"green-olive-the-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/8S-MmahjZ6fTN36Ci7MYWA/ms.jpg",
+      "location":{
+        "cross_streets":"135th St",
+        "city":"Chicago",
+        "display_address":[
+          "13501 S Avenue N",
+          "Hegewisch",
+          "Chicago, IL 60633"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hegewisch"
+        ],
+        "postal_code":"60633",
+        "country_code":"US",
+        "address":[
+          "13501 S Avenue N"
+        ],
+        "coordinate":{
+          "latitude":41.6498756408691,
+          "longitude":-87.5383071899414
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/argus-brewery-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":36,
+      "name":"Argus Brewery",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/argus-brewery-chicago",
+      "is_closed":false,
+      "phone":"7739414050",
+      "snippet_text":"AWESOME brewery tour .  It starts out in their cool bar room that has a couple game tables.  They give you a pint glass and tell you 'If your glass is...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/xZZA6X618jbIOsZWEBM2rg/ms.jpg",
+      "categories":[
+        [
+          "Local Flavor",
+          "localflavor"
+        ],
+        [
+          "Breweries",
+          "breweries"
+        ],
+        [
+          "Landmarks & Historical Buildings",
+          "landmarks"
+        ]
+      ],
+      "display_phone":"+1-773-941-4050",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"argus-brewery-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Ok-pfWJFdGe79GkGjECCEQ/ms.jpg",
+      "location":{
+        "cross_streets":"114th St & 113th St",
+        "city":"Chicago",
+        "display_address":[
+          "11314 S Front St",
+          "Roseland",
+          "Chicago, IL 60628"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Roseland"
+        ],
+        "postal_code":"60628",
+        "country_code":"US",
+        "address":[
+          "11314 S Front St"
+        ],
+        "coordinate":{
+          "latitude":41.6883296520199,
+          "longitude":-87.6119276943926
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/larrys-of-harvey-harvey",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":2,
+      "name":"Larry's of Harvey",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/larrys-of-harvey-harvey",
+      "is_closed":false,
+      "phone":"7082251779",
+      "snippet_text":"Of course I have to give a bar with my name a 5-star review. :)\n\nI came here with some cousins for drinks and had a wonderful time. Full bar, very down to...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/RhjC-yxJk-RpyrXJ1z2e2Q/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-225-1779",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"larrys-of-harvey-harvey",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/rdMn5Xan_0uU9rveDLFo8A/ms.jpg",
+      "location":{
+        "city":"Harvey",
+        "display_address":[
+          "295 E 147th St",
+          "Harvey, IL 60426"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60426",
+        "country_code":"US",
+        "address":[
+          "295 E 147th St"
+        ],
+        "coordinate":{
+          "latitude":41.62289,
+          "longitude":-87.639488
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/family-den-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":4,
+      "name":"Family Den",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/family-den-chicago",
+      "is_closed":false,
+      "phone":"7737348545",
+      "snippet_text":"Live Jazz,  free live Jazz that is.\n\nEvery other Sunday the Crosswinds Latin Jazz band does an open set,  may I say they are tight. \n\nIf you are...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/_refJgWQrR5nERrH3_R64g/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-773-734-8545",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"family-den-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/-fyLL3nrs2tb2Irf5ayAKQ/ms.jpg",
+      "location":{
+        "cross_streets":"89th St & 90th St",
+        "city":"Chicago",
+        "display_address":[
+          "8942 S Stony Island Ave",
+          "Calumet Heights",
+          "Chicago, IL 60617"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Calumet Heights"
+        ],
+        "postal_code":"60617",
+        "country_code":"US",
+        "address":[
+          "8942 S Stony Island Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7317417263985,
+          "longitude":-87.5855867564678
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/licorice-lounge-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":3,
+      "name":"Licorice Lounge",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/licorice-lounge-chicago",
+      "is_closed":false,
+      "phone":"7739622000",
+      "snippet_text":"I love this place!  It is my hideaway from the city hustle and bustle! There is always a welcoming cheer when you come through the door and a glass of...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/WwYsbjri8nAMTztSSpPHjg/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-962-2000",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"licorice-lounge-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/nhT4jrl6-RwSTtcu8OrDGg/ms.jpg",
+      "location":{
+        "cross_streets":"Champlain Ave & Langley Ave",
+        "city":"Chicago",
+        "display_address":[
+          "607 E 87th St",
+          "Chatham",
+          "Chicago, IL 60619"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Chatham"
+        ],
+        "postal_code":"60619",
+        "country_code":"US",
+        "address":[
+          "607 E 87th St"
+        ],
+        "coordinate":{
+          "latitude":41.7365328,
+          "longitude":-87.6093283
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/jasons-sports-bar-and-grill-hammond",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":3,
+      "name":"Jason's Sports Bar & Grill",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/jasons-sports-bar-and-grill-hammond",
+      "is_closed":false,
+      "phone":"2199331976",
+      "snippet_text":"This is a food review. I have never sat in for drinks......... \n\nThey have a kitchen. Ok, I know what you are thinking...... Bar food?  Let me tell you that...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/86kKONV15uI8jfbO0Oa5SQ/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-219-933-1976",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"jasons-sports-bar-and-grill-hammond",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Hammond",
+        "display_address":[
+          "3949 Hohman Ave",
+          "Hammond, IN 46327"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"46327",
+        "country_code":"US",
+        "address":[
+          "3949 Hohman Ave"
+        ],
+        "coordinate":{
+          "latitude":41.6413336934754,
+          "longitude":-87.5170248001814
+        },
+        "state_code":"IN"
+      }
+    }
+  ]
+}

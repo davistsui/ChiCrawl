@@ -1,0 +1,991 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.10193568000001108,
+      "longitude_delta":0.11525524999998993
+    },
+    "center":{
+      "latitude":41.765828400000004,
+      "longitude":-87.73712624999999
+    }
+  },
+  "total":529,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/fitzgeralds-pub-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":6,
+      "name":"Fitzgerald's Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/fitzgeralds-pub-chicago",
+      "is_closed":false,
+      "phone":"7737675544",
+      "snippet_text":"Great place for intimate venues. I personally love going to see American English, a Beatles cover band. They are awesome and put on a great show....",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/34T-vmQjIKDyiev1XqwQ0Q/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-767-5544",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"fitzgeralds-pub-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5544 W 55th St",
+          "Garfield Ridge",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Garfield Ridge"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "5544 W 55th St"
+        ],
+        "coordinate":{
+          "latitude":41.7927948385477,
+          "longitude":-87.7612439543009
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/chucks-southern-comforts-caf%C3%A9-burbank-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":423,
+      "name":"Chuck's Southern Comforts Caf\u00e9",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/chucks-southern-comforts-caf%C3%A9-burbank-2",
+      "is_closed":false,
+      "phone":"7082298700",
+      "snippet_text":"Great Southern BBQ! We came here for some lunch with my coworkers. I ordered the Chuck's Special and it was out of this world. The beef brisket was very...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/9HLzXttkZ2tKOCkZyFxP_g/ms.jpg",
+      "categories":[
+        [
+          "Southern",
+          "southern"
+        ],
+        [
+          "Barbeque",
+          "bbq"
+        ],
+        [
+          "Cajun/Creole",
+          "cajun"
+        ]
+      ],
+      "display_phone":"+1-708-229-8700",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"chucks-southern-comforts-caf\u00e9-burbank-2",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/vcqhvcVcSz38DBbbjU6jog/ms.jpg",
+      "location":{
+        "cross_streets":"Natchez Ave & Neenah Ave",
+        "city":"Burbank",
+        "display_address":[
+          "6501 W 79th St",
+          "Burbank, IL 60459"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60459",
+        "country_code":"US",
+        "address":[
+          "6501 W 79th St"
+        ],
+        "coordinate":{
+          "latitude":41.748089,
+          "longitude":-87.783691
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/new-china-tea-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":22,
+      "name":"New China Tea",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/new-china-tea-chicago",
+      "is_closed":false,
+      "id":"new-china-tea-chicago",
+      "phone":"7732842463",
+      "snippet_text":"great place for Chinese food & delivery..the flavor of the place reminds me of the good Chinese restaurant growing up. They always tell you 45 mins for...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/mwxSL-rpNe2U73wcBQdIeg/ms.jpg",
+      "categories":[
+        [
+          "Chinese",
+          "chinese"
+        ],
+        [
+          "Coffee & Tea",
+          "coffee"
+        ]
+      ],
+      "display_phone":"+1-773-284-2463",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387635270,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/AUEJGyRdg8daXkiXycKdVA/ms.jpg",
+      "location":{
+        "cross_streets":"Pulaski Rd & Komensky Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4024 W 55th St",
+          "West Elsdon",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "West Elsdon"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "4024 W 55th St"
+        ],
+        "coordinate":{
+          "latitude":41.793465,
+          "longitude":-87.72422
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/harry-carays-restaurant-chicago-2",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":187,
+      "name":"Harry Caray's Restaurant",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/harry-carays-restaurant-chicago-2",
+      "is_closed":false,
+      "phone":"7739486300",
+      "snippet_text":"Summary: If you have time to kill waiting for a flight, come have some smoked cheddar mac and cheese with a burger.\n\nHarry Caray's was the last airport meal...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/vIRyptXLhT4yH_yERoHPgA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Steakhouses",
+          "steak"
+        ]
+      ],
+      "display_phone":"+1-773-948-6300",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"harry-carays-restaurant-chicago-2",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/C37U0IwNBrioan0aqwv8eA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5757 S Cicero Ave",
+          "Garfield Ridge",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Garfield Ridge"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "5757 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7885492097927,
+          "longitude":-87.7420423552394
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/angies-restaurant-and-pizzeria-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":7,
+      "name":"Angie's Restaurant & Pizzeria",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/angies-restaurant-and-pizzeria-chicago",
+      "is_closed":false,
+      "id":"angies-restaurant-and-pizzeria-chicago",
+      "phone":"7737358527",
+      "snippet_text":"Grew up in this neighborhood and this was a great neighborhood bar and pizza joint.  I stopped back in here last weekend and they completely remodeled the...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/adHfcpsDL0Pe0EKAYTRsww/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-735-8527",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1424796139,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"83rd Pl & 84th St",
+        "city":"Chicago",
+        "display_address":[
+          "8352 S Pulaski Rd",
+          "Ashburn",
+          "Chicago, IL 60652"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Ashburn"
+        ],
+        "postal_code":"60652",
+        "country_code":"US",
+        "address":[
+          "8352 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.740734,
+          "longitude":-87.7218174
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/tgi-fridays-chicago-2",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":58,
+      "name":"TGI Friday's",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/tgi-fridays-chicago-2",
+      "is_closed":false,
+      "phone":"7085940777",
+      "snippet_text":"I love coming here! The kids love it too! In fact it's become a tradition on our weekends to come and eat! We love this place!",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/LG80EBs5kuKNqN8Sg3Q00A/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-708-594-0777",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"tgi-fridays-chicago-2",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/mdc62kxoBOxKB1Xh-bytfg/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "6600 S Cicero Ave",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6600 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.772789,
+          "longitude":-87.7427521
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/deja-brew-bar-and-grill-oak-lawn-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":77,
+      "name":"Deja Brew Bar & Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/deja-brew-bar-and-grill-oak-lawn-2",
+      "is_closed":false,
+      "phone":"7084230484",
+      "snippet_text":"My husband and I frequent this neighborhood sports bar often with our friends.  We love the atmosphere.  The staff is very friendly, they offer a large...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/GPDKlNEBC2QP6adfhBUMCQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-423-0484",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"deja-brew-bar-and-grill-oak-lawn-2",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/UHxQ_DiZZLhDV3cBldvJ1w/ms.jpg",
+      "location":{
+        "cross_streets":"52nd Ave & Cook Ave",
+        "city":"Oak Lawn",
+        "display_address":[
+          "5219 W 95th St",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "5219 W 95th St"
+        ],
+        "coordinate":{
+          "latitude":41.719596,
+          "longitude":-87.751472
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":1.0,
+      "mobile_url":"http://m.yelp.com/biz/conrads-place-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png",
+      "review_count":2,
+      "name":"Conrad's Place",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png",
+      "url":"http://www.yelp.com/biz/conrads-place-chicago",
+      "is_closed":false,
+      "snippet_text":"I once lived across the street from Conrad's and honestly they made my partner feel unwelcome to the point that he just left, friendly to regulars only!...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/e_KcFP3DVCIb4pRXD9DlgQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/cc5d90a21966/ico/stars/v1/stars_large_1.png",
+      "id":"conrads-place-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/viU4nzLO_UJ0FCFCR6kpvQ/ms.jpg",
+      "location":{
+        "cross_streets":"65th Pl",
+        "city":"Chicago",
+        "display_address":[
+          "6522 S Pulaski Rd",
+          "West Lawn",
+          "Chicago, IL 60629"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "West Lawn"
+        ],
+        "postal_code":"60629",
+        "country_code":"US",
+        "address":[
+          "6522 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.774307,
+          "longitude":-87.723022
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/xavier-players-club-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":5,
+      "name":"Xavier Players Club",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/xavier-players-club-chicago",
+      "is_closed":false,
+      "phone":"7733761992",
+      "snippet_text":"This place looks kind of bad from the outside, but once you go in it isn't so bad. \nI only been here a few times.. \n\nThursday nights is ladies nights......",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/QUyDTgKmiHGoMjgXbcXbWA/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ],
+        [
+          "Karaoke",
+          "karaoke"
+        ]
+      ],
+      "display_phone":"+1-773-376-1992",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"xavier-players-club-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/offdcF7eyKTFi2-kkfQ0_w/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "4456 S Western Ave",
+          "Brighton Park",
+          "Chicago, IL 60609"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Brighton Park"
+        ],
+        "postal_code":"60609",
+        "country_code":"US",
+        "address":[
+          "4456 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8128319,
+          "longitude":-87.6847305
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/durbins-pizza-restaurant-and-lounge-burbank",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":33,
+      "name":"Durbins Pizza Restaurant & Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/durbins-pizza-restaurant-and-lounge-burbank",
+      "is_closed":false,
+      "id":"durbins-pizza-restaurant-and-lounge-burbank",
+      "phone":"7084231523",
+      "snippet_text":"great neighborhood pizza and bar to watch any game. love the atmosphere and pizza. bartenders are my favorite, very hardworking and fun to talk to. Anca,...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/u-mj-8OoLUWZobiRgNGgBQ/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-708-423-1523",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1389265675,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/4D7F4Vf7Sq-VBehY0qDM8g/ms.jpg",
+      "location":{
+        "cross_streets":"Long Ave & Lotus Ave",
+        "city":"Burbank",
+        "display_address":[
+          "5406 W 79th St",
+          "Burbank, IL 60459"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60459",
+        "country_code":"US",
+        "address":[
+          "5406 W 79th St"
+        ],
+        "coordinate":{
+          "latitude":41.749184,
+          "longitude":-87.756393
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/tailgators-oak-lawn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":7,
+      "name":"Tailgator's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/tailgators-oak-lawn",
+      "is_closed":false,
+      "phone":"7084231350",
+      "snippet_text":"This is a decent sports bar in Oak Lawn. I actually miss living near it. The crowd ranges from normal to strange depending on the hour/day. It's located...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/yw37-s9_hE_EVxgkxF34eg/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ]
+      ],
+      "display_phone":"+1-708-423-1350",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"tailgators-oak-lawn",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/PNtuJkevt1uLY4SYCTpofg/ms.jpg",
+      "location":{
+        "city":"Oak Lawn",
+        "display_address":[
+          "9240 S Cicero Ave",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "9240 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.724804,
+          "longitude":-87.741371
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/dempseys-restaurant-bedford-park",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":18,
+      "name":"Dempsey's Restaurant",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/dempseys-restaurant-bedford-park",
+      "is_closed":false,
+      "id":"dempseys-restaurant-bedford-park",
+      "phone":"7085949500",
+      "snippet_text":"Service with a smile and my  filet mignon was cooked to perfection. This place brings it all together in a friendly welcoming atmosphere.\n\nI'll be back for...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/lwPnXLRHAiktDxY4T3zepg/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-708-594-9500",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1419415156,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/GwBFnDG3ykIpQpl2IcOrdw/ms.jpg",
+      "location":{
+        "city":"Bedford Park",
+        "display_address":[
+          "6520 S Cicero Ave",
+          "Bedford Park, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6520 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.773911,
+          "longitude":-87.744431
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/peteys-bungalow-lounge-oak-lawn",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":28,
+      "name":"Petey's Bungalow Lounge",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/peteys-bungalow-lounge-oak-lawn",
+      "is_closed":false,
+      "phone":"7084248210",
+      "snippet_text":"\"Can you drive? I ate too much!\"\n\nMy partner in crime had no idea what he was in for when we met my parents here for dinner, which left him too full to...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/9ZJGeLFEB-hqXF17u5q1GA/ms.jpg",
+      "categories":[
+        [
+          "Steakhouses",
+          "steak"
+        ],
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Seafood",
+          "seafood"
+        ]
+      ],
+      "display_phone":"+1-708-424-8210",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"peteys-bungalow-lounge-oak-lawn",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/XJD-ha5_7WDSJ2rnwrJKUw/ms.jpg",
+      "location":{
+        "cross_streets":"Kostner Ave & Kenneth Ave",
+        "city":"Oak Lawn",
+        "display_address":[
+          "4401 W 95th St",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "4401 W 95th St"
+        ],
+        "coordinate":{
+          "latitude":41.7200797250475,
+          "longitude":-87.7312909234664
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/la-botana-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":2,
+      "name":"La Botana",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/la-botana-chicago",
+      "is_closed":false,
+      "phone":"7738476642",
+      "snippet_text":"Now this place is not for everyone. You will not have bottle service, you will not have waitresses checking in on you every so often except to pick up the...",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ],
+        [
+          "Karaoke",
+          "karaoke"
+        ]
+      ],
+      "display_phone":"+1-773-847-6642",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"la-botana-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/nCt4ei8EGT817LEKJt7H2A/ms.jpg",
+      "location":{
+        "cross_streets":"48th St & 49th St",
+        "city":"Chicago",
+        "display_address":[
+          "4818 S Pulaski Rd",
+          "Archer Heights",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Archer Heights"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "4818 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.805431,
+          "longitude":-87.723885
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/chi-tung-evergreen-park",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":408,
+      "name":"Chi Tung",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/chi-tung-evergreen-park",
+      "is_closed":false,
+      "id":"chi-tung-evergreen-park",
+      "phone":"7086368180",
+      "snippet_text":"I always have a good time and a great meal whenever I come here.  My family opted for the hibachi grill.  I ordered the chicken and scallops for my meal....",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/hWDkf6O7ZojcL5HhE3C9mA/ms.jpg",
+      "categories":[
+        [
+          "Chinese",
+          "chinese"
+        ],
+        [
+          "Thai",
+          "thai"
+        ],
+        [
+          "Japanese",
+          "japanese"
+        ]
+      ],
+      "display_phone":"+1-708-636-8180",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387633637,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/vWiT8NMIzYu1SuK6mu-JXA/ms.jpg",
+      "location":{
+        "cross_streets":"95th St & 96th St",
+        "city":"Evergreen Park",
+        "display_address":[
+          "9560 S Kedzie Ave",
+          "Evergreen Park, IL 60805"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60805",
+        "country_code":"US",
+        "address":[
+          "9560 S Kedzie Ave"
+        ],
+        "coordinate":{
+          "latitude":41.719494,
+          "longitude":-87.702192
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/toms-tap-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":12,
+      "name":"Tom's Tap",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/toms-tap-chicago",
+      "is_closed":false,
+      "phone":"7732291060",
+      "snippet_text":"Only bad I could say is that they do not serve food, but you can always have it delivered.\n\nAttentive bar wench and cold beer.. what more can you ask for?",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/AX3weEsaQpVF9jFDSsnDog/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-229-1060",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"toms-tap-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/KKZRtn7096x02NPXiPF5oA/ms.jpg",
+      "location":{
+        "cross_streets":"Normandy Ave & Rutherford Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6707 W Archer Ave",
+          "Garfield Ridge",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Garfield Ridge"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6707 W Archer Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7919083,
+          "longitude":-87.7895126
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/lacocos-pizza-and-pasta-chicago-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":31,
+      "name":"LaCocos Pizza & Pasta",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/lacocos-pizza-and-pasta-chicago-2",
+      "is_closed":false,
+      "id":"lacocos-pizza-and-pasta-chicago-2",
+      "phone":"7735232205",
+      "snippet_text":"I recently had my daughter's Birthday party at LaCoco's Banquet.  I couldn't have been more happier with how great everything was. Staff was super friendly!...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/-X-94nnAb2-GS0bpEv_e_A/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-523-2205",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1403502073,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/qr9NuobH0kWBTCVmZBiKAw/ms.jpg",
+      "location":{
+        "cross_streets":"Homan Ave & Christiana Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3350 W 47th St",
+          "Brighton Park",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Brighton Park"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "3350 W 47th St"
+        ],
+        "coordinate":{
+          "latitude":41.808110922575,
+          "longitude":-87.707996070385
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/el-tenampa-bar-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":1,
+      "name":"El Tenampa bar",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/el-tenampa-bar-chicago",
+      "is_closed":false,
+      "phone":"7738006291",
+      "snippet_text":"Came here last week with a friend who frequents, not bad and the bar tender was nice but I felt it lacked warmth in the way of service. Granted it's not a...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/xU9wQUpzvuSHNF57NCLJzg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-800-6291",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"el-tenampa-bar-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/viU4nzLO_UJ0FCFCR6kpvQ/ms.jpg",
+      "location":{
+        "cross_streets":"53rd St & 54th St",
+        "city":"Chicago",
+        "display_address":[
+          "5315 S Pulaski Rd",
+          "West Elsdon",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "West Elsdon"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "5315 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.7964761704206,
+          "longitude":-87.723179385066
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":1.0,
+      "mobile_url":"http://m.yelp.com/biz/just-one-more-time-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png",
+      "review_count":2,
+      "name":"Just One More Time",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png",
+      "url":"http://www.yelp.com/biz/just-one-more-time-chicago",
+      "is_closed":false,
+      "phone":"7737783762",
+      "snippet_text":"Gang banger bar, go for a shot of whiskey, stay because you got shot in the back of the head.",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-773-778-3762",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/cc5d90a21966/ico/stars/v1/stars_large_1.png",
+      "id":"just-one-more-time-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/1NML2N1-TFTzyO4AknG4Uw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5332 S Kedzie Avenue",
+          "Gage Park",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Gage Park"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "5332 S Kedzie Avenue"
+        ],
+        "coordinate":{
+          "latitude":41.7961388,
+          "longitude":-87.7039719
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/shotays-bar-n-grill-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Shotays Bar N Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/shotays-bar-n-grill-chicago",
+      "is_closed":false,
+      "phone":"7732475556",
+      "snippet_text":"Great neighborhood bar.   You can walk in and feel right at home. \nThey have drink specials, Bears games on Sunday with free food.\nThey have events monthly....",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Fast Food",
+          "hotdogs"
+        ]
+      ],
+      "display_phone":"+1-773-247-5556",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"shotays-bar-n-grill-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/CiNOn2GF090Bz0_XrxVZog/ms.jpg",
+      "location":{
+        "cross_streets":"Kildare Ave & Kolin Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4311 W 47th St",
+          "Archer Heights",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Archer Heights"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "4311 W 47th St"
+        ],
+        "coordinate":{
+          "latitude":41.807544,
+          "longitude":-87.731416
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

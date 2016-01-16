@@ -1,0 +1,1026 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.16065639003909382,
+      "longitude_delta":0.251042659999996
+    },
+    "center":{
+      "latitude":41.68524463183596,
+      "longitude":-87.6568111
+    }
+  },
+  "total":1178,
+  "businesses":[
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/deja-brew-bar-and-grill-oak-lawn-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":77,
+      "name":"Deja Brew Bar & Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/deja-brew-bar-and-grill-oak-lawn-2",
+      "is_closed":false,
+      "phone":"7084230484",
+      "snippet_text":"My husband and I frequent this neighborhood sports bar often with our friends.  We love the atmosphere.  The staff is very friendly, they offer a large...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/GPDKlNEBC2QP6adfhBUMCQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-423-0484",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"deja-brew-bar-and-grill-oak-lawn-2",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/UHxQ_DiZZLhDV3cBldvJ1w/ms.jpg",
+      "location":{
+        "cross_streets":"52nd Ave & Cook Ave",
+        "city":"Oak Lawn",
+        "display_address":[
+          "5219 W 95th St",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "5219 W 95th St"
+        ],
+        "coordinate":{
+          "latitude":41.719596,
+          "longitude":-87.751472
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/licorice-lounge-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":3,
+      "name":"Licorice Lounge",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/licorice-lounge-chicago",
+      "is_closed":false,
+      "phone":"7739622000",
+      "snippet_text":"I love this place!  It is my hideaway from the city hustle and bustle! There is always a welcoming cheer when you come through the door and a glass of...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/WwYsbjri8nAMTztSSpPHjg/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-962-2000",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"licorice-lounge-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/nhT4jrl6-RwSTtcu8OrDGg/ms.jpg",
+      "location":{
+        "cross_streets":"Champlain Ave & Langley Ave",
+        "city":"Chicago",
+        "display_address":[
+          "607 E 87th St",
+          "Chatham",
+          "Chicago, IL 60619"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Chatham"
+        ],
+        "postal_code":"60619",
+        "country_code":"US",
+        "address":[
+          "607 E 87th St"
+        ],
+        "coordinate":{
+          "latitude":41.7365328,
+          "longitude":-87.6093283
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/at-the-office-sports-bar-and-grill-crestwood",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":38,
+      "name":"At The Office Sports Bar & Grill",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/at-the-office-sports-bar-and-grill-crestwood",
+      "is_closed":false,
+      "phone":"7083885520",
+      "snippet_text":"I come into town every three weeks for work. Since the first time going to The Office I haven't been to town without stopping in. Best boneless wings I've...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/fn3tDubL_CXl21AcWXcTnQ/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-388-5520",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"at-the-office-sports-bar-and-grill-crestwood",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/vvTU2sV-2Hv9lPZ6u2pjjg/ms.jpg",
+      "location":{
+        "city":"Crestwood",
+        "display_address":[
+          "4901 Cal Sag Rd",
+          "Crestwood, IL 60445"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60445",
+        "country_code":"US",
+        "address":[
+          "4901 Cal Sag Rd"
+        ],
+        "coordinate":{
+          "latitude":41.654457,
+          "longitude":-87.74131
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/island-sports-bar-and-grill-blue-island",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":12,
+      "name":"Island Sports Bar and Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/island-sports-bar-and-grill-blue-island",
+      "is_closed":false,
+      "id":"island-sports-bar-and-grill-blue-island",
+      "phone":"7083714400",
+      "snippet_text":"Island Bar is one of my favorite spots. I'm there at least three days out the week. Great food, drinks & music. The owner and staff are great  people. I...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/eAPhvi20SJsl2x6ESdxyYw/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-708-371-4400",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1407904746,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/usUtkFbJFVNPJxjfz7mJHQ/ms.jpg",
+      "location":{
+        "city":"Blue Island",
+        "display_address":[
+          "13414 Olde Western",
+          "Blue Island, IL 60406"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60406",
+        "country_code":"US",
+        "address":[
+          "13414 Olde Western"
+        ],
+        "coordinate":{
+          "latitude":41.648953333497,
+          "longitude":-87.6808722317219
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/chi-tung-evergreen-park",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":408,
+      "name":"Chi Tung",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/chi-tung-evergreen-park",
+      "is_closed":false,
+      "id":"chi-tung-evergreen-park",
+      "phone":"7086368180",
+      "snippet_text":"I always have a good time and a great meal whenever I come here.  My family opted for the hibachi grill.  I ordered the chicken and scallops for my meal....",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/hWDkf6O7ZojcL5HhE3C9mA/ms.jpg",
+      "categories":[
+        [
+          "Chinese",
+          "chinese"
+        ],
+        [
+          "Thai",
+          "thai"
+        ],
+        [
+          "Japanese",
+          "japanese"
+        ]
+      ],
+      "display_phone":"+1-708-636-8180",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387633637,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/vWiT8NMIzYu1SuK6mu-JXA/ms.jpg",
+      "location":{
+        "cross_streets":"95th St & 96th St",
+        "city":"Evergreen Park",
+        "display_address":[
+          "9560 S Kedzie Ave",
+          "Evergreen Park, IL 60805"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60805",
+        "country_code":"US",
+        "address":[
+          "9560 S Kedzie Ave"
+        ],
+        "coordinate":{
+          "latitude":41.719494,
+          "longitude":-87.702192
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/blarney-stone-pub-oak-forest",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":50,
+      "name":"Blarney Stone Pub",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/blarney-stone-pub-oak-forest",
+      "is_closed":false,
+      "phone":"7085354800",
+      "snippet_text":"The only thing that prevents a 5 star review is they tell people that they DO NOT take reservations. When I get there, they have 6 tables reserved!!!   The...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/Qsd9NZ--ofrSCk37mNiT5w/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-708-535-4800",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"blarney-stone-pub-oak-forest",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/uQf_tukNXjiwNiQ1BZaePw/ms.jpg",
+      "location":{
+        "cross_streets":"155th St & 154th St",
+        "city":"Oak Forest",
+        "display_address":[
+          "15400 Cicero Ave",
+          "Oak Forest, IL 60452"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60452",
+        "country_code":"US",
+        "address":[
+          "15400 Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.612221,
+          "longitude":-87.737526
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/larrys-of-harvey-harvey",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":2,
+      "name":"Larry's of Harvey",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/larrys-of-harvey-harvey",
+      "is_closed":false,
+      "phone":"7082251779",
+      "snippet_text":"Of course I have to give a bar with my name a 5-star review. :)\n\nI came here with some cousins for drinks and had a wonderful time. Full bar, very down to...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/RhjC-yxJk-RpyrXJ1z2e2Q/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-225-1779",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"larrys-of-harvey-harvey",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/rdMn5Xan_0uU9rveDLFo8A/ms.jpg",
+      "location":{
+        "city":"Harvey",
+        "display_address":[
+          "295 E 147th St",
+          "Harvey, IL 60426"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60426",
+        "country_code":"US",
+        "address":[
+          "295 E 147th St"
+        ],
+        "coordinate":{
+          "latitude":41.62289,
+          "longitude":-87.639488
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/porter-cullens-evergreen-park",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":12,
+      "name":"Porter Cullens",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/porter-cullens-evergreen-park",
+      "is_closed":false,
+      "phone":"7089075558",
+      "snippet_text":"Went here the other night after months of anticipation of awaiting its opening. Well, I am very happy to say that it was well worth the wait! This is not...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/cdILDJwFdHBQ51LPG5m1Gw/ms.jpg",
+      "categories":[
+        [
+          "Irish Pub",
+          "irish_pubs"
+        ]
+      ],
+      "display_phone":"+1-708-907-5558",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"porter-cullens-evergreen-park",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Dq7_L8EN-slbmqowhP3ZjA/ms.jpg",
+      "location":{
+        "cross_streets":"Clifton Park Ave & Central Park Ave",
+        "city":"Evergreen Park",
+        "display_address":[
+          "3541 W 99th St",
+          "Mount Greenwood",
+          "Evergreen Park, IL 60805"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Mount Greenwood"
+        ],
+        "postal_code":"60805",
+        "country_code":"US",
+        "address":[
+          "3541 W 99th St"
+        ],
+        "coordinate":{
+          "latitude":41.71317810091,
+          "longitude":-87.7103538824422
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/argus-brewery-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":36,
+      "name":"Argus Brewery",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/argus-brewery-chicago",
+      "is_closed":false,
+      "phone":"7739414050",
+      "snippet_text":"AWESOME brewery tour .  It starts out in their cool bar room that has a couple game tables.  They give you a pint glass and tell you 'If your glass is...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/xZZA6X618jbIOsZWEBM2rg/ms.jpg",
+      "categories":[
+        [
+          "Local Flavor",
+          "localflavor"
+        ],
+        [
+          "Breweries",
+          "breweries"
+        ],
+        [
+          "Landmarks & Historical Buildings",
+          "landmarks"
+        ]
+      ],
+      "display_phone":"+1-773-941-4050",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"argus-brewery-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Ok-pfWJFdGe79GkGjECCEQ/ms.jpg",
+      "location":{
+        "cross_streets":"114th St & 113th St",
+        "city":"Chicago",
+        "display_address":[
+          "11314 S Front St",
+          "Roseland",
+          "Chicago, IL 60628"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Roseland"
+        ],
+        "postal_code":"60628",
+        "country_code":"US",
+        "address":[
+          "11314 S Front St"
+        ],
+        "coordinate":{
+          "latitude":41.6883296520199,
+          "longitude":-87.6119276943926
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/bj-mcmahons-oak-lawn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":16,
+      "name":"BJ McMahon's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/bj-mcmahons-oak-lawn",
+      "is_closed":false,
+      "phone":"7084223111",
+      "snippet_text":"Been going to BJ's for a long time.  Had a great party for my husband's birthday in the cute party room and have eaten here many times - good, solid, hot,...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/TiPjGwaBkUCkULXg4uGYxQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-422-3111",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"bj-mcmahons-oak-lawn",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/-4bLbt0wq52Zbn0CGbtKmQ/ms.jpg",
+      "location":{
+        "cross_streets":"54th Ct & 55th Ave",
+        "city":"Oak Lawn",
+        "display_address":[
+          "5432 W 95th St",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "5432 W 95th St"
+        ],
+        "coordinate":{
+          "latitude":41.7198615521193,
+          "longitude":-87.7568303793669
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/the-carraig-pub-oak-forest",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":14,
+      "name":"The Carraig Pub",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/the-carraig-pub-oak-forest",
+      "is_closed":false,
+      "phone":"7086879323",
+      "snippet_text":"Recently just turned 21 and knew where I wanted my first drink, The Carraig. Stepping into this place is like stepping into a pub in Ireland. The decor is...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/8d_UALrVMgqz7uq79TFzBg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Irish",
+          "irish"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-708-687-9323",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"the-carraig-pub-oak-forest",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/IiMoFs1nQtd39NpwsCshEQ/ms.jpg",
+      "location":{
+        "cross_streets":"Ridgeland Ave",
+        "city":"Oak Forest",
+        "display_address":[
+          "6119 W 147th St",
+          "Oak Forest, IL 60452"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60452",
+        "country_code":"US",
+        "address":[
+          "6119 W 147th St"
+        ],
+        "coordinate":{
+          "latitude":41.6227798,
+          "longitude":-87.7709198
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/mcnallys-chicago-2",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":5,
+      "name":"McNally's",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/mcnallys-chicago-2",
+      "is_closed":false,
+      "phone":"7737796202",
+      "snippet_text":"A four because I'm feeling friendly....\n\nSeriously if this bar was around the corner from my place, my alcoholism would probably be much more raging....",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/bIv-2PoKq3I4dlP40d6UdA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-779-6202",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"mcnallys-chicago-2",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/aTxpxsbvdgiZSYzjuh2wyw/ms.jpg",
+      "location":{
+        "cross_streets":"111th Pl & 112th St",
+        "city":"Chicago",
+        "display_address":[
+          "11136 S Western Ave",
+          "Morgan Park",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Morgan Park"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "11136 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.6906831413507,
+          "longitude":-87.6811847090721
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/lanigans-irish-pub-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":11,
+      "name":"Lanigan's Irish Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/lanigans-irish-pub-chicago",
+      "is_closed":false,
+      "phone":"7732334004",
+      "snippet_text":"I was here after the Southside Irish parade and seeing as it's been cancelled I am now able to sleep at night.\n\nI don't remember much about being here,...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/z9KZJcB-_LnYUJ0Bq9NqMg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-233-4004",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"lanigans-irish-pub-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/EWz9eW_K6vgWdkeHiouIGw/ms.jpg",
+      "location":{
+        "cross_streets":"Albany Ave & Troy St",
+        "city":"Chicago",
+        "display_address":[
+          "3119 W 111th St",
+          "Mount Greenwood",
+          "Chicago, IL 60655"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Mount Greenwood"
+        ],
+        "postal_code":"60655",
+        "country_code":"US",
+        "address":[
+          "3119 W 111th St"
+        ],
+        "coordinate":{
+          "latitude":41.691326,
+          "longitude":-87.699242
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/club-krave-blue-island",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":4,
+      "name":"Club Krave",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/club-krave-blue-island",
+      "is_closed":false,
+      "deals":[
+        {
+          "what_you_get":"You get a voucher redeemable for $50 at Club Krave.\nPrint out your voucher, or redeem on your phone with the <a href=\"http://www.yelp.com/yelpmobile\">Yelp app</a>.",
+          "time_start":1425407675,
+          "title":"$30 for $50",
+          "url":"http://www.yelp.com/deals/club-krave-blue-island",
+          "additional_restrictions":"Promotion lasts for 1 year from date of purchase. After that period, your voucher is redeemable for the amount you paid. Not valid with other vouchers, certificates, or offers. Must be 21 or older. Only 1 voucher(s) can be purchased and redeemed per person. Must use in a single visit. Up to 3 can be purchased as gifts for others. Subject to the <a target=\"_blank\" href=\"http://www.yelp.com/tos/general_b2c_us_20120911\">General Terms</a>.",
+          "id":"lWIWOUBknceZ0b0wY_kp2Q",
+          "image_url":"http://s3-media3.fl.yelpcdn.com/dphoto/F65xsDEQHiGZKsUYFPnA3A/m.jpg",
+          "options":[
+            {
+              "original_price":5000,
+              "title":"$30 for $50",
+              "price":3000,
+              "purchase_url":"https://www.yelp.com/checkout/deal/TIEG3FEDBopkLL-Ek2H84Q",
+              "formatted_original_price":"$50",
+              "formatted_price":"$30",
+              "is_quantity_limited":false
+            }
+          ],
+          "currency_code":"USD"
+        }
+      ],
+      "phone":"7085978379",
+      "snippet_text":"I would give it five stars if only the place had more people when I've been here. It's a little crowded, sure, but never to the point where you feel that...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/b8xdibg3AnLMmi0_6JjrUA/ms.jpg",
+      "categories":[
+        [
+          "Gay Bars",
+          "gaybars"
+        ]
+      ],
+      "display_phone":"+1-708-597-8379",
+      "gift_certificates":[
+        {
+          "url":"http://www.yelp.com/gift-certificates/club-krave-blue-island",
+          "unused_balances":"CREDIT",
+          "id":"Dyj7wtFfc52CzRKqVGNBIg",
+          "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/_ai7X5XJXOKUmaeKb30Nqg/m.jpg",
+          "options":[
+            {
+              "price":1000,
+              "formatted_price":"$10"
+            },
+            {
+              "price":2500,
+              "formatted_price":"$25"
+            },
+            {
+              "price":5000,
+              "formatted_price":"$50"
+            },
+            {
+              "price":7500,
+              "formatted_price":"$75"
+            },
+            {
+              "price":10000,
+              "formatted_price":"$100"
+            },
+            {
+              "price":15000,
+              "formatted_price":"$150"
+            }
+          ],
+          "currency_code":"USD"
+        }
+      ],
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"club-krave-blue-island",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/DeELqr3XPBLpBTs9McjDPg/ms.jpg",
+      "location":{
+        "cross_streets":"Grove St & Vermont St",
+        "city":"Blue Island",
+        "display_address":[
+          "13126 S Western Ave",
+          "Blue Island, IL 60406"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60406",
+        "country_code":"US",
+        "address":[
+          "13126 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.654735,
+          "longitude":-87.680298
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/presidents-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":7,
+      "name":"President's Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/presidents-lounge-chicago",
+      "is_closed":false,
+      "phone":"7738741212",
+      "snippet_text":"I was pleasantly surprised at how well lit and inviting the interior was. Vast alcohol selection although the space can get to be a bit tight. Overall a...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/aIiGqWfeeLJnMUtvwbseNQ/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-874-1212",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"presidents-lounge-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/ffZ_L3kD9KPtu6VE7GSKKw/ms.jpg",
+      "location":{
+        "cross_streets":"Champlain Ave & Langley Ave",
+        "city":"Chicago",
+        "display_address":[
+          "653 E 75th St",
+          "Greater Grand Crossing",
+          "Chicago, IL 60619"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Greater Grand Crossing"
+        ],
+        "postal_code":"60619",
+        "country_code":"US",
+        "address":[
+          "653 E 75th St"
+        ],
+        "coordinate":{
+          "latitude":41.7582702636719,
+          "longitude":-87.6082458496094
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/peteys-bungalow-lounge-oak-lawn",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":28,
+      "name":"Petey's Bungalow Lounge",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/peteys-bungalow-lounge-oak-lawn",
+      "is_closed":false,
+      "phone":"7084248210",
+      "snippet_text":"\"Can you drive? I ate too much!\"\n\nMy partner in crime had no idea what he was in for when we met my parents here for dinner, which left him too full to...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/9ZJGeLFEB-hqXF17u5q1GA/ms.jpg",
+      "categories":[
+        [
+          "Steakhouses",
+          "steak"
+        ],
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Seafood",
+          "seafood"
+        ]
+      ],
+      "display_phone":"+1-708-424-8210",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"peteys-bungalow-lounge-oak-lawn",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/XJD-ha5_7WDSJ2rnwrJKUw/ms.jpg",
+      "location":{
+        "cross_streets":"Kostner Ave & Kenneth Ave",
+        "city":"Oak Lawn",
+        "display_address":[
+          "4401 W 95th St",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "4401 W 95th St"
+        ],
+        "coordinate":{
+          "latitude":41.7200797250475,
+          "longitude":-87.7312909234664
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/detox-sports-lounge-calumet-park",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Detox Sports Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/detox-sports-lounge-calumet-park",
+      "is_closed":false,
+      "phone":"7089269167",
+      "snippet_text":"Its a really nice hang out spot. My long island was on point. There was plenty of room to dance and to sit.",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/zYMMEQwKl5xWyd9L3qm0HA/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-926-9167",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"detox-sports-lounge-calumet-park",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/5baJXWOfWVNrTmwwXDHIDg/ms.jpg",
+      "location":{
+        "cross_streets":"Ashland Ave & Justine St",
+        "city":"Calumet Park",
+        "display_address":[
+          "1566 W 127th",
+          "Calumet Park, IL 60827"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60827",
+        "country_code":"US",
+        "address":[
+          "1566 W 127th"
+        ],
+        "coordinate":{
+          "latitude":41.663193,
+          "longitude":-87.660126
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/family-den-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":4,
+      "name":"Family Den",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/family-den-chicago",
+      "is_closed":false,
+      "phone":"7737348545",
+      "snippet_text":"Live Jazz,  free live Jazz that is.\n\nEvery other Sunday the Crosswinds Latin Jazz band does an open set,  may I say they are tight. \n\nIf you are...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/_refJgWQrR5nERrH3_R64g/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-773-734-8545",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"family-den-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/-fyLL3nrs2tb2Irf5ayAKQ/ms.jpg",
+      "location":{
+        "cross_streets":"89th St & 90th St",
+        "city":"Chicago",
+        "display_address":[
+          "8942 S Stony Island Ave",
+          "Calumet Heights",
+          "Chicago, IL 60617"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Calumet Heights"
+        ],
+        "postal_code":"60617",
+        "country_code":"US",
+        "address":[
+          "8942 S Stony Island Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7317417263985,
+          "longitude":-87.5855867564678
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/red-peppers-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":4,
+      "name":"Red Peppers",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/red-peppers-chicago",
+      "is_closed":false,
+      "phone":"7738735700",
+      "snippet_text":"Saturday morning for Brunch about a week ago. Overall, I would go back but I would want them to make some minor changes. \nProbably my 2nd favorite of the 3...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/jx3thwdOrvhK-wY9x7ztbQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-873-5700",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"red-peppers-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/NHsgCjbM3a9SRnQuXiVrqw/ms.jpg",
+      "location":{
+        "cross_streets":"King Dr & Vernon Ave",
+        "city":"Chicago",
+        "display_address":[
+          "428 E 87th St",
+          "Chatham",
+          "Chicago, IL 60619"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Chatham"
+        ],
+        "postal_code":"60619",
+        "country_code":"US",
+        "address":[
+          "428 E 87th St"
+        ],
+        "coordinate":{
+          "latitude":41.7367858886719,
+          "longitude":-87.6132659912109
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/small-world-inn-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":2,
+      "name":"Small World Inn Bar & Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/small-world-inn-bar-and-grill-chicago",
+      "is_closed":false,
+      "phone":"7739338663",
+      "snippet_text":"Great place for your local Serbian/Croatian food.  Have been to this place a couple of times since they reopened and both times had good food.  \n\nThis place...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/o47t87Ovcqc_cLjfCAQ_nQ/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-933-8663",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"small-world-inn-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/kTwvONUsBLXXvRrff1AmaA/ms.jpg",
+      "location":{
+        "cross_streets":"Calumet River St & Buffalo Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3325 E 106th St",
+          "East Side",
+          "Chicago, IL 60617"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "East Side"
+        ],
+        "postal_code":"60617",
+        "country_code":"US",
+        "address":[
+          "3325 E 106th St"
+        ],
+        "coordinate":{
+          "latitude":41.7024918,
+          "longitude":-87.5427399
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

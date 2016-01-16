@@ -1,0 +1,962 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.08836156999998934,
+      "longitude_delta":0.19091348118294604
+    },
+    "center":{
+      "latitude":41.88480585,
+      "longitude":-87.71511924491685
+    }
+  },
+  "total":158,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/open-door-repertory-company-oak-park",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":3,
+      "name":"Open Door Repertory Company",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/open-door-repertory-company-oak-park",
+      "is_closed":false,
+      "phone":"7083420810",
+      "snippet_text":"Love this small but intimate theatre, the customer service here was outstanding and will certainly bring me back again. \nSaw The Marvelous Wonderettes who...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/JAJ0qEhrdApI0JBK2LbVKw/ms.jpg",
+      "categories":[
+        [
+          "Performing Arts",
+          "theater"
+        ],
+        [
+          "Jazz & Blues",
+          "jazzandblues"
+        ]
+      ],
+      "display_phone":"+1-708-342-0810",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"open-door-repertory-company-oak-park",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Lw3uaGce6wl3dQHtSLA18g/ms.jpg",
+      "location":{
+        "city":"Oak Park",
+        "display_address":[
+          "Open Door Theater",
+          "902 South Ridgeland Ave",
+          "Oak Park, IL 60304"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60304",
+        "country_code":"US",
+        "address":[
+          "Open Door Theater",
+          "902 South Ridgeland Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8725848,
+          "longitude":-87.7841943
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/klay-oven-oak-park",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":117,
+      "name":"Klay Oven",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/klay-oven-oak-park",
+      "is_closed":false,
+      "id":"klay-oven-oak-park",
+      "phone":"7083863999",
+      "snippet_text":"Mmm. I just ate some leftovers. Really good. \n\nWe had the vegetable samosas. They were huge and maybe a little bland. Then a Tandoori chicken kebab thing...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/K97pY2jlJxp8lt5R5C9weQ/ms.jpg",
+      "categories":[
+        [
+          "Indian",
+          "indpak"
+        ]
+      ],
+      "display_phone":"+1-708-386-3999",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"eat24",
+      "menu_date_updated":1402432163,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Oak Park Ave & Euclid Ave",
+        "city":"Oak Park",
+        "display_address":[
+          "734 Lake St",
+          "Oak Park, IL 60301"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60301",
+        "country_code":"US",
+        "address":[
+          "734 Lake St"
+        ],
+        "coordinate":{
+          "latitude":41.888752,
+          "longitude":-87.7937088
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/robinsons-no-1-ribs-oak-park",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":55,
+      "name":"Robinson's No 1 Ribs",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/robinsons-no-1-ribs-oak-park",
+      "is_closed":false,
+      "id":"robinsons-no-1-ribs-oak-park",
+      "phone":"7083838452",
+      "snippet_text":"Went into Robinson's No. 1 today for the first time. I've had Robinson's ribs at different outdoor events, and always thought they were pretty good. Today,...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/PDw8XoZQtIfJJJ48GIXIdg/ms.jpg",
+      "categories":[
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-708-383-8452",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "menu_provider":"eat24",
+      "menu_date_updated":1421788696,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/ZojLX66wZcUTzgYj7uLEzw/ms.jpg",
+      "location":{
+        "cross_streets":"Home Ave & Clinton Ave",
+        "city":"Oak Park",
+        "display_address":[
+          "940 Madison St",
+          "Oak Park, IL 60302"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60302",
+        "country_code":"US",
+        "address":[
+          "940 Madison St"
+        ],
+        "coordinate":{
+          "latitude":41.8799095,
+          "longitude":-87.7988129
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/flat-top-grill-oak-park-2",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":137,
+      "name":"Flat Top Grill",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/flat-top-grill-oak-park-2",
+      "is_closed":false,
+      "id":"flat-top-grill-oak-park-2",
+      "phone":"7083588200",
+      "snippet_text":"This is one of those places I'll go every once in a while because I'm in the mood for that delicious roti flatbread that you can add to your stir fry with a...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/-ukgUrlSGqb5JsViFs9XXw/ms.jpg",
+      "categories":[
+        [
+          "Asian Fusion",
+          "asianfusion"
+        ]
+      ],
+      "display_phone":"+1-708-358-8200",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387568832,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/xXrQwBUUiyZoa6f7gqNDtA/ms.jpg",
+      "location":{
+        "cross_streets":"Oak Park Ave & Euclid Ave",
+        "city":"Oak Park",
+        "display_address":[
+          "726 Lake St",
+          "Oak Park, IL 60301"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60301",
+        "country_code":"US",
+        "address":[
+          "726 Lake St"
+        ],
+        "coordinate":{
+          "latitude":41.888792782188,
+          "longitude":-87.793736459591
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/cafe-latino-berwyn",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":27,
+      "name":"Cafe Latino",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/cafe-latino-berwyn",
+      "is_closed":false,
+      "id":"cafe-latino-berwyn",
+      "phone":"7087887602",
+      "snippet_text":"I am a Puerto Rican Girl from the South Side so I always travel North for food!! But that no longer will happen! The food is Amazing and has so much...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/AFln7L0b6qhjf_M9_Njv1w/ms.jpg",
+      "categories":[
+        [
+          "Cuban",
+          "cuban"
+        ],
+        [
+          "Puerto Rican",
+          "puertorican"
+        ]
+      ],
+      "display_phone":"+1-708-788-7602",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1421833769,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/Y1tvB-K8wFX_l85ycMqYqw/ms.jpg",
+      "location":{
+        "cross_streets":"Harvey Ave & Highland Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6241 W Cermak Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6241 W Cermak Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8506754,
+          "longitude":-87.780117
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/tlaloc-restaurant-and-bar-cicero",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"Tlaloc Restaurant & Bar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/tlaloc-restaurant-and-bar-cicero",
+      "is_closed":false,
+      "phone":"7082229310",
+      "snippet_text":"Cicero has been waiting for a place like this! Tlaloc Restaurant & Bar is perfect for any occasion,big enough for large parties, casual enough for watching...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/paDbvG0CfK6MnJcCaxGakQ/ms.jpg",
+      "categories":[
+        [
+          "Mexican",
+          "mexican"
+        ]
+      ],
+      "display_phone":"+1-708-222-9310",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"tlaloc-restaurant-and-bar-cicero",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/1qy0X29sqF5t3mDovYSw_g/ms.jpg",
+      "location":{
+        "cross_streets":"Austin Blvd & 60th Ct",
+        "city":"Cicero",
+        "display_address":[
+          "6007 W Cermak Rd",
+          "Cicero, IL 60804"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60804",
+        "country_code":"US",
+        "address":[
+          "6007 W Cermak Rd"
+        ],
+        "coordinate":{
+          "latitude":41.850491,
+          "longitude":-87.774216
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/china-chop-suey-oak-park",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":23,
+      "name":"China Chop Suey",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/china-chop-suey-oak-park",
+      "is_closed":false,
+      "id":"china-chop-suey-oak-park",
+      "phone":"7085243388",
+      "snippet_text":"My first time here so take my review for what it's worth. Really great Chinese is hard to come by in this neighborhood. I ordered the Hot and Sour Soup...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/qv3jNTy1bgVKx67F2UvYzQ/ms.jpg",
+      "categories":[
+        [
+          "Chinese",
+          "chinese"
+        ]
+      ],
+      "display_phone":"+1-708-524-3388",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1395324619,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/MfP3vyDfxJm-OPmhX5Q-Og/ms.jpg",
+      "location":{
+        "cross_streets":"Marion St & Rossell Ave",
+        "city":"Oak Park",
+        "display_address":[
+          "6425 North Ave",
+          "Oak Park, IL 60302"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60302",
+        "country_code":"US",
+        "address":[
+          "6425 North Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9087977699492,
+          "longitude":-87.7857249247521
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/first-chop-suey-cicero",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":6,
+      "name":"First Chop Suey",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/first-chop-suey-cicero",
+      "is_closed":false,
+      "id":"first-chop-suey-cicero",
+      "phone":"7087807000",
+      "snippet_text":"First chop suey, they are pretty good. They give big portions when you take out but if you eat there the portions are small on a paper plate. Most of the...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/qO0QF6Z9RVl8YGGe7lV_kA/ms.jpg",
+      "categories":[
+        [
+          "Chinese",
+          "chinese"
+        ],
+        [
+          "Juice Bars & Smoothies",
+          "juicebars"
+        ]
+      ],
+      "display_phone":"+1-708-780-7000",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387917491,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/o6H7T0b-nd3yrWqsfw-IAg/ms.jpg",
+      "location":{
+        "city":"Cicero",
+        "display_address":[
+          "2325 S Cicero Ave",
+          "Lawndale",
+          "Cicero, IL 60804"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lawndale"
+        ],
+        "postal_code":"60804",
+        "country_code":"US",
+        "address":[
+          "2325 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8489342,
+          "longitude":-87.7440109
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/prints-unlimited-galleries-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":27,
+      "name":"Prints Unlimited Galleries",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/prints-unlimited-galleries-chicago-2",
+      "is_closed":false,
+      "phone":"7738719900",
+      "snippet_text":"My daughter told me she had a poster that she wanted to frame simply and quickly and I took it to her nearest different frame shop (NOT Prints They quoted...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/_SdqfQ09XPcYZmGbE2blCQ/ms.jpg",
+      "categories":[
+        [
+          "Art Galleries",
+          "galleries"
+        ],
+        [
+          "Framing",
+          "framing"
+        ],
+        [
+          "Interior Design",
+          "interiordesign"
+        ]
+      ],
+      "display_phone":"+1-773-871-9900",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"prints-unlimited-galleries-chicago-2",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/QBoV8Nd586yoI_JAcrxP9w/ms.jpg",
+      "location":{
+        "cross_streets":"Janssen Ave & Greenview Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1461 W Fullerton Ave",
+          "Lincoln Park",
+          "Chicago, IL 60614"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lincoln Park",
+          "DePaul"
+        ],
+        "postal_code":"60614",
+        "country_code":"US",
+        "address":[
+          "1461 W Fullerton Ave"
+        ],
+        "coordinate":{
+          "latitude":41.924919,
+          "longitude":-87.665641
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/bare-assets-cicero",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Bare-Assets",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/bare-assets-cicero",
+      "is_closed":false,
+      "phone":"7087807773",
+      "snippet_text":"Came in to Bare Assets to get some fun things for a bachelorette party ! The staff was extremely helpful and friendly! It had a very fun and upbeat vibe! Ha...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/WffOgeeEAQ5Ek6DNor9tXA/ms.jpg",
+      "categories":[
+        [
+          "Adult Entertainment",
+          "adultentertainment"
+        ]
+      ],
+      "display_phone":"+1-708-780-7773",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"bare-assets-cicero",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/ehjWfS7vWjzH1PjZW1kBVQ/ms.jpg",
+      "location":{
+        "cross_streets":"Illinois Route 50 & 47th Ave",
+        "city":"Cicero",
+        "display_address":[
+          "4701 W Roosevelt Rd",
+          "Lawndale",
+          "Cicero, IL 60804"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lawndale"
+        ],
+        "postal_code":"60804",
+        "country_code":"US",
+        "address":[
+          "4701 W Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.865665,
+          "longitude":-87.742477
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/j-js-take-five-berwyn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":2,
+      "name":"J J's Take Five",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/j-js-take-five-berwyn",
+      "is_closed":false,
+      "phone":"7087498552",
+      "snippet_text":"I just wanted to clarify that this bar is NOT closed!  I just spoke with the owner, and they are definitely still in business. JJs is a great little...",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-749-8552",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"j-js-take-five-berwyn",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/dA29UwuOpoT220QKGOwrgA/ms.jpg",
+      "location":{
+        "cross_streets":"Cuyler Ave & Ridgeland Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6330 16th St",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6330 16th St"
+        ],
+        "coordinate":{
+          "latitude":41.8580013513565,
+          "longitude":-87.7827458828688
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/geppettos-pizza-and-pasta-oak-park",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":121,
+      "name":"Geppetto's Pizza And Pasta",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/geppettos-pizza-and-pasta-oak-park",
+      "is_closed":false,
+      "id":"geppettos-pizza-and-pasta-oak-park",
+      "phone":"7083869200",
+      "snippet_text":"Review is based on carryout only (I've never dined in). \n\nWe choose to order here often because it's some of the best local deep dish. I have lots of...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/QeRC1SnjSkekgqvq5CJgiw/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-708-386-9200",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387635018,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/xXrQwBUUiyZoa6f7gqNDtA/ms.jpg",
+      "location":{
+        "cross_streets":"North Blvd & Lake St",
+        "city":"Oak Park",
+        "display_address":[
+          "112 N Oak Park Ave",
+          "Ste 1",
+          "Oak Park, IL 60301"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60301",
+        "country_code":"US",
+        "address":[
+          "112 N Oak Park Ave",
+          "Ste 1"
+        ],
+        "coordinate":{
+          "latitude":41.8880078941584,
+          "longitude":-87.7944322675467
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/big-guys-sausage-stand-berwyn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":167,
+      "name":"Big Guys Sausage Stand",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/big-guys-sausage-stand-berwyn",
+      "is_closed":false,
+      "id":"big-guys-sausage-stand-berwyn",
+      "phone":"7083175213",
+      "snippet_text":"I seriously think whoever makes their chili is some sort of deity. This is hands down the best chili I have ever eaten. It is thick enough to where it is...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/mxj489D1CTLtOrGKvLZeWQ/ms.jpg",
+      "categories":[
+        [
+          "Sandwiches",
+          "sandwiches"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ],
+        [
+          "Fast Food",
+          "hotdogs"
+        ]
+      ],
+      "display_phone":"+1-708-317-5213",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1415779935,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/IN3K3uDNY_DVL8J8JeLiOQ/ms.jpg",
+      "location":{
+        "cross_streets":"Home Ave & Wenonah Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "7021 Roosevelt Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "7021 Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8649275549636,
+          "longitude":-87.8000421077013
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/longhorn-steakhouse-berwyn-3",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":32,
+      "name":"LongHorn Steakhouse",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/longhorn-steakhouse-berwyn-3",
+      "is_closed":false,
+      "phone":"7084846350",
+      "snippet_text":"Our wait was not as long as expected, as a party of 20 had just been seated before we arrived.  (We were told 45 minutes, but the wait was less than 20...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/u3dgxro5_JZcAVWLEgMiUg/ms.jpg",
+      "categories":[
+        [
+          "Steakhouses",
+          "steak"
+        ]
+      ],
+      "display_phone":"+1-708-484-6350",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"longhorn-steakhouse-berwyn-3",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/FziT9yjgGFmbOD-Y6yg0YA/ms.jpg",
+      "location":{
+        "cross_streets":"Wisconsin Ave & Maple Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "7115 W Cermak Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "7115 W Cermak Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8502655,
+          "longitude":-87.8017349
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":1.0,
+      "mobile_url":"http://m.yelp.com/biz/la-ultima-barca-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png",
+      "review_count":1,
+      "name":"La Ultima Barca",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png",
+      "url":"http://www.yelp.com/biz/la-ultima-barca-chicago",
+      "is_closed":false,
+      "snippet_text":"if you're squeamish about blatant prostitution-including rooms for hourly rent in the above \"apartments\" and an insane amount of public drunkenness,( see...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/eMICpIvJmaLK-yGNUYqZGw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/cc5d90a21966/ico/stars/v1/stars_large_1.png",
+      "id":"la-ultima-barca-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/xRF6q0c6aXxNr9CQhFSVFw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "3534 W. Armitage",
+          "Logan Square",
+          "Chicago, IL 60647"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Logan Square"
+        ],
+        "postal_code":"60647",
+        "country_code":"US",
+        "address":[
+          "3534 W. Armitage"
+        ],
+        "coordinate":{
+          "latitude":41.9175720214844,
+          "longitude":-87.7149658203125
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/nine-30-ten-berwyn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"Nine 30 Ten",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/nine-30-ten-berwyn",
+      "is_closed":false,
+      "phone":"7083175568",
+      "snippet_text":"Great bar with extensive craft selection and great music. Perfect place to watch all local sporting events, and perfect location for local expressways.",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/RGusgj3jn0Tmfzl54OgXOg/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-317-5568",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"nine-30-ten-berwyn",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/GLafu39jV90E6gKmSOv1kg/ms.jpg",
+      "location":{
+        "city":"Berwyn",
+        "display_address":[
+          "6710 W Cermak",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6710 W Cermak"
+        ],
+        "coordinate":{
+          "latitude":41.8507462,
+          "longitude":-87.7914124
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/chicago-curry-house-chicago-6",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":335,
+      "name":"Chicago Curry House",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/chicago-curry-house-chicago-6",
+      "is_closed":false,
+      "id":"chicago-curry-house-chicago-6",
+      "phone":"3123629999",
+      "snippet_text":"Easy to order online, quick takeout service, and generous portions to accompany big flavors. Perfectly quenched my pregnancy craving for Indian food on the...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/vxVRPoNJasS6r_JmUZkqgw/ms.jpg",
+      "categories":[
+        [
+          "Indian",
+          "indpak"
+        ],
+        [
+          "Himalayan/Nepalese",
+          "himalayan"
+        ]
+      ],
+      "display_phone":"+1-312-362-9999",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1415610718,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/gKmo4hHH8z-xHX7p4Of4_w/ms.jpg",
+      "location":{
+        "cross_streets":"Polk St & 9th St",
+        "city":"Chicago",
+        "display_address":[
+          "899 S Plymouth Ct",
+          "South Loop",
+          "Chicago, IL 60605"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "South Loop"
+        ],
+        "postal_code":"60605",
+        "country_code":"US",
+        "address":[
+          "899 S Plymouth Ct"
+        ],
+        "coordinate":{
+          "latitude":41.8705694541676,
+          "longitude":-87.6283403898337
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/live-fresko-oak-park-4",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":26,
+      "name":"Live Fresko",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/live-fresko-oak-park-4",
+      "is_closed":false,
+      "phone":"7084345255",
+      "snippet_text":"After well over a dozen visits, I still love everything about this place: not only the raw juices, smoothies, salads & baked goods, but the decor and the...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/MthPzRbcxRKC2gplRhMMuA/ms.jpg",
+      "categories":[
+        [
+          "Juice Bars & Smoothies",
+          "juicebars"
+        ],
+        [
+          "Cafes",
+          "cafes"
+        ],
+        [
+          "Greek",
+          "greek"
+        ]
+      ],
+      "display_phone":"+1-708-434-5255",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"live-fresko-oak-park-4",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/e1T4lyQiXVJfg2Cn5m_3gw/ms.jpg",
+      "location":{
+        "cross_streets":"North Blvd & Lake St",
+        "city":"Oak Park",
+        "display_address":[
+          "136 N Oak Park Ave",
+          "Oak Park, IL 60301"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60301",
+        "country_code":"US",
+        "address":[
+          "136 N Oak Park Ave"
+        ],
+        "coordinate":{
+          "latitude":41.888528540225,
+          "longitude":-87.7943579327446
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/jacaranda-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":2,
+      "name":"Jacaranda",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/jacaranda-chicago",
+      "is_closed":false,
+      "phone":"7735210095",
+      "snippet_text":"Good micheladas, nice feel inside, bar tender is great",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-521-0095",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"jacaranda-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/LGJJpJsGoyJlRt8dP0ym2Q/ms.jpg",
+      "location":{
+        "cross_streets":"Central Park Ave & Millard Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3608 W 26th St",
+          "Little Village",
+          "Chicago, IL 60623"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Little Village"
+        ],
+        "postal_code":"60623",
+        "country_code":"US",
+        "address":[
+          "3608 W 26th St"
+        ],
+        "coordinate":{
+          "latitude":41.844624,
+          "longitude":-87.715225
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/striker-lanes-berwyn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":7,
+      "name":"Striker Lanes",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/striker-lanes-berwyn",
+      "is_closed":false,
+      "phone":"7084847831",
+      "snippet_text":"Great bowling alley! I love the family-owned vibe this place has. The digital scoring and relatively cheap pricing on games & shoe rental are also major...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/tCOMDsB7MXpGJS9CHXoJCA/ms.jpg",
+      "categories":[
+        [
+          "Bowling",
+          "bowling"
+        ]
+      ],
+      "display_phone":"+1-708-484-7831",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"striker-lanes-berwyn",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/lpRq1W9K1gOhqKCgCV-w4A/ms.jpg",
+      "location":{
+        "cross_streets":"Oak Park Ave & Euclid Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6728 16th St",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6728 16th St"
+        ],
+        "coordinate":{
+          "latitude":41.8577652,
+          "longitude":-87.7925491
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

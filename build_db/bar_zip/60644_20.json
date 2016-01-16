@@ -1,0 +1,934 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.07474851999999998,
+      "longitude_delta":0.08339101833897189
+    },
+    "center":{
+      "latitude":41.8836726,
+      "longitude":-87.7641434083359
+    }
+  },
+  "total":158,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/colemans-bar-b-que-no-2-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":4,
+      "name":"Coleman's Bar-B-Que No 2",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/colemans-bar-b-que-no-2-chicago",
+      "is_closed":false,
+      "phone":"7732870363",
+      "snippet_text":"Love this place for \"real\" bbq! It's worth a trip from the suburbs to the city. I like Famous Dave's like the next person.. but let's face it.. that's not...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/7XEeU7o9PqbD2qS18lgd5w/ms.jpg",
+      "categories":[
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-773-287-0363",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"colemans-bar-b-que-no-2-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/fbubWK54_tnFv6_tI-FwCQ/ms.jpg",
+      "location":{
+        "cross_streets":"Massasoit Ave & Menard Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5754 W Chicago Ave",
+          "Austin",
+          "Chicago, IL 60651"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Austin"
+        ],
+        "postal_code":"60651",
+        "country_code":"US",
+        "address":[
+          "5754 W Chicago Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8948408216238,
+          "longitude":-87.7694984525442
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/erricos-club-30-cicero",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":2,
+      "name":"Errico's Club 30",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/erricos-club-30-cicero",
+      "is_closed":false,
+      "phone":"7086520945",
+      "snippet_text":"Affordable bars such as these are rapidly disappearing from the urban landscape. And that's a real shame.\n\nAt one time, each little neighborhood had several...",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-708-652-0945",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"erricos-club-30-cicero",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/M70LqfJAW0a84vcy-OmtGA/ms.jpg",
+      "location":{
+        "city":"Cicero",
+        "display_address":[
+          "5713 W Roosevelt Rd",
+          "Cicero, IL 60804"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60804",
+        "country_code":"US",
+        "address":[
+          "5713 W Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.865288,
+          "longitude":-87.767487
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/buzz-caf%C3%A9-oak-park-3",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":176,
+      "name":"Buzz Caf\u00e9",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/buzz-caf%C3%A9-oak-park-3",
+      "is_closed":false,
+      "id":"buzz-caf\u00e9-oak-park-3",
+      "phone":"7085242899",
+      "snippet_text":"I feel like I may be in the minority with my 5-star rating at least as of late. At worst, Buzz Cafe deserves 4-stars. As it's in my neighborhood, I've been...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/zWM5-jmsxdgSg4ei_enY2Q/ms.jpg",
+      "categories":[
+        [
+          "Coffee & Tea",
+          "coffee"
+        ],
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-708-524-2899",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1423040670,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/PurxnaWXQWQTlUIKJip3zw/ms.jpg",
+      "location":{
+        "cross_streets":"Harrison St & Flournoy St",
+        "city":"Oak Park",
+        "display_address":[
+          "905 S Lombard Ave",
+          "Oak Park, IL 60304"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60304",
+        "country_code":"US",
+        "address":[
+          "905 S Lombard Ave"
+        ],
+        "coordinate":{
+          "latitude":41.872403,
+          "longitude":-87.779402
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/sprecher-brewing-company-milwaukee",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":143,
+      "name":"Sprecher Brewing Co",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/sprecher-brewing-company-milwaukee",
+      "is_closed":false,
+      "phone":"4149647837",
+      "snippet_text":"The samples were awesome, I love their soda.",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/qjo3Oi8fs8Jz-JPzhuOR_A/ms.jpg",
+      "categories":[
+        [
+          "Tours",
+          "tours"
+        ],
+        [
+          "Breweries",
+          "breweries"
+        ]
+      ],
+      "display_phone":"+1-414-964-7837",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"sprecher-brewing-company-milwaukee",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/bZKUo6Os9TD3O587UGKyzw/ms.jpg",
+      "location":{
+        "city":"Milwaukee",
+        "display_address":[
+          "701 W Glendale Ave",
+          "Grover Heights",
+          "Milwaukee, WI 53209"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Grover Heights"
+        ],
+        "postal_code":"53209",
+        "country_code":"US",
+        "address":[
+          "701 W Glendale Ave"
+        ],
+        "coordinate":{
+          "latitude":43.100231,
+          "longitude":-87.919893
+        },
+        "state_code":"WI"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/taste-of-brasil-oak-park-2",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":211,
+      "name":"Taste of Brasil",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/taste-of-brasil-oak-park-2",
+      "is_closed":false,
+      "id":"taste-of-brasil-oak-park-2",
+      "phone":"7083833550",
+      "snippet_text":"I've been here three times now. The meals are always wonderful. Took some friends here last night and they really enjoyed it. The space itself is sort of...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/efC2IPuAZcPOkZWtGHR_vA/ms.jpg",
+      "categories":[
+        [
+          "Brazilian",
+          "brazilian"
+        ]
+      ],
+      "display_phone":"+1-708-383-3550",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1403701404,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/U2ZoMt5HRAVkQ0XdGjp-uQ/ms.jpg",
+      "location":{
+        "cross_streets":"Garfield St & Lexington St",
+        "city":"Oak Park",
+        "display_address":[
+          "906 S Oak Park Ave",
+          "Oak Park, IL 60304"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60304",
+        "country_code":"US",
+        "address":[
+          "906 S Oak Park Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8717513,
+          "longitude":-87.7938104
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/three-muskies-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Three Muskies",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/three-muskies-chicago",
+      "is_closed":false,
+      "phone":"7732378408",
+      "snippet_text":"This review is partial because I only go to Three Muskies annual fish fry (which was rumored to end last year) to meet up with old friends for a reunion....",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-237-8408",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"three-muskies-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/QRdqoGhUeWBGuTsfRSA0Mg/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5314 W Grand Avenue",
+          "Cragin",
+          "Chicago, IL 60639"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Cragin"
+        ],
+        "postal_code":"60639",
+        "country_code":"US",
+        "address":[
+          "5314 W Grand Avenue"
+        ],
+        "coordinate":{
+          "latitude":41.9177704,
+          "longitude":-87.7589722
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/terrys-bar-bq-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":2,
+      "name":"Terry's Bar Bq",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/terrys-bar-bq-chicago",
+      "is_closed":false,
+      "phone":"7739211111",
+      "snippet_text":"Terry's Bar-B-Q is a new local attraction...but the nose knows good barbecue!\n\nThe smell of the smoke house in the crisp winter air will bring you to the...",
+      "categories":[
+        [
+          "Barbeque",
+          "bbq"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-921-1111",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"terrys-bar-bq-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/6mOyItYe4JxrAmDiGMrspQ/ms.jpg",
+      "location":{
+        "cross_streets":"Pine Ave & Central Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5501 W Division St",
+          "Austin",
+          "Chicago, IL 60651"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Austin"
+        ],
+        "postal_code":"60651",
+        "country_code":"US",
+        "address":[
+          "5501 W Division St"
+        ],
+        "coordinate":{
+          "latitude":41.901897,
+          "longitude":-87.764038
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/wire-berwyn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":22,
+      "name":"Wire",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/wire-berwyn",
+      "is_closed":false,
+      "phone":"7086699473",
+      "snippet_text":"Easy commute like 12 minutes from downtown via car, or a quick walk from the Blue Line. \n\nMet up with a few friends to see Chicago Funk Mafia at Wire on...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/xMtzZ4pcvI1tXtfslKD-Hg/ms.jpg",
+      "categories":[
+        [
+          "Music Venues",
+          "musicvenues"
+        ],
+        [
+          "Musical Instruments & Teachers",
+          "musicalinstrumentsandteachers"
+        ]
+      ],
+      "display_phone":"+1-708-669-9473",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"wire-berwyn",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Sx-AAviFzO3w2PfHG2WVIw/ms.jpg",
+      "location":{
+        "cross_streets":"Grove Ave & Oak Park Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6815 W Roosevelt Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6815 W Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.86487,
+          "longitude":-87.7946149
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/hemmingways-bistro-oak-park",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":117,
+      "name":"Hemmingway's Bistro",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/hemmingways-bistro-oak-park",
+      "is_closed":false,
+      "phone":"7085240806",
+      "snippet_text":"A diamond fully polished.\n\nFine, delicious food. Classy decor. Old-school elegant music. And Tom is simply the best! Our brunch couldn't have been a better...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/iZxZeuo9-n5FHG-ww6jf6w/ms.jpg",
+      "categories":[
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ],
+        [
+          "Steakhouses",
+          "steak"
+        ],
+        [
+          "Seafood",
+          "seafood"
+        ]
+      ],
+      "display_phone":"+1-708-524-0806",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"hemmingways-bistro-oak-park",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/1JdCwlDxMSyPWo59GPyqpg/ms.jpg",
+      "location":{
+        "cross_streets":"Pleasant St & Ontario St",
+        "city":"Oak Park",
+        "display_address":[
+          "211 N Oak Park Ave",
+          "Oak Park, IL 60302"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60302",
+        "country_code":"US",
+        "address":[
+          "211 N Oak Park Ave"
+        ],
+        "coordinate":{
+          "latitude":41.89072,
+          "longitude":-87.794991
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/el-patron-sports-bar-cicero",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":2,
+      "name":"El Patron Sports Bar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/el-patron-sports-bar-cicero",
+      "is_closed":false,
+      "phone":"7082224600",
+      "snippet_text":"Great place for $1 beers on Thursdays! Atmosphere seems relaxed during the earlier days of the week but usually picks up towards the weekend. The service...",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-222-4600",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"el-patron-sports-bar-cicero",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/72ldmO7Ei66gf_WyHHGXwA/ms.jpg",
+      "location":{
+        "city":"Cicero",
+        "display_address":[
+          "2260 S Cicero Ave",
+          "Cicero, IL 60804"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60804",
+        "country_code":"US",
+        "address":[
+          "2260 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.849697,
+          "longitude":-87.744583
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/cucina-paradiso-oak-park",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":210,
+      "name":"Cucina Paradiso",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/cucina-paradiso-oak-park",
+      "is_closed":false,
+      "id":"cucina-paradiso-oak-park",
+      "phone":"7088483434",
+      "snippet_text":"Pasta sauce so good you could drown your sorrows in it.\n\nAlso, a gluten-free triumph.",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/J_JxUeN_f49fiHVoRgm6jA/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Caterers",
+          "catering"
+        ]
+      ],
+      "display_phone":"+1-708-848-3434",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1422615048,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/oiTIO-LxqZQGXh53L2ex-w/ms.jpg",
+      "location":{
+        "cross_streets":"Oak Park Ave & Kenilworth Ave",
+        "city":"Oak Park",
+        "display_address":[
+          "814 North Blvd",
+          "Oak Park, IL 60301"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60301",
+        "country_code":"US",
+        "address":[
+          "814 North Blvd"
+        ],
+        "coordinate":{
+          "latitude":41.8875999,
+          "longitude":-87.7952499
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/il-vicolo-trattoria-oak-park",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":101,
+      "name":"Il Vicolo Trattoria",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/il-vicolo-trattoria-oak-park",
+      "is_closed":false,
+      "phone":"7083865801",
+      "snippet_text":"No need to drive to Taylor Street, we've got this great Italian restaurant in Oak Park. Italian owner, Italian chef keep this place traditional. Huge...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/ebQxGZKsVgVlazxTT5e2JQ/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-708-386-5801",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"il-vicolo-trattoria-oak-park",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/1zH339X1Ig2hIQTk7NZG2A/ms.jpg",
+      "location":{
+        "cross_streets":"North Blvd & Lake St",
+        "city":"Oak Park",
+        "display_address":[
+          "116 N Oak Park Ave",
+          "Oak Park, IL 60301"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60301",
+        "country_code":"US",
+        "address":[
+          "116 N Oak Park Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8880615383387,
+          "longitude":-87.7944336086512
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/capri-ristorante-berwyn",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":76,
+      "name":"Capri Ristorante",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/capri-ristorante-berwyn",
+      "is_closed":false,
+      "id":"capri-ristorante-berwyn",
+      "phone":"7086374085",
+      "snippet_text":"I love this place, and they pass all my tests that define great Italian dining. \nGnocci - top notch! Try the Mayor Lovero special with a giant delectible...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/NeM2iGfi5KTO_bBGFz1Srw/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-708-637-4085",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"eat24",
+      "menu_date_updated":1402432764,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Sx-AAviFzO3w2PfHG2WVIw/ms.jpg",
+      "location":{
+        "cross_streets":"East Ave & Clarence Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6613 W Roosevelt Rd",
+          "Berwyn, IL 60304"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60304",
+        "country_code":"US",
+        "address":[
+          "6613 W Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8650826103429,
+          "longitude":-87.7897202968597
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/el-sitio-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":12,
+      "name":"El Sitio",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/el-sitio-chicago",
+      "is_closed":false,
+      "id":"el-sitio-chicago",
+      "phone":"7734868977",
+      "snippet_text":"Food still great.\n\nHours are sucky, i think they open whenever they feel like it...lol.\n\nCall before you go.",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/CwF9lzOaLkupys8A-38cqQ/ms.jpg",
+      "categories":[
+        [
+          "Latin American",
+          "latin"
+        ]
+      ],
+      "display_phone":"+1-773-486-8977",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387635259,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/xq15YoV7HqjfL-I-XtRFpQ/ms.jpg",
+      "location":{
+        "cross_streets":"Crystal St & Potomac Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1255 N Pulaski Rd",
+          "Humboldt Park",
+          "Chicago, IL 60651"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Humboldt Park"
+        ],
+        "postal_code":"60651",
+        "country_code":"US",
+        "address":[
+          "1255 N Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.90427,
+          "longitude":-87.725983
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/kat-klub-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":10,
+      "name":"Kat Klub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/kat-klub-chicago",
+      "is_closed":false,
+      "snippet_text":"The only dive bar in the Galewood neighborhood of Chicago. It's really the only Bar in Galewood so everyone comes here, a diverse crowd from all walks of...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/L1x0_exBb912AMDXKt88QQ/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"kat-klub-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/AF479wd_808BzIMiCczAtw/ms.jpg",
+      "location":{
+        "cross_streets":"Newland Ave & Woodbine Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6920 W North Ave",
+          "Chicago, IL 60707"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60707",
+        "country_code":"US",
+        "address":[
+          "6920 W North Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9092864990234,
+          "longitude":-87.7980499267578
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/lou-malnatis-pizzeria-oak-park",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":99,
+      "name":"Lou Malnati's Pizzeria",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/lou-malnatis-pizzeria-oak-park",
+      "is_closed":false,
+      "phone":"7083580800",
+      "snippet_text":"We came here on a weeknight. Despite having a huge restaurant, they sat us in the front area. It was FREEZING.\n\nThe pizza is always great, but takes awhile...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/8kVsIUkHDrG6hlLxHNrxmQ/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-708-358-0800",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"lou-malnatis-pizzeria-oak-park",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/J_UOyrcnPFkNIo8bNOWPgw/ms.jpg",
+      "location":{
+        "cross_streets":"Marion St & Forest Ave",
+        "city":"Oak Park",
+        "display_address":[
+          "1038 Lake St",
+          "Oak Park, IL 60301"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60301",
+        "country_code":"US",
+        "address":[
+          "1038 Lake St"
+        ],
+        "coordinate":{
+          "latitude":41.8887188285545,
+          "longitude":-87.8020484166718
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/winners-sports-bar-and-grill-inc-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":1,
+      "name":"Winners Sports Bar & Grill Inc",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/winners-sports-bar-and-grill-inc-chicago",
+      "phone":"7732874900",
+      "snippet_text":"As far as small neighborhood bars go, this is a good one.  It's run down and small, but the service is good and the patrons are friendly and the drinks are...",
+      "is_closed":false,
+      "display_phone":"+1-773-287-4900",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"winners-sports-bar-and-grill-inc-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/SCFG3OMTOjL_feIiCAwiPQ/ms.jpg",
+      "location":{
+        "cross_streets":"Mayfield Ave & Mason Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5912 W Madison St",
+          "Austin",
+          "Chicago, IL 60644"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Austin"
+        ],
+        "postal_code":"60644",
+        "country_code":"US",
+        "address":[
+          "5912 W Madison St"
+        ],
+        "coordinate":{
+          "latitude":41.8804931640625,
+          "longitude":-87.7724456787109
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/papaspiros-oak-park-3",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":25,
+      "name":"Papaspiros",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/papaspiros-oak-park-3",
+      "is_closed":false,
+      "phone":"7083581700",
+      "snippet_text":"This place is an Oak Park favorite - the food is good, the wait staff personalities are charming.  Their lemon rice soup, gyros, saganaki, baklava, and wine...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/GFXz_993hT7a4t1aQuhpTg/ms.jpg",
+      "categories":[
+        [
+          "Greek",
+          "greek"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-358-1700",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"papaspiros-oak-park-3",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/BgOCSAtnqKqQMSHsX3KWIA/ms.jpg",
+      "location":{
+        "cross_streets":"Oak Park Ave & Euclid Ave",
+        "city":"Oak Park",
+        "display_address":[
+          "728 Lake St",
+          "Oak Park, IL 60301"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60301",
+        "country_code":"US",
+        "address":[
+          "728 Lake St"
+        ],
+        "coordinate":{
+          "latitude":41.8886398,
+          "longitude":-87.7937324
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/roosters-place-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Rooster's Place",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/roosters-place-chicago",
+      "is_closed":false,
+      "phone":"7736780739",
+      "snippet_text":"\"One day this boy will take my place,\" the late Howlin' Wolf said of his understudy Tail Dragger, so named for his reputation for being late to gigs....",
+      "categories":[
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-773-678-0739",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"roosters-place-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/XcDjfsl0aPjO6snqFPhmnQ/ms.jpg",
+      "location":{
+        "cross_streets":"Kilbourn Ave & Kenton Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4501 W Madison",
+          "West Garfield Park",
+          "Chicago, IL 60624"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "West Garfield Park"
+        ],
+        "postal_code":"60624",
+        "country_code":"US",
+        "address":[
+          "4501 W Madison"
+        ],
+        "coordinate":{
+          "latitude":41.880256652832,
+          "longitude":-87.7380676269531
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/best-value-liquors-cicero-2",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":15,
+      "name":"Best Value Liquors",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/best-value-liquors-cicero-2",
+      "is_closed":false,
+      "phone":"7086520114",
+      "snippet_text":"This is hands-down the best liquor store in Cicero, and it's definitely among the best in the city. \n\nYou would be hard-pressed to find a shop run by a...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/vm0ARUhu4gOCGR1yOsxnhg/ms.jpg",
+      "categories":[
+        [
+          "Beer, Wine & Spirits",
+          "beer_and_wine"
+        ]
+      ],
+      "display_phone":"+1-708-652-0114",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"best-value-liquors-cicero-2",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/SK1em_oUt2WFfmFnzEuyBA/ms.jpg",
+      "location":{
+        "city":"Cicero",
+        "display_address":[
+          "6105 W Roosevelt Rd",
+          "Cicero, IL 60804"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60804",
+        "country_code":"US",
+        "address":[
+          "6105 W Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8653720617294,
+          "longitude":-87.7768564224243
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

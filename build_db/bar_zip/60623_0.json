@@ -1,0 +1,992 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.10110826000000372,
+      "longitude_delta":0.158921509999999
+    },
+    "center":{
+      "latitude":41.853552300000004,
+      "longitude":-87.72329095
+    }
+  },
+  "total":2681,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/the-barrel-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":13,
+      "name":"The Barrel",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/the-barrel-chicago",
+      "is_closed":false,
+      "snippet_text":"Right off the Damen Pink line is this gem of a dive bar. Upon entering, there's stools along the bar and to the right are a few tables for some larger...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/gUsxgx6rNZM1owYR-ABhIw/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"the-barrel-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/nSODo7R4o2hRX0_IhGfuoA/ms.jpg",
+      "location":{
+        "cross_streets":"Cullerton St & 21st St",
+        "city":"Chicago",
+        "display_address":[
+          "2015 S Damen Ave",
+          "Pilsen",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Pilsen"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "2015 S Damen Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8540300043055,
+          "longitude":-87.6758790091986
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/illinois-bar-and-grill-on-47th-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":58,
+      "name":"Illinois Bar & Grill On 47th",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/illinois-bar-and-grill-on-47th-chicago",
+      "is_closed":false,
+      "phone":"7738472525",
+      "snippet_text":"My gf and I came with family Wednesday afternoon to hang out and have some appetizers. Illinois bar and grill has been a burger institution for many years...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/fUBgFyrSoiyVr8geZjgGPg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ]
+      ],
+      "display_phone":"+1-773-847-2525",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"illinois-bar-and-grill-on-47th-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/AQxtAjsPzxco5GHNPX0QBg/ms.jpg",
+      "location":{
+        "cross_streets":"Keeler Ave & Kedvale Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4135 W 47th St",
+          "Archer Heights",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Archer Heights"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "4135 W 47th St"
+        ],
+        "coordinate":{
+          "latitude":41.807594,
+          "longitude":-87.727409
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/cigars-and-stripes-berwyn",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":116,
+      "name":"Cigars & Stripes",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/cigars-and-stripes-berwyn",
+      "is_closed":false,
+      "phone":"7084841043",
+      "snippet_text":"REW to July 2003...\n\nCigars and Stripes. Interesting place. I would drive past it and ask \"Why don't I check that freakin' place out? Why not? LOOOOOOOOOOK...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/VrC-mg3UHzl_YZXPfRF14A/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Comedy Clubs",
+          "comedyclubs"
+        ],
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-708-484-1043",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"cigars-and-stripes-berwyn",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/q6lU5WPAdHMjliGb_8pd8w/ms.jpg",
+      "location":{
+        "cross_streets":"Wesley Ave & Euclid Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6715 Ogden Ave",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6715 Ogden Ave"
+        ],
+        "coordinate":{
+          "latitude":41.82795,
+          "longitude":-87.789619
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/harbee-liquor-and-tavern-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":34,
+      "name":"Harbee Liquor & Tavern",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/harbee-liquor-and-tavern-chicago",
+      "is_closed":false,
+      "phone":"3127330333",
+      "snippet_text":"My Tuesday and Thursday hang out!\nThursdays is Karaoke night!!!!!!! \nThe bartenders are always pleasant.",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/A6tqmSohSdZQKgNxFVakgQ/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-312-733-0333",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"harbee-liquor-and-tavern-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Z2bBt5Sz7wCl0w0dDrLc2w/ms.jpg",
+      "location":{
+        "cross_streets":"Blue Island Ave & Loomis St",
+        "city":"Chicago",
+        "display_address":[
+          "1345 W 18th St",
+          "Pilsen",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Pilsen"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "1345 W 18th St"
+        ],
+        "coordinate":{
+          "latitude":41.857624,
+          "longitude":-87.660591
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/lagunitas-brewing-company-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":139,
+      "name":"Lagunitas Brewing Company",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/lagunitas-brewing-company-chicago",
+      "is_closed":false,
+      "phone":"7735221308",
+      "snippet_text":"I think place. I went last weekend to celebrate a friends birthday and noticed a little bit of a change since the last time I was there. I went over the...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/zYyK-5spyQtLFVERQcxuOw/ms.jpg",
+      "categories":[
+        [
+          "Breweries",
+          "breweries"
+        ]
+      ],
+      "display_phone":"+1-773-522-1308",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"lagunitas-brewing-company-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/2QCfeUfMt8XuDWpLmvExYQ/ms.jpg",
+      "location":{
+        "cross_streets":"18th Dr",
+        "city":"Chicago",
+        "display_address":[
+          "1843 S Washtenaw Ave",
+          "Lawndale",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Lawndale"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "1843 S Washtenaw Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8577419033754,
+          "longitude":-87.6922491206512
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/ricks-bar-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":16,
+      "name":"Rick's Bar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/ricks-bar-chicago",
+      "is_closed":false,
+      "id":"ricks-bar-chicago",
+      "phone":"3124214860",
+      "snippet_text":"Something about this place is just so perfect. It's your local neighborhood bar. Nothing special except the people. I love bringing people here and the...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/0VpcNSLa0EK5ILAJX2VU6w/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-312-421-4860",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387914353,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/s2Aq87dMB8XCmFiUYab-Zg/ms.jpg",
+      "location":{
+        "cross_streets":"Taylor St & Arthington St",
+        "city":"Chicago",
+        "display_address":[
+          "939 S Western Ave",
+          "Tri-Taylor",
+          "Chicago, IL 60612"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Tri-Taylor"
+        ],
+        "postal_code":"60612",
+        "country_code":"US",
+        "address":[
+          "939 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8691711,
+          "longitude":-87.6859055
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/punch-house-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":88,
+      "name":"Punch House",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/punch-house-chicago",
+      "is_closed":false,
+      "phone":"3125263851",
+      "snippet_text":"Dark, sexy and yet also like your grandparents' basement. \n\nWe were waiting for a table upstairs at Dusek's so we killed time with a great American pastime:...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/SmvqZ3V8rE1__O7LBwF7Nw/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-312-526-3851",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"punch-house-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/sIKaX83cl5od2ZvYJ3KfQQ/ms.jpg",
+      "location":{
+        "cross_streets":"Allport St & Racine Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1227 W 18th St.",
+          "Pilsen",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Pilsen"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "1227 W 18th St."
+        ],
+        "coordinate":{
+          "latitude":41.8578893691301,
+          "longitude":-87.6574169844389
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/paisans-pizzeria-and-bar-berwyn",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":165,
+      "name":"Paisans Pizzeria & Bar",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/paisans-pizzeria-and-bar-berwyn",
+      "is_closed":false,
+      "id":"paisans-pizzeria-and-bar-berwyn",
+      "phone":"7084845325",
+      "snippet_text":"BEST pizza ever. My absolute favorite pizza place now has a great sit down place.\n\nThe industrial feel is pretty cool and all the extra menu options will...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/jTcHft3jCbC_P8UafsSJjA/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-708-484-5325",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1419920900,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/phYQ7fon_LruiS4E6o1DSA/ms.jpg",
+      "location":{
+        "cross_streets":"Harvey Ave & Highland Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6226 W Ogden Ave",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6226 W Ogden Ave"
+        ],
+        "coordinate":{
+          "latitude":41.831695,
+          "longitude":-87.778869
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/berwyn-tap-room-berwyn",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":7,
+      "name":"Berwyn Tap Room",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/berwyn-tap-room-berwyn",
+      "is_closed":false,
+      "phone":"7083175038",
+      "snippet_text":"I've gotta say that I have not met a nicer bartender/owner of a bar probably, ever. \n\nI came in on a weekday and Anthony was working the bar. It was a...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/Gqud2IjdoBP2F0StCBTxtA/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-317-5038",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"berwyn-tap-room-berwyn",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/6RDAf_M5vMWXMclayq81kQ/ms.jpg",
+      "location":{
+        "cross_streets":"Cuyler Ave & Ridgeland Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6330 W 16th St",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6330 W 16th St"
+        ],
+        "coordinate":{
+          "latitude":41.8579025,
+          "longitude":-87.7827606
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/duseks-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":341,
+      "name":"Dusek's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/duseks-chicago",
+      "is_closed":false,
+      "phone":"3125263851",
+      "snippet_text":"I've come to Dusek's a few times only to be met with long waits and an insanely crowded bar. My friend and I tried our luck last week on a weeknight and it...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/m6aQPuuZENZMGHiz1fAS3A/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ]
+      ],
+      "display_phone":"+1-312-526-3851",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"duseks-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/YWKASeE_bumYD3_PvOmYmQ/ms.jpg",
+      "location":{
+        "cross_streets":"Allport St & Racine Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1227 W 18th St",
+          "Pilsen",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Pilsen"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "1227 W 18th St"
+        ],
+        "coordinate":{
+          "latitude":41.8578893691301,
+          "longitude":-87.6574169844389
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/klas-restaurant-cicero",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":63,
+      "name":"Klas Restaurant",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/klas-restaurant-cicero",
+      "is_closed":false,
+      "id":"klas-restaurant-cicero",
+      "phone":"7086520795",
+      "snippet_text":"This place is a gem!\n\nFirst off, holy cow. The building is so old. It should be a historic landmark. When you walk in, you feel like you should be at least...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/yrJ5ft2c_CeQd0sFOCu8qA/ms.jpg",
+      "categories":[
+        [
+          "Modern European",
+          "modern_european"
+        ]
+      ],
+      "display_phone":"+1-708-652-0795",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1390201439,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/bvI7KWAxVRb6DEiaXB1Pnw/ms.jpg",
+      "location":{
+        "cross_streets":"57th Ct & 58th Ave",
+        "city":"Cicero",
+        "display_address":[
+          "5734 W Cermak Rd",
+          "Cicero, IL 60804"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60804",
+        "country_code":"US",
+        "address":[
+          "5734 W Cermak Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8511353,
+          "longitude":-87.7681351
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/park-tavern-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":117,
+      "name":"Park Tavern",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/park-tavern-chicago",
+      "is_closed":false,
+      "id":"park-tavern-chicago",
+      "phone":"3122434276",
+      "snippet_text":"Went here before a Bulls game with some out of town business contacts and for what we used it for, it was perfect.  They have a pretty good beer list and...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/nj6BLxn1QlC3Ur-huZ9Q5w/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Gastropubs",
+          "gastropubs"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-312-243-4276",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1425592340,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/wxy0w2j_5vJSxnQ0XNULAg/ms.jpg",
+      "location":{
+        "cross_streets":"Ashland Ave & Paulina St",
+        "city":"Chicago",
+        "display_address":[
+          "1645 W Jackson Blvd",
+          "Near West Side",
+          "Chicago, IL 60612"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near West Side"
+        ],
+        "postal_code":"60612",
+        "country_code":"US",
+        "address":[
+          "1645 W Jackson Blvd"
+        ],
+        "coordinate":{
+          "latitude":41.877296,
+          "longitude":-87.668685
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/fitzgeralds-berwyn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":66,
+      "name":"FitzGerald's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/fitzgeralds-berwyn",
+      "is_closed":false,
+      "phone":"7087882118",
+      "snippet_text":"I had the pleasure of going to Fitzgerald's last week for their open mike night in the, \"Club\".  What a great time!  Some of the musicians were just...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/c3clXbjKZOi9-a0dOhuHfw/ms.jpg",
+      "categories":[
+        [
+          "Music Venues",
+          "musicvenues"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-788-2118",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"fitzgeralds-berwyn",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/CFQnp3-R2kPzjXP2G9yNHw/ms.jpg",
+      "location":{
+        "cross_streets":"East Ave & Clarence Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6615 Roosevelt Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6615 Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.864959,
+          "longitude":-87.789642
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/rhine-hall-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":19,
+      "name":"Rhine Hall",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/rhine-hall-chicago",
+      "is_closed":false,
+      "phone":"3122434313",
+      "snippet_text":"One of the things we love to do when we travel is tour local breweries, distilleries, etc. Yes, we like our booze. When we opted for a staycation, I started...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/7dQzNpEhfRxHqWWxnQ3gPQ/ms.jpg",
+      "categories":[
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ]
+      ],
+      "display_phone":"+1-312-243-4313",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"rhine-hall-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/XJD-ha5_7WDSJ2rnwrJKUw/ms.jpg",
+      "location":{
+        "cross_streets":"Damen Ave & Hoyne Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2010 W Fulton St",
+          "Near West Side",
+          "Chicago, IL 60612"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near West Side"
+        ],
+        "postal_code":"60612",
+        "country_code":"US",
+        "address":[
+          "2010 W Fulton St"
+        ],
+        "coordinate":{
+          "latitude":41.887057,
+          "longitude":-87.678011
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/water-hole-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":6,
+      "name":"Water Hole Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/water-hole-lounge-chicago",
+      "is_closed":false,
+      "phone":"3122437988",
+      "snippet_text":"super hospitable, very friendly, the jerk chicken wings and dirty rice, OMG so good. My friends wanted to leave, but Elmore James Jr. was going to play....",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/JWrJVq_JI0r3KI4WCGb14g/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-312-243-7988",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"water-hole-lounge-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/upLtWh9ST6TRoTrFMOYK3Q/ms.jpg",
+      "location":{
+        "cross_streets":"14th St",
+        "city":"Chicago",
+        "display_address":[
+          "1400 S Western Ave",
+          "University Village",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "University Village"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "1400 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.862881,
+          "longitude":-87.68633
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-duck-inn-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":42,
+      "name":"The Duck Inn",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-duck-inn-chicago",
+      "is_closed":false,
+      "id":"the-duck-inn-chicago",
+      "phone":"3127248811",
+      "snippet_text":"One of the best dining experiences I've had in a very long time.\n\nOur group of 6 had a reservation for 9:45 on a Saturday and they called us earlier in the...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/95gBRSjPSrdJZefU-TX1UQ/ms.jpg",
+      "categories":[
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-312-724-8811",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1421997550,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/pXB78xOJ7cC797Y0ces5fw/ms.jpg",
+      "location":{
+        "cross_streets":"Short St & Loomis St",
+        "city":"Chicago",
+        "display_address":[
+          "2701 S Eleanor",
+          "Bridgeport",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Bridgeport"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "2701 S Eleanor"
+        ],
+        "coordinate":{
+          "latitude":41.844345,
+          "longitude":-87.660034
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/merendero-san-marcos-cicero",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":17,
+      "name":"Merendero San Marcos",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/merendero-san-marcos-cicero",
+      "is_closed":false,
+      "phone":"7086527822",
+      "snippet_text":"This is my follow up that I forgot to write. My coworkers and I did end up going back on that Friday. This place is so hard to judge. We love the micheladas...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/IgUBDPn37xuUDTMjBoNQIw/ms.jpg",
+      "categories":[
+        [
+          "Mexican",
+          "mexican"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-652-7822",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"merendero-san-marcos-cicero",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/gPiU5AKcMQegtk_N8Jip0w/ms.jpg",
+      "location":{
+        "city":"Cicero",
+        "display_address":[
+          "3064 S Cicero Ave",
+          "Cicero, IL 60804"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60804",
+        "country_code":"US",
+        "address":[
+          "3064 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8368149,
+          "longitude":-87.7439041
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/olive-or-twist-berwyn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":94,
+      "name":"Olive or Twist",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/olive-or-twist-berwyn",
+      "is_closed":false,
+      "id":"olive-or-twist-berwyn",
+      "phone":"7084841808",
+      "snippet_text":"omfg... stop at this place!!\nThat's all I can say...\nI mean great... Perfect Martini's!!!",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/ygS2DEPOsUe_IO8Kr5QnSA/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-708-484-1808",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387625874,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/OpUY-2Vs4aVxmZHnwxahPg/ms.jpg",
+      "location":{
+        "city":"Berwyn",
+        "display_address":[
+          "6906 Windsor Ave",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6906 Windsor Ave"
+        ],
+        "coordinate":{
+          "latitude":41.832703,
+          "longitude":-87.795528
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/marias-packaged-goods-and-community-bar-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":217,
+      "name":"Maria's Packaged Goods and Community Bar",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/marias-packaged-goods-and-community-bar-chicago",
+      "is_closed":false,
+      "phone":"7738900588",
+      "snippet_text":"There's Something About Maria!\n\nMaria's Packaged Goods & Community Bar is a one-stop shop located in the Bridgeport neighborhood of Chicago, IL. In the...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/ZPzbpOg_m-JnWDSx7wYHeQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-890-0588",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"marias-packaged-goods-and-community-bar-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/foRl88lPD617mghYlek7ag/ms.jpg",
+      "location":{
+        "cross_streets":"Farrell St & Morgan St",
+        "city":"Chicago",
+        "display_address":[
+          "960 W 31st St",
+          "Bridgeport",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Bridgeport"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "960 W 31st St"
+        ],
+        "coordinate":{
+          "latitude":41.8381805,
+          "longitude":-87.6511612
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-california-clipper-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":268,
+      "name":"The California Clipper",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-california-clipper-chicago",
+      "is_closed":false,
+      "phone":"7733842547",
+      "snippet_text":"Justin Long made my drinks and it was pretty awesome. He was clearly well trained and quite knowledgeable. He told me a funny anecdote about the origin of...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/g7VhIggQm07daNCmOllSXA/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-384-2547",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-california-clipper-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/vN74KpU7dKIf8m4TNzcC3g/ms.jpg",
+      "location":{
+        "cross_streets":"Augusta Blvd & Cortez St",
+        "city":"Chicago",
+        "display_address":[
+          "1002 N California Ave",
+          "Humboldt Park",
+          "Chicago, IL 60622"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Humboldt Park",
+          "West Town"
+        ],
+        "postal_code":"60622",
+        "country_code":"US",
+        "address":[
+          "1002 N California Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8995106,
+          "longitude":-87.6969527
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

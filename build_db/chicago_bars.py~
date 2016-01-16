@@ -1,0 +1,89 @@
+#code to scrape Yelp for business information from all bars in Chicago
+#modified from sample code provided with Yelp API
+#request function was unmodified from provided code
+
+import argparse
+import json
+import pprint
+import sys
+import urllib
+import urllib2
+
+import oauth2
+
+
+API_HOST = 'api.yelp.com'
+DEFAULT_TERM = 'bar'
+SEARCH_PATH = '/v2/search/'
+
+CONSUMER_KEY = 'OonYV0hCEJicG5TC2imLgg'
+CONSUMER_SECRET = 'EWWw6Cvqw6dIJndJixmO4NPD5gw'
+TOKEN = 'dftf_EPqw6tGIg1f8Ju1GiousBY7XDce'
+TOKEN_SECRET = 'DrxdSU82C6hn4x1gAqZXjpRioC0'
+
+#searching with Yelp API
+def request(host, path, url_params=None):
+    url_params = url_params or {}
+    url = 'http://{0}{1}?'.format(host, urllib.quote(path.encode('utf8')))
+
+    consumer = oauth2.Consumer(CONSUMER_KEY, CONSUMER_SECRET)
+    oauth_request = oauth2.Request(method="GET", url=url, parameters=url_params)
+
+    oauth_request.update(
+        {
+            'oauth_nonce': oauth2.generate_nonce(),
+            'oauth_timestamp': oauth2.generate_timestamp(),
+            'oauth_token': TOKEN,
+            'oauth_consumer_key': CONSUMER_KEY
+        }
+    )
+    token = oauth2.Token(TOKEN, TOKEN_SECRET)
+    oauth_request.sign_request(oauth2.SignatureMethod_HMAC_SHA1(), consumer, token)
+    signed_url = oauth_request.to_url()
+    
+    print u'Querying {0} ...'.format(url)
+
+    conn = urllib2.urlopen(signed_url, None)
+    try:
+        response = json.loads(conn.read())
+    finally:
+        conn.close()
+
+    return response
+
+#define search parameters
+#offset was used because Yelp returns only 20 ranked results at a time
+#to get deeper into the results, we offset which results we wanted to scrape
+def search(term, location, offset):
+   
+    url_params = {
+        'term': term.replace(' ', '+'),
+        'location': location.replace(' ', '+'),
+        'offset': offset.replace(' ', '+')
+    }
+    return request(API_HOST, SEARCH_PATH, url_params=url_params)
+
+#scraped each Chicago zipcode for the top 80 bars by using offset
+def main(zipcode):
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-q', '--term', dest='term', default= DEFAULT_TERM, type=str, help='Search term (default: %(default)s)')
+    parser.add_argument('-l', '--location', dest='location', default= zipcode, type=str, help='Search location (default: %(default)s)')
+
+    input_values = parser.parse_args()
+
+    try:
+        offset = [0, 20, 40, 60]
+        for i in offset:
+            yelp_json = search(input_values.term, input_values.location, offset)
+            fn = 'bar_zip/' + zipcode + '_' + str(i) + '.json'
+            with open(fn, 'w') as outfile:
+                json.dump(yelp_json, outfile, indent=2, separators=(",",":"))
+
+    except urllib2.HTTPError as error:
+        sys.exit('Encountered HTTP error {0}. Abort program.'.format(error.code))
+
+if __name__ == '__main__':
+    zip_list = [60645, 60626, 60631, 60630, 60646, 60659, 60660, 60625, 60640, 60613, 60657, 60618, 60641, 60634, 60639, 60647, 60614, 60610, 60611, 60622, 60651, 60644, 60624, 60612, 60607, 60601, 60601, 60602, 60603, 60604, 60606, 60661, 60605, 60607, 60612, 60624, 60644, 60623, 60608, 60616, 60653, 60609, 60632, 60638, 60629, 60636, 60621, 60615, 60637, 60649, 60619, 60620, 60652, 60643, 60655, 60827, 60633, 60617]
+    zip_list = map(str, zip_list)
+    for zipcode in zip_list:
+        main(zipcode)

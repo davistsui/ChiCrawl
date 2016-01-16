@@ -1,0 +1,1016 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.06780784999999412,
+      "longitude_delta":0.06790870931351378
+    },
+    "center":{
+      "latitude":41.825150449999995,
+      "longitude":-87.6203853048575
+    }
+  },
+  "total":271,
+  "businesses":[
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/the-shrine-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":102,
+      "name":"The Shrine",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/the-shrine-chicago",
+      "is_closed":false,
+      "phone":"3127535700",
+      "snippet_text":"Came here Saturday because my buddy wanted to hear good hip-hop, like other reviews, that the Shrine does have. On one side is the nightclub, the other is...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/wu4tVDCaJzKi5XKqi4VmFg/ms.jpg",
+      "categories":[
+        [
+          "Dance Clubs",
+          "danceclubs"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Performing Arts",
+          "theater"
+        ]
+      ],
+      "display_phone":"+1-312-753-5700",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"the-shrine-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/i01P25XzFb8ahM1R2kL8sA/ms.jpg",
+      "location":{
+        "cross_streets":"Cermak Rd & 21st St",
+        "city":"Chicago",
+        "display_address":[
+          "2109 S Wabash Ave",
+          "Near Southside",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near Southside"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "2109 S Wabash Ave"
+        ],
+        "coordinate":{
+          "latitude":41.853928,
+          "longitude":-87.62513
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/pleasant-house-bakery-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":388,
+      "name":"Pleasant House Bakery",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/pleasant-house-bakery-chicago",
+      "is_closed":false,
+      "id":"pleasant-house-bakery-chicago",
+      "phone":"7735237437",
+      "snippet_text":"Loved it. My hubby and I were out for a seminar and I looked up the area restaurants. We decided we had to come here as I LOVE pies.\nI had the steak and ale...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/OohG8X8rGPmwApML2IL-ew/ms.jpg",
+      "categories":[
+        [
+          "Bakeries",
+          "bakeries"
+        ],
+        [
+          "British",
+          "british"
+        ]
+      ],
+      "display_phone":"+1-773-523-7437",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387745575,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/hP0_t7SPjKli9owo1nO8PA/ms.jpg",
+      "location":{
+        "cross_streets":"Farrell St & Morgan St",
+        "city":"Chicago",
+        "display_address":[
+          "964 W 31st St",
+          "Bridgeport",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Bridgeport"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "964 W 31st St"
+        ],
+        "coordinate":{
+          "latitude":41.8381157,
+          "longitude":-87.6509018
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/uncle-js-bar-b-q-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":11,
+      "name":"Uncle J's Bar B Q",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/uncle-js-bar-b-q-chicago",
+      "is_closed":false,
+      "phone":"8722443535",
+      "snippet_text":"Living across the street is dangerous as I am always tempted by the delicious smoky goodness wafting through my windows. I have never had an issue with...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/IDIWiXTLYikiU_bnqKMn7w/ms.jpg",
+      "categories":[
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-872-244-3535",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"uncle-js-bar-b-q-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/R2UDgsb8MD8XtiWYLp8ljQ/ms.jpg",
+      "location":{
+        "cross_streets":"Vincennes Ave & Forrestville Ave",
+        "city":"Chicago",
+        "display_address":[
+          "502 E 47th St",
+          "Grand Boulevard",
+          "Chicago, IL 60653"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Grand Boulevard"
+        ],
+        "postal_code":"60653",
+        "country_code":"US",
+        "address":[
+          "502 E 47th St"
+        ],
+        "coordinate":{
+          "latitude":41.8095870902484,
+          "longitude":-87.6135802168497
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/odyssey-ii-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"Odyssey II",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/odyssey-ii-chicago",
+      "is_closed":false,
+      "phone":"7739470956",
+      "snippet_text":"Nice neighborhood bar it's 25 & over to get in. They pour a good drink here you won't leave thirsty. And check out Dj Flawless on the weekend. They have a...",
+      "categories":[
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ]
+      ],
+      "display_phone":"+1-773-947-0956",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"odyssey-ii-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/rpjKzOqjCuCFjiBaGv1U-Q/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "211 E Garfield Blvd",
+          "Washington Park",
+          "Chicago, IL 60637"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Washington Park"
+        ],
+        "postal_code":"60637",
+        "country_code":"US",
+        "address":[
+          "211 E Garfield Blvd"
+        ],
+        "coordinate":{
+          "latitude":41.794370636344,
+          "longitude":-87.6205278933048
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/reggies-music-joint-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":223,
+      "name":"Reggie's Music Joint",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/reggies-music-joint-chicago",
+      "is_closed":false,
+      "id":"reggies-music-joint-chicago",
+      "phone":"3129490120",
+      "snippet_text":"I came here on a Tuesday evening for their wing special. They had live music and charged a cover fee of $5 a person, but it got you a beer. The catch is,...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/MPtJNVsLV5rrTir95cRELA/ms.jpg",
+      "categories":[
+        [
+          "Music & DVDs",
+          "musicvideo"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-312-949-0120",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1401261960,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/nekrqgAqORLmRBrczpbolw/ms.jpg",
+      "location":{
+        "cross_streets":"Cermak Rd & 21st St",
+        "city":"Chicago",
+        "display_address":[
+          "2105 S State St",
+          "Near Southside",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near Southside"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "2105 S State St"
+        ],
+        "coordinate":{
+          "latitude":41.8539505,
+          "longitude":-87.6267929
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/riff-music-lounge-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":8,
+      "name":"Riff Music Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/riff-music-lounge-chicago",
+      "is_closed":false,
+      "phone":"3129654488",
+      "snippet_text":"Last night I found myself at the Riff Music Lounge. As a PR person scouting new talent for a record label...the scene was a given for their artist showcase...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/LE1KXINVboPO3TWeuFo25A/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-312-965-4488",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"riff-music-lounge-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/lbhM3FhMCq7Kk0Mp0qTxzA/ms.jpg",
+      "location":{
+        "cross_streets":"Cermak Rd & 23rd St",
+        "city":"Chicago",
+        "display_address":[
+          "2239 S. Michigan Ave",
+          "Near Southside",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near Southside"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "2239 S. Michigan Ave"
+        ],
+        "coordinate":{
+          "latitude":41.851822,
+          "longitude":-87.62331
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/lao-you-ju-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":158,
+      "name":"Lao You Ju",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/lao-you-ju-chicago",
+      "is_closed":false,
+      "id":"lao-you-ju-chicago",
+      "phone":"3122257818",
+      "snippet_text":"I LOVE DIM SUM (i.e., asian tapas). And this place has good hong kong style dim sum. \n\nFIRST: MAKE A RESERVATION IF YOU HAVE A LARGE GROUP. They take group...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/3vzML9XNP0-bt9gsn1aKTw/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Dim Sum",
+          "dimsum"
+        ]
+      ],
+      "display_phone":"+1-312-225-7818",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"eat24",
+      "menu_date_updated":1401913681,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/UvdEVN_lNQIH2MIV1Wgxvg/ms.jpg",
+      "location":{
+        "cross_streets":"Cullerton St & 21st St",
+        "city":"Chicago",
+        "display_address":[
+          "2002 S Wentworth Ave",
+          "Chinatown",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Chinatown"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "2002 S Wentworth Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8550682,
+          "longitude":-87.6320801
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/jokes-and-notes-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":35,
+      "name":"Jokes & Notes",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/jokes-and-notes-chicago",
+      "is_closed":false,
+      "phone":"7733733390",
+      "snippet_text":"Good neighborhood spot for gathering friends or first dates to break the ice. The comedians have been good every time I went here but I heard weekends are...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/AGReHtnWrunIIXpznNOnGg/ms.jpg",
+      "categories":[
+        [
+          "Music Venues",
+          "musicvenues"
+        ],
+        [
+          "Comedy Clubs",
+          "comedyclubs"
+        ]
+      ],
+      "display_phone":"+1-773-373-3390",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"jokes-and-notes-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/rtASMFt48FBko4y4vHilyw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "4641 S Dr Martin L King Jr Dr",
+          "Grand Boulevard",
+          "Chicago, IL 60653"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Grand Boulevard"
+        ],
+        "postal_code":"60653",
+        "country_code":"US",
+        "address":[
+          "4641 S Dr Martin L King Jr Dr"
+        ],
+        "coordinate":{
+          "latitude":41.8101426959038,
+          "longitude":-87.6162564754486
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/skylark-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":364,
+      "name":"Skylark",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/skylark-chicago",
+      "is_closed":false,
+      "id":"skylark-chicago",
+      "phone":"3129485275",
+      "snippet_text":"1. Excellent beer selection.\n2. Excellent prices.\n3. Unique, delicious vegetarian friendly menu.\n4. $5 delicious Manhattans\n5. Pinball\n6. Excellent...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/Vns344jyv3AQX-RKcG75Ng/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-312-948-5275",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387916683,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Cermak Rd & 21st Pl",
+        "city":"Chicago",
+        "display_address":[
+          "2149 S Halsted St",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "2149 S Halsted St"
+        ],
+        "coordinate":{
+          "latitude":41.852787,
+          "longitude":-87.646187
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/chicago-hookah-catering-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Chicago Hookah Catering",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/chicago-hookah-catering-chicago-2",
+      "phone":"3125729221",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/L-bNrjyJ-2vfKf4OeQxI0w/ms.jpg",
+      "is_closed":false,
+      "display_phone":"+1-312-572-9221",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"chicago-hookah-catering-chicago-2",
+      "categories":[
+        [
+          "Hookah Bars",
+          "hookah_bars"
+        ],
+        [
+          "Caterers",
+          "catering"
+        ]
+      ],
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":5.0,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[],
+        "coordinate":{
+          "latitude":41.8022003173828,
+          "longitude":-87.6005630493164
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/del-toro-chicago-4",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":119,
+      "name":"Del Toro",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/del-toro-chicago-4",
+      "is_closed":false,
+      "phone":"3127337144",
+      "snippet_text":"I've been to this place numerous times and each time each item has been DELISH. I love when a restaurant is consistent with flavor, service and atmosphere....",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/d090NUfpgm6CTl-sPkLOEA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-312-733-7144",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"del-toro-chicago-4",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/rGMNb_t-KoSCwzVfgYsXQA/ms.jpg",
+      "location":{
+        "cross_streets":"Cermak Rd & 21st Pl",
+        "city":"Chicago",
+        "display_address":[
+          "2133 S Halsted St",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "2133 S Halsted St"
+        ],
+        "coordinate":{
+          "latitude":41.8531609,
+          "longitude":-87.6463089
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/redwood-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"Redwood Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/redwood-lounge-chicago",
+      "is_closed":false,
+      "phone":"3123266451",
+      "snippet_text":"I'd been fascinated with Redwood Lounge for years before I finally had a chance to check it out; going to and from Sox games we'd frequently pass the spot,...",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-312-326-6451",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"redwood-lounge-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/AWY2MKUcr7r2ZB2URiz5QQ/ms.jpg",
+      "location":{
+        "cross_streets":"32nd St & 33rd St",
+        "city":"Chicago",
+        "display_address":[
+          "3200 S Wallace St",
+          "Bridgeport",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Bridgeport"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "3200 S Wallace St"
+        ],
+        "coordinate":{
+          "latitude":41.836163,
+          "longitude":-87.641708
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/five-guys-burgers-and-fries-chicago-6",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":47,
+      "name":"Five Guys Burgers and Fries",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/five-guys-burgers-and-fries-chicago-6",
+      "is_closed":false,
+      "id":"five-guys-burgers-and-fries-chicago-6",
+      "phone":"7733636090",
+      "snippet_text":"Service is great here.\n\nWas greeted kindly and left with a kind goodbye too.\n\nWhile waiting for two little hamburgers, an employee offered both of us water...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/P2MiSjl6peUvYqlHUYbiAg/ms.jpg",
+      "categories":[
+        [
+          "Fast Food",
+          "hotdogs"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ]
+      ],
+      "display_phone":"+1-773-363-6090",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1411634260,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/omxjzm9XP239vrLlNDRgqw/ms.jpg",
+      "location":{
+        "cross_streets":"Harper Ave & Blackstone Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1456 E 53rd Ave",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "1456 E 53rd Ave"
+        ],
+        "coordinate":{
+          "latitude":41.799688082794,
+          "longitude":-87.589517709715
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/hyatt-regency-mccormick-place-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":180,
+      "name":"Hyatt Regency McCormick Place",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/hyatt-regency-mccormick-place-chicago",
+      "is_closed":false,
+      "phone":"3125671234",
+      "snippet_text":"Not directly in the heart of Chicago (for the tourists), but conveniently located on the #3 bus route, which takes you north to all the key spots. It takes...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/IU6eDlujCadRRcR8hC0Ujw/ms.jpg",
+      "categories":[
+        [
+          "Hotels",
+          "hotels"
+        ],
+        [
+          "Venues & Event Spaces",
+          "venues"
+        ]
+      ],
+      "display_phone":"+1-312-567-1234",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"hyatt-regency-mccormick-place-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/_DVnSsYjhxzk7GmRt3M8YA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "2233 South Dr Martin Luther King Jr Dr",
+          "Near Southside",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near Southside"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "2233 South Dr Martin Luther King Jr Dr"
+        ],
+        "coordinate":{
+          "latitude":41.852192,
+          "longitude":-87.618598
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/sakura-karaoke-lounge-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":58,
+      "name":"Sakura Karaoke Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/sakura-karaoke-lounge-chicago",
+      "is_closed":false,
+      "phone":"3123269168",
+      "snippet_text":"Love this place  Great time with friends always Karaoke all night with drinks in your face. We won't stop the party until world peace. LOL",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/VxoPuWg1wl7Z3Hhy6swsRA/ms.jpg",
+      "categories":[
+        [
+          "Japanese",
+          "japanese"
+        ],
+        [
+          "Karaoke",
+          "karaoke"
+        ]
+      ],
+      "display_phone":"+1-312-326-9168",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"sakura-karaoke-lounge-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/__q06ea8939F1r16tEihrw/ms.jpg",
+      "location":{
+        "cross_streets":"Indiana Ave & Cottage Grove Ave",
+        "city":"Chicago",
+        "display_address":[
+          "234 W Cermak Rd",
+          "Chinatown",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Chinatown"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "234 W Cermak Rd"
+        ],
+        "coordinate":{
+          "latitude":41.853134,
+          "longitude":-87.633163
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/zero-degrees-karaoke-bar-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":24,
+      "name":"Zero Degrees Karaoke Bar",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/zero-degrees-karaoke-bar-chicago",
+      "is_closed":false,
+      "phone":"3127911863",
+      "snippet_text":"November 17\nI have been here many times and even had my birthday party here.  It's great with a lot of Asian choices.  A lot if modern music hits are...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/hS_ish1R5sl9WKtxc1GcUQ/ms.jpg",
+      "categories":[
+        [
+          "Karaoke",
+          "karaoke"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-312-791-1863",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"zero-degrees-karaoke-bar-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/ulBFYGmZvyK9IMo2q6KtHQ/ms.jpg",
+      "location":{
+        "cross_streets":"Canal St & King Dr",
+        "city":"Chicago",
+        "display_address":[
+          "453 W 24th St",
+          "Chinatown",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Chinatown"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "453 W 24th St"
+        ],
+        "coordinate":{
+          "latitude":41.84893111072,
+          "longitude":-87.638703498787
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/nicks-patio-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":2,
+      "name":"Nicks Patio",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/nicks-patio-chicago",
+      "is_closed":false,
+      "snippet_text":"Nick's Patio is a really unassuming dive bar in the Bridgeport area that I probably wouldn't have found if I hadn't followed the sound of the bar owners...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/OVxZ1QpzuC_TvLKgy4OLBA/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ],
+        [
+          "Gay Bars",
+          "gaybars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"nicks-patio-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/btaZi2_C47sIGT085A-30Q/ms.jpg",
+      "location":{
+        "cross_streets":"31st St & 32nd St",
+        "city":"Chicago",
+        "display_address":[
+          "3150 S Princeton",
+          "Bridgeport",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Bridgeport"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "3150 S Princeton"
+        ],
+        "coordinate":{
+          "latitude":41.8367195,
+          "longitude":-87.6343994
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/mikes-stoop-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":3,
+      "name":"Mike's Stoop",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/mikes-stoop-chicago",
+      "is_closed":false,
+      "phone":"3125769567",
+      "snippet_text":"When I leave Maria's and a person says \"come on over \" on yer way south you might be skeptical. But here it's utopian in a dot communist way. You will feel...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/3WT4_Gm_OUntB5adfwCLXQ/ms.jpg",
+      "categories":[
+        [
+          "Community Service/Non-Profit",
+          "nonprofit"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-312-576-9567",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"mikes-stoop-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/WlDTwQUqH_6qlYWduGYdMw/ms.jpg",
+      "location":{
+        "cross_streets":"Farrell St & Morgan St",
+        "city":"Chicago",
+        "display_address":[
+          "938 W 31st Pl",
+          "Bridgeport",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Bridgeport"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "938 W 31st Pl"
+        ],
+        "coordinate":{
+          "latitude":41.837443,
+          "longitude":-87.650269
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/chicagos-home-of-chicken-and-waffles-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":364,
+      "name":"Chicago's Home of Chicken & Waffles",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/chicagos-home-of-chicken-and-waffles-chicago",
+      "is_closed":false,
+      "id":"chicagos-home-of-chicken-and-waffles-chicago",
+      "phone":"7735363300",
+      "snippet_text":"Okay there were good things and bad things...\n\n Good service from the waitress and host. In fact, that's the main reason for the four stars.   The manager...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/yGawv5HT7-mrfwcOymSMmA/ms.jpg",
+      "categories":[
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ],
+        [
+          "Soul Food",
+          "soulfood"
+        ],
+        [
+          "Southern",
+          "southern"
+        ]
+      ],
+      "display_phone":"+1-773-536-3300",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387638020,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/2suJoqzvTxVo5LFy1qhgqQ/ms.jpg",
+      "location":{
+        "cross_streets":"Oakwood Blvd",
+        "city":"Chicago",
+        "display_address":[
+          "3947 S King Dr",
+          "Grand Boulevard",
+          "Chicago, IL 60653"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Grand Boulevard"
+        ],
+        "postal_code":"60653",
+        "country_code":"US",
+        "address":[
+          "3947 S King Dr"
+        ],
+        "coordinate":{
+          "latitude":41.822299,
+          "longitude":-87.616325
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/chicago-oyster-house-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":77,
+      "name":"Chicago Oyster House",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/chicago-oyster-house-chicago",
+      "is_closed":false,
+      "id":"chicago-oyster-house-chicago",
+      "phone":"3122258833",
+      "snippet_text":"This place is great. Half the place is a bar; the other half is a sit-down restaurant. Due to location, the bar is never crowded. I like it that way though....",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/q8HKRsICApXU7zVjqAg4Gw/ms.jpg",
+      "categories":[
+        [
+          "Seafood",
+          "seafood"
+        ]
+      ],
+      "display_phone":"+1-312-225-8833",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"eat24",
+      "menu_date_updated":1421794882,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/iLnfzaOMXwXKgF5z9tatBg/ms.jpg",
+      "location":{
+        "cross_streets":"18th St & Cullerton St",
+        "city":"Chicago",
+        "display_address":[
+          "1933 S Indiana Ave",
+          "Near Southside",
+          "Chicago, IL 60616"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near Southside"
+        ],
+        "postal_code":"60616",
+        "country_code":"US",
+        "address":[
+          "1933 S Indiana Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8559722,
+          "longitude":-87.6221742
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

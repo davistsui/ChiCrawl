@@ -1,0 +1,953 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.13281906000000276,
+      "longitude_delta":0.19306353000001764
+    },
+    "center":{
+      "latitude":41.7517905,
+      "longitude":-87.67396615
+    }
+  },
+  "total":429,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/the-hometown-tap-hometown",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":2,
+      "name":"The Hometown Tap",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/the-hometown-tap-hometown",
+      "is_closed":false,
+      "snippet_text":"Fun place to go to watch any Sporting event. They have  seven big ass flatscreen TVs. Play a few games of pool, on Sundays they threw out a nice spread of...",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"the-hometown-tap-hometown",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Hometown",
+        "display_address":[
+          "4068 SW Hwy",
+          "Hometown, IL 60456"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60456",
+        "country_code":"US",
+        "address":[
+          "4068 SW Hwy"
+        ],
+        "coordinate":{
+          "latitude":41.7339918695812,
+          "longitude":-87.7247571277301
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/falcon-inn-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":31,
+      "name":"Falcon Inn",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/falcon-inn-chicago",
+      "is_closed":false,
+      "snippet_text":"Great bar, prices, DJ's on Thursday, Friday, Cholies Pizzaplace & restaurant is next door and you can eat the food at the bar.\nRobert B, the bartender that...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/w2QtTwzbXjis6NhtCec7Cw/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"falcon-inn-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Cornell Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1601 E 53rd St",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "1601 E 53rd St"
+        ],
+        "coordinate":{
+          "latitude":41.799206,
+          "longitude":-87.586212
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/maddanthonys-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":15,
+      "name":"MaddAnthonys Bar & Grill",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/maddanthonys-bar-and-grill-chicago",
+      "is_closed":false,
+      "phone":"7735232205",
+      "snippet_text":"I used to frequent this establishment back when it was LaCocos and it definitely has changed for the better, much to the adjustment of the times. I love...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/MnNHs0KGHYfBIgNvPxeWxg/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-523-2205",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"maddanthonys-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/XCVrJgXzXbV6TQ-pwVNB-Q/ms.jpg",
+      "location":{
+        "cross_streets":"Homan Ave & Christiana Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3350 W 47th St",
+          "Brighton Park",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Brighton Park"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "3350 W 47th St"
+        ],
+        "coordinate":{
+          "latitude":41.808110922575,
+          "longitude":-87.707996070385
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.0,
+      "mobile_url":"http://m.yelp.com/biz/hooters-oak-lawn",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png",
+      "review_count":74,
+      "name":"Hooters",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png",
+      "url":"http://www.yelp.com/biz/hooters-oak-lawn",
+      "is_closed":false,
+      "id":"hooters-oak-lawn",
+      "phone":"7084234668",
+      "snippet_text":"Happy Birthday, Danny W!\n\nSo, today I went on a one of kind trolley bar crawl organized by the one and only Danny W. None of us knew where we were going or...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/Vg5pZR-EJOgnEuBQi9L6QA/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Chicken Wings",
+          "chicken_wings"
+        ]
+      ],
+      "display_phone":"+1-708-423-4668",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1423563497,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/elTDJ2bzifJqs8UsUzdfrA/ms.jpg",
+      "location":{
+        "city":"Oak Lawn",
+        "display_address":[
+          "9159 S Cicero Ave",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "9159 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.725836623971,
+          "longitude":-87.740712267933
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":1.0,
+      "mobile_url":"http://m.yelp.com/biz/conrads-place-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png",
+      "review_count":2,
+      "name":"Conrad's Place",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png",
+      "url":"http://www.yelp.com/biz/conrads-place-chicago",
+      "is_closed":false,
+      "snippet_text":"I once lived across the street from Conrad's and honestly they made my partner feel unwelcome to the point that he just left, friendly to regulars only!...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/e_KcFP3DVCIb4pRXD9DlgQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/cc5d90a21966/ico/stars/v1/stars_large_1.png",
+      "id":"conrads-place-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/viU4nzLO_UJ0FCFCR6kpvQ/ms.jpg",
+      "location":{
+        "cross_streets":"65th Pl",
+        "city":"Chicago",
+        "display_address":[
+          "6522 S Pulaski Rd",
+          "West Lawn",
+          "Chicago, IL 60629"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "West Lawn"
+        ],
+        "postal_code":"60629",
+        "country_code":"US",
+        "address":[
+          "6522 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.774307,
+          "longitude":-87.723022
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/whitneys-95th-street-bar-and-grill-oak-lawn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":15,
+      "name":"Whitney's 95th Street Bar & Grill",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/whitneys-95th-street-bar-and-grill-oak-lawn",
+      "is_closed":false,
+      "id":"whitneys-95th-street-bar-and-grill-oak-lawn",
+      "phone":"7082298888",
+      "snippet_text":"Came across this place based on Yelp reviews. Overlooked it often because it's a hotel restaurant but the food is really good. \nThey have some of the best...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/ilNAvXpqaop07yTof0W6nQ/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ]
+      ],
+      "display_phone":"+1-708-229-8888",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"locu",
+      "menu_date_updated":1411636465,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/NgPA6FnhZyGI9QmXkd9ODQ/ms.jpg",
+      "location":{
+        "city":"Oak Lawn",
+        "display_address":[
+          "9333 S Cicero Ave",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "9333 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.723278,
+          "longitude":-87.737511
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/mystic-sports-pub-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Mystic Sports Pub",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/mystic-sports-pub-chicago",
+      "is_closed":false,
+      "phone":"7732392626",
+      "snippet_text":"What can you say!  This is a true neighborhood joint!  You wont find this in any suburban strip mall.  It has a good crowd mixed with young and some old...",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-239-2626",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"mystic-sports-pub-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/yWE4gCDzDKuxmeKGLuyR_Q/ms.jpg",
+      "location":{
+        "cross_streets":"106th St & 107th St",
+        "city":"Chicago",
+        "display_address":[
+          "10649 S Pulaski Rd",
+          "Mount Greenwood",
+          "Chicago, IL 60655"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Mount Greenwood"
+        ],
+        "postal_code":"60655",
+        "country_code":"US",
+        "address":[
+          "10649 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.6992273181677,
+          "longitude":-87.7206011116505
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/soul-vegan-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":7,
+      "name":"Soul Vegan",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/soul-vegan-chicago",
+      "is_closed":false,
+      "phone":"7734544494",
+      "snippet_text":"Thought I had died and gone to heaven when I tried the BBQ Delights - am following the Whole Food Plant based regimen to reverse heart disease-and the...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/F-y-VyILGdYCdcQHzBZ4SQ/ms.jpg",
+      "categories":[
+        [
+          "Specialty Food",
+          "gourmet"
+        ],
+        [
+          "Vegan",
+          "vegan"
+        ]
+      ],
+      "display_phone":"+1-773-454-4494",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"soul-vegan-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Lowe Ave & Halsted St",
+        "city":"Chicago",
+        "display_address":[
+          "740 W 63rd St",
+          "Englewood",
+          "Chicago, IL 60621"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Englewood"
+        ],
+        "postal_code":"60621",
+        "country_code":"US",
+        "address":[
+          "740 W 63rd St"
+        ],
+        "coordinate":{
+          "latitude":41.7799263,
+          "longitude":-87.6438828
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/hinky-dinks-pub-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":3,
+      "name":"Hinky Dinks Pub",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/hinky-dinks-pub-chicago",
+      "is_closed":false,
+      "phone":"7734451598",
+      "snippet_text":"Nice little hole in the wall place with friendly regulars and good specials.  In reality, it's on the south side, and it serves cold, domestic beer.  What...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/AYcwB-rFnuGsT9AGcKvHGw/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-445-1598",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"hinky-dinks-pub-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/NPLJgZEGQvgwg36zj5yL6g/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "3243 W 111th St",
+          "Mount Greenwood",
+          "Chicago, IL 60655"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Mount Greenwood"
+        ],
+        "postal_code":"60655",
+        "country_code":"US",
+        "address":[
+          "3243 W 111th St"
+        ],
+        "coordinate":{
+          "latitude":41.6914985328913,
+          "longitude":-87.7024123817682
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/mackells-inn-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":2,
+      "name":"MacKells Inn",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/mackells-inn-chicago",
+      "is_closed":false,
+      "phone":"7734459181",
+      "snippet_text":"Nice looking small Irish bar for local South siders of Irish descent.",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-445-9181",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"mackells-inn-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/QUv1kpz92Q4VkrnCqPbUbQ/ms.jpg",
+      "location":{
+        "cross_streets":"Sawyer Ave & Spaulding Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3259 W 111th St",
+          "Mount Greenwood",
+          "Chicago, IL 60655"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Mount Greenwood"
+        ],
+        "postal_code":"60655",
+        "country_code":"US",
+        "address":[
+          "3259 W 111th St"
+        ],
+        "coordinate":{
+          "latitude":41.691364,
+          "longitude":-87.703087
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/the-twisted-shamrock-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":22,
+      "name":"The Twisted Shamrock",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/the-twisted-shamrock-chicago",
+      "is_closed":false,
+      "phone":"7737351625",
+      "snippet_text":"Went to a private party last night and was impressed with the service and Guinness pours- done perfectly smooth.  \nFirst walked in and was asked by bouncer...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/wgWVobujU4yGqlFcNTyzjA/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-735-1625",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"the-twisted-shamrock-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/RSK2nFCcdC3NGAy0kKgICQ/ms.jpg",
+      "location":{
+        "cross_streets":"64th Pl & 65th St",
+        "city":"Chicago",
+        "display_address":[
+          "6462 S Central Ave",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6462 S Central Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7745399,
+          "longitude":-87.7619171
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/lees-unleaded-blues-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":16,
+      "name":"Lee's Unleaded Blues",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/lees-unleaded-blues-chicago",
+      "is_closed":false,
+      "phone":"7736695053",
+      "snippet_text":"This place is a gem. Not only is the music at Lee's absolutely outstanding, the musicians and staff are friendly as well. The small venue is intimate...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/h-mMQoLmS-0WWYYWBU_YxA/ms.jpg",
+      "categories":[
+        [
+          "Jazz & Blues",
+          "jazzandblues"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-773-669-5053",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"lees-unleaded-blues-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"74th St & Woodlawn Ave",
+        "city":"Chicago",
+        "display_address":[
+          "7401 S South Chicago Ave",
+          "Greater Grand Crossing",
+          "Chicago, IL 60619"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Greater Grand Crossing"
+        ],
+        "postal_code":"60619",
+        "country_code":"US",
+        "address":[
+          "7401 S South Chicago Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7603416,
+          "longitude":-87.5974579
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/tavern-on-the-green-evergreen-park",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"Tavern On the Green",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/tavern-on-the-green-evergreen-park",
+      "is_closed":false,
+      "snippet_text":"Reasonable beer prices, and a great variety of food on the menu. Great place to enjoy a meal with friends and family. Also go there To watch the game...",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"tavern-on-the-green-evergreen-park",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/txwhFGfCTYWQgRUiPufJgQ/ms.jpg",
+      "location":{
+        "city":"Evergreen Park",
+        "display_address":[
+          "95 St",
+          "Evergreen Park, IL 60805"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60805",
+        "country_code":"US",
+        "address":[
+          "95 St"
+        ],
+        "coordinate":{
+          "latitude":41.720961,
+          "longitude":-87.71871
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/west-55th-street-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":4,
+      "name":"West 55th Street",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/west-55th-street-chicago",
+      "is_closed":false,
+      "phone":"7735828839",
+      "snippet_text":"I simply love this bar. Came here for a Bears game and let me tell you that it has been a great experience. Neighborhood bar so you can compare it to...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/oeHDti9u6t2wA2Z8wFmx6g/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-582-8839",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"west-55th-street-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/k7n3seNrDKdWh8GhWO64tQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "4201 W 55th St",
+          "West Elsdon",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "West Elsdon"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "4201 W 55th St"
+        ],
+        "coordinate":{
+          "latitude":41.792892,
+          "longitude":-87.728203
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/louies-chophouse-oak-lawn-2",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":37,
+      "name":"Louie's ChopHouse",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/louies-chophouse-oak-lawn-2",
+      "is_closed":false,
+      "id":"louies-chophouse-oak-lawn-2",
+      "phone":"7084256530",
+      "snippet_text":"Dined here on a Sunday evening with a large group and couldn't find a fault with anything. The service was efficient . Before even sitting down our waitress...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/gU8CPxd7Dn3YZ-OaF5TmeQ/ms.jpg",
+      "categories":[
+        [
+          "Steakhouses",
+          "steak"
+        ]
+      ],
+      "display_phone":"+1-708-425-6530",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1416212106,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/4z7bATNjcjjuNSkT-XMekw/ms.jpg",
+      "location":{
+        "cross_streets":"Kilpatrick Ave & Knox Ave",
+        "city":"Oak Lawn",
+        "display_address":[
+          "4642 W 103rd St",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "4642 W 103rd St"
+        ],
+        "coordinate":{
+          "latitude":41.705761,
+          "longitude":-87.7368851
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/odyssey-ii-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"Odyssey II",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/odyssey-ii-chicago",
+      "is_closed":false,
+      "phone":"7739470956",
+      "snippet_text":"Nice neighborhood bar it's 25 & over to get in. They pour a good drink here you won't leave thirsty. And check out Dj Flawless on the weekend. They have a...",
+      "categories":[
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ]
+      ],
+      "display_phone":"+1-773-947-0956",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"odyssey-ii-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/rpjKzOqjCuCFjiBaGv1U-Q/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "211 E Garfield Blvd",
+          "Washington Park",
+          "Chicago, IL 60637"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Washington Park"
+        ],
+        "postal_code":"60637",
+        "country_code":"US",
+        "address":[
+          "211 E Garfield Blvd"
+        ],
+        "coordinate":{
+          "latitude":41.794370636344,
+          "longitude":-87.6205278933048
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/t-rs-pub-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":2,
+      "name":"T R's Pub",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/t-rs-pub-chicago",
+      "is_closed":false,
+      "phone":"7732394554",
+      "snippet_text":"It's a house,It's a bar, It's a banquet hall. It is a unique looking place that would of been teared down long ago in places like Dupage County that want no...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/_I20wk7dhjDmZa_j2YQ-UQ/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-239-4554",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"t-rs-pub-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/QUv1kpz92Q4VkrnCqPbUbQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "3908 W 111th St",
+          "Mount Greenwood",
+          "Chicago, IL 60655"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Mount Greenwood"
+        ],
+        "postal_code":"60655",
+        "country_code":"US",
+        "address":[
+          "3908 W 111th St"
+        ],
+        "coordinate":{
+          "latitude":41.6914215,
+          "longitude":-87.7181931
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/tonyos-studio-31-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":6,
+      "name":"Tonyo's Studio 31 Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/tonyos-studio-31-lounge-chicago",
+      "is_closed":false,
+      "phone":"7732848913",
+      "snippet_text":"Came here with my guy once. Laid back atmosphere. Nice place to sit and have some drinks. No live music the day we went.\n\nOwner was nice and friendly. (He...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/I_nzXRIfN3-uGlUEySsWxw/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-284-8913",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"tonyos-studio-31-lounge-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/b2chy6yFzEwDH1pYGKbGUg/ms.jpg",
+      "location":{
+        "cross_streets":"51st St & Kolin Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5147 S Archer Ave",
+          "Archer Heights",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Archer Heights"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "5147 S Archer Ave"
+        ],
+        "coordinate":{
+          "latitude":41.800167,
+          "longitude":-87.731689
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/xavier-players-club-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":5,
+      "name":"Xavier Players Club",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/xavier-players-club-chicago",
+      "is_closed":false,
+      "phone":"7733761992",
+      "snippet_text":"This place looks kind of bad from the outside, but once you go in it isn't so bad. \nI only been here a few times.. \n\nThursday nights is ladies nights......",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/QUyDTgKmiHGoMjgXbcXbWA/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ],
+        [
+          "Karaoke",
+          "karaoke"
+        ]
+      ],
+      "display_phone":"+1-773-376-1992",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"xavier-players-club-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/offdcF7eyKTFi2-kkfQ0_w/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "4456 S Western Ave",
+          "Brighton Park",
+          "Chicago, IL 60609"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Brighton Park"
+        ],
+        "postal_code":"60609",
+        "country_code":"US",
+        "address":[
+          "4456 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8128319,
+          "longitude":-87.6847305
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/home-run-inn-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":31,
+      "name":"Home Run Inn",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/home-run-inn-chicago-3",
+      "is_closed":false,
+      "id":"home-run-inn-chicago-3",
+      "phone":"7734329696",
+      "snippet_text":"This location was perfect and very clean. The 8.99 lunch special was a nice surprise. My waitress wasn't very social but the guy who brought more pizza was...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/2HOHevvH71CMNhAwYUzxhQ/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Chicken Wings",
+          "chicken_wings"
+        ]
+      ],
+      "display_phone":"+1-773-432-9696",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1412968753,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/_5Snv5ys_yVM4cEU2JmGVQ/ms.jpg",
+      "location":{
+        "cross_streets":"109th St & 110th St",
+        "city":"Chicago",
+        "display_address":[
+          "10900 S Western Ave",
+          "Morgan Park",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Morgan Park"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "10900 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.695289,
+          "longitude":-87.681678
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

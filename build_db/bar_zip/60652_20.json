@@ -1,0 +1,973 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.09896623000000204,
+      "longitude_delta":0.12618528999999512
+    },
+    "center":{
+      "latitude":41.73653435,
+      "longitude":-87.72633405
+    }
+  },
+  "total":462,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/applebees-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":22,
+      "name":"Applebee's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/applebees-chicago-3",
+      "is_closed":false,
+      "phone":"7737670711",
+      "snippet_text":"Top review based on food only: \n\nApplebee's is one of your top good ol American cuisine dine in type restaurant. The burgers are made to order from fresh...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/xaR58_7uHqIbLK6gPZJf_Q/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Steakhouses",
+          "steak"
+        ]
+      ],
+      "display_phone":"+1-773-767-0711",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"applebees-chicago-3",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/tQgJE2zgFZb3LLAcqC9dYw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "7519 S Cicero Ave",
+          "West Lawn",
+          "Chicago, IL 60652"
+        ],
+        "geo_accuracy":6.0,
+        "neighborhoods":[
+          "West Lawn"
+        ],
+        "postal_code":"60652",
+        "country_code":"US",
+        "address":[
+          "7519 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7564697265625,
+          "longitude":-87.7416000366211
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/the-twisted-shamrock-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":22,
+      "name":"The Twisted Shamrock",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/the-twisted-shamrock-chicago",
+      "is_closed":false,
+      "phone":"7737351625",
+      "snippet_text":"Went to a private party last night and was impressed with the service and Guinness pours- done perfectly smooth.  \nFirst walked in and was asked by bouncer...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/wgWVobujU4yGqlFcNTyzjA/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-735-1625",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"the-twisted-shamrock-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/RSK2nFCcdC3NGAy0kKgICQ/ms.jpg",
+      "location":{
+        "cross_streets":"64th Pl & 65th St",
+        "city":"Chicago",
+        "display_address":[
+          "6462 S Central Ave",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6462 S Central Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7745399,
+          "longitude":-87.7619171
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/angies-restaurant-and-pizzeria-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":7,
+      "name":"Angie's Restaurant & Pizzeria",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/angies-restaurant-and-pizzeria-chicago",
+      "is_closed":false,
+      "id":"angies-restaurant-and-pizzeria-chicago",
+      "phone":"7737358527",
+      "snippet_text":"Grew up in this neighborhood and this was a great neighborhood bar and pizza joint.  I stopped back in here last weekend and they completely remodeled the...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/adHfcpsDL0Pe0EKAYTRsww/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-735-8527",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1424796139,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"83rd Pl & 84th St",
+        "city":"Chicago",
+        "display_address":[
+          "8352 S Pulaski Rd",
+          "Ashburn",
+          "Chicago, IL 60652"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Ashburn"
+        ],
+        "postal_code":"60652",
+        "country_code":"US",
+        "address":[
+          "8352 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.740734,
+          "longitude":-87.7218174
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/chucks-southern-comforts-caf%C3%A9-burbank-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":423,
+      "name":"Chuck's Southern Comforts Caf\u00e9",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/chucks-southern-comforts-caf%C3%A9-burbank-2",
+      "is_closed":false,
+      "phone":"7082298700",
+      "snippet_text":"Great Southern BBQ! We came here for some lunch with my coworkers. I ordered the Chuck's Special and it was out of this world. The beef brisket was very...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/9HLzXttkZ2tKOCkZyFxP_g/ms.jpg",
+      "categories":[
+        [
+          "Southern",
+          "southern"
+        ],
+        [
+          "Barbeque",
+          "bbq"
+        ],
+        [
+          "Cajun/Creole",
+          "cajun"
+        ]
+      ],
+      "display_phone":"+1-708-229-8700",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"chucks-southern-comforts-caf\u00e9-burbank-2",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/vcqhvcVcSz38DBbbjU6jog/ms.jpg",
+      "location":{
+        "cross_streets":"Natchez Ave & Neenah Ave",
+        "city":"Burbank",
+        "display_address":[
+          "6501 W 79th St",
+          "Burbank, IL 60459"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60459",
+        "country_code":"US",
+        "address":[
+          "6501 W 79th St"
+        ],
+        "coordinate":{
+          "latitude":41.748089,
+          "longitude":-87.783691
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/cork-and-kerry-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":38,
+      "name":"Cork & Kerry",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/cork-and-kerry-chicago",
+      "is_closed":false,
+      "phone":"7734452675",
+      "snippet_text":"Oh Western Bars...\n\nLots and lots of choices all along that tiny strip of Western that puts a smile on the faces of many a person.  The place has decently...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/Mc_FAGML3B0dip10P3eENg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-445-2675",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"cork-and-kerry-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/aD-mAktksIcJEMi6fWPKgg/ms.jpg",
+      "location":{
+        "cross_streets":"106th St & 107th St",
+        "city":"Chicago",
+        "display_address":[
+          "10614 S Western Ave",
+          "Beverly",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Beverly"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "10614 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.700436,
+          "longitude":-87.681839
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/gilhooleys-grand-saloon-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":19,
+      "name":"Gilhooley's Grand Saloon",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/gilhooleys-grand-saloon-chicago",
+      "is_closed":false,
+      "phone":"7732332200",
+      "snippet_text":"I love carrot cake, and Gilhooley's is the best carrot cake I've had in Chicago and 'burbs. I am not kidding. (I saw another reviewer say that their carrot...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/y_fCH8oGv3-GJgiCpJcMBg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Irish",
+          "irish"
+        ]
+      ],
+      "display_phone":"+1-773-233-2200",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"gilhooleys-grand-saloon-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/v83tvGpt62r0yxdjDHqyeQ/ms.jpg",
+      "location":{
+        "cross_streets":"Harding Ave & Springfield Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3901 W 103rd St",
+          "Mount Greenwood",
+          "Chicago, IL 60655"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Mount Greenwood"
+        ],
+        "postal_code":"60655",
+        "country_code":"US",
+        "address":[
+          "3901 W 103rd St"
+        ],
+        "coordinate":{
+          "latitude":41.7059006541967,
+          "longitude":-87.7186015248299
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/karolinka-club-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":10,
+      "name":"Karolinka Club",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/karolinka-club-chicago",
+      "is_closed":false,
+      "phone":"7737350818",
+      "snippet_text":"memories of my afternoon at karolinka club are a little hazy, but i'm pretty sure i ordered several rounds of shots, several beers for myself and others,...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/R7WhraGv0p9LcyZy1jcm_w/ms.jpg",
+      "categories":[
+        [
+          "Polish",
+          "polish"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-735-0818",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"karolinka-club-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/rcrJOGp6f4PxUMngYuIOeA/ms.jpg",
+      "location":{
+        "cross_streets":"61st St & 62nd St",
+        "city":"Chicago",
+        "display_address":[
+          "6102 S Central Ave",
+          "Clearing",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Clearing"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6102 S Central Ave"
+        ],
+        "coordinate":{
+          "latitude":41.781521,
+          "longitude":-87.762207
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/st-james-place-oak-lawn",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":14,
+      "name":"St James Place",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/st-james-place-oak-lawn",
+      "is_closed":false,
+      "phone":"7084251330",
+      "snippet_text":"Simple quiet bar that is clean and and great place to hangout. Prices of drinks are cheap and watching a game here having a beer was enjoyable.",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-708-425-1330",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"st-james-place-oak-lawn",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/q6hu0b8sSjxVxVYKH6lrUg/ms.jpg",
+      "location":{
+        "city":"Oak Lawn",
+        "display_address":[
+          "5305 W 95th St",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "5305 W 95th St"
+        ],
+        "coordinate":{
+          "latitude":41.7198300361633,
+          "longitude":-87.7533508837223
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/barracos-evergreen-park",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":87,
+      "name":"Barraco's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/barracos-evergreen-park",
+      "is_closed":false,
+      "id":"barracos-evergreen-park",
+      "phone":"7084248182",
+      "snippet_text":"This Barracos is very popular with those of us who work late at night. Pizza, sandwiches and pasta are great. Portions are enormous and they deliver until...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/dKLL6Q_rcmFoTZOzL8uz9Q/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-708-424-8182",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1413173468,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/M_Vc9ydEo8V0XKSgCEJetg/ms.jpg",
+      "location":{
+        "cross_streets":"Lawndale Ave & Ridgeway Ave",
+        "city":"Evergreen Park",
+        "display_address":[
+          "3701 W 95th St",
+          "Evergreen Park, IL 60805"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60805",
+        "country_code":"US",
+        "address":[
+          "3701 W 95th St"
+        ],
+        "coordinate":{
+          "latitude":41.720249,
+          "longitude":-87.71431
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.0,
+      "mobile_url":"http://m.yelp.com/biz/hooters-oak-lawn",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png",
+      "review_count":74,
+      "name":"Hooters",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png",
+      "url":"http://www.yelp.com/biz/hooters-oak-lawn",
+      "is_closed":false,
+      "id":"hooters-oak-lawn",
+      "phone":"7084234668",
+      "snippet_text":"Happy Birthday, Danny W!\n\nSo, today I went on a one of kind trolley bar crawl organized by the one and only Danny W. None of us knew where we were going or...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/Vg5pZR-EJOgnEuBQi9L6QA/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Chicken Wings",
+          "chicken_wings"
+        ]
+      ],
+      "display_phone":"+1-708-423-4668",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1423563497,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/elTDJ2bzifJqs8UsUzdfrA/ms.jpg",
+      "location":{
+        "city":"Oak Lawn",
+        "display_address":[
+          "9159 S Cicero Ave",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "9159 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.725836623971,
+          "longitude":-87.740712267933
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/reeses-lounge-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":4,
+      "name":"Reeses Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/reeses-lounge-chicago",
+      "is_closed":false,
+      "phone":"7732381993",
+      "snippet_text":"After sweating our buns off at a wedding all morning, and then going on a shoe purchasing adventure, my pals and I needed to crawl into a cold, dank cave,...",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-238-1993",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"reeses-lounge-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/aTxpxsbvdgiZSYzjuh2wyw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "1827 W 87th St",
+          "Auburn Gresham",
+          "Chicago, IL 60620"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Auburn Gresham"
+        ],
+        "postal_code":"60620",
+        "country_code":"US",
+        "address":[
+          "1827 W 87th St"
+        ],
+        "coordinate":{
+          "latitude":41.7356637865305,
+          "longitude":-87.669323310256
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/durbins-pizza-restaurant-and-lounge-burbank",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":33,
+      "name":"Durbins Pizza Restaurant & Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/durbins-pizza-restaurant-and-lounge-burbank",
+      "is_closed":false,
+      "id":"durbins-pizza-restaurant-and-lounge-burbank",
+      "phone":"7084231523",
+      "snippet_text":"great neighborhood pizza and bar to watch any game. love the atmosphere and pizza. bartenders are my favorite, very hardworking and fun to talk to. Anca,...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/u-mj-8OoLUWZobiRgNGgBQ/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-708-423-1523",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1389265675,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/4D7F4Vf7Sq-VBehY0qDM8g/ms.jpg",
+      "location":{
+        "cross_streets":"Long Ave & Lotus Ave",
+        "city":"Burbank",
+        "display_address":[
+          "5406 W 79th St",
+          "Burbank, IL 60459"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60459",
+        "country_code":"US",
+        "address":[
+          "5406 W 79th St"
+        ],
+        "coordinate":{
+          "latitude":41.749184,
+          "longitude":-87.756393
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/daltons-irish-pub-burbank",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":5,
+      "name":"Dalton's Irish Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/daltons-irish-pub-burbank",
+      "is_closed":false,
+      "phone":"7084231570",
+      "snippet_text":"Great bar, great bartenders, great selection of drinks to choose from! Heated beer garden with a big screen tv and now video gaming!!! It's a great place to...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/Q8tN1hD5JYTipZ3OKRqOlA/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-708-423-1570",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"daltons-irish-pub-burbank",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/aJqCwrjJUzT2NJw7dyhplQ/ms.jpg",
+      "location":{
+        "city":"Burbank",
+        "display_address":[
+          "5616 W 87th St",
+          "Burbank, IL 60459"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60459",
+        "country_code":"US",
+        "address":[
+          "5616 W 87th St"
+        ],
+        "coordinate":{
+          "latitude":41.734558,
+          "longitude":-87.761238
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/whitneys-95th-street-bar-and-grill-oak-lawn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":15,
+      "name":"Whitney's 95th Street Bar & Grill",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/whitneys-95th-street-bar-and-grill-oak-lawn",
+      "is_closed":false,
+      "id":"whitneys-95th-street-bar-and-grill-oak-lawn",
+      "phone":"7082298888",
+      "snippet_text":"Came across this place based on Yelp reviews. Overlooked it often because it's a hotel restaurant but the food is really good. \nThey have some of the best...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/ilNAvXpqaop07yTof0W6nQ/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ]
+      ],
+      "display_phone":"+1-708-229-8888",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"locu",
+      "menu_date_updated":1411636465,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/NgPA6FnhZyGI9QmXkd9ODQ/ms.jpg",
+      "location":{
+        "city":"Oak Lawn",
+        "display_address":[
+          "9333 S Cicero Ave",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "9333 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.723278,
+          "longitude":-87.737511
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/krauss-gaslite-lounge-oak-lawn",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":7,
+      "name":"Krauss' Gaslite Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/krauss-gaslite-lounge-oak-lawn",
+      "is_closed":false,
+      "phone":"7088577828",
+      "snippet_text":"A great low key bar. I don't have a single complaint about this place,  cheap pitchers and shots, free arcade bowling and darts, lotto scratch off machine...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/lg7uJo8CRPckmxOgdNONRQ/ms.jpg",
+      "categories":[
+        [
+          "Gastropubs",
+          "gastropubs"
+        ]
+      ],
+      "display_phone":"+1-708-857-7828",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"krauss-gaslite-lounge-oak-lawn",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/Xftv5YfznoPx3mW2yCYuPA/ms.jpg",
+      "location":{
+        "cross_streets":"Tulley Ave & 52nd Ave",
+        "city":"Oak Lawn",
+        "display_address":[
+          "5130 W 95th St",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "5130 W 95th St"
+        ],
+        "coordinate":{
+          "latitude":41.7200661,
+          "longitude":-87.7495041
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/durbins-pub-evergreen-park",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":16,
+      "name":"Durbin's Pub",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/durbins-pub-evergreen-park",
+      "is_closed":false,
+      "phone":"7084990022",
+      "snippet_text":"It was one of a few places open on Christmas. After seeing Foxcatcher we needed a place to decompress and complain about the pile of shit we just saw. I...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/09c4CGPFavmXDGswvbEAzg/ms.jpg",
+      "categories":[
+        [
+          "Irish",
+          "irish"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-499-0022",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"durbins-pub-evergreen-park",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/J0yGd6NWsoa8kjDqpeID5w/ms.jpg",
+      "location":{
+        "city":"Evergreen Park",
+        "display_address":[
+          "10240 S Kedzie Ave",
+          "Mount Greenwood",
+          "Evergreen Park, IL 60805"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Mount Greenwood"
+        ],
+        "postal_code":"60805",
+        "country_code":"US",
+        "address":[
+          "10240 S Kedzie Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7069054,
+          "longitude":-87.7015457
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/louies-chophouse-oak-lawn-2",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":37,
+      "name":"Louie's ChopHouse",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/louies-chophouse-oak-lawn-2",
+      "is_closed":false,
+      "id":"louies-chophouse-oak-lawn-2",
+      "phone":"7084256530",
+      "snippet_text":"Dined here on a Sunday evening with a large group and couldn't find a fault with anything. The service was efficient . Before even sitting down our waitress...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/gU8CPxd7Dn3YZ-OaF5TmeQ/ms.jpg",
+      "categories":[
+        [
+          "Steakhouses",
+          "steak"
+        ]
+      ],
+      "display_phone":"+1-708-425-6530",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1416212106,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/4z7bATNjcjjuNSkT-XMekw/ms.jpg",
+      "location":{
+        "cross_streets":"Kilpatrick Ave & Knox Ave",
+        "city":"Oak Lawn",
+        "display_address":[
+          "4642 W 103rd St",
+          "Oak Lawn, IL 60453"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60453",
+        "country_code":"US",
+        "address":[
+          "4642 W 103rd St"
+        ],
+        "coordinate":{
+          "latitude":41.705761,
+          "longitude":-87.7368851
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/innexile-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":8,
+      "name":"Innexile",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/innexile-chicago",
+      "is_closed":false,
+      "phone":"7735823510",
+      "snippet_text":"Favorite southwest side bar period!  Don't be put off by the drab exterior, place is a hoot.  Right place, right price, and right people.",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/waRRHG7s9CQtxxhd3iamqg/ms.jpg",
+      "categories":[
+        [
+          "Gay Bars",
+          "gaybars"
+        ]
+      ],
+      "display_phone":"+1-773-582-3510",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"innexile-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/c1hjz9JMR6JSmRVSGgdSWQ/ms.jpg",
+      "location":{
+        "cross_streets":"Menard Ave & Major Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5758 W 65th St",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "5758 W 65th St"
+        ],
+        "coordinate":{
+          "latitude":41.774586,
+          "longitude":-87.766304
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/blackthorn-pub-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":12,
+      "name":"Blackthorn Pub",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/blackthorn-pub-chicago",
+      "is_closed":false,
+      "phone":"7737793033",
+      "snippet_text":"I've been here a few times for a number of different things and have had a great experience every time. \n\nThere can occasionally be some college students...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/eZy-fpSDkLVoJ_vHIsduBw/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-779-3033",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"blackthorn-pub-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/2ckorYArmrh9WHvls83lFQ/ms.jpg",
+      "location":{
+        "cross_streets":"Spaulding Ave & Christiana Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3300 W 111th St",
+          "Mount Greenwood",
+          "Chicago, IL 60655"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Mount Greenwood"
+        ],
+        "postal_code":"60655",
+        "country_code":"US",
+        "address":[
+          "3300 W 111th St"
+        ],
+        "coordinate":{
+          "latitude":41.6917801,
+          "longitude":-87.7035675
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/tilted-kilt-pub-and-eatery-chicago-ridge",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":49,
+      "name":"Tilted Kilt Pub & Eatery",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/tilted-kilt-pub-and-eatery-chicago-ridge",
+      "is_closed":false,
+      "phone":"7088578300",
+      "snippet_text":"Visited a Tilted Kilt for the first time to watch Thursday night football. \nHostesses and waitress staff all very friendly. \nWe requested the NFL network...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/LaRdvt9snfTJwhh607-NHQ/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-708-857-8300",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"tilted-kilt-pub-and-eatery-chicago-ridge",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/z8pJROATaaVwagfDEy4Y-A/ms.jpg",
+      "location":{
+        "city":"Chicago Ridge",
+        "display_address":[
+          "6401 95th St.",
+          "Chicago Ridge, IL 60415"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60415",
+        "country_code":"US",
+        "address":[
+          "6401 95th St."
+        ],
+        "coordinate":{
+          "latitude":41.718997,
+          "longitude":-87.780509
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

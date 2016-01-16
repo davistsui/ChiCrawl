@@ -1,0 +1,1053 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.12565849945318064,
+      "longitude_delta":0.21073513999999705
+    },
+    "center":{
+      "latitude":41.93664549975145,
+      "longitude":-87.7648523
+    }
+  },
+  "total":6103,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/underpass-franklin-park",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":24,
+      "name":"Underpass",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/underpass-franklin-park",
+      "is_closed":false,
+      "phone":"8474557277",
+      "snippet_text":"Fantastic burgers, good deals on booze, and nice ambiance.  I could go on and on about their great food or $2 pints (errday!), but long story short,...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/N-2Mjrhp8tLH0K3h5cWFjg/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-847-455-7277",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"underpass-franklin-park",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/Q9OhZDPhSPhQ-92kxEE3Cg/ms.jpg",
+      "location":{
+        "cross_streets":"Washington St",
+        "city":"Franklin Park",
+        "display_address":[
+          "9400 W Grand Ave",
+          "Franklin Park, IL 60131"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60131",
+        "country_code":"US",
+        "address":[
+          "9400 W Grand Ave"
+        ],
+        "coordinate":{
+          "latitude":41.929657,
+          "longitude":-87.860641
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/dish-dine-and-drink-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":56,
+      "name":"Dish Dine & Drink",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/dish-dine-and-drink-chicago",
+      "is_closed":false,
+      "phone":"7735940100",
+      "snippet_text":"All around good food. Their prices are decent. Staff is super friendly and make good recommendations.\n\nI went with a special, which was a pulled pork...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/QT6NzdKkLSjtlhWtgOF9Eg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ]
+      ],
+      "display_phone":"+1-773-594-0100",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"dish-dine-and-drink-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/dkj7-FJCXLlwUniQmqOOmA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "6169 N NW Hwy",
+          "Norwood Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6169 N NW Hwy"
+        ],
+        "coordinate":{
+          "latitude":41.9937629995029,
+          "longitude":-87.801296710968
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/iron-horse-ale-house-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":87,
+      "name":"Iron Horse Ale House",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/iron-horse-ale-house-chicago",
+      "is_closed":false,
+      "id":"iron-horse-ale-house-chicago",
+      "phone":"7737631800",
+      "snippet_text":"We came to Iron Horse last Friday after trying to find a place that would accommodate all appetites and dietary restrictions.  That, and it's been on my...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/kyTGaICGocym6wKQaPiYKA/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-773-763-1800",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1411799308,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/c-U3lo8C4S-QO73O8W8LNg/ms.jpg",
+      "location":{
+        "cross_streets":"Sayre Ave & Niagara Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6158 N Northwest Hwy",
+          "Norwood Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6158 N Northwest Hwy"
+        ],
+        "coordinate":{
+          "latitude":41.9935112,
+          "longitude":-87.8012695
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/%C3%B1-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":171,
+      "name":"\u00d1",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/%C3%B1-chicago-3",
+      "is_closed":false,
+      "phone":"7738669898",
+      "snippet_text":"This place is quite hidden, but it easily makes it on my list of top bars that I've been to in Chicago. The drinks are great! Their Mojitos are so damn...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/_krSGkZ6iWP74hYwpXg_4Q/ms.jpg",
+      "categories":[
+        [
+          "Argentine",
+          "argentine"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-866-9898",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"\u00f1-chicago-3",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/LjPkxz5mNr38eskJiKEoqQ/ms.jpg",
+      "location":{
+        "cross_streets":"Maplewood Ave & Rockwell St",
+        "city":"Chicago",
+        "display_address":[
+          "2977 N Elston Ave",
+          "Avondale",
+          "Chicago, IL 60618"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Avondale"
+        ],
+        "postal_code":"60618",
+        "country_code":"US",
+        "address":[
+          "2977 N Elston Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9356832,
+          "longitude":-87.6927103
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-montrose-saloon-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":40,
+      "name":"The Montrose Saloon",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-montrose-saloon-chicago",
+      "is_closed":false,
+      "phone":"7734637663",
+      "snippet_text":"One of our favorite neighborhood bars! They often have live music and during the summer there's a huge 'beer garden' out back. \n\nA cozy, unpretentious spot...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/_wdrKZcedpObqhDiE0WpGA/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-773-463-7663",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-montrose-saloon-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/eDuGY872W4tWSJ2fqpAjOw/ms.jpg",
+      "location":{
+        "cross_streets":"Richmond St & Sacramento Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2933 W Montrose Ave",
+          "Irving Park",
+          "Chicago, IL 60618"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Irving Park"
+        ],
+        "postal_code":"60618",
+        "country_code":"US",
+        "address":[
+          "2933 W Montrose Ave"
+        ],
+        "coordinate":{
+          "latitude":41.960979,
+          "longitude":-87.702271
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/briskus-bistro-and-bar-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":73,
+      "name":"Brisku's Bistro & Bar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/briskus-bistro-and-bar-chicago",
+      "is_closed":false,
+      "id":"briskus-bistro-and-bar-chicago",
+      "phone":"7732799141",
+      "snippet_text":"This is a great neighborhood bar. The owner is a good, honest man. Majority of the food is really good. They have daily food and drink specials, my favorite...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/diHcFhEltexVQUBdvbyO-Q/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-773-279-9141",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1394731888,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/32nmrxF6kqBj7NcTVUKMGg/ms.jpg",
+      "location":{
+        "cross_streets":"Belle Plaine Ave & Warner Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4100 N Kedzie Ave",
+          "Irving Park",
+          "Chicago, IL 60618"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Irving Park"
+        ],
+        "postal_code":"60618",
+        "country_code":"US",
+        "address":[
+          "4100 N Kedzie Ave"
+        ],
+        "coordinate":{
+          "latitude":41.955917,
+          "longitude":-87.708275
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/galvins-public-house-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":55,
+      "name":"Galvin's Public House",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/galvins-public-house-chicago",
+      "is_closed":false,
+      "id":"galvins-public-house-chicago",
+      "phone":"7732050570",
+      "snippet_text":"This has recently become my go to pub/bar even though it's not right in my neighborhood.  What I'm saying is that it's well worth the trip to get over...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/bJT7zkpfI-NU5m03dmxUCg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Irish",
+          "irish"
+        ]
+      ],
+      "display_phone":"+1-773-205-0570",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1419229487,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/mpaA04j2V0kw7XhEz46ckw/ms.jpg",
+      "location":{
+        "cross_streets":"Marmora Ave & Mason Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5901 W Lawrence Ave",
+          "Portage Park",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Portage Park"
+        ],
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "5901 W Lawrence Ave"
+        ],
+        "coordinate":{
+          "latitude":41.967415,
+          "longitude":-87.775009
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/little-bad-wolf-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":115,
+      "name":"Little Bad Wolf",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/little-bad-wolf-chicago",
+      "is_closed":false,
+      "phone":"7739426399",
+      "snippet_text":"I've been reading great reviews about this place for a while now and we decided to head over there Saturday night to see what the hub bub's about.. glad we...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/7H2rx7QxQpOr5dDUyWKyAQ/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-942-6399",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"little-bad-wolf-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/3w4Bgfg3npCC-rIubdRbJA/ms.jpg",
+      "location":{
+        "cross_streets":"Ashland Ave & Clark St",
+        "city":"Chicago",
+        "display_address":[
+          "1541 W Bryn Mawr Ave",
+          "Edgewater",
+          "Chicago, IL 60660"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater",
+          "Andersonville"
+        ],
+        "postal_code":"60660",
+        "country_code":"US",
+        "address":[
+          "1541 W Bryn Mawr Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9833641,
+          "longitude":-87.6689758
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-harding-tavern-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":90,
+      "name":"The Harding Tavern",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-harding-tavern-chicago",
+      "is_closed":false,
+      "phone":"8728020182",
+      "snippet_text":"The setting is welcoming and the beer list is vast. Enjoy ridiculous 90's music and non-overbearing TVs. \n\nThe Grilled Portabella Sandwich is HEAVENLY. No...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/eAzTUBTdzak2SK3Whxulfw/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-872-802-0182",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-harding-tavern-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/0M-QWWxii0evo68BsiRr6A/ms.jpg",
+      "location":{
+        "cross_streets":"Spaulding Ave & Sawyer Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2732 N Milwaukee Ave",
+          "Logan Square",
+          "Chicago, IL 60647"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Logan Square"
+        ],
+        "postal_code":"60647",
+        "country_code":"US",
+        "address":[
+          "2732 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9308003,
+          "longitude":-87.7102403
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/sidekicks-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":92,
+      "name":"Sidekicks",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/sidekicks-chicago",
+      "is_closed":false,
+      "id":"sidekicks-chicago",
+      "phone":"7735456212",
+      "snippet_text":"Have you ever walked into a bar and realized that you weren't wearing pants? Neither have I. But I bet there has been more than one instance of someone not...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/1gtX4t6k8eFAJysmH51Mkw/ms.jpg",
+      "categories":[
+        [
+          "Restaurants",
+          "restaurants"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Karaoke",
+          "karaoke"
+        ]
+      ],
+      "display_phone":"+1-773-545-6212",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387614983,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/lb9RRdGtyXfrcZoTzxocmA/ms.jpg",
+      "location":{
+        "cross_streets":"Kenneth Ave & Kostner Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4424 W Montrose Ave",
+          "Irving Park",
+          "Chicago, IL 60641"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Irving Park"
+        ],
+        "postal_code":"60641",
+        "country_code":"US",
+        "address":[
+          "4424 W Montrose Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9608701020479,
+          "longitude":-87.739287391305
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/rocking-horse-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":415,
+      "name":"Rocking Horse",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/rocking-horse-chicago",
+      "is_closed":false,
+      "phone":"7734860011",
+      "snippet_text":"Went here for brunch. As soon as I saw the menu I knew I wanted to come back. Make no mistake, this is not your organic kale and rutabaga salad kind of...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/le9ETQ6swNqunNAFjga54A/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-773-486-0011",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"rocking-horse-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/NlyS2CTwr5ulE79zJ-61jQ/ms.jpg",
+      "location":{
+        "cross_streets":"Sacramento Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2535 N Milwaukee Ave",
+          "Logan Square",
+          "Chicago, IL 60647"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Logan Square"
+        ],
+        "postal_code":"60647",
+        "country_code":"US",
+        "address":[
+          "2535 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.927567,
+          "longitude":-87.704453
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/four-moon-tavern-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":225,
+      "name":"Four Moon Tavern",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/four-moon-tavern-chicago",
+      "is_closed":false,
+      "phone":"7739296666",
+      "snippet_text":"This is my favorite bar, and my greatest sadness is that I can't go hear all the time. \nThe beer is great. The food is even better. Yes, a kinda divey bar...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/qSnm2ogPfm4lWXYUFlVxFg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-929-6666",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"four-moon-tavern-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/D6MaXZ2V30UJ50Jxvp4Y3g/ms.jpg",
+      "location":{
+        "cross_streets":"Ravenswood Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1847 W Roscoe St",
+          "Roscoe Village",
+          "Chicago, IL 60657"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Roscoe Village"
+        ],
+        "postal_code":"60657",
+        "country_code":"US",
+        "address":[
+          "1847 W Roscoe St"
+        ],
+        "coordinate":{
+          "latitude":41.9429893,
+          "longitude":-87.6758499
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/stereo-nightclub-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":11,
+      "name":"Stereo Nightclub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/stereo-nightclub-chicago",
+      "is_closed":false,
+      "phone":"7738897171",
+      "snippet_text":"This place is absolutely amazing. Definitely will be back again! Cute European guys, great DJ, light show and tons of CONFETTI!! Even the bartenders are...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/T2CvHGxvZG4YFXhJgevWgg/ms.jpg",
+      "categories":[
+        [
+          "Dance Clubs",
+          "danceclubs"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-889-7171",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"stereo-nightclub-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/a-4wP_ZAU3vCxGL-aQ5hsA/ms.jpg",
+      "location":{
+        "cross_streets":"Central Ave & Parkside Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5616 W Diversey Ave",
+          "Belmont Central",
+          "Chicago, IL 60639"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Belmont Central"
+        ],
+        "postal_code":"60639",
+        "country_code":"US",
+        "address":[
+          "5616 W Diversey Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9314041,
+          "longitude":-87.7669983
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/the-boiler-room-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":585,
+      "name":"The Boiler Room",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/the-boiler-room-chicago-2",
+      "is_closed":false,
+      "id":"the-boiler-room-chicago-2",
+      "phone":"7732765625",
+      "snippet_text":"Maybe I've been living in LA for too long, but the pizza here is dope! It's, really, really good. The corn meal crust is exactly what you would hope for, a...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/EC1pn3nUrE-buEf7585iYg/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-276-5625",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387713826,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/TgOuewY3Vnffy26SuLUFXQ/ms.jpg",
+      "location":{
+        "cross_streets":"Lyndale St & Palmer St",
+        "city":"Chicago",
+        "display_address":[
+          "2210 N California Ave",
+          "Logan Square",
+          "Chicago, IL 60647"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Logan Square"
+        ],
+        "postal_code":"60647",
+        "country_code":"US",
+        "address":[
+          "2210 N California Ave"
+        ],
+        "coordinate":{
+          "latitude":41.922115,
+          "longitude":-87.69767
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/quenchers-saloon-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":325,
+      "name":"Quenchers Saloon",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/quenchers-saloon-chicago",
+      "is_closed":false,
+      "phone":"7732769730",
+      "snippet_text":"I came to Quenchers for a show my cousin was playing and I was pleasently surprised by a few things:\na truly developed beer selection - I am a beer nazi...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/STd9j1SSig00KXAYGA4scw/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-276-9730",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"quenchers-saloon-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/qT1axeuIyPq9qVd8HpSPVA/ms.jpg",
+      "location":{
+        "cross_streets":"Montana St & Fullerton Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2401 N Western Ave",
+          "Bucktown",
+          "Chicago, IL 60647"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Bucktown",
+          "Logan Square"
+        ],
+        "postal_code":"60647",
+        "country_code":"US",
+        "address":[
+          "2401 N Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.925093150306,
+          "longitude":-87.687369555532
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-red-lion-lincoln-square-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":95,
+      "name":"The Red Lion Lincoln Square",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-red-lion-lincoln-square-chicago",
+      "is_closed":false,
+      "phone":"7736541341",
+      "snippet_text":"We took my English expat husband here for his birthday and they treated him like a king. He said this was the closest thing to a typical English pub he's...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/3w48sli41MrLM4L4AM8VNg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "British",
+          "british"
+        ]
+      ],
+      "display_phone":"+1-773-654-1341",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-red-lion-lincoln-square-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/4mC3YB0qihhYUibdHH90pQ/ms.jpg",
+      "location":{
+        "cross_streets":"Leland Ave & Lawrence Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4749 N Rockwell St",
+          "Ravenswood",
+          "Chicago, IL 60625"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Ravenswood",
+          "Lincoln Square"
+        ],
+        "postal_code":"60625",
+        "country_code":"US",
+        "address":[
+          "4749 N Rockwell St"
+        ],
+        "coordinate":{
+          "latitude":41.9678699970245,
+          "longitude":-87.6936925202608
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/handlebar-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":907,
+      "name":"Handlebar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/handlebar-chicago",
+      "is_closed":false,
+      "phone":"7733849546",
+      "snippet_text":"Hands down, the best breakfast food in the city. I'm vegan but my family of carnivores begs me to bring them back to Handlebar every time their in town. My...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/O276JgPKvEIXhJy2Z3rumA/ms.jpg",
+      "categories":[
+        [
+          "Vegetarian",
+          "vegetarian"
+        ],
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Vegan",
+          "vegan"
+        ]
+      ],
+      "display_phone":"+1-773-384-9546",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"handlebar-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/0nFLqDTwY1mVZOelC79Vuw/ms.jpg",
+      "location":{
+        "cross_streets":"Claremont Ave & Oakley Blvd",
+        "city":"Chicago",
+        "display_address":[
+          "2311 W North Ave",
+          "Wicker Park",
+          "Chicago, IL 60647"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Wicker Park",
+          "West Town"
+        ],
+        "postal_code":"60647",
+        "country_code":"US",
+        "address":[
+          "2311 W North Ave"
+        ],
+        "coordinate":{
+          "latitude":41.910088,
+          "longitude":-87.685303
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/bullhead-cantina-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":172,
+      "name":"Bullhead Cantina",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/bullhead-cantina-chicago",
+      "is_closed":false,
+      "id":"bullhead-cantina-chicago",
+      "phone":"7737728895",
+      "snippet_text":"Food was great and service was excellent! We tried several of the tacos: sweet potato,  southern chicken, BBQ pulled pork,  and brisket. $2 taco Tuesday is...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/naP6gkPXK7ZinTqg9i-kng/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Mexican",
+          "mexican"
+        ]
+      ],
+      "display_phone":"+1-773-772-8895",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1398675508,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/U5OxB0QL-qUx87J2prmB_g/ms.jpg",
+      "location":{
+        "cross_streets":"Haddon Ave & Thomas St",
+        "city":"Chicago",
+        "display_address":[
+          "1143 N California",
+          "Humboldt Park",
+          "Chicago, IL 60622"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Humboldt Park",
+          "West Town"
+        ],
+        "postal_code":"60622",
+        "country_code":"US",
+        "address":[
+          "1143 N California"
+        ],
+        "coordinate":{
+          "latitude":41.9022902121953,
+          "longitude":-87.6964375079613
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/scratch-kitchen-and-lounge-forest-park-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":153,
+      "name":"Scratch Kitchen and Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/scratch-kitchen-and-lounge-forest-park-2",
+      "is_closed":false,
+      "id":"scratch-kitchen-and-lounge-forest-park-2",
+      "phone":"7086898427",
+      "snippet_text":"We love Scratch Kitchen and Lounge in this house. It is my favorite burger ever. I love the atmosphere, the service is almost always flawless, and the food...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/LXw9TVx29yy2FLlgholl7g/ms.jpg",
+      "categories":[
+        [
+          "Burgers",
+          "burgers"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-708-689-8427",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1404250735,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/Zc-HsbnC4034OV7P6F6-fA/ms.jpg",
+      "location":{
+        "cross_streets":"Beloit Ave & Burkhardt Ct",
+        "city":"Forest Park",
+        "display_address":[
+          "7445 Madison St",
+          "Forest Park, IL 60130"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60130",
+        "country_code":"US",
+        "address":[
+          "7445 Madison St"
+        ],
+        "coordinate":{
+          "latitude":41.879528,
+          "longitude":-87.8114604
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/the-gallery-cabaret-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":135,
+      "name":"The Gallery Cabaret",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/the-gallery-cabaret-chicago",
+      "is_closed":false,
+      "phone":"7734895471",
+      "snippet_text":"Great bar. Excellent blues. The bartender Sandy is super sweet! Will definitely be back.",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/qLEewA-VBUTQBHIubC4grg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Comedy Clubs",
+          "comedyclubs"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-773-489-5471",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"the-gallery-cabaret-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/My9FA8lS26JKQ5SSLJjQoA/ms.jpg",
+      "location":{
+        "cross_streets":"Armitage Ave & Mclean Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2020 N Oakley Ave",
+          "Bucktown",
+          "Chicago, IL 60647"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Bucktown"
+        ],
+        "postal_code":"60647",
+        "country_code":"US",
+        "address":[
+          "2020 N Oakley Ave"
+        ],
+        "coordinate":{
+          "latitude":41.918266,
+          "longitude":-87.685265
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

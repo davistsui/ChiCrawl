@@ -1,0 +1,1053 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.04636433999999667,
+      "longitude_delta":0.04466945999999439
+    },
+    "center":{
+      "latitude":41.874655,
+      "longitude":-87.64650660000001
+    }
+  },
+  "total":2187,
+  "businesses":[
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/green-street-smoked-meats-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":398,
+      "name":"Green Street Smoked Meats",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/green-street-smoked-meats-chicago",
+      "is_closed":false,
+      "phone":"3127540431",
+      "snippet_text":"Meat, meat, meat. This place is awe-some. You walk in, stand in a line to order your food and then go find the table. Basically a typical bbq place but...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/ug1IoS2ijG7muy0TP1NpiA/ms.jpg",
+      "categories":[
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-312-754-0431",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"green-street-smoked-meats-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/oMTJDita3j8vckkO-6OFLA/ms.jpg",
+      "location":{
+        "cross_streets":"Washington Blvd & Randolph St",
+        "city":"Chicago",
+        "display_address":[
+          "112 N Green St",
+          "Near West Side",
+          "Chicago, IL 60607"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near West Side",
+          "West Loop"
+        ],
+        "postal_code":"60607",
+        "country_code":"US",
+        "address":[
+          "112 N Green St"
+        ],
+        "coordinate":{
+          "latitude":41.883651,
+          "longitude":-87.648968
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/clover-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":27,
+      "name":"Clover",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/clover-chicago",
+      "is_closed":false,
+      "phone":"3123441934",
+      "snippet_text":"I love Clover.\n\nI moved nearby around June, and this place has become my go to place to grab a quick beer or get a night started with Friends. They have...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/uwdKgI4hwGdDWIsVPyT-fA/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-312-344-1934",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"clover-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/tkUEKuvN8wppx6PekwE9fw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "722 W Grand Ave",
+          "Near West Side",
+          "Chicago, IL 60654"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near West Side",
+          "West Town",
+          "River West",
+          "Noble Square"
+        ],
+        "postal_code":"60654",
+        "country_code":"US",
+        "address":[
+          "722 W Grand Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8914299,
+          "longitude":-87.6471634
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/girl-and-the-goat-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":3630,
+      "name":"Girl & the Goat",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/girl-and-the-goat-chicago",
+      "is_closed":false,
+      "id":"girl-and-the-goat-chicago",
+      "phone":"3124926262",
+      "snippet_text":"just go\n\n\n\nseriously\nperiod.",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/22fgoyeZUFiH43y2Qkhmmw/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Seafood",
+          "seafood"
+        ]
+      ],
+      "display_phone":"+1-312-492-6262",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"locu",
+      "menu_date_updated":1425596800,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/9T2JYUjmbtZ2DyZjVEaLAA/ms.jpg",
+      "location":{
+        "cross_streets":"Green St & Halsted St",
+        "city":"Chicago",
+        "display_address":[
+          "809 W Randolph St",
+          "Near West Side",
+          "Chicago, IL 60607"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near West Side",
+          "West Loop"
+        ],
+        "postal_code":"60607",
+        "country_code":"US",
+        "address":[
+          "809 W Randolph St"
+        ],
+        "coordinate":{
+          "latitude":41.884212,
+          "longitude":-87.647942
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-living-room-bar-w-chicago-city-center-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":24,
+      "name":"The Living Room Bar  W Chicago City Center",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-living-room-bar-w-chicago-city-center-chicago",
+      "is_closed":false,
+      "phone":"3123321200",
+      "snippet_text":"Great bar with a relaxed atmosphere and fun cocktails.\n\nI came here on a Saturday night with a couple people. We were initially in the main bar but...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/HhMyIAyPPEAcBQ96jooCAg/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-312-332-1200",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-living-room-bar-w-chicago-city-center-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/vWiT8NMIzYu1SuK6mu-JXA/ms.jpg",
+      "location":{
+        "cross_streets":"La Salle St & Wells St",
+        "city":"Chicago",
+        "display_address":[
+          "172 W Adams St",
+          "The Loop",
+          "Chicago, IL 60603"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "The Loop"
+        ],
+        "postal_code":"60603",
+        "country_code":"US",
+        "address":[
+          "172 W Adams St"
+        ],
+        "coordinate":{
+          "latitude":41.8797302,
+          "longitude":-87.6331406
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/g-and-o-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":51,
+      "name":"G & O",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/g-and-o-chicago",
+      "is_closed":false,
+      "phone":"3128883367",
+      "snippet_text":"Wow! This place is the true definition of a hidden geml My boyfriend and I came in here after wanting to try this place for a long time. My boyfriend had to...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/LKteRMk8GV1M7HRxL7jXsw/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ]
+      ],
+      "display_phone":"+1-312-888-3367",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"g-and-o-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/uuewV126sxJ2CCw5HxB6sg/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "459 W Ogden Ave",
+          "Near West Side",
+          "Chicago, IL 60642"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near West Side",
+          "West Loop",
+          "West Town"
+        ],
+        "postal_code":"60642",
+        "country_code":"US",
+        "address":[
+          "459 W Ogden Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8909068,
+          "longitude":-87.6588588
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/bombacignos-j-and-c-inn-chicago-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":112,
+      "name":"Bombacigno's J & C Inn",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/bombacignos-j-and-c-inn-chicago-2",
+      "is_closed":false,
+      "id":"bombacignos-j-and-c-inn-chicago-2",
+      "phone":"3126634114",
+      "snippet_text":"I hate to rate this place and give it 5 stars because I don't want anyone else to know about it.  \n\nThis place is worth the walk... hands down the best...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/pVEm6SgHdsYs0yC6IrAZzg/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-312-663-4114",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1390423442,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/T8lV7ZcZYlSMeSTixOcV2w/ms.jpg",
+      "location":{
+        "cross_streets":"Clinton St & Jefferson St",
+        "city":"Chicago",
+        "display_address":[
+          "558 W Van Buren St",
+          "Near West Side",
+          "Chicago, IL 60607"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near West Side",
+          "West Loop"
+        ],
+        "postal_code":"60607",
+        "country_code":"US",
+        "address":[
+          "558 W Van Buren St"
+        ],
+        "coordinate":{
+          "latitude":41.876987,
+          "longitude":-87.641823
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/moxee-restaurant-and-mad-mouse-brewery-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":74,
+      "name":"Moxee Restaurant & Mad Mouse Brewery",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/moxee-restaurant-and-mad-mouse-brewery-chicago",
+      "is_closed":false,
+      "id":"moxee-restaurant-and-mad-mouse-brewery-chicago",
+      "phone":"3122433660",
+      "snippet_text":"There aren't too many places around UIC I enjoy, so when this place opened up a year or ago, I was so excited to try it.  There's not really enough good...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/jvm-sklTGD7lsVxdk5vmeg/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Breweries",
+          "breweries"
+        ],
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-312-243-3660",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1400749560,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/lxeiOOn5Hw01wVYOVvoZGg/ms.jpg",
+      "location":{
+        "cross_streets":"Union Ave & Halsted St",
+        "city":"Chicago",
+        "display_address":[
+          "724 W Maxwell St",
+          "University Village",
+          "Chicago, IL 60607"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "University Village"
+        ],
+        "postal_code":"60607",
+        "country_code":"US",
+        "address":[
+          "724 W Maxwell St"
+        ],
+        "coordinate":{
+          "latitude":41.8648564254585,
+          "longitude":-87.6463897736001
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/the-matchbox-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":225,
+      "name":"The Matchbox",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/the-matchbox-chicago",
+      "is_closed":false,
+      "phone":"3126669292",
+      "snippet_text":"Love this place! It's easily the coziest spot in Chicago come wintertime. The staff is down to earth and easily memorable. I've never been to the matchbox...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/XIV6n1e9TbhzyaSlihMPbA/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-312-666-9292",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"the-matchbox-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/S54i09VTTA21KB87r_vd6A/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "770 N Milwaukee Ave",
+          "River West",
+          "Chicago, IL 60642"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "River West",
+          "Noble Square",
+          "West Town"
+        ],
+        "postal_code":"60642",
+        "country_code":"US",
+        "address":[
+          "770 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.895668,
+          "longitude":-87.6547928
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/cobra-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":226,
+      "name":"Cobra Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/cobra-lounge-chicago",
+      "is_closed":false,
+      "phone":"3122266300",
+      "snippet_text":"I liked the Cobra Lounge, it was a good place to see a show.  The music room is nicely laid-out and sound was all right.  Waitstaff and bar staff were very...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/HBRo1Xa6AvCE-LqFC2O8Jw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-312-226-6300",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"cobra-lounge-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/I4GWKjb-9tG95cyG3nVgEg/ms.jpg",
+      "location":{
+        "cross_streets":"Adams St & Fulton St",
+        "city":"Chicago",
+        "display_address":[
+          "235 N Ashland Ave",
+          "Near West Side",
+          "Chicago, IL 60607"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near West Side",
+          "West Loop"
+        ],
+        "postal_code":"60607",
+        "country_code":"US",
+        "address":[
+          "235 N Ashland Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8863411,
+          "longitude":-87.6666336
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/bottom-lounge-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":228,
+      "name":"Bottom Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/bottom-lounge-chicago",
+      "is_closed":false,
+      "phone":"3126666775",
+      "snippet_text":"Although I didn't come here to see a concert, I did bring my 17 year old nephew and his friend here to see Stick To Your Guns.  While I waited, had the...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/OCzwgLPBCjmJ4lDTZGUGdw/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Venues & Event Spaces",
+          "venues"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-312-666-6775",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"bottom-lounge-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/Ogx-b4qjl7GlIbIgDhF5tw/ms.jpg",
+      "location":{
+        "cross_streets":"Loomis St & Ada St",
+        "city":"Chicago",
+        "display_address":[
+          "1375 W Lake St",
+          "Near West Side",
+          "Chicago, IL 60607"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near West Side",
+          "West Loop"
+        ],
+        "postal_code":"60607",
+        "country_code":"US",
+        "address":[
+          "1375 W Lake St"
+        ],
+        "coordinate":{
+          "latitude":41.885048,
+          "longitude":-87.661766
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/the-bar-10-doors-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":72,
+      "name":"The Bar 10 Doors",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/the-bar-10-doors-chicago",
+      "is_closed":false,
+      "phone":"3122261611",
+      "snippet_text":"This bar has good food and great specials. I love their tacos and Ten Doors Burger. It's the perfect place to watch a game and grab a bite with friends.",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/TvXeh32IJZ8D2j1JKL8MQw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-312-226-1611",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"the-bar-10-doors-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/xA1IXsRtnelYhGjuKideog/ms.jpg",
+      "location":{
+        "cross_streets":"Lytle St & Throop St",
+        "city":"Chicago",
+        "display_address":[
+          "1259 W Taylor St",
+          "University Village",
+          "Chicago, IL 60607"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "University Village"
+        ],
+        "postal_code":"60607",
+        "country_code":"US",
+        "address":[
+          "1259 W Taylor St"
+        ],
+        "coordinate":{
+          "latitude":41.8692513,
+          "longitude":-87.6586456
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/three-dots-and-a-dash-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":630,
+      "name":"Three Dots and a Dash",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/three-dots-and-a-dash-chicago",
+      "is_closed":false,
+      "id":"three-dots-and-a-dash-chicago",
+      "phone":"3126104220",
+      "snippet_text":"This place is so awesome!!! I totally felt like I was going back in time to a speakeasy when I walked down that alley and the bouncer asked if I was looking...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/6WrqwqAp_V2PhfZLCKH_gw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Asian Fusion",
+          "asianfusion"
+        ]
+      ],
+      "display_phone":"+1-312-610-4220",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1398984758,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/p3Bd0JwD36NcrAiIxSX78Q/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "435 N Clark St",
+          "Back alley on Hubbard St",
+          "Near North Side",
+          "Chicago, IL 60654"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near North Side"
+        ],
+        "postal_code":"60654",
+        "country_code":"US",
+        "address":[
+          "435 N Clark St",
+          "Back alley on Hubbard St"
+        ],
+        "coordinate":{
+          "latitude":41.8903514,
+          "longitude":-87.6309457
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/union-park-lounge-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":182,
+      "name":"Union Park Lounge",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/union-park-lounge-chicago",
+      "is_closed":false,
+      "phone":"3122439002",
+      "snippet_text":"This place has mixed reviews, but we liked it! Bartender was super nice! We were visiting the area and he gave us some great ideas of places to check out....",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/m77SReKhfLpzWeytmHqXQQ/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-312-243-9002",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"union-park-lounge-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/NYewVmUqq7QPDuGeo_HW1Q/ms.jpg",
+      "location":{
+        "cross_streets":"Cottage Pl & Jackson Blvd",
+        "city":"Chicago",
+        "display_address":[
+          "228 S Racine Ave",
+          "Near West Side",
+          "Chicago, IL 60607"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near West Side",
+          "West Loop"
+        ],
+        "postal_code":"60607",
+        "country_code":"US",
+        "address":[
+          "228 S Racine Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8780403,
+          "longitude":-87.6572723
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/flo-and-santos-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":472,
+      "name":"Flo & Santos",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/flo-and-santos-chicago-3",
+      "is_closed":false,
+      "phone":"3125669817",
+      "snippet_text":"Always cops eating here, so you know its good.\n\nEaten here quite a bit.  Always a great crowd of people, friendly staff, and amazing food.  Pizza is always...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/ctcif77kKLphX7Om3qFL8w/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-312-566-9817",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"flo-and-santos-chicago-3",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/UibV-5crJN8671WPclmFkA/ms.jpg",
+      "location":{
+        "cross_streets":"13th St & 14th St",
+        "city":"Chicago",
+        "display_address":[
+          "1310 S Wabash Ave",
+          "Near Southside",
+          "Chicago, IL 60605"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near Southside"
+        ],
+        "postal_code":"60605",
+        "country_code":"US",
+        "address":[
+          "1310 S Wabash Ave"
+        ],
+        "coordinate":{
+          "latitude":41.865395,
+          "longitude":-87.626228
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/monks-pub-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":329,
+      "name":"Monk's Pub",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/monks-pub-chicago",
+      "is_closed":false,
+      "id":"monks-pub-chicago",
+      "phone":"3123576665",
+      "snippet_text":"While visiting Chicago over the weekend with my girlfriend who has been to Chicago a thousand times she was talking with her cousin who is born and raised...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/TSXk-usFt9-cYKDP_Ls4bA/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-312-357-6665",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1390315226,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/Il9VKpSF7c4mlFRi6hy0ug/ms.jpg",
+      "location":{
+        "cross_streets":"Wells St & Post Pl",
+        "city":"Chicago",
+        "display_address":[
+          "205 W Lake St",
+          "The Loop",
+          "Chicago, IL 60606"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "The Loop"
+        ],
+        "postal_code":"60606",
+        "country_code":"US",
+        "address":[
+          "205 W Lake St"
+        ],
+        "coordinate":{
+          "latitude":41.885445,
+          "longitude":-87.6343
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/nightwood-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":648,
+      "name":"Nightwood",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/nightwood-chicago",
+      "is_closed":false,
+      "id":"nightwood-chicago",
+      "phone":"3125263385",
+      "snippet_text":"I've had Nightwood on my to-do list for quite some time now, I just never made it a priority to get down to Pilsen and check it out. As soon as I saw their...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/ipRX4Tto18DfPSA0xWJblQ/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-312-526-3385",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387663163,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/dFboiS0Pz_Ml-xbl0hPOEw/ms.jpg",
+      "location":{
+        "cross_streets":"21st Pl",
+        "city":"Chicago",
+        "display_address":[
+          "2119 S Halsted St",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "2119 S Halsted St"
+        ],
+        "coordinate":{
+          "latitude":41.85358,
+          "longitude":-87.64621
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/sky-ride-tap-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":26,
+      "name":"Sky-Ride Tap",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/sky-ride-tap-chicago",
+      "is_closed":false,
+      "phone":"3129393340",
+      "snippet_text":"Just look at the pictures of the bartenders, son.\n\nSee you there.",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/EvmnMxhNgDTlBDIoY6wQGA/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-312-939-3340",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"sky-ride-tap-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/fHVVdKkWul7c5fKGN1g_Xg/ms.jpg",
+      "location":{
+        "cross_streets":"La Salle St & Clark St",
+        "city":"Chicago",
+        "display_address":[
+          "105 W Van Buren St",
+          "The Loop",
+          "Chicago, IL 60605"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "The Loop"
+        ],
+        "postal_code":"60605",
+        "country_code":"US",
+        "address":[
+          "105 W Van Buren St"
+        ],
+        "coordinate":{
+          "latitude":41.8767433,
+          "longitude":-87.631012
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/little-goat-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1615,
+      "name":"Little Goat",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/little-goat-chicago-3",
+      "is_closed":false,
+      "id":"little-goat-chicago-3",
+      "phone":"3128883455",
+      "snippet_text":"Amazing brunch with a large menu and lots of variety. \n\nUnlike Girl and the Goat, you can get a table after 20-30 minutes as opposed to 2-3 months.  The...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/YLqajMKtAJzXq59WDX46RQ/ms.jpg",
+      "categories":[
+        [
+          "Diners",
+          "diners"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-312-888-3455",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"locu",
+      "menu_date_updated":1425657220,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/lxP3eiPvFxjskTb5cx7DeA/ms.jpg",
+      "location":{
+        "cross_streets":"Green St & Halsted St",
+        "city":"Chicago",
+        "display_address":[
+          "820 W Randolph St",
+          "Near West Side",
+          "Chicago, IL 60607"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near West Side",
+          "West Loop"
+        ],
+        "postal_code":"60607",
+        "country_code":"US",
+        "address":[
+          "820 W Randolph St"
+        ],
+        "coordinate":{
+          "latitude":41.8846774003408,
+          "longitude":-87.6484838801892
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/momotaro-chicago-3",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":128,
+      "name":"Momotaro",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/momotaro-chicago-3",
+      "is_closed":false,
+      "id":"momotaro-chicago-3",
+      "phone":"3127334818",
+      "snippet_text":"Food definitely fit the bill.\n\nCame Monday evening around 6, after calling in for availability. A staff member immediately opens the door for you. Ambience...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/vegAu-V-aoW98AS9XoOVbA/ms.jpg",
+      "categories":[
+        [
+          "Sushi Bars",
+          "sushi"
+        ],
+        [
+          "Japanese",
+          "japanese"
+        ]
+      ],
+      "display_phone":"+1-312-733-4818",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1420051279,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/MXII-kwuylAeLwtXOv0gjQ/ms.jpg",
+      "location":{
+        "cross_streets":"Green St & Halsted St",
+        "city":"Chicago",
+        "display_address":[
+          "820 W Lake St",
+          "Near West Side",
+          "Chicago, IL 60607"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near West Side",
+          "Fulton Market",
+          "West Loop"
+        ],
+        "postal_code":"60607",
+        "country_code":"US",
+        "address":[
+          "820 W Lake St"
+        ],
+        "coordinate":{
+          "latitude":41.8858362394937,
+          "longitude":-87.6485168502935
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/vintage-lounge-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":97,
+      "name":"Vintage Lounge",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/vintage-lounge-chicago",
+      "is_closed":false,
+      "phone":"3125263647",
+      "snippet_text":"Burger was good, drinks good and strong but service was slow. Overall would recommend.  Like the small menu; a little something for everyone, paleo and...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/IE_o1tGNs1AH6YsPOdDOUg/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-312-526-3647",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"vintage-lounge-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/O9AiKmsxDSYGAVFjre97qw/ms.jpg",
+      "location":{
+        "cross_streets":"Bishop St & Laflin St",
+        "city":"Chicago",
+        "display_address":[
+          "1449 W Taylor St",
+          "University Village",
+          "Chicago, IL 60607"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "University Village"
+        ],
+        "postal_code":"60607",
+        "country_code":"US",
+        "address":[
+          "1449 W Taylor St"
+        ],
+        "coordinate":{
+          "latitude":41.8691864,
+          "longitude":-87.6635666
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

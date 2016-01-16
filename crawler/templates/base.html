@@ -1,0 +1,142 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{% block title %}ChiCrawl{% endblock %}</title>
+    <link rel="stylesheet" type="text/css" href="{% static '/static/final.css' %}" />
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAl6V4Mo35tEtSNonOAUiHN7XxjSdBcj2c"></script>
+    {% if result != None %}
+    <script type="text/javascript">
+        // Basic variables
+        var map;
+        var cenMarker;
+        var directionsService = new google.maps.DirectionsService();
+        var directionsDisplay = new google.maps.DirectionsRenderer();
+        
+        // Starting location
+        var startLat = {{ origin_lat }};
+        var startLon = {{ origin_lon }};
+        var startLocation = new google.maps.LatLng(startLat, startLon);
+
+        // Locations for direction display/array
+        var lat = {{ lat_list }};
+        var lon = {{ lon_list }};
+
+        // Dictionary with key as bar names and 
+        // values as tuple (lat, lon)
+        var names = {{ name_list }};
+
+        /*********************************************************
+         * Functions set map options and map object              *
+         * a marker is droped to the center of the neighborhood  *
+         * selected in the map (blue dot). The function calls    *
+         * calcSingleRoute() function to draw routes between     *
+         * two locations.                                        *
+         *********************************************************/
+        function initialize() {
+            var mapOptions = {
+                zoom: 15,
+                center: startLocation,
+                mapTypeId: google.maps.MapTypeId.ROADMAP,
+                mapTypeControl: false
+            };
+            map = new google.maps.Map(document.getElementById('map'), mapOptions);
+
+            // Add center marker to the map
+            cenMarker = new google.maps.Marker({
+                position: startLocation,
+                map: map,
+                icon: 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
+                animation: google.maps.Animation.DROP
+            });
+            google.maps.event.addListener(cenMarker, 'click', toggleBounce);
+
+            directionsDisplay.setMap(map);
+            calcSingleRoute();
+        }
+
+        // Function setting marker animation. Once centeral marker
+        // is clicked, it starts bouncing.
+        function toggleBounce() {
+            if (cenMarker.getAnimation() != null) 
+                cenMarker.setAnimation(null);
+            else 
+                cenMarker.setAnimation(google.maps.Animation.BOUNCE);
+        }
+
+        /*********************************************************
+         * Function allow user to look at all bar locations      *
+         * on the map by clicking on the 'show locations' button *
+         * and bars will be fit to map accordingly.              *
+         *********************************************************/
+        function calcRoute() {
+            var waypts = [];
+            for (var i = 0; i < lat.length; i++) {
+                waypts.push([
+                    names[i], lat[i], lon[i]
+                ]);
+            }
+
+            var marker;
+            var bounds = new google.maps.LatLngBounds();
+            for (var i = 0; i < waypts.length; i++) {
+                var loc = new google.maps.LatLng(waypts[i][1], waypts[i][2]);
+                bounds.extend(loc);
+                marker = new google.maps.Marker({
+                    position: loc,
+                    map: map,
+                    title: waypts[i][0]
+                });
+            }
+
+            // fit all bars to the map
+            map.fitBounds(bounds);
+        }
+
+        // Helper function creating route and direction service 
+        // between two points 
+        function singleRoute(a, b) {
+            return function() {
+                var endLat = lat[a];
+                var endLon = lon[a];
+                var endLocation = new google.maps.LatLng(endLat, endLon); 
+                var request = {
+                    origin: startLocation,
+                    destination: endLocation,
+                    travelMode: google.maps.TravelMode[b]
+                };
+                directionsService.route(request, function(result, status) {
+                    if (status == google.maps.DirectionsStatus.OK)
+                        directionsDisplay.setDirections(result);
+                });    
+            }
+        }
+
+        /**********************************************************
+         * Function enables user to click on the bars to show     *
+         * the route between center of the neighborhood to the    *
+         * desire bars. A dropdown list with various travel mode  *
+         * is added.                                              *
+         **********************************************************/
+        function calcSingleRoute() {
+            var selectedMode = document.getElementById('mode').value;
+            var list = document.getElementById('list').getElementsByTagName('li');
+            for (var i = 0; i < list.length; i++) {
+                list[i].onclick = singleRoute(i, selectedMode);  
+                directionsDisplay.setPanel(document.getElementById('panel'));
+            }
+        }
+
+        // add event to show google maps on browser
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+    {% endif %}
+</head>
+<body>
+
+    {% block body %}
+    {% endblock %}
+
+</body>
+</html>

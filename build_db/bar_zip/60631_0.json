@@ -1,0 +1,1032 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.0728620200000023,
+      "longitude_delta":0.0802229999999895
+    },
+    "center":{
+      "latitude":41.9860901,
+      "longitude":-87.797699
+    }
+  },
+  "total":1035,
+  "businesses":[
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/the-garage-bar-and-sandwiches-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":150,
+      "name":"The Garage Bar & Sandwiches",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/the-garage-bar-and-sandwiches-chicago",
+      "is_closed":false,
+      "phone":"7736471386",
+      "snippet_text":"One of my favorite bars in Chicago.\n\nGreat beer selection, both bottle and draft.\n\nAwesome place to grab something to eat or just to grab a drink after...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/FUrZ1KKkPl4esXq3V-IAZA/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Sandwiches",
+          "sandwiches"
+        ]
+      ],
+      "display_phone":"+1-773-647-1386",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"the-garage-bar-and-sandwiches-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/vXvuLIjbjTrldVuGPfZgvw/ms.jpg",
+      "location":{
+        "cross_streets":"Hyacinth St & Huntington St",
+        "city":"Chicago",
+        "display_address":[
+          "6154 N Milwaukee Ave",
+          "Norwood Park",
+          "Chicago, IL 60646"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60646",
+        "country_code":"US",
+        "address":[
+          "6154 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.993377,
+          "longitude":-87.784545
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-curragh-irish-pub-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":122,
+      "name":"the Curragh Irish Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-curragh-irish-pub-chicago",
+      "is_closed":false,
+      "phone":"7737746170",
+      "snippet_text":"I was a little bit nervous to come to the Curragh on Friday night after a not so great experience that I had at their Skokie location about a year and a...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/kMHMKdi6mpXI80Frpre2Mw/ms.jpg",
+      "categories":[
+        [
+          "Irish",
+          "irish"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-773-774-6170",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-curragh-irish-pub-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/c-U3lo8C4S-QO73O8W8LNg/ms.jpg",
+      "location":{
+        "cross_streets":"Oliphant Ave & Oshkosh Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6705 N Northwest Hwy",
+          "Edison Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edison Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6705 N Northwest Hwy"
+        ],
+        "coordinate":{
+          "latitude":42.0029700547457,
+          "longitude":-87.8163680434227
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/dish-dine-and-drink-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":56,
+      "name":"Dish Dine & Drink",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/dish-dine-and-drink-chicago",
+      "is_closed":false,
+      "phone":"7735940100",
+      "snippet_text":"All around good food. Their prices are decent. Staff is super friendly and make good recommendations.\n\nI went with a special, which was a pulled pork...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/QT6NzdKkLSjtlhWtgOF9Eg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ]
+      ],
+      "display_phone":"+1-773-594-0100",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"dish-dine-and-drink-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/dkj7-FJCXLlwUniQmqOOmA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "6169 N NW Hwy",
+          "Norwood Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6169 N NW Hwy"
+        ],
+        "coordinate":{
+          "latitude":41.9937629995029,
+          "longitude":-87.801296710968
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/iron-horse-ale-house-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":87,
+      "name":"Iron Horse Ale House",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/iron-horse-ale-house-chicago",
+      "is_closed":false,
+      "id":"iron-horse-ale-house-chicago",
+      "phone":"7737631800",
+      "snippet_text":"We came to Iron Horse last Friday after trying to find a place that would accommodate all appetites and dietary restrictions.  That, and it's been on my...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/kyTGaICGocym6wKQaPiYKA/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-773-763-1800",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1411799308,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/c-U3lo8C4S-QO73O8W8LNg/ms.jpg",
+      "location":{
+        "cross_streets":"Sayre Ave & Niagara Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6158 N Northwest Hwy",
+          "Norwood Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6158 N Northwest Hwy"
+        ],
+        "coordinate":{
+          "latitude":41.9935112,
+          "longitude":-87.8012695
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/howard-street-inn-niles",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":87,
+      "name":"Howard Street Inn",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/howard-street-inn-niles",
+      "is_closed":false,
+      "id":"howard-street-inn-niles",
+      "phone":"8475830795",
+      "snippet_text":"On Friday evening my husband was out of town and I didn't feel like cooking, so I was thinking of a place nearby for my daughter and I to have a simple...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/yiQuysVHYHJVQeB6LeAQeA/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ]
+      ],
+      "display_phone":"+1-847-583-0795",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387917469,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/M2kTCB8Gtiik4ojm6YOxbA/ms.jpg",
+      "location":{
+        "cross_streets":"Oak Park Ave",
+        "city":"Niles",
+        "display_address":[
+          "6700 W Howard St",
+          "Niles, IL 60714"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60714",
+        "country_code":"US",
+        "address":[
+          "6700 W Howard St"
+        ],
+        "coordinate":{
+          "latitude":42.0191638916731,
+          "longitude":-87.7942150086164
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/zias-trattoria-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":190,
+      "name":"Zia's Trattoria",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/zias-trattoria-chicago",
+      "is_closed":false,
+      "id":"zias-trattoria-chicago",
+      "phone":"7737750808",
+      "snippet_text":"My fianc\u00e9 and I love this place!\n\nThis is our date night on a regular basis.  The food is always good and we discovered some of our favorite wines here that...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/fNy0-gOtOAwT3c5w9mTFzQ/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-775-0808",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387614971,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Oxford Ave & Oliphant Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6699 N Northwest Hwy",
+          "Edison Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edison Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6699 N Northwest Hwy"
+        ],
+        "coordinate":{
+          "latitude":42.0027847,
+          "longitude":-87.8159027
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/play-book-sports-bar-niles",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":70,
+      "name":"Play Book Sports Bar",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/play-book-sports-bar-niles",
+      "is_closed":false,
+      "id":"play-book-sports-bar-niles",
+      "phone":"8475887529",
+      "snippet_text":"Enjoyed Playbook again last night. We took advantage of the $5.00 appetizers and had crab cakes, macaroni and cheese, crab stuffed mushrooms and the all...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/M0PHx5Yn18s-POnbam-2YA/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-847-588-7529",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387745091,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/T8MQruJOT0bOBl_VJlh5Sg/ms.jpg",
+      "location":{
+        "city":"Niles",
+        "display_address":[
+          "6913 Milwaukee Ave",
+          "Niles, IL 60714"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60714",
+        "country_code":"US",
+        "address":[
+          "6913 Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":42.007867,
+          "longitude":-87.796987
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/vaughans-pub-and-grill-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":47,
+      "name":"Vaughan's Pub & Grill",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/vaughans-pub-and-grill-chicago",
+      "is_closed":false,
+      "phone":"7736319206",
+      "snippet_text":"This place must be blessed by leprechauns, because when you walk in, the stress melts away and, with a sigh and a pint, all if your troubles are behind...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/xf9qz8HxqPg3VKTlq0-QkA/ms.jpg",
+      "categories":[
+        [
+          "Irish",
+          "irish"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-631-9206",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"vaughans-pub-and-grill-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Oifp2BV_QHNZtpGqR0Zg0Q/ms.jpg",
+      "location":{
+        "cross_streets":"Parkside Ave & Foster Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5485 N Northwest Hwy",
+          "Jefferson Park",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Jefferson Park"
+        ],
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "5485 N Northwest Hwy"
+        ],
+        "coordinate":{
+          "latitude":41.9805984,
+          "longitude":-87.7775116
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/bar-joey-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":4,
+      "name":"Bar Joey",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/bar-joey-chicago",
+      "is_closed":false,
+      "snippet_text":"Best bar in the world. Hands down",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/i0v-oesBlPQDXZ9J5Dnhug/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"bar-joey-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/1ieI99IiSuRUXUIdPjFNUQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "Oconto & Hood",
+          "Norwood Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":7.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "Oconto & Hood"
+        ],
+        "coordinate":{
+          "latitude":41.9919891,
+          "longitude":-87.8083191
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/city-tap-and-grill-norridge",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":52,
+      "name":"City Tap & Grill",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/city-tap-and-grill-norridge",
+      "is_closed":false,
+      "id":"city-tap-and-grill-norridge",
+      "phone":"7083955459",
+      "snippet_text":"First time trying out this place and it was great! Heard from friends that the food was great so I had to try it my self, first off the atmosphere is very...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/IJCZ_XGLstdQmsdr8JtpxQ/ms.jpg",
+      "categories":[
+        [
+          "Burgers",
+          "burgers"
+        ],
+        [
+          "Sandwiches",
+          "sandwiches"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-395-5459",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1415949920,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/dS44Ot_26kXR84dF0e-riw/ms.jpg",
+      "location":{
+        "cross_streets":"Forest Preserve Dr & Odell Ave",
+        "city":"Norridge",
+        "display_address":[
+          "7320 W Irving Park Rd",
+          "Dunning",
+          "Norridge, IL 60706"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Dunning"
+        ],
+        "postal_code":"60706",
+        "country_code":"US",
+        "address":[
+          "7320 W Irving Park Rd"
+        ],
+        "coordinate":{
+          "latitude":41.952971,
+          "longitude":-87.8107859
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/mo-daileys-pub-and-grille-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":70,
+      "name":"Mo Dailey's Pub & Grille",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/mo-daileys-pub-and-grille-chicago",
+      "is_closed":false,
+      "phone":"7737746121",
+      "snippet_text":"I have very few complaints about Mo Dailey's. This is our new neighborhood bar of choice. The service is pretty good (sometimes slow if there's a crowd but...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/CvO1uPVH1aVekwoNLEHXDg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Irish",
+          "irish"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ]
+      ],
+      "display_phone":"+1-773-774-6121",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"mo-daileys-pub-and-grille-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/ndR0SPLWE9NlmJUfEF4qdw/ms.jpg",
+      "location":{
+        "cross_streets":"Newark Ave & Raven St",
+        "city":"Chicago",
+        "display_address":[
+          "6070 N Northwest Hwy",
+          "Norwood Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6070 N Northwest Hwy"
+        ],
+        "coordinate":{
+          "latitude":41.9913787705791,
+          "longitude":-87.797863483429
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/houlihans-park-ridge",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":101,
+      "name":"Houlihan's",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/houlihans-park-ridge",
+      "is_closed":false,
+      "id":"houlihans-park-ridge",
+      "phone":"8476926205",
+      "snippet_text":"I have visited this location a couple of times in the past few months and can now say that I am a fan.\n\nI have tried the salmon, their steaks and the...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/8gGKl8xNgbuAMIY4Z0TkZA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-847-692-6205",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1422389493,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/-u-4dBdu_AZ9E_e5A1FRPg/ms.jpg",
+      "location":{
+        "city":"Park Ridge",
+        "display_address":[
+          "550 W Touhy Ave",
+          "Park Ridge, IL 60068"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60068",
+        "country_code":"US",
+        "address":[
+          "550 W Touhy Ave"
+        ],
+        "coordinate":{
+          "latitude":42.011662,
+          "longitude":-87.831062
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/capones-hideout-niles",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":11,
+      "name":"Capone's Hideout",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/capones-hideout-niles",
+      "is_closed":false,
+      "id":"capones-hideout-niles",
+      "phone":"2245347698",
+      "snippet_text":"\"The lap dance is better when the stripper is crying\" was playing on the jukebox. An interesting introduction to a really cool place. \n\nCapone's Hideout is...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/K3CtNLEfQQ7pLZdWLRTK8A/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-224-534-7698",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"eat24",
+      "menu_date_updated":1402432668,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/jX94azXTbFfIFXf5_ELkFQ/ms.jpg",
+      "location":{
+        "city":"Niles",
+        "display_address":[
+          "6873 N Milwaukee Ave",
+          "Niles, IL 60714"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60714",
+        "country_code":"US",
+        "address":[
+          "6873 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":42.006413,
+          "longitude":-87.795525
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/jets-public-house-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":39,
+      "name":"Jet's Public House",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/jets-public-house-chicago",
+      "is_closed":false,
+      "phone":"7737922440",
+      "snippet_text":"Best neighborhood bar!  The food is great, the atmosphere is so comfortable, and the prices are low!  I not only go as a customer, but I have also had a...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/GkwieM9N-pliVkUT6_Yxrw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-792-2440",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"jets-public-house-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/3h18jCFNoPgQvIu4YBH16g/ms.jpg",
+      "location":{
+        "cross_streets":"Hyacinth St & Huntington St",
+        "city":"Chicago",
+        "display_address":[
+          "6148 N Milwaukee Ave",
+          "Norwood Park",
+          "Chicago, IL 60646"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60646",
+        "country_code":"US",
+        "address":[
+          "6148 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.993267,
+          "longitude":-87.784439
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/pasta-d-arte-trattoria-italiana-chicago-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":128,
+      "name":"Pasta D'Arte Trattoria Italiana",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/pasta-d-arte-trattoria-italiana-chicago-2",
+      "is_closed":false,
+      "id":"pasta-d-arte-trattoria-italiana-chicago-2",
+      "phone":"7737631181",
+      "snippet_text":"When I first stepped into this restaurant, the atmosphere was truly great. We were acknowledged right away and seated quickly. Within less than 60 seconds,...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/vsXVnrtBT9MVOe9FGjrMIQ/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-763-1181",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"yelp",
+      "menu_date_updated":1377716457,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/PhhWTUyB-6q6HQIJdmCy-Q/ms.jpg",
+      "location":{
+        "cross_streets":"Mobile Ave & Haft St",
+        "city":"Chicago",
+        "display_address":[
+          "6311 N Milwaukee Ave",
+          "Norwood Park",
+          "Chicago, IL 60646"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60646",
+        "country_code":"US",
+        "address":[
+          "6311 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.995628,
+          "longitude":-87.785781
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/firewater-saloon-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":60,
+      "name":"Firewater Saloon",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/firewater-saloon-chicago",
+      "is_closed":false,
+      "phone":"7736310020",
+      "snippet_text":"Amazing food....but.....\nKind of inauspicious service......\nNo one welcomes you upon arrival, or even after you sit down at a table and are offered a menu....",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/MukdRZrzYVebois4DOKmLQ/ms.jpg",
+      "categories":[
+        [
+          "Barbeque",
+          "bbq"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ],
+        [
+          "Sandwiches",
+          "sandwiches"
+        ]
+      ],
+      "display_phone":"+1-773-631-0020",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"firewater-saloon-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/LDSfo5BtDUneaF0ojDsSyg/ms.jpg",
+      "location":{
+        "cross_streets":"Olmsted Ave & Northwest Hwy",
+        "city":"Chicago",
+        "display_address":[
+          "6689 N Oliphant Ave",
+          "Edison Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edison Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6689 N Oliphant Ave"
+        ],
+        "coordinate":{
+          "latitude":42.0025516301394,
+          "longitude":-87.8163103759289
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/mullens-bar-and-grill-norridge-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":36,
+      "name":"Mullen's Bar and Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/mullens-bar-and-grill-norridge-2",
+      "is_closed":false,
+      "phone":"7084523190",
+      "snippet_text":"Mullen's has great specials and a great staff. Today, I enjoyed a $3 burger. Though they charge you for the add ons, I still passed myself off as a cheap...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/A2fnXXP2vfIaA26sM68nAg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-708-452-3190",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"mullens-bar-and-grill-norridge-2",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/9uWAXOp0kWOjTC59XD-Lpg/ms.jpg",
+      "location":{
+        "cross_streets":"Thatcher Rd & Illinois Route 171",
+        "city":"Norridge",
+        "display_address":[
+          "8313 W Lawrence Ave",
+          "Norridge, IL 60706"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60706",
+        "country_code":"US",
+        "address":[
+          "8313 W Lawrence Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9665778428316,
+          "longitude":-87.8354506194592
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/tommys-on-higgins-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":21,
+      "name":"Tommy's On Higgins",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/tommys-on-higgins-chicago",
+      "is_closed":false,
+      "phone":"7736314451",
+      "snippet_text":"This is the best and friendliest sports bar on the Northwest side good people ... nice staff and good food made to order!  ... cheers T",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/EMp7apAyoB0cq6m8E_YSIQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-631-4451",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"tommys-on-higgins-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/cXz0vnCMCe0fpV5gmVvrCA/ms.jpg",
+      "location":{
+        "cross_streets":"Nordica Ave & Sayre Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6954 W Higgins Ave",
+          "Norwood Park",
+          "Chicago, IL 60656"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60656",
+        "country_code":"US",
+        "address":[
+          "6954 W Higgins Ave"
+        ],
+        "coordinate":{
+          "latitude":41.980175,
+          "longitude":-87.8019333
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/moher-public-house-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":74,
+      "name":"Moher Public House",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/moher-public-house-chicago",
+      "is_closed":false,
+      "id":"moher-public-house-chicago",
+      "phone":"7734671954",
+      "snippet_text":"This is always a good pick for my wife and I when we are looking for a quick bite out.  I usually get the Shepherd's Pie and am never disapointed and my...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/BX8VtvLzo_E0lBZG3GoROg/ms.jpg",
+      "categories":[
+        [
+          "Irish",
+          "irish"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Seafood",
+          "seafood"
+        ]
+      ],
+      "display_phone":"+1-773-467-1954",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387633515,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/oR7oEoVUbnny9KGFEaTT0g/ms.jpg",
+      "location":{
+        "cross_streets":"Minnehaha Ave & Spokane Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5310 W Devon Ave",
+          "Forest Glen",
+          "Chicago, IL 60646"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Forest Glen"
+        ],
+        "postal_code":"60646",
+        "country_code":"US",
+        "address":[
+          "5310 W Devon Ave"
+        ],
+        "coordinate":{
+          "latitude":41.997635,
+          "longitude":-87.76123
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/leadbelly-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":267,
+      "name":"Leadbelly",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/leadbelly-chicago",
+      "is_closed":false,
+      "id":"leadbelly-chicago",
+      "phone":"7732837880",
+      "snippet_text":"Them buns though!!! \n\nI bookmarked Leadbelly Burgers long ago when I read a list somewhere of Chicago's Best Burgers. So this year one of my resolutions is...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/T-2A8qivVMaQBMUx3vEqdg/ms.jpg",
+      "categories":[
+        [
+          "Burgers",
+          "burgers"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-283-7880",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1401685046,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/71VuEZTbuMl_FiuxzI7qeQ/ms.jpg",
+      "location":{
+        "cross_streets":"Menard Ave & Major Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5739 W Irving Park Rd",
+          "Portage Park",
+          "Chicago, IL 60634"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Portage Park"
+        ],
+        "postal_code":"60634",
+        "country_code":"US",
+        "address":[
+          "5739 W Irving Park Rd"
+        ],
+        "coordinate":{
+          "latitude":41.9530335,
+          "longitude":-87.7709816
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

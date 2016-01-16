@@ -1,0 +1,1011 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.0626107899999937,
+      "longitude_delta":0.09370493000000124
+    },
+    "center":{
+      "latitude":41.98671645,
+      "longitude":-87.79476985
+    }
+  },
+  "total":1035,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/newark-nook-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":14,
+      "name":"Newark Nook",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/newark-nook-chicago",
+      "is_closed":false,
+      "phone":"7737632338",
+      "snippet_text":"An awesome neighborhood bar. The neighborhood here is filled with police officers and firefighters so this is inevitably a cop/firefighter bar. They have a...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/s8yMQ7YkYepZ1KMjNpv1XA/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-763-2338",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"newark-nook-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/dr-0PoufDDvQzzmpL_VY_g/ms.jpg",
+      "location":{
+        "cross_streets":"Devon Ave & Imlay Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6443 N Newark Ave",
+          "Norwood Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6443 N Newark Ave"
+        ],
+        "coordinate":{
+          "latitude":41.998077,
+          "longitude":-87.798538
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/hooters-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":114,
+      "name":"Hooters",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/hooters-chicago",
+      "is_closed":false,
+      "id":"hooters-chicago",
+      "phone":"7737140193",
+      "snippet_text":"I am a fan of Hooters wings. It just so happens that there are many other obvious reasons to frequent a Hooter's also. Do I need to go into it any...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/r03iyo615ixfpwognKXYqw/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Chicken Wings",
+          "chicken_wings"
+        ]
+      ],
+      "display_phone":"+1-773-714-0193",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1423563468,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/UPSb0bvfsbZ95IWTkyAAsA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "8225 W Higgins Rd",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "8225 W Higgins Rd"
+        ],
+        "coordinate":{
+          "latitude":41.985451,
+          "longitude":-87.833199
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/three-counties-irish-pub-chicago-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":7,
+      "name":"Three Counties Irish Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/three-counties-irish-pub-chicago-2",
+      "is_closed":false,
+      "phone":"7736313351",
+      "snippet_text":"I can't believe I've been a Chicagoan my whole life and never been here. If you're looking for a northside bar that won't disappoint, skip Moretti's, skip...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/skYaOU8sZVpHM6g2aXS8HQ/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-631-3351",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"three-counties-irish-pub-chicago-2",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/bRZ-FzWT5VLwtAlHBhzAvA/ms.jpg",
+      "location":{
+        "cross_streets":"Moody Ave & Medina Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5856 N Milwaukee Ave",
+          "Norwood Park",
+          "Chicago, IL 60646"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60646",
+        "country_code":"US",
+        "address":[
+          "5856 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.987983,
+          "longitude":-87.779459
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/nonno-pinos-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":115,
+      "name":"Nonno Pino's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/nonno-pinos-chicago",
+      "is_closed":false,
+      "id":"nonno-pinos-chicago",
+      "phone":"7735941155",
+      "snippet_text":"We got to our dinner date and we didn't see a waiter in sight. The hostess noticed and came over, she was classy and professional. She took our drink order...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/GxFAbCJbojEnw6oO4U4xIg/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-594-1155",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387614970,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/D6FB27QLxeqE1pEsNnesJg/ms.jpg",
+      "location":{
+        "cross_streets":"Oliphant Ave & Oshkosh Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6718 N Northwest Hwy",
+          "Edison Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edison Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6718 N Northwest Hwy"
+        ],
+        "coordinate":{
+          "latitude":42.0030251,
+          "longitude":-87.8168259
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/filoneks-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":6,
+      "name":"Filonek's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/filoneks-chicago",
+      "is_closed":false,
+      "phone":"7737755010",
+      "snippet_text":"I frequent this place every since I move in the area to start the owner I just love she has a lot of personality and she, s very personable she makes you...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/cvX93_UEefnaFzsbfIulgw/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-775-5010",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"filoneks-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/UGf02ACApT1b8EKl0zSnxQ/ms.jpg",
+      "location":{
+        "cross_streets":"Huntington St & Raven St",
+        "city":"Chicago",
+        "display_address":[
+          "6213 N Milwaukee Ave",
+          "Norwood Park",
+          "Chicago, IL 60646"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60646",
+        "country_code":"US",
+        "address":[
+          "6213 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9942703,
+          "longitude":-87.7844925
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/morrison-roadhouse-niles-2",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":55,
+      "name":"Morrison Roadhouse",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/morrison-roadhouse-niles-2",
+      "is_closed":false,
+      "phone":"8475881320",
+      "snippet_text":"Morrison's is a fun, divey place to get great food and watch a hockey game.\n\nWe went in a few Friday's ago to get out of the house.  We ended up ordering...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/KhZUHQzhE62sOkXdgdGjwQ/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-847-588-1320",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"morrison-roadhouse-niles-2",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/c-U3lo8C4S-QO73O8W8LNg/ms.jpg",
+      "location":{
+        "city":"Niles",
+        "display_address":[
+          "7355 N Harlem Ave",
+          "Niles, IL 60714"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60714",
+        "country_code":"US",
+        "address":[
+          "7355 N Harlem Ave"
+        ],
+        "coordinate":{
+          "latitude":42.015175,
+          "longitude":-87.806244
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/fischman-liquors-and-tavern-chicago-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":55,
+      "name":"Fischman Liquors and Tavern",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/fischman-liquors-and-tavern-chicago-2",
+      "is_closed":false,
+      "phone":"7735450123",
+      "snippet_text":"It's a dive bar with a great atmosphere and an even better beer selection.  They take cash or card and they have a liquor store connected so you can't go...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/SzHOukF6Tq7VBiz37xsyOw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-545-0123",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"fischman-liquors-and-tavern-chicago-2",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/w5ftvHdVs1DYLiEMWR0-dg/ms.jpg",
+      "location":{
+        "cross_streets":"Lawrence Ave & Giddings St",
+        "city":"Chicago",
+        "display_address":[
+          "4780 N Milwaukee Ave",
+          "Portage Park",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Portage Park"
+        ],
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "4780 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.967388,
+          "longitude":-87.76075
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/czerwone-jabluszko-red-apple-restaurant-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":104,
+      "name":"Czerwone Jabluszko - Red Apple Restaurant",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/czerwone-jabluszko-red-apple-restaurant-chicago",
+      "is_closed":false,
+      "id":"czerwone-jabluszko-red-apple-restaurant-chicago",
+      "phone":"7737633407",
+      "snippet_text":"Great polish food buffet.  Watch out - cash only.  Great service.  They charge groups of 8 or more a 15% gratuity for buffet service.  My large party was...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/miuTwiTXcX7VkLsMkjkckA/ms.jpg",
+      "categories":[
+        [
+          "Polish",
+          "polish"
+        ]
+      ],
+      "display_phone":"+1-773-763-3407",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1407247756,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/ErIOoeLPXdYo2A8cZ9VhgA/ms.jpg",
+      "location":{
+        "cross_streets":"Devon Ave & Imlay Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6474 N Milwaukee Ave",
+          "Norwood Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6474 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.998898,
+          "longitude":-87.789856
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/morettis-ristorante-and-pizzeria-chicago-3",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":193,
+      "name":"Moretti's Ristorante & Pizzeria",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/morettis-ristorante-and-pizzeria-chicago-3",
+      "is_closed":false,
+      "phone":"7736311175",
+      "snippet_text":"amazing- amazing -amazing stuffed crust!!!! i highly recommend it, add green pepper and onion. nom nom nom.",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/_Fc_72tHEe93M5r2AYhPoA/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-631-1175",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"morettis-ristorante-and-pizzeria-chicago-3",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/qXxEle5zyfxvUY2HAQe98g/ms.jpg",
+      "location":{
+        "cross_streets":"Oliphant Ave & Oshkosh Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6727 N Olmsted Ave",
+          "Edison Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edison Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6727 N Olmsted Ave"
+        ],
+        "coordinate":{
+          "latitude":42.002811,
+          "longitude":-87.81749
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/jefferson-inn-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":16,
+      "name":"Jefferson Inn",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/jefferson-inn-chicago",
+      "is_closed":false,
+      "phone":"7732835522",
+      "snippet_text":"I've walked past here a million times... and looked in but never stopped in. During Snowmageden 2011, NOTHING was open. I went to Gale Street Inn (only...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/RtHLynM-LGJFppktNxddyw/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-283-5522",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"jefferson-inn-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/vvKiSfbd-oMhUC0V0Md8rQ/ms.jpg",
+      "location":{
+        "cross_streets":"Ainslie St & Veterans Pl",
+        "city":"Chicago",
+        "display_address":[
+          "4874 N Milwaukee Ave",
+          "Jefferson Park",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Jefferson Park"
+        ],
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "4874 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.969578,
+          "longitude":-87.762688
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/rex-tavern-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":12,
+      "name":"Rex Tavern",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/rex-tavern-chicago",
+      "is_closed":false,
+      "snippet_text":"I have been here two times so far. I have to say that this is my new go-to spot! It's super chill, cozy, dog-friendly, great staff, and the drinks are...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/DJz5LaXaARGYajHyLi27Sg/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"rex-tavern-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Edmunds St & I-90",
+        "city":"Chicago",
+        "display_address":[
+          "4935 N Milwaukee Ave",
+          "Jefferson Park",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Jefferson Park"
+        ],
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "4935 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9700593501329,
+          "longitude":-87.762618586421
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/edison-park-inn-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":40,
+      "name":"Edison Park Inn",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/edison-park-inn-chicago",
+      "is_closed":false,
+      "phone":"7737751404",
+      "snippet_text":"I was invited to a retirement party at the Edison Park Inn at 7 PM on a Friday night. It was near impossible to find a place to park. I circled for over...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/U9nW9ve8jyCu86GfZE0D6w/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-775-1404",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"edison-park-inn-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/F2Q0DHTIt-cYM38IfHeHmA/ms.jpg",
+      "location":{
+        "cross_streets":"Oliphant Ave & Oshkosh Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6715 N Olmsted Ave",
+          "Edison Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edison Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6715 N Olmsted Ave"
+        ],
+        "coordinate":{
+          "latitude":42.0024342834949,
+          "longitude":-87.8172732889652
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/emerald-isle-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":28,
+      "name":"Emerald Isle",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/emerald-isle-chicago",
+      "is_closed":false,
+      "phone":"7737752848",
+      "snippet_text":"This pub covers my three basic bar needs:\n- reasonably priced beer/booze, with an acceptable variety\n- a shit-ton of places to sit whether there are two or...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/iFVkN1yARQ-TE2OvvB_X7A/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-775-2848",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"emerald-isle-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/ADeZwgeqDPSKmZS1Zx_gKw/ms.jpg",
+      "location":{
+        "cross_streets":"Oliphant Ave & Oxford Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6686 N Northwest Hwy",
+          "Edison Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edison Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "6686 N Northwest Hwy"
+        ],
+        "coordinate":{
+          "latitude":42.0024624466896,
+          "longitude":-87.8157598525286
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/galvins-public-house-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":55,
+      "name":"Galvin's Public House",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/galvins-public-house-chicago",
+      "is_closed":false,
+      "id":"galvins-public-house-chicago",
+      "phone":"7732050570",
+      "snippet_text":"This has recently become my go to pub/bar even though it's not right in my neighborhood.  What I'm saying is that it's well worth the trip to get over...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/bJT7zkpfI-NU5m03dmxUCg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Irish",
+          "irish"
+        ]
+      ],
+      "display_phone":"+1-773-205-0570",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1419229487,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/mpaA04j2V0kw7XhEz46ckw/ms.jpg",
+      "location":{
+        "cross_streets":"Marmora Ave & Mason Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5901 W Lawrence Ave",
+          "Portage Park",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Portage Park"
+        ],
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "5901 W Lawrence Ave"
+        ],
+        "coordinate":{
+          "latitude":41.967415,
+          "longitude":-87.775009
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/rabbits-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":31,
+      "name":"Rabbit's Bar and Grill",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/rabbits-bar-and-grill-chicago",
+      "is_closed":false,
+      "phone":"7737365766",
+      "snippet_text":"Good family bar. I love the food!! \nThe owners are friendly and they know how to hire a good staff. \nComing back for some specials soon :-)",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/SM1oskYEGNrirCUSoms77A/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-773-736-5766",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"rabbits-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/ro0_Hdfqf9pYj9_7CUpJ6g/ms.jpg",
+      "location":{
+        "cross_streets":"Elston Ave & Laporte Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4945 W Foster Ave",
+          "Sauganash",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Sauganash"
+        ],
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "4945 W Foster Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9752427190542,
+          "longitude":-87.7521150559187
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/havana-hookah-lounge-norridge",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":11,
+      "name":"Havana Hookah Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/havana-hookah-lounge-norridge",
+      "is_closed":false,
+      "phone":"7084528485",
+      "snippet_text":"So we wanted to try something different and arrived around 10pm. We walked in and there were 7 teenagers laughing and talking with their friend who was...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/oqob1Jihqn_SVNc1JZqLxQ/ms.jpg",
+      "categories":[
+        [
+          "Hookah Bars",
+          "hookah_bars"
+        ]
+      ],
+      "display_phone":"+1-708-452-8485",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"havana-hookah-lounge-norridge",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/pHLyrxk7dLyGC3PXs1Sz6w/ms.jpg",
+      "location":{
+        "city":"Norridge",
+        "display_address":[
+          "5050 N Cumberland Ave",
+          "O'Hare",
+          "Norridge, IL 60706"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "O'Hare"
+        ],
+        "postal_code":"60706",
+        "country_code":"US",
+        "address":[
+          "5050 N Cumberland Ave"
+        ],
+        "coordinate":{
+          "latitude":41.972023,
+          "longitude":-87.837364
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/gale-street-inn-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":360,
+      "name":"Gale Street Inn",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/gale-street-inn-chicago",
+      "is_closed":false,
+      "phone":"7737251300",
+      "snippet_text":"My first visit here.  Made reservations for 5pm on a Saturday. I'm glad we went early because by 7pm, our original reservation time, the entry was crowded...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/cWyaXQLRVHSwYu-_Ury9KQ/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-725-1300",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"gale-street-inn-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/74QvnIY1osOKuaqaOZ073w/ms.jpg",
+      "location":{
+        "cross_streets":"Veterans Pl & Gale St",
+        "city":"Chicago",
+        "display_address":[
+          "4914 N Milwaukee Ave",
+          "Jefferson Park",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Jefferson Park"
+        ],
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "4914 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9699747728431,
+          "longitude":-87.762835174799
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/skores-sports-bar-and-grill-harwood-heights",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":57,
+      "name":"Skores Sports Bar & Grill",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/skores-sports-bar-and-grill-harwood-heights",
+      "is_closed":false,
+      "id":"skores-sports-bar-and-grill-harwood-heights",
+      "phone":"7088676767",
+      "snippet_text":"Great food, large portions, reasonable prices, and fast delivery.  I love their salads... they look like a catering tray they are so huge!  Waffle fries...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/1D7f1MFlvKSU8wzeXYEu3w/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-708-867-6767",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1407663730,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/C3wtX_gO0dnhP-2KgBOpwA/ms.jpg",
+      "location":{
+        "cross_streets":"Oak Park Ave & Rutherford Ave",
+        "city":"Harwood Heights",
+        "display_address":[
+          "6764 W Forest Preserve Dr",
+          "Harwood Heights, IL 60706"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60706",
+        "country_code":"US",
+        "address":[
+          "6764 W Forest Preserve Dr"
+        ],
+        "coordinate":{
+          "latitude":41.9590378,
+          "longitude":-87.7967911
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/bar-louie-chicago-7",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":63,
+      "name":"Bar Louie",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/bar-louie-chicago-7",
+      "is_closed":false,
+      "id":"bar-louie-chicago-7",
+      "phone":"7733328029",
+      "snippet_text":"Been here twice, great service. Excellent lunch specials. First time I came I had a yummy burger with sweet potato fries. Cooked to perfection- medium rare...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/brKiG6yYDFoSnd5wmcLOWA/ms.jpg",
+      "categories":[
+        [
+          "Desserts",
+          "desserts"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ],
+        [
+          "Sandwiches",
+          "sandwiches"
+        ]
+      ],
+      "display_phone":"+1-773-332-8029",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387746779,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/YTIkrejAVXIPP8MolkuZlw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5615 N Cumberland Ave",
+          "Norwood Park",
+          "Chicago, IL 60631"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60631",
+        "country_code":"US",
+        "address":[
+          "5615 N Cumberland Ave"
+        ],
+        "coordinate":{
+          "latitude":41.982016985631,
+          "longitude":-87.835758201382
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/legno-chicago-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":98,
+      "name":"Legno Chicago",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/legno-chicago-chicago",
+      "is_closed":false,
+      "id":"legno-chicago-chicago",
+      "phone":"7737362854",
+      "snippet_text":"Have the Brick Chicken and don't worry about the warning that it takes 20 minutes to cook- it comes out at a normal dinner pace\nWe ordered the brick chicken...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/9mxLM5dWdOcAztGhVOimMg/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ]
+      ],
+      "display_phone":"+1-773-736-2854",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1417043784,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Oifp2BV_QHNZtpGqR0Zg0Q/ms.jpg",
+      "location":{
+        "cross_streets":"Cullom Ave & Hutchinson St",
+        "city":"Chicago",
+        "display_address":[
+          "4250 N Central Ave",
+          "Portage Park",
+          "Chicago, IL 60634"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Portage Park"
+        ],
+        "postal_code":"60634",
+        "country_code":"US",
+        "address":[
+          "4250 N Central Ave"
+        ],
+        "coordinate":{
+          "latitude":41.958257,
+          "longitude":-87.767503
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

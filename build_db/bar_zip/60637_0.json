@@ -1,0 +1,1041 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.1085994799999952,
+      "longitude_delta":0.07219860999998673
+    },
+    "center":{
+      "latitude":41.785896199999996,
+      "longitude":-87.61352055
+    }
+  },
+  "total":431,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-university-of-chicago-pub-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":51,
+      "name":"The University of Chicago Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-university-of-chicago-pub-chicago",
+      "is_closed":false,
+      "phone":"7737029737",
+      "snippet_text":"Hands-down, best place on campus ever. The beer selection switches up each week, and it is pretty affordable if you don't feel like trekking all the way to...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/rJ3XrLlB6z36lf-EYYMVzw/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-702-9737",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-university-of-chicago-pub-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/ACjhWDSxKpEx8O2tLKTTjQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "Ida Noyes Lower Lv",
+          "1212 E 59th St",
+          "Hyde Park",
+          "Chicago, IL 60637"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60637",
+        "country_code":"US",
+        "address":[
+          "Ida Noyes Lower Lv",
+          "1212 E 59th St"
+        ],
+        "coordinate":{
+          "latitude":41.788711,
+          "longitude":-87.595588
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/woodlawn-tap-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":109,
+      "name":"Woodlawn Tap",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/woodlawn-tap-chicago",
+      "is_closed":false,
+      "phone":"7736435516",
+      "snippet_text":"Pretty cool dive bar. Food doesn't really strike me as anything I would enjoy but their liquor selection and prices are great. Perfect spot for drinks and...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/CkPtHLnxbBJ7yqCVr2Zj1Q/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-643-5516",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"woodlawn-tap-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/ffZ_L3kD9KPtu6VE7GSKKw/ms.jpg",
+      "location":{
+        "cross_streets":"University Ave & Service Rd",
+        "city":"Chicago",
+        "display_address":[
+          "1172 E 55th St",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "1172 E 55th St"
+        ],
+        "coordinate":{
+          "latitude":41.7951584,
+          "longitude":-87.5972443
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-cove-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":52,
+      "name":"The Cove Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-cove-lounge-chicago",
+      "is_closed":false,
+      "phone":"7736841013",
+      "snippet_text":"This used to be the go-to local bar to blow off steam after a tough day at work. The clientele is comprised of a really cool mix of local south- siders...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/20HpdoajSA-BUqpCUOqKXw/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-773-684-1013",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-cove-lounge-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/OnN-X-9-FPgwSY8pyrjk8Q/ms.jpg",
+      "location":{
+        "cross_streets":"South Shore Dr & Everett Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1750 E 55th St",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "1750 E 55th St"
+        ],
+        "coordinate":{
+          "latitude":41.7952866107225,
+          "longitude":-87.582101225853
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-promontory-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":118,
+      "name":"The Promontory",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-promontory-chicago",
+      "is_closed":false,
+      "phone":"3128012100",
+      "snippet_text":"A great restaurant in the oft neglected south side. Very innovative and incentive dishes, all so flavorful.\nI had the pork shank, and my partner had the...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/1ZysuJ0DkSi3UF0hg3bKqw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-312-801-2100",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-promontory-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/23VzoX9cnlUQ8mYUZM5r8w/ms.jpg",
+      "location":{
+        "cross_streets":"53rd St & 54th St",
+        "city":"Chicago",
+        "display_address":[
+          "5311 S Lake Park Ave W",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "5311 S Lake Park Ave W"
+        ],
+        "coordinate":{
+          "latitude":41.7990076984668,
+          "longitude":-87.5875796318054
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/falcon-inn-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":31,
+      "name":"Falcon Inn",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/falcon-inn-chicago",
+      "is_closed":false,
+      "snippet_text":"Great bar, prices, DJ's on Thursday, Friday, Cholies Pizzaplace & restaurant is next door and you can eat the food at the bar.\nRobert B, the bartender that...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/w2QtTwzbXjis6NhtCec7Cw/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"falcon-inn-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Cornell Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1601 E 53rd St",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "1601 E 53rd St"
+        ],
+        "coordinate":{
+          "latitude":41.799206,
+          "longitude":-87.586212
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/ja-grill-hyde-park-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":49,
+      "name":"Ja' Grill Hyde Park",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/ja-grill-hyde-park-chicago",
+      "is_closed":false,
+      "id":"ja-grill-hyde-park-chicago",
+      "phone":"7737525375",
+      "snippet_text":"Great customer service!   \n\n    I visited here a couple of weeks ago on a Saturday and was in a complete rush to eat because I was trying to make it on time...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/Rj-q0AmStbhycm-m08CsMg/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Caribbean",
+          "caribbean"
+        ]
+      ],
+      "display_phone":"+1-773-752-5375",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1422610530,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/_HRsFgDsuPyXJj7uN0I4bA/ms.jpg",
+      "location":{
+        "cross_streets":"Hyde Park Blvd & 52nd St",
+        "city":"Chicago",
+        "display_address":[
+          "1510 E Harper Ct",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "1510 E Harper Ct"
+        ],
+        "coordinate":{
+          "latitude":41.8004951,
+          "longitude":-87.588829
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/presidents-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":7,
+      "name":"President's Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/presidents-lounge-chicago",
+      "is_closed":false,
+      "phone":"7738741212",
+      "snippet_text":"I was pleasantly surprised at how well lit and inviting the interior was. Vast alcohol selection although the space can get to be a bit tight. Overall a...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/aIiGqWfeeLJnMUtvwbseNQ/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-874-1212",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"presidents-lounge-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/ffZ_L3kD9KPtu6VE7GSKKw/ms.jpg",
+      "location":{
+        "cross_streets":"Champlain Ave & Langley Ave",
+        "city":"Chicago",
+        "display_address":[
+          "653 E 75th St",
+          "Greater Grand Crossing",
+          "Chicago, IL 60619"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Greater Grand Crossing"
+        ],
+        "postal_code":"60619",
+        "country_code":"US",
+        "address":[
+          "653 E 75th St"
+        ],
+        "coordinate":{
+          "latitude":41.7582702636719,
+          "longitude":-87.6082458496094
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/seven-ten-lanes-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":91,
+      "name":"Seven Ten Lanes",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/seven-ten-lanes-chicago",
+      "is_closed":false,
+      "id":"seven-ten-lanes-chicago",
+      "phone":"7733472695",
+      "snippet_text":"More like a 3 1/2 the bowling side doesn't have a scoreboard so bring someone who actually knows how to work the scoreboard lol \nThere is a wait in some...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/qVtMHZkrHdw-Mm9eU1M1QQ/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Bowling",
+          "bowling"
+        ]
+      ],
+      "display_phone":"+1-773-347-2695",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1424305751,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/rtASMFt48FBko4y4vHilyw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "1055 E 55th St",
+          "Hyde Park",
+          "Chicago, IL 60637"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60637",
+        "country_code":"US",
+        "address":[
+          "1055 E 55th St"
+        ],
+        "coordinate":{
+          "latitude":41.7949647456408,
+          "longitude":-87.6003228127956
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/a10-hyde-park-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":164,
+      "name":"A10 - Hyde Park",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/a10-hyde-park-chicago",
+      "is_closed":false,
+      "phone":"7732881010",
+      "snippet_text":"Thanks A10 stuff and in particular chef John! You made our party really amazing! \n\nWe ordered a pick-up menu for 7. We discussed it with chef John a couple...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/aHXFbS4FHrHRiV3SnTnXYA/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-288-1010",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"a10-hyde-park-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/NxfrWiABSNF34f4bB_CdGA/ms.jpg",
+      "location":{
+        "cross_streets":"Harper Ave & Blackstone Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1462 E 53rd St",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "1462 E 53rd St"
+        ],
+        "coordinate":{
+          "latitude":41.7995255,
+          "longitude":-87.5898574
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/chant-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":203,
+      "name":"Chant",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/chant-chicago",
+      "is_closed":false,
+      "id":"chant-chicago",
+      "phone":"7733241999",
+      "snippet_text":"4 stars because everything else in Hyde Park is so bad. I certainly had a solid meal, but it wasn't amazing.\nThe scallops were not overcooked, which is a...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/1e3JYR_W5uNKSdnX4Mg2-A/ms.jpg",
+      "categories":[
+        [
+          "Asian Fusion",
+          "asianfusion"
+        ],
+        [
+          "Thai",
+          "thai"
+        ],
+        [
+          "Vegan",
+          "vegan"
+        ]
+      ],
+      "display_phone":"+1-773-324-1999",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1418198951,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Fm2fQi1DsdeG_6jA_A3FQQ/ms.jpg",
+      "location":{
+        "cross_streets":"Harper Ave & Lake Park Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1509 E 53rd St",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "1509 E 53rd St"
+        ],
+        "coordinate":{
+          "latitude":41.7995274,
+          "longitude":-87.5876677
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-sit-down-cafe-and-sushi-bar-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":222,
+      "name":"The Sit Down Cafe & Sushi Bar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-sit-down-cafe-and-sushi-bar-chicago",
+      "is_closed":false,
+      "id":"the-sit-down-cafe-and-sushi-bar-chicago",
+      "phone":"7733243700",
+      "snippet_text":"This place is pretty good. I love that it's in Hyde Park. Nice quiet spot, even though it's not in the quietest area lol \n\nThe sushi is pretty good. First...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/4wnlzIBS8bWK9Gkje-Jvew/ms.jpg",
+      "categories":[
+        [
+          "Sushi Bars",
+          "sushi"
+        ],
+        [
+          "Gluten-Free",
+          "gluten_free"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-773-324-3700",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1413970107,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/a78qjee3K0KuDqt3-zQwHw/ms.jpg",
+      "location":{
+        "cross_streets":"Kenwood Ave & Kimbark Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1312 E 53rd St",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "1312 E 53rd St"
+        ],
+        "coordinate":{
+          "latitude":41.7994714,
+          "longitude":-87.5943407
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/checkerboard-lounge-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":10,
+      "name":"Checkerboard Lounge",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/checkerboard-lounge-chicago",
+      "is_closed":false,
+      "phone":"7736841472",
+      "snippet_text":"I really didn't have a bad time here, honest. I just think it could use a lot of improvement or perhaps some better management or something. \n\nHeard some...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/TXAE4tBzfM4-sHNN4J2LoQ/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-773-684-1472",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"checkerboard-lounge-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/_VZs1gACRX33lUbBmtxrLA/ms.jpg",
+      "location":{
+        "cross_streets":"52nd St",
+        "city":"Chicago",
+        "display_address":[
+          "5201 S Harper Ct",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "5201 S Harper Ct"
+        ],
+        "coordinate":{
+          "latitude":41.8007659912109,
+          "longitude":-87.588752746582
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/bgabs-goodies-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":9,
+      "name":"B'Gabs Goodies",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/bgabs-goodies-chicago-2",
+      "is_closed":false,
+      "phone":"7733631505",
+      "snippet_text":"It's finally come. A HEALTHY fresh food and smoothie place in Hyde Park that is not Bonne Crappay! (Read my other two reviews on Bonne and you will...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/tRQWqbvQz_e4XxyTEHAB-Q/ms.jpg",
+      "categories":[
+        [
+          "Live/Raw Food",
+          "raw_food"
+        ],
+        [
+          "Vegan",
+          "vegan"
+        ],
+        [
+          "Juice Bars & Smoothies",
+          "juicebars"
+        ]
+      ],
+      "display_phone":"+1-773-363-1505",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"bgabs-goodies-chicago-2",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/g4yqBCCzDNXKg4izMH2n4Q/ms.jpg",
+      "location":{
+        "cross_streets":"Harper Ave & Blackstone Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1450 E 57th St",
+          "Hyde Park",
+          "Chicago, IL 60637"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60637",
+        "country_code":"US",
+        "address":[
+          "1450 E 57th St"
+        ],
+        "coordinate":{
+          "latitude":41.7915502935648,
+          "longitude":-87.589948028326
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.0,
+      "mobile_url":"http://m.yelp.com/biz/bar-louie-chicago-14",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png",
+      "review_count":112,
+      "name":"Bar Louie",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png",
+      "url":"http://www.yelp.com/biz/bar-louie-chicago-14",
+      "is_closed":false,
+      "id":"bar-louie-chicago-14",
+      "phone":"7733635300",
+      "snippet_text":"Ambiance and decor were true to the Bar Louie brand.  Disappointing was the service (inattentive and slow) but the food once it came out and the drinks when...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/xUsMADRJj85inZZBACuvMA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-773-363-5300",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387607899,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/oUP-bfAD_ffk5Zl2OToFdA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5500 S Shore Dr",
+          "Hyde Park",
+          "Chicago, IL 60637"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60637",
+        "country_code":"US",
+        "address":[
+          "5500 S Shore Dr"
+        ],
+        "coordinate":{
+          "latitude":41.794864,
+          "longitude":-87.580703
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/porkchop-chicago-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":136,
+      "name":"Porkchop",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/porkchop-chicago-2",
+      "is_closed":false,
+      "id":"porkchop-chicago-2",
+      "phone":"7734939333",
+      "snippet_text":"Went her on a date with hubby.  One of the best restaurants I have ever been to. Every thing was DELICIOUS. \n\nHad Chicken Wings as the app. , They were...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/anNNv0qyjpS3JP9mfnJDpA/ms.jpg",
+      "categories":[
+        [
+          "Barbeque",
+          "bbq"
+        ],
+        [
+          "Southern",
+          "southern"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-493-9333",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "menu_provider":"eat24",
+      "menu_date_updated":1416446700,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/5NfAfr9g52CDkOyL9Ps6cw/ms.jpg",
+      "location":{
+        "cross_streets":"Hyde Park Blvd & 52nd St",
+        "city":"Chicago",
+        "display_address":[
+          "1516 E Harper Ct",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "1516 E Harper Ct"
+        ],
+        "coordinate":{
+          "latitude":41.800383,
+          "longitude":-87.588268
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/amelias-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":164,
+      "name":"Amelia's Bar & Grill",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/amelias-bar-and-grill-chicago",
+      "is_closed":false,
+      "id":"amelias-bar-and-grill-chicago",
+      "phone":"7735388200",
+      "snippet_text":"This is a hidden gem. The music and atmosphere are great. The food is amazing. I think this is the best salmon I've ever had. So much fun.",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/0bfc7cqvz7r-SSf1wTZbzA/ms.jpg",
+      "categories":[
+        [
+          "Latin American",
+          "latin"
+        ],
+        [
+          "Mexican",
+          "mexican"
+        ]
+      ],
+      "display_phone":"+1-773-538-8200",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387635200,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/UmbkS7dxPzrRAPWZQCMOVg/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "4559 S Halsted St",
+          "New City",
+          "Chicago, IL 60659"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "New City",
+          "Canaryville"
+        ],
+        "postal_code":"60659",
+        "country_code":"US",
+        "address":[
+          "4559 S Halsted St"
+        ],
+        "coordinate":{
+          "latitude":41.810816,
+          "longitude":-87.64519
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/bernices-tavern-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":92,
+      "name":"Bernice's Tavern",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/bernices-tavern-chicago",
+      "is_closed":false,
+      "phone":"3128133215",
+      "snippet_text":"PBR and a shot of Ev Williams for $5?  I'm in.\n\nFor a neighborhood bar, this place was most welcoming to me when I was a newbie to the area and the city....",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/nOcZ4hxznhlu6iOMPfopiw/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-312-813-3215",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"bernices-tavern-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/j58na4N9wN2DyvKXderSAA/ms.jpg",
+      "location":{
+        "cross_streets":"33rd St & 32nd St",
+        "city":"Chicago",
+        "display_address":[
+          "3238 S Halsted St",
+          "Bridgeport",
+          "Chicago, IL 60608"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Bridgeport"
+        ],
+        "postal_code":"60608",
+        "country_code":"US",
+        "address":[
+          "3238 S Halsted St"
+        ],
+        "coordinate":{
+          "latitude":41.8352699,
+          "longitude":-87.6465836
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/licorice-lounge-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":3,
+      "name":"Licorice Lounge",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/licorice-lounge-chicago",
+      "is_closed":false,
+      "phone":"7739622000",
+      "snippet_text":"I love this place!  It is my hideaway from the city hustle and bustle! There is always a welcoming cheer when you come through the door and a glass of...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/WwYsbjri8nAMTztSSpPHjg/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-962-2000",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"licorice-lounge-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/nhT4jrl6-RwSTtcu8OrDGg/ms.jpg",
+      "location":{
+        "cross_streets":"Champlain Ave & Langley Ave",
+        "city":"Chicago",
+        "display_address":[
+          "607 E 87th St",
+          "Chatham",
+          "Chicago, IL 60619"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Chatham"
+        ],
+        "postal_code":"60619",
+        "country_code":"US",
+        "address":[
+          "607 E 87th St"
+        ],
+        "coordinate":{
+          "latitude":41.7365328,
+          "longitude":-87.6093283
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/normans-bistro-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":71,
+      "name":"Norman's Bistro",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/normans-bistro-chicago",
+      "is_closed":false,
+      "phone":"7739665821",
+      "snippet_text":"We found this restaurant on Check Please! So we wanted to try it.  The location is a bit far out but the drive was not that bad and well worth it!!\n\nThe...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/M-9VffSj2yhg-UubQI-vqg/ms.jpg",
+      "categories":[
+        [
+          "Brazilian",
+          "brazilian"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Cajun/Creole",
+          "cajun"
+        ]
+      ],
+      "display_phone":"+1-773-966-5821",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"normans-bistro-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/Dz9VQGxKM6SDu60JfR0EFQ/ms.jpg",
+      "location":{
+        "cross_streets":"Ellis Ave & Berkeley Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1001 E 43rd",
+          "Kenwood",
+          "Chicago, IL 60653"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Kenwood"
+        ],
+        "postal_code":"60653",
+        "country_code":"US",
+        "address":[
+          "1001 E 43rd"
+        ],
+        "coordinate":{
+          "latitude":41.8167343,
+          "longitude":-87.6016388
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/willas-50-yard-line-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":4,
+      "name":"Willa's 50 Yard Line",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/willas-50-yard-line-chicago",
+      "is_closed":false,
+      "phone":"7738460005",
+      "snippet_text":"Last night I went to visit some friends at a birthday party and when the party was over, we wanted to continue the good times.   Well, it was suggested we...",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-846-0005",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"willas-50-yard-line-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/DBJWGcRaS2IFMqRYIEnV1g/ms.jpg",
+      "location":{
+        "cross_streets":"Wabash Ave & Michigan Ave",
+        "city":"Chicago",
+        "display_address":[
+          "69 E 75th St",
+          "Greater Grand Crossing",
+          "Chicago, IL 60619"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Greater Grand Crossing"
+        ],
+        "postal_code":"60619",
+        "country_code":"US",
+        "address":[
+          "69 E 75th St"
+        ],
+        "coordinate":{
+          "latitude":41.758053,
+          "longitude":-87.622017
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

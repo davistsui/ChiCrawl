@@ -1,0 +1,215 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+    background: #fff;
+}
+
+div#header {
+    background-image: url("downtown2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 476px;
+    margin: 0;
+    padding: 0;
+}
+
+div#mid {
+    background-image: url("white2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 354px;
+    margin: 0;
+    padding: 0;
+}
+
+div.frame {
+    margin: 20px;
+    padding: 10px;
+}
+
+/****************** 
+ Begin form style *
+******************/
+form {
+    width: 80%;
+    height: 100%;
+    margin: 2em auto;
+}
+
+fieldset {
+    border: none;
+}
+
+legend {
+    font-size: 20px;
+    font-family: 'Comic-Sans';
+    text-align: center;
+}
+
+form fieldset.set {
+    width: 100%;
+    border-top: solid 1px #cbc9c9;
+    border-bottom: solid 1px #cbc9c9;
+}
+
+form fieldset.set .search {
+    margin: 30px 0px;
+    text-align: center;
+}
+
+form fieldset.set .search div {
+    width: 100%;
+}
+
+form fieldset.set #lab {
+    float: left;
+    width: 15em;
+    margin-right: 1em;
+    text-align: right;
+    color: black;
+}
+
+form fieldset.set .row1 input,
+form fieldset.set .row2 input,
+form fieldset.set .row3 input {
+    margin-left: 0.5em;
+    background: #dedede;
+    border: solid 1px #ebebeb;
+    border-radius: 3px;
+    padding: 10px 10px;
+    width: 200px;
+    height: 15px;
+    margin-bottom: 20px;
+    box-shadow: inset 0 2px 3px rgba(0,0,0,0.1);
+    clear: both;
+}
+
+form fieldset.set .row3 input {
+    margin-left: 9.5em;
+}
+
+/* For checkbox */
+form fieldset.set .row4 ul {
+    list-style: none;
+}
+
+form fieldset.set .row4 ul li {
+    display: inline-block;
+}
+
+form fieldset.set .row4 ul li label {
+    float: right;
+    text-align: right;
+    color: #8A8F91;
+}
+
+form fieldset.set .row4 input {
+    float: left;
+    margin-left: 1em;
+}
+
+div.submit {
+    margin: 1em auto 3em auto;
+    width: 40%;
+    height: 2em;
+}
+
+div.submit #but {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #8A8F91;
+    border-radius: 4px;
+    color: #fff;
+    width: 100%;
+    height: 2em;
+    font-size: 20px;
+}
+
+/* Error list */
+form fieldset.set ul.errorlist {
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+}
+
+form fieldset.set ul.errorlist li {
+    font-size: 12px;
+    color: red;
+    margin: 0;
+    padding: 0;
+}
+/* End form style */
+
+div.wrapper {
+    width: 100%;
+    margin: 40px auto;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    height: 650px;
+}
+
+div.frame-left,
+div.frame-right {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding: 0;
+    height: 600px;
+    float: left;
+}
+
+div.frame-left {
+    width: 38%;
+}
+
+div.frame-right {
+    width: 58%;
+    margin: 0;
+    padding: 0;
+}
+
+div.results,
+div.panel {
+    width: 100%;
+}
+
+div.results {
+    height: 20%;
+    padding: 0;
+    margin: 0;
+}
+
+div.waypt {
+    height: 5%;
+}
+
+div#panel {
+    height: 73%;
+    padding: 0;
+    margin: 0;
+    overflow: auto;
+}
+
+#list {
+    padding: 0;
+    margin: 10px;
+}
+
+div#map {
+    margin: 0;
+    padding: 0;
+    height: 650px;
+}
+
+div#bottom {
+    background-image: url("night.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 550px;
+    margin: 0;
+    padding: 0;
+}
+

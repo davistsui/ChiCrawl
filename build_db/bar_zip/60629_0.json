@@ -1,0 +1,1052 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.09686951999999849,
+      "longitude_delta":0.08729930000001218
+    },
+    "center":{
+      "latitude":41.764973600000005,
+      "longitude":-87.7266185
+    }
+  },
+  "total":529,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/reillys-daughter-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":51,
+      "name":"Reilly's Daughter",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/reillys-daughter-chicago",
+      "is_closed":false,
+      "phone":"7738381496",
+      "snippet_text":"The best-kept secret about Chicago air travel. This little Irish bar, run by cheerful, older Irish gentleman bartenders, is tucked away in the back...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/B4Cv5F7Z1-v9TqqtcF_Sng/ms.jpg",
+      "categories":[
+        [
+          "Irish Pub",
+          "irish_pubs"
+        ]
+      ],
+      "display_phone":"+1-773-838-1496",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"reillys-daughter-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/sDZicGuwB4s08W7vyfjyiQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5700 S Cicero Ave",
+          "Midway Triangle",
+          "Garfield Ridge",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Garfield Ridge"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "5700 S Cicero Ave",
+          "Midway Triangle"
+        ],
+        "coordinate":{
+          "latitude":41.7880074900898,
+          "longitude":-87.7424041181803
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/mr-cs-midway-bar-inc-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":9,
+      "name":"Mr C's Midway Bar Inc",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/mr-cs-midway-bar-inc-chicago",
+      "is_closed":false,
+      "phone":"7735820833",
+      "snippet_text":"Bartender was awesome. Bar felt safe and inviting. Enjoyed chatting with him!! Can't wait to come back. !!!",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/mFXZgEpxMeYcUqUgYBS9zA/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-582-0833",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"mr-cs-midway-bar-inc-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/WZwd5j6c2UrdeJylAdh1SA/ms.jpg",
+      "location":{
+        "cross_streets":"Kilpatrick Ave & Knox Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4654 W 63rd St",
+          "Clearing",
+          "Chicago, IL 60629"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Clearing"
+        ],
+        "postal_code":"60629",
+        "country_code":"US",
+        "address":[
+          "4654 W 63rd St"
+        ],
+        "coordinate":{
+          "latitude":41.7787399,
+          "longitude":-87.7395401
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/illinois-bar-and-grill-on-47th-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":58,
+      "name":"Illinois Bar & Grill On 47th",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/illinois-bar-and-grill-on-47th-chicago",
+      "is_closed":false,
+      "phone":"7738472525",
+      "snippet_text":"My gf and I came with family Wednesday afternoon to hang out and have some appetizers. Illinois bar and grill has been a burger institution for many years...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/fUBgFyrSoiyVr8geZjgGPg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ]
+      ],
+      "display_phone":"+1-773-847-2525",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"illinois-bar-and-grill-on-47th-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/AQxtAjsPzxco5GHNPX0QBg/ms.jpg",
+      "location":{
+        "cross_streets":"Keeler Ave & Kedvale Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4135 W 47th St",
+          "Archer Heights",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Archer Heights"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "4135 W 47th St"
+        ],
+        "coordinate":{
+          "latitude":41.807594,
+          "longitude":-87.727409
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/garifuna-flava-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":130,
+      "name":"Garifuna Flava",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/garifuna-flava-chicago",
+      "is_closed":false,
+      "id":"garifuna-flava-chicago",
+      "phone":"7737767440",
+      "snippet_text":"I went with my regular brunch crew and I must say we were not disappointed.\n\nWe saw the place on DDV and got to meet the owner. Really cool guy.\n\nWe...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/leYE3UoIWb7GfW2U7Whl5A/ms.jpg",
+      "categories":[
+        [
+          "Caribbean",
+          "caribbean"
+        ],
+        [
+          "Ethnic Food",
+          "ethnicmarkets"
+        ]
+      ],
+      "display_phone":"+1-773-776-7440",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1417164279,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/tMfHrMrmA6oM4jIYHcJWcQ/ms.jpg",
+      "location":{
+        "cross_streets":"Campbell Ave & Maplewood Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2518 W 63rd St",
+          "Chicago Lawn",
+          "Chicago, IL 60629"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Chicago Lawn",
+          "Marquette Park"
+        ],
+        "postal_code":"60629",
+        "country_code":"US",
+        "address":[
+          "2518 W 63rd St"
+        ],
+        "coordinate":{
+          "latitude":41.779495,
+          "longitude":-87.686935
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/vito-and-nicks-pizzeria-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":353,
+      "name":"Vito & Nick's Pizzeria",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/vito-and-nicks-pizzeria-chicago",
+      "is_closed":false,
+      "id":"vito-and-nicks-pizzeria-chicago",
+      "phone":"7737352050",
+      "snippet_text":"This is by far the best thin-crust pizza I've had since moving to Chicago. I am a Chicago pizza hater in general but this place has changed my mind for the...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/am5T0hZBAtE0OPNIv4zbeg/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-735-2050",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387917344,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/Vqg03SY9J7vhtax-tD2Fhw/ms.jpg",
+      "location":{
+        "cross_streets":"84th St & 85th St",
+        "city":"Chicago",
+        "display_address":[
+          "8433 S Pulaski Rd",
+          "Ashburn",
+          "Chicago, IL 60652"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Ashburn"
+        ],
+        "postal_code":"60652",
+        "country_code":"US",
+        "address":[
+          "8433 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.7392349,
+          "longitude":-87.7213974
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/coaches-sports-bar-and-grill-bedford-park",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":17,
+      "name":"Coaches Sports Bar & Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/coaches-sports-bar-and-grill-bedford-park",
+      "is_closed":false,
+      "phone":"7083257050",
+      "snippet_text":"Stopped into coaches for a late lunch. Cozy environment and very friendly waitstaff. Food was outstanding and service was even better. Would definitely stop...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/FlBcWtgSlVzRAI_EVx5jqQ/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-325-7050",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"coaches-sports-bar-and-grill-bedford-park",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/d2UMqKS4Gw-rYceXjd5TPg/ms.jpg",
+      "location":{
+        "city":"Bedford Park",
+        "display_address":[
+          "6624 S Cicero Ave",
+          "Bedford Park, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6624 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7722893,
+          "longitude":-87.7422638
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/bohica-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":19,
+      "name":"Bohica Bar & Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/bohica-bar-and-grill-chicago",
+      "is_closed":false,
+      "phone":"7732840400",
+      "snippet_text":"Love Bohica's and their drink specials that you may not find in other spots in the area. They have this massive Bohica's Burger that has an egg and other...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/Vj1bobgn1_xivNENJxHb3w/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-773-284-0400",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"bohica-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/viU4nzLO_UJ0FCFCR6kpvQ/ms.jpg",
+      "location":{
+        "cross_streets":"Laporte Ave & Lavergne Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5518 S Archer Ave",
+          "Garfield Ridge",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Garfield Ridge"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "5518 S Archer Ave"
+        ],
+        "coordinate":{
+          "latitude":41.798317,
+          "longitude":-87.747314
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/guides-tap-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":20,
+      "name":"Guide's Tap",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/guides-tap-chicago",
+      "is_closed":false,
+      "phone":"7732840634",
+      "snippet_text":"We love the wings, pizza and killer burgers here. Great prices on food and drinks. Would recommend to anyone. We are now regulars!",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/I4cO95dZ3eeDs5lasGLSsg/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-284-0634",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"guides-tap-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/i7wYMuNJbvYZl8iIdmUxRw/ms.jpg",
+      "location":{
+        "cross_streets":"Laramie Ave & Latrobe Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5544 S Archer Ave",
+          "Garfield Ridge",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Garfield Ridge"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "5544 S Archer Ave"
+        ],
+        "coordinate":{
+          "latitude":41.798168,
+          "longitude":-87.748253
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/the-twisted-shamrock-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":22,
+      "name":"The Twisted Shamrock",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/the-twisted-shamrock-chicago",
+      "is_closed":false,
+      "phone":"7737351625",
+      "snippet_text":"Went to a private party last night and was impressed with the service and Guinness pours- done perfectly smooth.  \nFirst walked in and was asked by bouncer...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/wgWVobujU4yGqlFcNTyzjA/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-735-1625",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"the-twisted-shamrock-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/RSK2nFCcdC3NGAy0kKgICQ/ms.jpg",
+      "location":{
+        "cross_streets":"64th Pl & 65th St",
+        "city":"Chicago",
+        "display_address":[
+          "6462 S Central Ave",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6462 S Central Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7745399,
+          "longitude":-87.7619171
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/karolinka-club-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":10,
+      "name":"Karolinka Club",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/karolinka-club-chicago",
+      "is_closed":false,
+      "phone":"7737350818",
+      "snippet_text":"memories of my afternoon at karolinka club are a little hazy, but i'm pretty sure i ordered several rounds of shots, several beers for myself and others,...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/R7WhraGv0p9LcyZy1jcm_w/ms.jpg",
+      "categories":[
+        [
+          "Polish",
+          "polish"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-735-0818",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"karolinka-club-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/rcrJOGp6f4PxUMngYuIOeA/ms.jpg",
+      "location":{
+        "cross_streets":"61st St & 62nd St",
+        "city":"Chicago",
+        "display_address":[
+          "6102 S Central Ave",
+          "Clearing",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Clearing"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6102 S Central Ave"
+        ],
+        "coordinate":{
+          "latitude":41.781521,
+          "longitude":-87.762207
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/tonyos-studio-31-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":6,
+      "name":"Tonyo's Studio 31 Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/tonyos-studio-31-lounge-chicago",
+      "is_closed":false,
+      "phone":"7732848913",
+      "snippet_text":"Came here with my guy once. Laid back atmosphere. Nice place to sit and have some drinks. No live music the day we went.\n\nOwner was nice and friendly. (He...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/I_nzXRIfN3-uGlUEySsWxw/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-284-8913",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"tonyos-studio-31-lounge-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/b2chy6yFzEwDH1pYGKbGUg/ms.jpg",
+      "location":{
+        "cross_streets":"51st St & Kolin Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5147 S Archer Ave",
+          "Archer Heights",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Archer Heights"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "5147 S Archer Ave"
+        ],
+        "coordinate":{
+          "latitude":41.800167,
+          "longitude":-87.731689
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/maddanthonys-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":15,
+      "name":"MaddAnthonys Bar & Grill",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/maddanthonys-bar-and-grill-chicago",
+      "is_closed":false,
+      "phone":"7735232205",
+      "snippet_text":"I used to frequent this establishment back when it was LaCocos and it definitely has changed for the better, much to the adjustment of the times. I love...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/MnNHs0KGHYfBIgNvPxeWxg/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-523-2205",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"maddanthonys-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/XCVrJgXzXbV6TQ-pwVNB-Q/ms.jpg",
+      "location":{
+        "cross_streets":"Homan Ave & Christiana Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3350 W 47th St",
+          "Brighton Park",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Brighton Park"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "3350 W 47th St"
+        ],
+        "coordinate":{
+          "latitude":41.808110922575,
+          "longitude":-87.707996070385
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/innexile-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":8,
+      "name":"Innexile",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/innexile-chicago",
+      "is_closed":false,
+      "phone":"7735823510",
+      "snippet_text":"Favorite southwest side bar period!  Don't be put off by the drab exterior, place is a hoot.  Right place, right price, and right people.",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/waRRHG7s9CQtxxhd3iamqg/ms.jpg",
+      "categories":[
+        [
+          "Gay Bars",
+          "gaybars"
+        ]
+      ],
+      "display_phone":"+1-773-582-3510",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"innexile-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/c1hjz9JMR6JSmRVSGgdSWQ/ms.jpg",
+      "location":{
+        "cross_streets":"Menard Ave & Major Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5758 W 65th St",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "5758 W 65th St"
+        ],
+        "coordinate":{
+          "latitude":41.774586,
+          "longitude":-87.766304
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/illinois-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":56,
+      "name":"Illinois Bar & Grill",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/illinois-bar-and-grill-chicago",
+      "is_closed":false,
+      "phone":"7738388989",
+      "snippet_text":"Recommended to me by a Chicago police officer here at MDW (he chose it over the Harry Caray spot in Concourse B).  Good, messy burger (tons of grilled...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/2O0VpSuSBF0HDmdCfmn4oA/ms.jpg",
+      "categories":[
+        [
+          "Burgers",
+          "burgers"
+        ]
+      ],
+      "display_phone":"+1-773-838-8989",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"illinois-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/BMjp6bPSzu0rRl7B3wfk4Q/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "Midway Airport",
+          "5700 S Cicero Ave",
+          "Garfield Ridge",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Garfield Ridge"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "Midway Airport",
+          "5700 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7879144948304,
+          "longitude":-87.7422971650958
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/applebees-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":22,
+      "name":"Applebee's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/applebees-chicago-3",
+      "is_closed":false,
+      "phone":"7737670711",
+      "snippet_text":"Top review based on food only: \n\nApplebee's is one of your top good ol American cuisine dine in type restaurant. The burgers are made to order from fresh...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/xaR58_7uHqIbLK6gPZJf_Q/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Steakhouses",
+          "steak"
+        ]
+      ],
+      "display_phone":"+1-773-767-0711",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"applebees-chicago-3",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/tQgJE2zgFZb3LLAcqC9dYw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "7519 S Cicero Ave",
+          "West Lawn",
+          "Chicago, IL 60652"
+        ],
+        "geo_accuracy":6.0,
+        "neighborhoods":[
+          "West Lawn"
+        ],
+        "postal_code":"60652",
+        "country_code":"US",
+        "address":[
+          "7519 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7564697265625,
+          "longitude":-87.7416000366211
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/west-55th-street-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":4,
+      "name":"West 55th Street",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/west-55th-street-chicago",
+      "is_closed":false,
+      "phone":"7735828839",
+      "snippet_text":"I simply love this bar. Came here for a Bears game and let me tell you that it has been a great experience. Neighborhood bar so you can compare it to...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/oeHDti9u6t2wA2Z8wFmx6g/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-582-8839",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"west-55th-street-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/k7n3seNrDKdWh8GhWO64tQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "4201 W 55th St",
+          "West Elsdon",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "West Elsdon"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "4201 W 55th St"
+        ],
+        "coordinate":{
+          "latitude":41.792892,
+          "longitude":-87.728203
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/grouchos-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":7,
+      "name":"Groucho's Bar & Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/grouchos-bar-and-grill-chicago",
+      "is_closed":false,
+      "phone":"7737674838",
+      "snippet_text":"This was the spot back in the 90s.  But sadly all good things must end.  This place is Closed.",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-767-4838",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"grouchos-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/fl81UlXO80D3ximgbhzhtQ/ms.jpg",
+      "location":{
+        "cross_streets":"83rd Pl & 84th St",
+        "city":"Chicago",
+        "display_address":[
+          "8355 S Pulaski Rd",
+          "Ashburn",
+          "Chicago, IL 60652"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Ashburn"
+        ],
+        "postal_code":"60652",
+        "country_code":"US",
+        "address":[
+          "8355 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.7405357,
+          "longitude":-87.7214279
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/the-chicago-bear-sports-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":7,
+      "name":"The Chicago Bear Sports Bar & Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/the-chicago-bear-sports-bar-and-grill-chicago",
+      "is_closed":false,
+      "phone":"7737674422",
+      "snippet_text":"Can't beat The Bear Sports Bar for a friendly drink or a great Chicago Bear Hamburger or Beef sandwich. Been to this establishment often and will definitely...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/poXi6UURIppvE4swuIPbbw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-767-4422",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"the-chicago-bear-sports-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/FI8FSMEgkpUEJeB-yi-7zg/ms.jpg",
+      "location":{
+        "cross_streets":"63rd Pl & 64th St",
+        "city":"Chicago",
+        "display_address":[
+          "6335 S Central Ave",
+          "Clearing",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Clearing"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6335 S Central Ave"
+        ],
+        "coordinate":{
+          "latitude":41.777,
+          "longitude":-87.761299
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "rating":4.5,
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "display_phone":"+1-773-696-9691",
+      "gift_certificates":[
+        {
+          "url":"http://www.yelp.com/gift-certificates/cafe-el-meson-chicago",
+          "unused_balances":"CASH",
+          "id":"zwnbMGDG6kOc3RUr_Yj0Ng",
+          "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/zXcyAuOap8E_5h8ALpP8bw/m.jpg",
+          "options":[
+            {
+              "price":1000,
+              "formatted_price":"$10"
+            },
+            {
+              "price":2500,
+              "formatted_price":"$25"
+            },
+            {
+              "price":5000,
+              "formatted_price":"$50"
+            },
+            {
+              "price":7500,
+              "formatted_price":"$75"
+            },
+            {
+              "price":10000,
+              "formatted_price":"$100"
+            }
+          ],
+          "currency_code":"USD"
+        }
+      ],
+      "id":"cafe-el-meson-chicago",
+      "is_closed":false,
+      "mobile_url":"http://m.yelp.com/biz/cafe-el-meson-chicago",
+      "review_count":43,
+      "categories":[
+        [
+          "Sandwiches",
+          "sandwiches"
+        ],
+        [
+          "Coffee & Tea",
+          "coffee"
+        ],
+        [
+          "Juice Bars & Smoothies",
+          "juicebars"
+        ]
+      ],
+      "location":{
+        "cross_streets":"46th St & 47th St",
+        "city":"Chicago",
+        "display_address":[
+          "4631 S Kedzie Ave",
+          "Brighton Park",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Brighton Park"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "4631 S Kedzie Ave"
+        ],
+        "coordinate":{
+          "latitude":41.809013,
+          "longitude":-87.703644
+        },
+        "state_code":"IL"
+      },
+      "is_claimed":true,
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "phone":"7736969691",
+      "snippet_text":"A must visit caf\u00e9! \nToday was my second time at this place and it was even better than the first time! \nI had the Caramelatto and the Criollo sandwich...",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/BQeGTIien_xYj5Vf-4ZkWw/ms.jpg",
+      "name":"Cafe El Meson",
+      "url":"http://www.yelp.com/biz/cafe-el-meson-chicago",
+      "deals":[
+        {
+          "is_popular":true,
+          "what_you_get":"You get a voucher redeemable for $10 at Cafe El Meson.\nPrint out your voucher, or redeem on your phone with the <a href=\"http://www.yelp.com/yelpmobile\">Yelp app</a>.",
+          "time_start":1356636169,
+          "title":"$8 for $10",
+          "url":"http://www.yelp.com/deals/cafe-el-meson-chicago-4",
+          "additional_restrictions":"Promotion lasts for 1 year from date of purchase. After that period, your voucher is redeemable for the amount you paid, less any value you may have received. Not valid with other vouchers, certificates, or offers. Only 1 voucher(s) can be purchased and redeemed per person. Up to 3 can be purchased as gifts for others. Subject to the <a target=\"_blank\" href=\"http://www.yelp.com/tos/general_b2c_us_20120911\">General Terms</a>.",
+          "id":"8xdNyNcEZNqsuVz6VxUq-w",
+          "important_restrictions":"Limit 1 voucher(s) per table.",
+          "image_url":"http://s3-media4.fl.yelpcdn.com/dphoto/mgTgQK47y_SteZWAdFbcXg/m.jpg",
+          "options":[
+            {
+              "original_price":1000,
+              "title":"$8 for $10",
+              "price":800,
+              "purchase_url":"https://www.yelp.com/checkout/deal/Kcj1pojF1NaUgkq3OmRbOg",
+              "formatted_original_price":"$10",
+              "formatted_price":"$8",
+              "is_quantity_limited":false
+            }
+          ],
+          "currency_code":"USD"
+        }
+      ],
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/hkqKR44IYj2YTcijui58nA/ms.jpg",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1421387016
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/tavern-in-the-green-evergreen-park",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":29,
+      "name":"Tavern In The Green",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/tavern-in-the-green-evergreen-park",
+      "is_closed":false,
+      "phone":"7089073107",
+      "snippet_text":"My review is based on the food only, it's really like a 3.5/5!\n\nI came in with my family and was surprised to find such a clean, welcoming setting. It's a...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/9XTSnZ7ZiZ4PJo3bCT8LRA/ms.jpg",
+      "categories":[
+        [
+          "Salad",
+          "salad"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Sandwiches",
+          "sandwiches"
+        ]
+      ],
+      "display_phone":"+1-708-907-3107",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"tavern-in-the-green-evergreen-park",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/rx0pA1vP9YJBWxIgyr0zgw/ms.jpg",
+      "location":{
+        "cross_streets":"Homan Ave & Clifton Park Ave",
+        "city":"Evergreen Park",
+        "display_address":[
+          "3422 W 95th St",
+          "Evergreen Park, IL 60805"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60805",
+        "country_code":"US",
+        "address":[
+          "3422 W 95th St"
+        ],
+        "coordinate":{
+          "latitude":41.720943,
+          "longitude":-87.708328
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

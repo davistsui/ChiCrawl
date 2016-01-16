@@ -1,0 +1,941 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.11342649999998855,
+      "longitude_delta":0.13467013999999722
+    },
+    "center":{
+      "latitude":41.790831499999996,
+      "longitude":-87.7825313
+    }
+  },
+  "total":590,
+  "businesses":[
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/tgi-fridays-chicago-2",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":58,
+      "name":"TGI Friday's",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/tgi-fridays-chicago-2",
+      "is_closed":false,
+      "phone":"7085940777",
+      "snippet_text":"I love coming here! The kids love it too! In fact it's become a tradition on our weekends to come and eat! We love this place!",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/LG80EBs5kuKNqN8Sg3Q00A/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-708-594-0777",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"tgi-fridays-chicago-2",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/mdc62kxoBOxKB1Xh-bytfg/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "6600 S Cicero Ave",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6600 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.772789,
+          "longitude":-87.7427521
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/fill-up-station-berwyn",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":2,
+      "name":"Fill Up Station",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/fill-up-station-berwyn",
+      "is_closed":false,
+      "phone":"7087956744",
+      "snippet_text":"A good friend of mine told me about this place a little more than 2 years back.  He said, \"You have to come to the polish bar with me\".  Well that was 2...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/X_4lG6PvE08IcNhXdO34JA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-795-6744",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"fill-up-station-berwyn",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/rk0fbt5yz6DUctq3otHjNQ/ms.jpg",
+      "location":{
+        "city":"Berwyn",
+        "display_address":[
+          "2627 Ridgeland Ave",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "2627 Ridgeland Ave"
+        ],
+        "coordinate":{
+          "latitude":41.842389,
+          "longitude":-87.7829749
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/sammys-kitchen-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":47,
+      "name":"Sammy's Kitchen",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/sammys-kitchen-chicago",
+      "is_closed":false,
+      "phone":"7737352802",
+      "snippet_text":"Amazing breakfast! It's a great local diner with large helpings for very little money. The servers look like firemen, which is nice eye candy! Anytime I fly...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/4ZsYwGSX_MoWxIUywQLcAA/ms.jpg",
+      "categories":[
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ]
+      ],
+      "display_phone":"+1-773-735-2802",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"sammys-kitchen-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/97_Mp3nlLlaoeKVB7XwymA/ms.jpg",
+      "location":{
+        "cross_streets":"Linder Ave & Luna Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5542 W 55th St",
+          "Garfield Ridge",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Garfield Ridge"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "5542 W 55th St"
+        ],
+        "coordinate":{
+          "latitude":41.7928550561618,
+          "longitude":-87.7613519132137
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.0,
+      "mobile_url":"http://m.yelp.com/biz/millers-pub-chicago-2",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png",
+      "review_count":81,
+      "name":"Miller's Pub",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png",
+      "url":"http://www.yelp.com/biz/millers-pub-chicago-2",
+      "is_closed":false,
+      "id":"millers-pub-chicago-2",
+      "phone":"7739486300",
+      "snippet_text":"Chicken Fingers are good here but the burgers and pizza is horrible.  The ladies working the counter are nice, but they just don't have any motivation to...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/hgoP6tfbEIoXef0sXCMB7A/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-948-6300",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387639489,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/m41VjUFm9zLSYOqygAAmyQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "Midway Airport",
+          "5700 S Cicero Ave",
+          "Garfield Ridge",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Garfield Ridge"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "Midway Airport",
+          "5700 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7873887690932,
+          "longitude":-87.7448472753167
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.0,
+      "mobile_url":"http://m.yelp.com/biz/solofras-sports-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png",
+      "review_count":5,
+      "name":"Solofra's Sports Bar & Grill",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png",
+      "url":"http://www.yelp.com/biz/solofras-sports-bar-and-grill-chicago",
+      "is_closed":false,
+      "phone":"7732291886",
+      "snippet_text":"Get a stool and you're golden.\n\nStill a year later and you can smell the old cigars that used to be smoked in here by the old patrons. \n\nNeighborhood bar...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/KhWM8MQrND2etF3DKq0BUQ/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-229-1886",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png",
+      "id":"solofras-sports-bar-and-grill-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/ZV3imyp29jL37AKT9q31Rw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "6822 W Archer Ave",
+          "Garfield Ridge",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Garfield Ridge"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6822 W Archer Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7922897,
+          "longitude":-87.7924728
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/shotays-bar-n-grill-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Shotays Bar N Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/shotays-bar-n-grill-chicago",
+      "is_closed":false,
+      "phone":"7732475556",
+      "snippet_text":"Great neighborhood bar.   You can walk in and feel right at home. \nThey have drink specials, Bears games on Sunday with free food.\nThey have events monthly....",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Fast Food",
+          "hotdogs"
+        ]
+      ],
+      "display_phone":"+1-773-247-5556",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"shotays-bar-n-grill-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/CiNOn2GF090Bz0_XrxVZog/ms.jpg",
+      "location":{
+        "cross_streets":"Kildare Ave & Kolin Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4311 W 47th St",
+          "Archer Heights",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Archer Heights"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "4311 W 47th St"
+        ],
+        "coordinate":{
+          "latitude":41.807544,
+          "longitude":-87.731416
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/vito-and-nicks-pizzeria-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":353,
+      "name":"Vito & Nick's Pizzeria",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/vito-and-nicks-pizzeria-chicago",
+      "is_closed":false,
+      "id":"vito-and-nicks-pizzeria-chicago",
+      "phone":"7737352050",
+      "snippet_text":"This is by far the best thin-crust pizza I've had since moving to Chicago. I am a Chicago pizza hater in general but this place has changed my mind for the...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/am5T0hZBAtE0OPNIv4zbeg/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ],
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-735-2050",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387917344,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/Vqg03SY9J7vhtax-tD2Fhw/ms.jpg",
+      "location":{
+        "cross_streets":"84th St & 85th St",
+        "city":"Chicago",
+        "display_address":[
+          "8433 S Pulaski Rd",
+          "Ashburn",
+          "Chicago, IL 60652"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Ashburn"
+        ],
+        "postal_code":"60652",
+        "country_code":"US",
+        "address":[
+          "8433 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.7392349,
+          "longitude":-87.7213974
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/durbins-pizza-restaurant-and-lounge-burbank",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":33,
+      "name":"Durbins Pizza Restaurant & Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/durbins-pizza-restaurant-and-lounge-burbank",
+      "is_closed":false,
+      "id":"durbins-pizza-restaurant-and-lounge-burbank",
+      "phone":"7084231523",
+      "snippet_text":"great neighborhood pizza and bar to watch any game. love the atmosphere and pizza. bartenders are my favorite, very hardworking and fun to talk to. Anca,...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/u-mj-8OoLUWZobiRgNGgBQ/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-708-423-1523",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1389265675,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/4D7F4Vf7Sq-VBehY0qDM8g/ms.jpg",
+      "location":{
+        "cross_streets":"Long Ave & Lotus Ave",
+        "city":"Burbank",
+        "display_address":[
+          "5406 W 79th St",
+          "Burbank, IL 60459"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60459",
+        "country_code":"US",
+        "address":[
+          "5406 W 79th St"
+        ],
+        "coordinate":{
+          "latitude":41.749184,
+          "longitude":-87.756393
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/waterworks-pizza-and-tavern-lyons",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":19,
+      "name":"Waterworks Pizza & Tavern",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/waterworks-pizza-and-tavern-lyons",
+      "is_closed":false,
+      "phone":"7084479866",
+      "snippet_text":"little hole in the wall but GREAT pizza!!",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/pcK42fSNf5VlOu6-T1X_TA/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-708-447-9866",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"waterworks-pizza-and-tavern-lyons",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/Uk8v0vCFfQSQcwXdvvVBOQ/ms.jpg",
+      "location":{
+        "city":"Lyons",
+        "display_address":[
+          "7815 Ogden Ave",
+          "Lyons, IL 60534"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60534",
+        "country_code":"US",
+        "address":[
+          "7815 Ogden Ave"
+        ],
+        "coordinate":{
+          "latitude":41.81987,
+          "longitude":-87.8160324
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/dempseys-restaurant-bedford-park",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":18,
+      "name":"Dempsey's Restaurant",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/dempseys-restaurant-bedford-park",
+      "is_closed":false,
+      "id":"dempseys-restaurant-bedford-park",
+      "phone":"7085949500",
+      "snippet_text":"Service with a smile and my  filet mignon was cooked to perfection. This place brings it all together in a friendly welcoming atmosphere.\n\nI'll be back for...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/lwPnXLRHAiktDxY4T3zepg/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-708-594-9500",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1419415156,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/GwBFnDG3ykIpQpl2IcOrdw/ms.jpg",
+      "location":{
+        "city":"Bedford Park",
+        "display_address":[
+          "6520 S Cicero Ave",
+          "Bedford Park, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "6520 S Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.773911,
+          "longitude":-87.744431
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/new-china-tea-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":22,
+      "name":"New China Tea",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/new-china-tea-chicago",
+      "is_closed":false,
+      "id":"new-china-tea-chicago",
+      "phone":"7732842463",
+      "snippet_text":"great place for Chinese food & delivery..the flavor of the place reminds me of the good Chinese restaurant growing up. They always tell you 45 mins for...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/mwxSL-rpNe2U73wcBQdIeg/ms.jpg",
+      "categories":[
+        [
+          "Chinese",
+          "chinese"
+        ],
+        [
+          "Coffee & Tea",
+          "coffee"
+        ]
+      ],
+      "display_phone":"+1-773-284-2463",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387635270,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/AUEJGyRdg8daXkiXycKdVA/ms.jpg",
+      "location":{
+        "cross_streets":"Pulaski Rd & Komensky Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4024 W 55th St",
+          "West Elsdon",
+          "Chicago, IL 60632"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "West Elsdon"
+        ],
+        "postal_code":"60632",
+        "country_code":"US",
+        "address":[
+          "4024 W 55th St"
+        ],
+        "coordinate":{
+          "latitude":41.793465,
+          "longitude":-87.72422
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/tjs-pub-lyons",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":4,
+      "name":"TJ's Pub",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/tjs-pub-lyons",
+      "is_closed":false,
+      "phone":"7084475122",
+      "snippet_text":"Great Food Good Times.",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-708-447-5122",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"tjs-pub-lyons",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/GvZrGYLTARYlrirNgV23zg/ms.jpg",
+      "location":{
+        "city":"Lyons",
+        "display_address":[
+          "7516 Prescott Ave",
+          "Lyons, IL 60534"
+        ],
+        "geo_accuracy":6.0,
+        "postal_code":"60534",
+        "country_code":"US",
+        "address":[
+          "7516 Prescott Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8124198913574,
+          "longitude":-87.8193511962891
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/all-stars-sports-bar-mc-cook",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":4,
+      "name":"All Stars Sports Bar",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/all-stars-sports-bar-mc-cook",
+      "is_closed":false,
+      "phone":"7084428600",
+      "snippet_text":"Place is fixed up.  No more pool tables which is a plus.  Nice girls.  If you want a nice dance these girls are the ones to get it from,  Nia, Austin,...",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-442-8600",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"all-stars-sports-bar-mc-cook",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Prescott Ave & Joliet Ave",
+        "city":"Mc Cook",
+        "display_address":[
+          "7949 W 47th St",
+          "Mc Cook, IL 60525"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60525",
+        "country_code":"US",
+        "address":[
+          "7949 W 47th St"
+        ],
+        "coordinate":{
+          "latitude":41.80571,
+          "longitude":-87.820328
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.0,
+      "mobile_url":"http://m.yelp.com/biz/frankie-and-johnnies-roadhouse-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png",
+      "review_count":5,
+      "name":"Frankie & Johnnie's Roadhouse",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png",
+      "url":"http://www.yelp.com/biz/frankie-and-johnnies-roadhouse-chicago",
+      "is_closed":false,
+      "phone":"7084581939",
+      "snippet_text":"I like  the  new decor.   The  bartenders  are  nice, very  sociable.. Mary is very  lively.   The  pool  tables are  new.   Too bad no  more  food..  Nice...",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-708-458-1939",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png",
+      "id":"frankie-and-johnnies-roadhouse-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5009 S Central Ave",
+          "Chicago, IL 60686"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60686",
+        "country_code":"US",
+        "address":[
+          "5009 S Central Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8014717,
+          "longitude":-87.7621994
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/3rd-down-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":1,
+      "name":"3rd Down",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/3rd-down-chicago",
+      "is_closed":false,
+      "phone":"7084580804",
+      "snippet_text":"Im a dive kinda guy and this place straddles the line between mini sports bar and dive. I'd say its a diverse crowd; bikers, firemen, war vets, locals,...",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-708-458-0804",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"3rd-down-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/cvxEKWd653dXGzN2Qnhm9g/ms.jpg",
+      "location":{
+        "cross_streets":"48th St & 49th St",
+        "city":"Chicago",
+        "display_address":[
+          "4839 S Central Ave",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "4839 S Central Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8047333,
+          "longitude":-87.7625046
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-irish-times-brookfield",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":121,
+      "name":"The Irish Times",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-irish-times-brookfield",
+      "is_closed":false,
+      "phone":"7084858787",
+      "snippet_text":"Fantastic!  We dined here with our children on Friday night for the fish and chips special.  By far, this is the best version of fish and chips I have ever...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/Ja8ve6XGxupWHVEPw3Fs6g/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Irish",
+          "irish"
+        ]
+      ],
+      "display_phone":"+1-708-485-8787",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-irish-times-brookfield",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/K1zd5yB7WR8NuqxYzU5_pA/ms.jpg",
+      "location":{
+        "cross_streets":"Forest Ave & Prairie Ave",
+        "city":"Brookfield",
+        "display_address":[
+          "8869 Burlington Ave",
+          "Brookfield, IL 60513"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60513",
+        "country_code":"US",
+        "address":[
+          "8869 Burlington Ave"
+        ],
+        "coordinate":{
+          "latitude":41.821407,
+          "longitude":-87.843745
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/crabbys-pub-inc-berwyn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":2,
+      "name":"Crabby's Pub Inc",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/crabbys-pub-inc-berwyn",
+      "is_closed":false,
+      "phone":"7087490321",
+      "snippet_text":"This is a good neighborhood place to get a frosty mug or good beef on gaqmeday for the Bears on Sunday. The place also is a mini-casino as it has the most...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/8-1J2_rzUudRMzCKp1536A/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-749-0321",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"crabbys-pub-inc-berwyn",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/QUv1kpz92Q4VkrnCqPbUbQ/ms.jpg",
+      "location":{
+        "city":"Berwyn",
+        "display_address":[
+          "6429 Pershing Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6429 Pershing Rd"
+        ],
+        "coordinate":{
+          "latitude":41.821171,
+          "longitude":-87.784294
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/jimmys-place-lyons",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Jimmy's Place",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/jimmys-place-lyons",
+      "is_closed":false,
+      "phone":"7084429108",
+      "snippet_text":"Love this PLACE!!!!",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/nt3sSRohbcV-v65QoXjeHQ/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Karaoke",
+          "karaoke"
+        ],
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-708-442-9108",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"jimmys-place-lyons",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"44th St & 43rd St",
+        "city":"Lyons",
+        "display_address":[
+          "4300 South Amelia Ave",
+          "Lyons, IL 60534"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60534",
+        "country_code":"US",
+        "address":[
+          "4300 South Amelia Ave"
+        ],
+        "coordinate":{
+          "latitude":41.813156,
+          "longitude":-87.81855
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/daverns-tavern-and-lounge-justice",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":10,
+      "name":"Davern's Tavern & Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/daverns-tavern-and-lounge-justice",
+      "is_closed":false,
+      "phone":"7089246003",
+      "snippet_text":"Great food here and Joe the owner is very welcoming. Got a bingo deal in the afternoon so good crowd in. Relaxed and welcoming. You have to try the burgers!",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/12F8E1d9tYibdp7gt464ng/ms.jpg",
+      "categories":[
+        [
+          "Dance Clubs",
+          "danceclubs"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-708-924-6003",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"daverns-tavern-and-lounge-justice",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"85th Ct & 86th St",
+        "city":"Justice",
+        "display_address":[
+          "8527 W 79th St",
+          "Justice, IL 60458"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60458",
+        "country_code":"US",
+        "address":[
+          "8527 W 79th St"
+        ],
+        "coordinate":{
+          "latitude":41.747047,
+          "longitude":-87.832108
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/redmonds-pub-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Redmond's Pub",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/redmonds-pub-chicago",
+      "is_closed":false,
+      "phone":"7735824161",
+      "snippet_text":"Nice, friendly atmosphere.  Reasonable prices even on nights with LIVE music or DJ and a lot of room for dancing.  They don't have a parking lot but not a...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/RtWn6m1ax1qbk8GAeMwKqA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-582-4161",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"redmonds-pub-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Lockwood Ave & Lorel Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5730 S Archer Ave",
+          "Garfield Ridge",
+          "Chicago, IL 60638"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Garfield Ridge"
+        ],
+        "postal_code":"60638",
+        "country_code":"US",
+        "address":[
+          "5730 S Archer Ave"
+        ],
+        "coordinate":{
+          "latitude":41.7971051145957,
+          "longitude":-87.755577009176
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

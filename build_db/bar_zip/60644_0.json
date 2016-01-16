@@ -1,0 +1,978 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.07243940000000748,
+      "longitude_delta":0.09346402999997849
+    },
+    "center":{
+      "latitude":41.884062,
+      "longitude":-87.75974945
+    }
+  },
+  "total":158,
+  "businesses":[
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/fitzgeralds-berwyn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":66,
+      "name":"FitzGerald's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/fitzgeralds-berwyn",
+      "is_closed":false,
+      "phone":"7087882118",
+      "snippet_text":"I had the pleasure of going to Fitzgerald's last week for their open mike night in the, \"Club\".  What a great time!  Some of the musicians were just...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/c3clXbjKZOi9-a0dOhuHfw/ms.jpg",
+      "categories":[
+        [
+          "Music Venues",
+          "musicvenues"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-788-2118",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"fitzgeralds-berwyn",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/CFQnp3-R2kPzjXP2G9yNHw/ms.jpg",
+      "location":{
+        "cross_streets":"East Ave & Clarence Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6615 Roosevelt Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6615 Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.864959,
+          "longitude":-87.789642
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/maya-del-sol-oak-park",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":504,
+      "name":"Maya Del Sol",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/maya-del-sol-oak-park",
+      "is_closed":false,
+      "id":"maya-del-sol-oak-park",
+      "phone":"7083589800",
+      "snippet_text":"Came here for the first time Saturday to celebrate my birthday. \nService was great!!! Our servers (one was training) were super nice, attentive, and...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/lq7vqrnN2iR98QcshyO9mQ/ms.jpg",
+      "categories":[
+        [
+          "Latin American",
+          "latin"
+        ],
+        [
+          "Mexican",
+          "mexican"
+        ],
+        [
+          "Gluten-Free",
+          "gluten_free"
+        ]
+      ],
+      "display_phone":"+1-708-358-9800",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1425588512,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/ukKYJJIhEayFJyxvImrsVQ/ms.jpg",
+      "location":{
+        "cross_streets":"Pleasant St & South Blvd",
+        "city":"Oak Park",
+        "display_address":[
+          "144 S Oak Park Ave",
+          "Oak Park, IL 60302"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60302",
+        "country_code":"US",
+        "address":[
+          "144 S Oak Park Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8860283,
+          "longitude":-87.7939835
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/avenue-ale-house-oak-park",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":224,
+      "name":"Avenue Ale House",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/avenue-ale-house-oak-park",
+      "is_closed":false,
+      "id":"avenue-ale-house-oak-park",
+      "phone":"7088482801",
+      "snippet_text":"Today was Emma's first day bartending.......and I believe I was her first customer!  There's a fine line between being an annoying, overbearing bartender...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/GKM4cK3KkpS5oHUDm3y-aQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-708-848-2801",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387916408,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/i8TvNUHiqq-pq1IXru-P6A/ms.jpg",
+      "location":{
+        "cross_streets":"Van Buren St & Harrison St",
+        "city":"Oak Park",
+        "display_address":[
+          "825 S Oak Park Ave",
+          "Oak Park, IL 60304"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60304",
+        "country_code":"US",
+        "address":[
+          "825 S Oak Park Ave"
+        ],
+        "coordinate":{
+          "latitude":41.873291,
+          "longitude":-87.7943878
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/the-kinderhook-tap-oak-park",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":156,
+      "name":"The Kinderhook Tap",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/the-kinderhook-tap-oak-park",
+      "is_closed":false,
+      "id":"the-kinderhook-tap-oak-park",
+      "phone":"7084340373",
+      "snippet_text":"This is my local Friday bar/food place. \n\nBeer is scrumptious. Food is scrumptious. The service is ALWAYS excellent!  Environment is nice. So laid back. \n\nA...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/HFD30NT10rENQyo2kQq-uQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-708-434-0373",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1405278532,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/xHZ9q7meFP25VOYPgOx5RA/ms.jpg",
+      "location":{
+        "cross_streets":"Van Buren St & Harrison St",
+        "city":"Oak Park",
+        "display_address":[
+          "800 S Oak Park Ave",
+          "Oak Park, IL 60304"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60304",
+        "country_code":"US",
+        "address":[
+          "800 S Oak Park Ave"
+        ],
+        "coordinate":{
+          "latitude":41.874126,
+          "longitude":-87.793823
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/bro-n-laws-bar-b-q-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":4,
+      "name":"Bro-N-Laws Bar-B-Q",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/bro-n-laws-bar-b-q-chicago-2",
+      "is_closed":false,
+      "phone":"7732278344",
+      "snippet_text":"I must say that I'm very impressed with the quality of the rib tips that I get from this place. They are open pretty late, so if I'm hanging out late and...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/oFNxYxqdHTOKkF6zxRGrSw/ms.jpg",
+      "categories":[
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-773-227-8344",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"bro-n-laws-bar-b-q-chicago-2",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/6H6FV4rOtJrze5wbJxgGSA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "3820 W Chicago Ave",
+          "Humboldt Park",
+          "Chicago, IL 60654"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Humboldt Park"
+        ],
+        "postal_code":"60654",
+        "country_code":"US",
+        "address":[
+          "3820 W Chicago Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8955173,
+          "longitude":-87.7220872
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/trattoria-225-oak-park",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":125,
+      "name":"Trattoria 225",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/trattoria-225-oak-park",
+      "is_closed":false,
+      "id":"trattoria-225-oak-park",
+      "phone":"7083588555",
+      "snippet_text":"We love this place. It's great for both date nights and family dinners. Service is great and drinks are well done.  The menu is consistent. I wish they...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/qVqG1InQJq0XzncEu9NqYA/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-708-358-8555",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1415104668,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/LJ-5u0g6UA0cao5dTmA8mA/ms.jpg",
+      "location":{
+        "cross_streets":"Harvey Ave & Lombard Ave",
+        "city":"Oak Park",
+        "display_address":[
+          "225 Harrison St",
+          "Oak Park, IL 60304"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60304",
+        "country_code":"US",
+        "address":[
+          "225 Harrison St"
+        ],
+        "coordinate":{
+          "latitude":41.87241,
+          "longitude":-87.780594
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/berwyn-tap-room-berwyn",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":7,
+      "name":"Berwyn Tap Room",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/berwyn-tap-room-berwyn",
+      "is_closed":false,
+      "phone":"7083175038",
+      "snippet_text":"I've gotta say that I have not met a nicer bartender/owner of a bar probably, ever. \n\nI came in on a weekday and Anthony was working the bar. It was a...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/Gqud2IjdoBP2F0StCBTxtA/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-317-5038",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"berwyn-tap-room-berwyn",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/6RDAf_M5vMWXMclayq81kQ/ms.jpg",
+      "location":{
+        "cross_streets":"Cuyler Ave & Ridgeland Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6330 W 16th St",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6330 W 16th St"
+        ],
+        "coordinate":{
+          "latitude":41.8579025,
+          "longitude":-87.7827606
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/chi-scene-entertainment-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Chi Scene Entertainment",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/chi-scene-entertainment-chicago",
+      "is_closed":false,
+      "phone":"7733982725",
+      "snippet_text":"Chi Scene is the true home of the Chicago Underground scene. I am proud to be a part of it all and can't wait to see where this will all go. Check out the...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/4rBgylGtgflHqMhPYoCgbQ/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Venues & Event Spaces",
+          "venues"
+        ]
+      ],
+      "display_phone":"+1-773-398-2725",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"chi-scene-entertainment-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/lYvJU45JDb4wwnxHvUKvoA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "West Garfield Park",
+          "Chicago, IL 60624"
+        ],
+        "geo_accuracy":5.0,
+        "neighborhoods":[
+          "West Garfield Park"
+        ],
+        "postal_code":"60624",
+        "country_code":"US",
+        "address":[],
+        "coordinate":{
+          "latitude":41.88069,
+          "longitude":-87.72309
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/bens-bar-be-cue-restaurant-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":14,
+      "name":"Ben's Bar-Be-Cue Restaurant",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/bens-bar-be-cue-restaurant-chicago",
+      "is_closed":false,
+      "phone":"7736370003",
+      "snippet_text":"Barbecue so good, you'll break promises.\n\nMonday's commute home from work. I'm eight hours deep as a newly-minted vegetarian, and I'm yearning for flesh....",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/QodpZHGF8Dicbky9TwCrNQ/ms.jpg",
+      "categories":[
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-773-637-0003",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"bens-bar-be-cue-restaurant-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/oVwbY3b20gjUlSg5Z5KNHA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5931 W North Ave",
+          "Austin",
+          "Chicago, IL 60651"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Austin"
+        ],
+        "postal_code":"60651",
+        "country_code":"US",
+        "address":[
+          "5931 W North Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9091361,
+          "longitude":-87.7745275
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/friendly-tap-berwyn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":15,
+      "name":"Friendly Tap",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/friendly-tap-berwyn",
+      "is_closed":false,
+      "phone":"7084849794",
+      "snippet_text":"I'm writing to plug the recently re-made Friendly Lounge, the daytime coffee shop in the east half of the Friendly Tap.  It's awesome.  They've done a great...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/wg5p419qoUkLTSOmjd5VVg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-708-484-9794",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"friendly-tap-berwyn",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/ySEVUqJayzrVXBdfGq_CQg/ms.jpg",
+      "location":{
+        "cross_streets":"Oak Park Ave & Euclid Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6733 W Roosevelt Rd",
+          "Berwyn, IL 60304"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60304",
+        "country_code":"US",
+        "address":[
+          "6733 W Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8651736,
+          "longitude":-87.7927199
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/marys-bar-b-que-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":5,
+      "name":"Mary's Bar-B-Que",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/marys-bar-b-que-chicago",
+      "is_closed":false,
+      "phone":"7736382233",
+      "snippet_text":"We are working our way through South Side BBQ joints....Mary's..yum. Rib Tips, wings, sauce, french fries...all in a brown bag. How can you go wrong? Rib...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/BoNgM07BB9BA-uoBRIju5g/ms.jpg",
+      "categories":[
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-773-638-2233",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"marys-bar-b-que-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/mJe-XOI-LjEBsvL0aT6ryw/ms.jpg",
+      "location":{
+        "cross_streets":"Harrison St & Ohio St",
+        "city":"Chicago",
+        "display_address":[
+          "606 S Pulaski Rd",
+          "West Garfield Park",
+          "Chicago, IL 60624"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "West Garfield Park"
+        ],
+        "postal_code":"60624",
+        "country_code":"US",
+        "address":[
+          "606 S Pulaski Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8732188642025,
+          "longitude":-87.7254901081324
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/klas-restaurant-cicero",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":63,
+      "name":"Klas Restaurant",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/klas-restaurant-cicero",
+      "is_closed":false,
+      "id":"klas-restaurant-cicero",
+      "phone":"7086520795",
+      "snippet_text":"This place is a gem!\n\nFirst off, holy cow. The building is so old. It should be a historic landmark. When you walk in, you feel like you should be at least...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/yrJ5ft2c_CeQd0sFOCu8qA/ms.jpg",
+      "categories":[
+        [
+          "Modern European",
+          "modern_european"
+        ]
+      ],
+      "display_phone":"+1-708-652-0795",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1390201439,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/bvI7KWAxVRb6DEiaXB1Pnw/ms.jpg",
+      "location":{
+        "cross_streets":"57th Ct & 58th Ave",
+        "city":"Cicero",
+        "display_address":[
+          "5734 W Cermak Rd",
+          "Cicero, IL 60804"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60804",
+        "country_code":"US",
+        "address":[
+          "5734 W Cermak Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8511353,
+          "longitude":-87.7681351
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/weegees-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":152,
+      "name":"Weegee's Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/weegees-lounge-chicago",
+      "is_closed":false,
+      "phone":"7733840707",
+      "snippet_text":"This is a great venue in Logan Square! They have an amazing beer list and menu. The parking is easy and the neighborhood is very accessible off Armitage....",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/FIfmrmyWVmFk5HXklydd-A/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-384-0707",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"weegees-lounge-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "3659 W Armitage Ave",
+          "Logan Square",
+          "Chicago, IL 60647"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Logan Square"
+        ],
+        "postal_code":"60647",
+        "country_code":"US",
+        "address":[
+          "3659 W Armitage Ave"
+        ],
+        "coordinate":{
+          "latitude":41.916988,
+          "longitude":-87.719055
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/antronios-bar-and-grill-berwyn-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":5,
+      "name":"Antronio's Bar & Grill",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/antronios-bar-and-grill-berwyn-2",
+      "is_closed":false,
+      "snippet_text":"I was really pleased with the owners, staff & guests. Extremely friendly \nVery polite, I was very welcomed, very warm place.\nI will go back. \nIn addition -...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/jIEYQoxDApr6MyVmTWQFdw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"antronios-bar-and-grill-berwyn-2",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/jvacKs5YGUWRBeLcxoHYjg/ms.jpg",
+      "location":{
+        "cross_streets":"Cuyler Ave & Highland Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6319 W Roosevelt Rd",
+          "Berwyn, IL 60304"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60304",
+        "country_code":"US",
+        "address":[
+          "6319 W Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8650818,
+          "longitude":-87.7822876
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/marion-street-cheese-market-oak-park-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":351,
+      "name":"Marion Street Cheese Market",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/marion-street-cheese-market-oak-park-2",
+      "is_closed":false,
+      "id":"marion-street-cheese-market-oak-park-2",
+      "phone":"7087257200",
+      "snippet_text":"Came here on a Wednesday with some family members.  They had live music and 1/2 off bottles of wine that night (yay!).  We shared the fried brussel sprouts...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/n1WANFMF_taUFqQXB-bHGg/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Cheese Shops",
+          "cheese"
+        ]
+      ],
+      "display_phone":"+1-708-725-7200",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1413533565,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/YqWIOpBLXx8tgHPqqiQT8w/ms.jpg",
+      "location":{
+        "cross_streets":"Pleasant St & South Blvd",
+        "city":"Oak Park",
+        "display_address":[
+          "100 S Marion St",
+          "Oak Park, IL 60302"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60302",
+        "country_code":"US",
+        "address":[
+          "100 S Marion St"
+        ],
+        "coordinate":{
+          "latitude":41.8864288,
+          "longitude":-87.8022232
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/fuego-loco-oak-park",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":129,
+      "name":"Fuego Loco",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/fuego-loco-oak-park",
+      "is_closed":false,
+      "id":"fuego-loco-oak-park",
+      "phone":"7087630000",
+      "snippet_text":"Food- The chips and salsa were very good. The array of peppers infused in the salsa really made the flavors strong. It's hard not to get full on chips and...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/H6LDa2IdH1QRkvpYfYjXPQ/ms.jpg",
+      "categories":[
+        [
+          "Mexican",
+          "mexican"
+        ]
+      ],
+      "display_phone":"+1-708-763-0000",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1410458751,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/HJ1vnWJABXVQmtk6Pa0hog/ms.jpg",
+      "location":{
+        "city":"Oak Park",
+        "display_address":[
+          "722 Lake St",
+          "Oak Park, IL 60303"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60303",
+        "country_code":"US",
+        "address":[
+          "722 Lake St"
+        ],
+        "coordinate":{
+          "latitude":41.8888588,
+          "longitude":-87.7938385
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/em-lounge-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":3,
+      "name":"EM Lounge",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/em-lounge-chicago",
+      "is_closed":false,
+      "id":"em-lounge-chicago",
+      "phone":"7736992629",
+      "snippet_text":"There are so many things one could say about this amazing bar!!!! First lets start with Wednesday nights...Em lounge has opened up their doors for Birdcage...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/Y_S5I_uH6_x6jZMmb9k8UA/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Gay Bars",
+          "gaybars"
+        ],
+        [
+          "Restaurants",
+          "restaurants"
+        ]
+      ],
+      "display_phone":"+1-773-699-2629",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1411709114,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/xSfyyMm6gpNUqlWWwqgKCQ/ms.jpg",
+      "location":{
+        "cross_streets":"Kildare Ave & Tripp Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4247 W Armitage Ave",
+          "Hermosa",
+          "Chicago, IL 60639"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hermosa"
+        ],
+        "postal_code":"60639",
+        "country_code":"US",
+        "address":[
+          "4247 W Armitage Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9168015,
+          "longitude":-87.7332764
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/autre-monde-caf%C3%A9-berwyn-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":170,
+      "name":"Autre Monde Caf\u00e9",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/autre-monde-caf%C3%A9-berwyn-2",
+      "is_closed":false,
+      "id":"autre-monde-caf\u00e9-berwyn-2",
+      "phone":"7087758122",
+      "snippet_text":"This place came recommended from a friend for a romantic dinner. And boy did it deliver. \n\nI'll start with complaints since they are so brief: parking was...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/s4DEctJG7UeOCAcZKur02g/ms.jpg",
+      "categories":[
+        [
+          "Mediterranean",
+          "mediterranean"
+        ],
+        [
+          "Cafes",
+          "cafes"
+        ],
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-708-775-8122",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1414898228,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/0TE9XkcwcNeyxSrCnATytA/ms.jpg",
+      "location":{
+        "cross_streets":"Oak Park Ave & Euclid Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6727 W Roosevelt Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6727 W Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.864902,
+          "longitude":-87.792862
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/lite-inn-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":2,
+      "name":"Lite Inn",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/lite-inn-chicago",
+      "is_closed":false,
+      "phone":"7733423870",
+      "snippet_text":"This is the closest watering hole to our new home.  It opens early and has a no frills local vibe.  Hopefully they will let me be part of their club.  There...",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Pool Halls",
+          "poolhalls"
+        ]
+      ],
+      "display_phone":"+1-773-342-3870",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"lite-inn-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/1m3EW3clof10z2I6AChpWQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "3616 W Division St",
+          "Humboldt Park",
+          "Chicago, IL 60651"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Humboldt Park"
+        ],
+        "postal_code":"60651",
+        "country_code":"US",
+        "address":[
+          "3616 W Division St"
+        ],
+        "coordinate":{
+          "latitude":41.902762055397,
+          "longitude":-87.7169841527939
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/winberies-restaurant-oak-park",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":144,
+      "name":"Winberie's Restaurant",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/winberies-restaurant-oak-park",
+      "is_closed":false,
+      "id":"winberies-restaurant-oak-park",
+      "phone":"7083862600",
+      "snippet_text":"So yummy we could eat here everyday. The menu is very diverse and everything was delish. Our waitress, Katherine was fabulous. Made great recommendations...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/mgieoaVqnYWDcP8RTyt7jA/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ],
+        [
+          "Gluten-Free",
+          "gluten_free"
+        ]
+      ],
+      "display_phone":"+1-708-386-2600",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1418993169,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/XIP8ISvoCKVocx7lMLzyiw/ms.jpg",
+      "location":{
+        "city":"Oak Park",
+        "display_address":[
+          "151 N Oak Park Ave",
+          "Oak Park, IL 60301"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60301",
+        "country_code":"US",
+        "address":[
+          "151 N Oak Park Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8885652,
+          "longitude":-87.7947416
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

@@ -1,0 +1,928 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.2537812993310098,
+      "longitude_delta":0.26643143999999097
+    },
+    "center":{
+      "latitude":41.67983496394045,
+      "longitude":-87.5822612
+    }
+  },
+  "total":806,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":2.0,
+      "mobile_url":"http://m.yelp.com/biz/mugs-bunny-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png",
+      "review_count":2,
+      "name":"Mugs Bunny",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png",
+      "url":"http://www.yelp.com/biz/mugs-bunny-chicago",
+      "is_closed":false,
+      "phone":"7736464560",
+      "snippet_text":"A no-frills, blue-collar local-hangout corner bar in, fittingly enough, a blue-collar neighborhood. Exactly three beers on tap: Coors Light, some other...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/N_bx3dGFIIMfeqbUYZCeqg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-646-4560",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png",
+      "id":"mugs-bunny-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "13401 S Baltimore Avenue",
+          "Hegewisch",
+          "Chicago, IL 60633"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hegewisch"
+        ],
+        "postal_code":"60633",
+        "country_code":"US",
+        "address":[
+          "13401 S Baltimore Avenue"
+        ],
+        "coordinate":{
+          "latitude":41.6517181,
+          "longitude":-87.5467834
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/kilroys-lansing",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":19,
+      "name":"Kilroy's",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/kilroys-lansing",
+      "is_closed":false,
+      "phone":"7088955233",
+      "snippet_text":"First visit from California! Had the \"Chicago\" burger and I was floored by the awesome quality of the ingredients. We started with the made from scratch...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/YcitDBIcUpZ0xH1CAIQmbQ/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-708-895-5233",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"kilroys-lansing",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/Tq46NTPtRrAHDU253JHCDQ/ms.jpg",
+      "location":{
+        "cross_streets":"William St & West St",
+        "city":"Lansing",
+        "display_address":[
+          "3502 Ridge Rd",
+          "Lansing, IL 60438"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60438",
+        "country_code":"US",
+        "address":[
+          "3502 Ridge Rd"
+        ],
+        "coordinate":{
+          "latitude":41.564621,
+          "longitude":-87.531891
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/crowbar-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":6,
+      "name":"Crowbar",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/crowbar-chicago",
+      "is_closed":false,
+      "id":"crowbar-chicago",
+      "phone":"7737686985",
+      "snippet_text":"You can smoke here. A bar. In the city. \nThey have a \"smoking tip jar\" to help cover fines.\n\n5 stars for the owner who says \"FU\" to the city smoking ban.",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/yLP_M6IFQRtg16dFk9EiMg/ms.jpg",
+      "categories":[
+        [
+          "Venues & Event Spaces",
+          "venues"
+        ]
+      ],
+      "display_phone":"+1-773-768-6985",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387569388,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/6oguLWveJ7OmzTyi4hkf1g/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "4001 E 106th St",
+          "East Side",
+          "Chicago, IL 60617"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "East Side"
+        ],
+        "postal_code":"60617",
+        "country_code":"US",
+        "address":[
+          "4001 E 106th St"
+        ],
+        "coordinate":{
+          "latitude":41.702446,
+          "longitude":-87.526772
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/johnnys-tap-munster",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":8,
+      "name":"Johnny's Tap",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/johnnys-tap-munster",
+      "is_closed":false,
+      "phone":"2198369218",
+      "snippet_text":"Great atmosphere, very fair prices",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/Vsg3_SY-t95ZppRodwCBjQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-219-836-9218",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"johnnys-tap-munster",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Munster",
+        "display_address":[
+          "8050 Calumet Ave",
+          "Munster, IN 46321"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"46321",
+        "country_code":"US",
+        "address":[
+          "8050 Calumet Ave"
+        ],
+        "coordinate":{
+          "latitude":41.566677,
+          "longitude":-87.509331
+        },
+        "state_code":"IN"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/tillys-poboys-calumet-city",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":54,
+      "name":"Tilly's Po'Boys",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/tillys-poboys-calumet-city",
+      "is_closed":false,
+      "phone":"7088684647",
+      "snippet_text":"My daughter and I went the day after Thanksgiving (2014). I bought a Groupon after reading some really good reviews on here. Overall the food was really...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/6AW9C8L_ZOqwAtSr2xChmA/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Cajun/Creole",
+          "cajun"
+        ],
+        [
+          "Sandwiches",
+          "sandwiches"
+        ]
+      ],
+      "display_phone":"+1-708-868-4647",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"tillys-poboys-calumet-city",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/_02hQnWfMkkV3HItiSHvjQ/ms.jpg",
+      "location":{
+        "cross_streets":"West Rd",
+        "city":"Calumet City",
+        "display_address":[
+          "1455 Ring Rd,",
+          "Calumet City, IL 60409"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60409",
+        "country_code":"US",
+        "address":[
+          "1455 Ring Rd,"
+        ],
+        "coordinate":{
+          "latitude":41.59499,
+          "longitude":-87.56057
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/jacks-sports-pub-and-eatery-lansing",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":3,
+      "name":"Jack's Sports Pub & Eatery",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/jacks-sports-pub-and-eatery-lansing",
+      "is_closed":false,
+      "phone":"7084180800",
+      "snippet_text":"I came.here because my friend said it had good bar food. My friend understated how good the food was. I have yet to try anything that was not at least good....",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/M8bGZ24ixoq2rk5sbNgrIA/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-418-0800",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"jacks-sports-pub-and-eatery-lansing",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/SINYwlstg329AWCP1ce5ag/ms.jpg",
+      "location":{
+        "cross_streets":"Roy St & Walter St",
+        "city":"Lansing",
+        "display_address":[
+          "3235 Ridge Rd",
+          "Lansing, IL 60438"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60438",
+        "country_code":"US",
+        "address":[
+          "3235 Ridge Rd"
+        ],
+        "coordinate":{
+          "latitude":41.5644798278809,
+          "longitude":-87.5356369018555
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/woodlawn-tap-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":109,
+      "name":"Woodlawn Tap",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/woodlawn-tap-chicago",
+      "is_closed":false,
+      "phone":"7736435516",
+      "snippet_text":"Pretty cool dive bar. Food doesn't really strike me as anything I would enjoy but their liquor selection and prices are great. Perfect spot for drinks and...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/CkPtHLnxbBJ7yqCVr2Zj1Q/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-643-5516",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"woodlawn-tap-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/ffZ_L3kD9KPtu6VE7GSKKw/ms.jpg",
+      "location":{
+        "cross_streets":"University Ave & Service Rd",
+        "city":"Chicago",
+        "display_address":[
+          "1172 E 55th St",
+          "Hyde Park",
+          "Chicago, IL 60615"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hyde Park"
+        ],
+        "postal_code":"60615",
+        "country_code":"US",
+        "address":[
+          "1172 E 55th St"
+        ],
+        "coordinate":{
+          "latitude":41.7951584,
+          "longitude":-87.5972443
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/good-times-bar-and-grill-east-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Good Times Bar & Grill",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/good-times-bar-and-grill-east-chicago",
+      "is_closed":false,
+      "phone":"2193978810",
+      "snippet_text":"I met up with one of my Paintball team player, to watch the 2010/2011 NFC Championship. \n\nI was really amazed that there are true Bear fans at an Indiana...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/diqcXBkNG6pO1JpXpALLDw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-219-397-8810",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"good-times-bar-and-grill-east-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/vsEcxAb3RmBjc60BbfnrSQ/ms.jpg",
+      "location":{
+        "city":"East Chicago",
+        "display_address":[
+          "505 W 151st St",
+          "East Chicago, IN 46312"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"46312",
+        "country_code":"US",
+        "address":[
+          "505 W 151st St"
+        ],
+        "coordinate":{
+          "latitude":41.6212172806263,
+          "longitude":-87.4764255434275
+        },
+        "state_code":"IN"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/dustys-tavern-whiting",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"Dusty's Tavern",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/dustys-tavern-whiting",
+      "is_closed":false,
+      "phone":"2196599618",
+      "snippet_text":"Dusty's is a hidden gem.  I love restaurants that you're a little unsure driving by if you should go in, but when you sit down you know you are in the right...",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-219-659-9618",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"dustys-tavern-whiting",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/m_19OE1lXuw_OGt06e87wA/ms.jpg",
+      "location":{
+        "city":"Whiting",
+        "display_address":[
+          "2350 White Oak Ave",
+          "Whiting, IN 46394"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"46394",
+        "country_code":"US",
+        "address":[
+          "2350 White Oak Ave"
+        ],
+        "coordinate":{
+          "latitude":41.671207,
+          "longitude":-87.490883
+        },
+        "state_code":"IN"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/refinery-the-whiting",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":1,
+      "name":"Refinery the",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/refinery-the-whiting",
+      "is_closed":false,
+      "phone":"2196555187",
+      "snippet_text":"Bartender (who's a complete stranger BTW): \"Let me guess...you want a Mike's Hard Cranberry Vodka?!\"\nMe: \"I'll take a Michelob Ultra, thanks!\"\nBartender:...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/3RQSXcWIQBZTwFimNWDfTQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-219-655-5187",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"refinery-the-whiting",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/8S-MmahjZ6fTN36Ci7MYWA/ms.jpg",
+      "location":{
+        "city":"Whiting",
+        "display_address":[
+          "2235 New York Ave",
+          "Whiting, IN 46394"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"46394",
+        "country_code":"US",
+        "address":[
+          "2235 New York Ave"
+        ],
+        "coordinate":{
+          "latitude":41.673607,
+          "longitude":-87.492645
+        },
+        "state_code":"IN"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/sids-blue-island",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":1,
+      "name":"Sid's",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/sids-blue-island",
+      "is_closed":false,
+      "snippet_text":"The best bar ever.",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/dPdnNv4pnEyJZDiAkisgdg/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"sids-blue-island",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/Z8IG1zZ2F7iYQoKvZ0Q9eQ/ms.jpg",
+      "location":{
+        "cross_streets":"High St & Union St",
+        "city":"Blue Island",
+        "display_address":[
+          "12924 S Western Ave",
+          "Blue Island, IL 60406"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60406",
+        "country_code":"US",
+        "address":[
+          "12924 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.6584012109104,
+          "longitude":-87.6802321895957
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/mcnallys-chicago-2",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":5,
+      "name":"McNally's",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/mcnallys-chicago-2",
+      "is_closed":false,
+      "phone":"7737796202",
+      "snippet_text":"A four because I'm feeling friendly....\n\nSeriously if this bar was around the corner from my place, my alcoholism would probably be much more raging....",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/bIv-2PoKq3I4dlP40d6UdA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-779-6202",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"mcnallys-chicago-2",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/aTxpxsbvdgiZSYzjuh2wyw/ms.jpg",
+      "location":{
+        "cross_streets":"111th Pl & 112th St",
+        "city":"Chicago",
+        "display_address":[
+          "11136 S Western Ave",
+          "Morgan Park",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Morgan Park"
+        ],
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "11136 S Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.6906831413507,
+          "longitude":-87.6811847090721
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/harrys-long-bar-blue-island",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":5,
+      "name":"Harry's Long Bar",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/harrys-long-bar-blue-island",
+      "is_closed":false,
+      "phone":"7083885319",
+      "snippet_text":"Alright, the first thing that comes to mind is PERFECT Jager Bombs in a FROSTED mug, they still do the glass shots if you ask. I hear the apple pie shots...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/LNjY696fRNW3I_h7KLqIVw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ]
+      ],
+      "display_phone":"+1-708-388-5319",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"harrys-long-bar-blue-island",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/mhUbYHSCQD4TPUpxcHp6PA/ms.jpg",
+      "location":{
+        "cross_streets":"Vermont St & Grove St",
+        "city":"Blue Island",
+        "display_address":[
+          "13115 Western Ave",
+          "Blue Island, IL 60406"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60406",
+        "country_code":"US",
+        "address":[
+          "13115 Western Ave"
+        ],
+        "coordinate":{
+          "latitude":41.654955854209,
+          "longitude":-87.6799063012004
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/piggys-lounge-whiting",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":3,
+      "name":"Piggy's Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/piggys-lounge-whiting",
+      "is_closed":false,
+      "phone":"2196596767",
+      "snippet_text":"Call me an old timer if you will, but I love this place. Its like walking back in time. Piggy's is a dive. A shithole even. But its my kind of shithole. And...",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-219-659-6767",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"piggys-lounge-whiting",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/VZ6oPvTXTsoQHuMfpcOrCQ/ms.jpg",
+      "location":{
+        "city":"Whiting",
+        "display_address":[
+          "1656 Indianapolis Blvd",
+          "Whiting, IN 46394"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"46394",
+        "country_code":"US",
+        "address":[
+          "1656 Indianapolis Blvd"
+        ],
+        "coordinate":{
+          "latitude":41.682991027832,
+          "longitude":-87.5036315917969
+        },
+        "state_code":"IN"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/blackthorn-pub-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":12,
+      "name":"Blackthorn Pub",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/blackthorn-pub-chicago",
+      "is_closed":false,
+      "phone":"7737793033",
+      "snippet_text":"I've been here a few times for a number of different things and have had a great experience every time. \n\nThere can occasionally be some college students...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/eZy-fpSDkLVoJ_vHIsduBw/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-779-3033",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"blackthorn-pub-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/2ckorYArmrh9WHvls83lFQ/ms.jpg",
+      "location":{
+        "cross_streets":"Spaulding Ave & Christiana Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3300 W 111th St",
+          "Mount Greenwood",
+          "Chicago, IL 60655"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Mount Greenwood"
+        ],
+        "postal_code":"60655",
+        "country_code":"US",
+        "address":[
+          "3300 W 111th St"
+        ],
+        "coordinate":{
+          "latitude":41.6917801,
+          "longitude":-87.7035675
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/kenwood-tap-hammond",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":2,
+      "name":"Kenwood Tap",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/kenwood-tap-hammond",
+      "is_closed":false,
+      "phone":"2198449766",
+      "snippet_text":"great bar. people there are friendly and always there having a good time. if you like to go out with your firends and looking for a bar with the home town...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/RZ5wAScV6Iybyu8P54ZoeA/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-219-844-9766",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"kenwood-tap-hammond",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/GHNmNhhGHHZBiygjlfAWOA/ms.jpg",
+      "location":{
+        "city":"Hammond",
+        "display_address":[
+          "6309 Kennedy Ave",
+          "Hammond, IN 46323"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"46323",
+        "country_code":"US",
+        "address":[
+          "6309 Kennedy Ave"
+        ],
+        "coordinate":{
+          "latitude":41.5989608764648,
+          "longitude":-87.4611587524414
+        },
+        "state_code":"IN"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/chilis-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":18,
+      "name":"Chili's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/chilis-chicago-3",
+      "is_closed":false,
+      "phone":"7732643611",
+      "snippet_text":"I get my food to go and usually pay $1.50 for enough food to feed six people. Gift cards love me! Certain meals do not look like the pictures. I tend to...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/V6kehaOJv04sE9CHZvRSfA/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-264-3611",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"chilis-chicago-3",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/tQD5ZVJYDgx3n4_ArKf32A/ms.jpg",
+      "location":{
+        "cross_streets":"Paulina St & Page St",
+        "city":"Chicago",
+        "display_address":[
+          "1750 W 119th St",
+          "Chicago, IL 60643"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60643",
+        "country_code":"US",
+        "address":[
+          "1750 W 119th St"
+        ],
+        "coordinate":{
+          "latitude":41.6775248944759,
+          "longitude":-87.6644202321768
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/tally-ho-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":3,
+      "name":"Tally Ho",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/tally-ho-chicago",
+      "is_closed":false,
+      "phone":"7088621656",
+      "snippet_text":"So I really don't recommend this place for anyone, just open minded good people who dont pass judgement.So stuck up yelpers who think they have standards....",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-708-862-1656",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"tally-ho-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/fDWiJIsPFPFT-6JcmQHRag/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "3000 E 138th Place",
+          "Chicago, IL 60633"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60633",
+        "country_code":"US",
+        "address":[
+          "3000 E 138th Place"
+        ],
+        "coordinate":{
+          "latitude":41.64378,
+          "longitude":-87.545135
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/pioneer-tap-hammond",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":4,
+      "name":"Pioneer Tap",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/pioneer-tap-hammond",
+      "is_closed":false,
+      "phone":"2198452413",
+      "snippet_text":"My most favorite bar ever! Best karaoke on Monday's and Wednesday's. Tuesday trivia! They recently started taking credit cards so that is grreeat!  Drinks...",
+      "categories":[
+        [
+          "Karaoke",
+          "karaoke"
+        ],
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-219-845-2413",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"pioneer-tap-hammond",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/A7q0GeU1SecrEv9weMftJg/ms.jpg",
+      "location":{
+        "city":"Hammond",
+        "display_address":[
+          "6826 Kennedy Ave",
+          "Hammond, IN 46323"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"46323",
+        "country_code":"US",
+        "address":[
+          "6826 Kennedy Ave"
+        ],
+        "coordinate":{
+          "latitude":41.5895385742188,
+          "longitude":-87.4619140625
+        },
+        "state_code":"IN"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.0,
+      "mobile_url":"http://m.yelp.com/biz/bobs-sunshine-inn-hammond",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png",
+      "review_count":2,
+      "name":"Bob's Sunshine Inn",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png",
+      "url":"http://www.yelp.com/biz/bobs-sunshine-inn-hammond",
+      "is_closed":false,
+      "phone":"2199330003",
+      "snippet_text":"I must admit, I was not all impressed of the exterior of the building. In fact, if there weren't any cars parked there I would of thought the place was out...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/5MrjxQi37k9TQwYe3rKLTA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Bed & Breakfast",
+          "bedbreakfast"
+        ]
+      ],
+      "display_phone":"+1-219-933-0003",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png",
+      "id":"bobs-sunshine-inn-hammond",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/AHmx5O4Hrw9cac7_uUGjdA/ms.jpg",
+      "location":{
+        "city":"Hammond",
+        "display_address":[
+          "715 Huehn St",
+          "Hammond, IN 46327"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"46327",
+        "country_code":"US",
+        "address":[
+          "715 Huehn St"
+        ],
+        "coordinate":{
+          "latitude":41.634014,
+          "longitude":-87.510376
+        },
+        "state_code":"IN"
+      }
+    }
+  ]
+}

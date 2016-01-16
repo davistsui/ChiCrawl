@@ -1,0 +1,1094 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.01897368000000199,
+      "longitude_delta":0.01762397999999621
+    },
+    "center":{
+      "latitude":41.8899371,
+      "longitude":-87.6294091
+    }
+  },
+  "total":1943,
+  "businesses":[
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/sidedoor-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":160,
+      "name":"SideDoor",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/sidedoor-chicago",
+      "is_closed":false,
+      "phone":"3127876768",
+      "snippet_text":"This review is actually based on two different visits! I travel often, and love to yelp to find my next meal, so it is rare that I return to a place when...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/G5r2kMAAKEBcztEmrY1pDA/ms.jpg",
+      "categories":[
+        [
+          "Gastropubs",
+          "gastropubs"
+        ]
+      ],
+      "display_phone":"+1-312-787-6768",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"sidedoor-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/bcK65HLqzMAsZcG9FhfShw/ms.jpg",
+      "location":{
+        "cross_streets":"E Ontario St & N Rush St",
+        "city":"Chicago",
+        "display_address":[
+          "100 E Ontario St",
+          "Near North Side",
+          "Chicago, IL 60611"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near North Side"
+        ],
+        "postal_code":"60611",
+        "country_code":"US",
+        "address":[
+          "100 E Ontario St"
+        ],
+        "coordinate":{
+          "latitude":41.893543,
+          "longitude":-87.625046
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/river-roast-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":129,
+      "name":"River Roast",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/river-roast-chicago-3",
+      "is_closed":false,
+      "id":"river-roast-chicago-3",
+      "phone":"3128220100",
+      "snippet_text":"Hands down best chicken I have had in the city and I have defiantly had a lot of chicken. Our family owns a chicken farm and we've had chefs prepare our...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/B7CaZRm0B04QmVtrGVNcUg/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Gastropubs",
+          "gastropubs"
+        ],
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ]
+      ],
+      "display_phone":"+1-312-822-0100",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1422423616,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Sh0GoanRE_UyYm1AzR9Ycg/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "315 N La Salle Dr",
+          "Near North Side",
+          "Chicago, IL 60654"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near North Side",
+          "River North"
+        ],
+        "postal_code":"60654",
+        "country_code":"US",
+        "address":[
+          "315 N La Salle Dr"
+        ],
+        "coordinate":{
+          "latitude":41.8879001147819,
+          "longitude":-87.6322498172522
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/jake-melnicks-corner-tap-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":626,
+      "name":"Jake Melnick's Corner Tap",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/jake-melnicks-corner-tap-chicago-2",
+      "is_closed":false,
+      "id":"jake-melnicks-corner-tap-chicago-2",
+      "phone":"3122660400",
+      "snippet_text":"So, after a week in China I told my man I needed some serious American food! He took me to Jake's for the March Madness Burger. I always thought of this...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/VpplEP-VtbxI4i6BpYAscg/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-312-266-0400",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1400872692,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/6kT9TH6W0oiAA-br1vq28Q/ms.jpg",
+      "location":{
+        "cross_streets":"Wabash Ave & Rush St",
+        "city":"Chicago",
+        "display_address":[
+          "41 E Superior St",
+          "Near North Side",
+          "Chicago, IL 60611"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near North Side"
+        ],
+        "postal_code":"60611",
+        "country_code":"US",
+        "address":[
+          "41 E Superior St"
+        ],
+        "coordinate":{
+          "latitude":41.8955265,
+          "longitude":-87.626528
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/headquarters-beercade-river-north-chicago-4",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":66,
+      "name":"Headquarters Beercade River North",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/headquarters-beercade-river-north-chicago-4",
+      "is_closed":false,
+      "phone":"3122918735",
+      "snippet_text":"Talk about blast from the past! My friends and I went on our annual Man Dinner last night at Wildfire, and then ended up here for a few drinks. I didn't...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/B4fvSiPax_pGmq9lF02Ssg/ms.jpg",
+      "categories":[
+        [
+          "Arcades",
+          "arcades"
+        ],
+        [
+          "Salad",
+          "salad"
+        ],
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ]
+      ],
+      "display_phone":"+1-312-291-8735",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"headquarters-beercade-river-north-chicago-4",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/uHxd9E23QVA3qnRWJNR97Q/ms.jpg",
+      "location":{
+        "cross_streets":"Franklin St & Wells St",
+        "city":"Chicago",
+        "display_address":[
+          "213 W Institute Pl",
+          "Near North Side",
+          "Chicago, IL 60610"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near North Side"
+        ],
+        "postal_code":"60610",
+        "country_code":"US",
+        "address":[
+          "213 W Institute Pl"
+        ],
+        "coordinate":{
+          "latitude":41.89719,
+          "longitude":-87.635208
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/streeters-tavern-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":175,
+      "name":"Streeter's Tavern",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/streeters-tavern-chicago-2",
+      "is_closed":false,
+      "phone":"3129445206",
+      "snippet_text":"I love Streeters! I walk past the location regularly, and never knew it existed. I was excited to discover the bar when one of my friends brought me here....",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/Utp_3Y_IwqRocoArUjTjPg/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-312-944-5206",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"streeters-tavern-chicago-2",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/jwE4r-Y_bC2NOtRpT5zsVA/ms.jpg",
+      "location":{
+        "cross_streets":"Wabash Ave & Rush St",
+        "city":"Chicago",
+        "display_address":[
+          "50 E Chicago Ave",
+          "Near North Side",
+          "Chicago, IL 60611"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near North Side"
+        ],
+        "postal_code":"60611",
+        "country_code":"US",
+        "address":[
+          "50 E Chicago Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8968133010677,
+          "longitude":-87.6259952814984
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/fado-irish-pub-and-restaurant-chicago-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":405,
+      "name":"Fado Irish Pub & Restaurant",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/fado-irish-pub-and-restaurant-chicago-2",
+      "is_closed":false,
+      "id":"fado-irish-pub-and-restaurant-chicago-2",
+      "phone":"3128360066",
+      "snippet_text":"Went on a Saturday night at about 10 pm. It was busy and continued to get packed as I stayed there. It's what I would call an American Irish Bar. I say that...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/SbXv4sWjG3Sij_tN9DxEAw/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Irish",
+          "irish"
+        ]
+      ],
+      "display_phone":"+1-312-836-0066",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387608193,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/DDlOQjKLLiLB0LiZctbLvA/ms.jpg",
+      "location":{
+        "cross_streets":"La Salle Dr & Clark St",
+        "city":"Chicago",
+        "display_address":[
+          "100 W Grand Ave",
+          "Near North Side",
+          "Chicago, IL 60610"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near North Side",
+          "River North"
+        ],
+        "postal_code":"60610",
+        "country_code":"US",
+        "address":[
+          "100 W Grand Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8917999,
+          "longitude":-87.6314468
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/disotto-enoteca-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":120,
+      "name":"DiSotto Enoteca",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/disotto-enoteca-chicago",
+      "is_closed":false,
+      "id":"disotto-enoteca-chicago",
+      "phone":"3124828727",
+      "snippet_text":"This review is long overdue.  I have to admit that we originally were planning to go to Francesca's upstairs, but luckily we stumbled upon this hidden...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/YcdaSwSDSAdFRohxvmuaCw/ms.jpg",
+      "categories":[
+        [
+          "Wine Bars",
+          "wine_bars"
+        ],
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Tapas/Small Plates",
+          "tapasmallplates"
+        ]
+      ],
+      "display_phone":"+1-312-482-8727",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387744585,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/2zWaf5w8nRhR91J6wrApBg/ms.jpg",
+      "location":{
+        "cross_streets":"Seneca St & Dewitt Pl",
+        "city":"Chicago",
+        "display_address":[
+          "200 E Chestnut St",
+          "Streeterville",
+          "Chicago, IL 60611"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Streeterville",
+          "Near North Side"
+        ],
+        "postal_code":"60611",
+        "country_code":"US",
+        "address":[
+          "200 E Chestnut St"
+        ],
+        "coordinate":{
+          "latitude":41.8986893,
+          "longitude":-87.6209717
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/blue-frogs-local-22-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":87,
+      "name":"Blue Frog's Local 22",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/blue-frogs-local-22-chicago-3",
+      "is_closed":false,
+      "phone":"3125271200",
+      "snippet_text":"This is beer heaven. Friendly, helpful, awesome bartenders. Did the 1871 Burger. It is great with a mild spicy kick. For those who do not try spicy, be...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/izglMulyo1LFJB613rKBmw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-312-527-1200",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"blue-frogs-local-22-chicago-3",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/lGUrSiu5LkA-awJqghkIjA/ms.jpg",
+      "location":{
+        "cross_streets":"Wabash Ave & State St",
+        "city":"Chicago",
+        "display_address":[
+          "22 E Hubbard St",
+          "Near North Side",
+          "Chicago, IL 60611"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near North Side"
+        ],
+        "postal_code":"60611",
+        "country_code":"US",
+        "address":[
+          "22 E Hubbard St"
+        ],
+        "coordinate":{
+          "latitude":41.8902092,
+          "longitude":-87.6274719
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/theory-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":341,
+      "name":"Theory",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/theory-chicago-2",
+      "is_closed":false,
+      "id":"theory-chicago-2",
+      "phone":"3126440004",
+      "snippet_text":"Came here on a Sunday night, alone. The vibe was super chill and they had a few TVs on showing different games AND the Oscars which was pretty cool. It...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/WLhqr70fayEN8Bt91L11tA/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-312-644-0004",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"locu",
+      "menu_date_updated":1423931555,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/5yTD34FOuLkYMVdWjL-i9g/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "9 W Hubbard St",
+          "Near North Side",
+          "Chicago, IL 60654"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near North Side"
+        ],
+        "postal_code":"60654",
+        "country_code":"US",
+        "address":[
+          "9 W Hubbard St"
+        ],
+        "coordinate":{
+          "latitude":41.8899748,
+          "longitude":-87.6286362
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/bridge-house-tavern-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":288,
+      "name":"Bridge House Tavern",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/bridge-house-tavern-chicago",
+      "is_closed":false,
+      "phone":"3126440283",
+      "snippet_text":"Saturday morning late February brunch...delicious!  I can't wait to return when the patio is open though.\n\n$5 Bloody Marys or Mimosas.  A menu of brunch...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/DWilEz1IFBWFOn0gGc38pw/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-312-644-0283",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"bridge-house-tavern-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/AjdSz0VX3yqMJB66yVrZgQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "321 N Clark St",
+          "Near North Side",
+          "Chicago, IL 60654"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near North Side"
+        ],
+        "postal_code":"60654",
+        "country_code":"US",
+        "address":[
+          "321 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.8882573395967,
+          "longitude":-87.6309717446566
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-gage-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1609,
+      "name":"The Gage",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-gage-chicago",
+      "is_closed":false,
+      "id":"the-gage-chicago",
+      "phone":"3123724243",
+      "snippet_text":"If you are a tourist in Chicago and looking for a lunch spot after checking out millennium park or the art museum, just stop now and go to The Gage.\n\nIf you...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/41IB_a9Ipjjgwn5RYDPIgA/ms.jpg",
+      "categories":[
+        [
+          "Gastropubs",
+          "gastropubs"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-312-372-4243",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"locu",
+      "menu_date_updated":1421785102,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/pgDi86faFKphy3M3hcAylw/ms.jpg",
+      "location":{
+        "cross_streets":"Madison St & Monroe St",
+        "city":"Chicago",
+        "display_address":[
+          "24 S Michigan Ave",
+          "The Loop",
+          "Chicago, IL 60603"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "The Loop"
+        ],
+        "postal_code":"60603",
+        "country_code":"US",
+        "address":[
+          "24 S Michigan Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8813781440258,
+          "longitude":-87.6245344430208
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/vinyl-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":67,
+      "name":"Vinyl",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/vinyl-chicago",
+      "is_closed":false,
+      "id":"vinyl-chicago",
+      "phone":"3122220222",
+      "snippet_text":"I went here during the summer with my manager and co-worker for a quick bite to eat before we went to EPIC across the street. \n\nThe main reason we chose...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/mt-63v6wBUrx4zsPvT386A/ms.jpg",
+      "categories":[
+        [
+          "Burgers",
+          "burgers"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-312-222-0222",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1416985219,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/WQdXouJClLCtUwqCgmYWkg/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "121 W Hubbard St",
+          "Near North Side",
+          "Chicago, IL 60654"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near North Side",
+          "River North"
+        ],
+        "postal_code":"60654",
+        "country_code":"US",
+        "address":[
+          "121 W Hubbard St"
+        ],
+        "coordinate":{
+          "latitude":41.889835,
+          "longitude":-87.632064
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/howells-and-hood-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":353,
+      "name":"Howells & Hood",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/howells-and-hood-chicago",
+      "is_closed":false,
+      "id":"howells-and-hood-chicago",
+      "phone":"3122625310",
+      "snippet_text":"Wow. Sunday brunch buffet is so frickin bomb. The brisket is one of the most tender I've had. chilaquilles are on point, crunchy tortillas that aren't too...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/DcBK7wkuGwv14DYTtSe2Ag/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-312-262-5310",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1416103085,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/86_ERzS9-YNNo1mryH9wNw/ms.jpg",
+      "location":{
+        "cross_streets":"Hubbard St & Illinois St",
+        "city":"Chicago",
+        "display_address":[
+          "435 N Michigan Ave",
+          "Near North Side",
+          "Chicago, IL 60611"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near North Side"
+        ],
+        "postal_code":"60611",
+        "country_code":"US",
+        "address":[
+          "435 N Michigan Ave"
+        ],
+        "coordinate":{
+          "latitude":41.890345,
+          "longitude":-87.623333
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-franklin-room-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":55,
+      "name":"The Franklin Room",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-franklin-room-chicago",
+      "is_closed":false,
+      "id":"the-franklin-room-chicago",
+      "phone":"3124454686",
+      "snippet_text":"Franklin Room, I am definitely a fan. \n\nFor starters, if there is one thing I can't get enough of, it's the bourbon bar. Well, any whisk(e)y bar to be...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/8zdc6u-faQwxa04slmy-Mw/ms.jpg",
+      "categories":[
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-312-445-4686",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1422023391,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/H8TL316bgbJlmRJQWe0vvQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "675 N Franklin St",
+          "Near North Side",
+          "Chicago, IL 60654"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near North Side",
+          "River North"
+        ],
+        "postal_code":"60654",
+        "country_code":"US",
+        "address":[
+          "675 N Franklin St"
+        ],
+        "coordinate":{
+          "latitude":41.8944615442319,
+          "longitude":-87.6355194300413
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/sweetwater-tavern-and-grille-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":519,
+      "name":"Sweetwater Tavern and Grille",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/sweetwater-tavern-and-grille-chicago",
+      "is_closed":false,
+      "id":"sweetwater-tavern-and-grille-chicago",
+      "phone":"3126987111",
+      "snippet_text":"In general, good burgers, fast served, good to watch sports, never waited for a table.\n\nThe rest of the sandwiches and soup of the day are good too. \n\nNice...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/m4boWne3n8d6nCvobpAWSA/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Gluten-Free",
+          "gluten_free"
+        ]
+      ],
+      "display_phone":"+1-312-698-7111",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1418943327,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/b3_kQCjLrvapFU2yV-7i9Q/ms.jpg",
+      "location":{
+        "cross_streets":"Lake St & Wacker Pl",
+        "city":"Chicago",
+        "display_address":[
+          "225 N Michigan Ave",
+          "The Loop",
+          "Chicago, IL 60601"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "The Loop"
+        ],
+        "postal_code":"60601",
+        "country_code":"US",
+        "address":[
+          "225 N Michigan Ave"
+        ],
+        "coordinate":{
+          "latitude":41.886616,
+          "longitude":-87.623972
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/travelle-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":75,
+      "name":"Travelle",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/travelle-chicago",
+      "is_closed":false,
+      "id":"travelle-chicago",
+      "phone":"3129237705",
+      "snippet_text":"A few of us stopped in here for drinks as part of our weekly \"Let's get cocktails at fancy hotel bars\" night. \n\nWe were seated almost immediately by a...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/m1JXJwmeRsttVuLCnMlXAw/ms.jpg",
+      "categories":[
+        [
+          "Mediterranean",
+          "mediterranean"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ],
+        [
+          "Wine Bars",
+          "wine_bars"
+        ]
+      ],
+      "display_phone":"+1-312-923-7705",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1405433609,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/UdUIwT1jZmyr9b-jlFR7sA/ms.jpg",
+      "location":{
+        "cross_streets":"Kinzie St",
+        "city":"Chicago",
+        "display_address":[
+          "330 N Wabash Ave",
+          "2nd Fl",
+          "Near North Side",
+          "Chicago, IL 60611"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near North Side"
+        ],
+        "postal_code":"60611",
+        "country_code":"US",
+        "address":[
+          "330 N Wabash Ave",
+          "2nd Fl"
+        ],
+        "coordinate":{
+          "latitude":41.8885745108128,
+          "longitude":-87.6272099465132
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/enolo-wine-cafe-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":89,
+      "name":"Enolo Wine Cafe",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/enolo-wine-cafe-chicago",
+      "is_closed":false,
+      "phone":"3124777674",
+      "snippet_text":"My bf and I were looking for a wine bar to grab a quick bite to eat and a have a few drinks before a movie- so glad we stopped here! \n\nWe went at 5 on a...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/osJiyvomb8fx1MM9WprO8w/ms.jpg",
+      "categories":[
+        [
+          "Wine Bars",
+          "wine_bars"
+        ],
+        [
+          "Tapas/Small Plates",
+          "tapasmallplates"
+        ],
+        [
+          "Cafes",
+          "cafes"
+        ]
+      ],
+      "display_phone":"+1-312-477-7674",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"enolo-wine-cafe-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/DiO7qEZl18GpN7pv_6pYbg/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "450 N Clark St",
+          "Near North Side",
+          "Chicago, IL 60654"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near North Side",
+          "River North"
+        ],
+        "postal_code":"60654",
+        "country_code":"US",
+        "address":[
+          "450 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.8906945040373,
+          "longitude":-87.6312950202378
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/52eighty-rooftop-lounge-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":13,
+      "name":"52Eighty Rooftop Lounge",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/52eighty-rooftop-lounge-chicago",
+      "is_closed":false,
+      "phone":"3127876000",
+      "snippet_text":"Love love love swanky places and this is a hidden rooftop gem.  I wish I would have known about this place before the cold front came in, but I will...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/_QW0bfqC20B2cCcI5dD5yg/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-312-787-6000",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"52eighty-rooftop-lounge-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/Oc0MRev8zy1mGjJpnI6Vpw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "MileNorth A Chicago Hotel",
+          "166 E Superior St",
+          "Near North Side",
+          "Chicago, IL 60611"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Near North Side",
+          "River East"
+        ],
+        "postal_code":"60611",
+        "country_code":"US",
+        "address":[
+          "MileNorth A Chicago Hotel",
+          "166 E Superior St"
+        ],
+        "coordinate":{
+          "latitude":41.8959451,
+          "longitude":-87.6227625
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/green-door-tavern-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":293,
+      "name":"Green Door Tavern",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/green-door-tavern-chicago",
+      "is_closed":false,
+      "id":"green-door-tavern-chicago",
+      "phone":"3126645496",
+      "snippet_text":"Definitely mine and my boyfriends favorite local bar to go to.  Very chill, causal atmosphere with friendly staff.  \n\nAs for the food and drinks: Wonderful...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/C6S3graR-O2elRq0w1rrEQ/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-312-664-5496",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1393240032,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/s3KKanlRyG1SQbDY-CkU1Q/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "678 N Orleans St",
+          "Near North Side",
+          "Chicago, IL 60654"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near North Side",
+          "River North"
+        ],
+        "postal_code":"60654",
+        "country_code":"US",
+        "address":[
+          "678 N Orleans St"
+        ],
+        "coordinate":{
+          "latitude":41.894622,
+          "longitude":-87.63742
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/bohemian-house-boho-chicago-3",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":160,
+      "name":"Bohemian House {BoHo}",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/bohemian-house-boho-chicago-3",
+      "is_closed":false,
+      "phone":"3129550439",
+      "snippet_text":"As they say in the old country, ausgezeichnet.\n\nFirst of all, we were about an hour late due to a flight delay and BoHo was super accommodating with the...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/cu8MmGuVUg6wGKfq9JpKNw/ms.jpg",
+      "categories":[
+        [
+          "Czech",
+          "czech"
+        ],
+        [
+          "German",
+          "german"
+        ],
+        [
+          "Austrian",
+          "austrian"
+        ]
+      ],
+      "display_phone":"+1-312-955-0439",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"bohemian-house-boho-chicago-3",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/pmJMpt5ZTX2Kx4Y9w0WOEw/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "11 W. Illinois",
+          "Near North Side",
+          "Chicago, IL 60654"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Near North Side"
+        ],
+        "postal_code":"60654",
+        "country_code":"US",
+        "address":[
+          "11 W. Illinois"
+        ],
+        "coordinate":{
+          "latitude":41.890644,
+          "longitude":-87.628501
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

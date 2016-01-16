@@ -1,0 +1,1005 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.08199048000000175,
+      "longitude_delta":0.13796078999999395
+    },
+    "center":{
+      "latitude":41.9729354,
+      "longitude":-87.74807645
+    }
+  },
+  "total":2654,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/ham-tree-inn-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":7,
+      "name":"Ham Tree Inn",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/ham-tree-inn-chicago",
+      "is_closed":false,
+      "phone":"7737922072",
+      "snippet_text":"This is my favorite bar in Jefferson Park, hands down.\n\nEvery year we throw our Christmas party here. The owners are very sweet, and even cooked for our...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/jNLzUBrqDRW5W9WgVSnefw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-792-2072",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"ham-tree-inn-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5333 N Milwaukee Ave",
+          "Jefferson Park",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Jefferson Park"
+        ],
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "5333 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9773979,
+          "longitude":-87.769104
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/bread-and-wine-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":230,
+      "name":"Bread & Wine",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/bread-and-wine-chicago",
+      "is_closed":false,
+      "id":"bread-and-wine-chicago",
+      "phone":"7738665266",
+      "snippet_text":"Such a small restaurant but with big flavor!  I feel like I will need to go back a number of times to really get a good read on the food.  For now I will...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/M2R-OgGzAeqSfRcHRjiosQ/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-773-866-5266",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1423809127,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/whZUfOYW2ZArgROpnKasmA/ms.jpg",
+      "location":{
+        "cross_streets":"Hamlin Ave & Ridgeway Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3732 W Irving Park Rd",
+          "Irving Park",
+          "Chicago, IL 60618"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Irving Park"
+        ],
+        "postal_code":"60618",
+        "country_code":"US",
+        "address":[
+          "3732 W Irving Park Rd"
+        ],
+        "coordinate":{
+          "latitude":41.9540482,
+          "longitude":-87.7216873
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/gather-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":257,
+      "name":"Gather",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/gather-chicago",
+      "is_closed":false,
+      "id":"gather-chicago",
+      "phone":"7735069300",
+      "snippet_text":"The best restaurant in the Lincoln Square neighborhood!  Great place for a date, a gathering, or to watch chef's prepare their masterpieces!\n\nService - As...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/G4IQq-dAM4LeEjQS0FVjUg/ms.jpg",
+      "categories":[
+        [
+          "Wine Bars",
+          "wine_bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-773-506-9300",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1400584385,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/g3cyRO1ch-Czxe8mIUeylw/ms.jpg",
+      "location":{
+        "cross_streets":"Sunnyside Ave & Wilson Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4539 N Lincoln Ave",
+          "Ravenswood",
+          "Chicago, IL 60625"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Ravenswood",
+          "Lincoln Square"
+        ],
+        "postal_code":"60625",
+        "country_code":"US",
+        "address":[
+          "4539 N Lincoln Ave"
+        ],
+        "coordinate":{
+          "latitude":41.964348,
+          "longitude":-87.685364
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/l-woods-tap-and-pine-lodge-lincolnwood",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":450,
+      "name":"L. Woods Tap & Pine Lodge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/l-woods-tap-and-pine-lodge-lincolnwood",
+      "is_closed":false,
+      "id":"l-woods-tap-and-pine-lodge-lincolnwood",
+      "phone":"8476773350",
+      "snippet_text":"I enjoyed this place. I recommend it.\nI went here with a date on a Thursday night.  Even though we were a few minutes late for our reservation time, and the...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/NENoe4BU08KA6K5f20k0gA/ms.jpg",
+      "categories":[
+        [
+          "Barbeque",
+          "bbq"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-847-677-3350",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1424900639,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/B-hvAlOFiwEnS9nVFt3fGA/ms.jpg",
+      "location":{
+        "cross_streets":"Kostner Ave & Tripp Ave",
+        "city":"Lincolnwood",
+        "display_address":[
+          "7110 N Lincoln Ave",
+          "Lincolnwood, IL 60712"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60712",
+        "country_code":"US",
+        "address":[
+          "7110 N Lincoln Ave"
+        ],
+        "coordinate":{
+          "latitude":42.010078,
+          "longitude":-87.737839
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-red-lion-lincoln-square-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":95,
+      "name":"The Red Lion Lincoln Square",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-red-lion-lincoln-square-chicago",
+      "is_closed":false,
+      "phone":"7736541341",
+      "snippet_text":"We took my English expat husband here for his birthday and they treated him like a king. He said this was the closest thing to a typical English pub he's...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/3w48sli41MrLM4L4AM8VNg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "British",
+          "british"
+        ]
+      ],
+      "display_phone":"+1-773-654-1341",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-red-lion-lincoln-square-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/4mC3YB0qihhYUibdHH90pQ/ms.jpg",
+      "location":{
+        "cross_streets":"Leland Ave & Lawrence Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4749 N Rockwell St",
+          "Ravenswood",
+          "Chicago, IL 60625"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Ravenswood",
+          "Lincoln Square"
+        ],
+        "postal_code":"60625",
+        "country_code":"US",
+        "address":[
+          "4749 N Rockwell St"
+        ],
+        "coordinate":{
+          "latitude":41.9678699970245,
+          "longitude":-87.6936925202608
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/atlantic-bar-and-grill-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":108,
+      "name":"Atlantic Bar & Grill",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/atlantic-bar-and-grill-chicago",
+      "is_closed":false,
+      "id":"atlantic-bar-and-grill-chicago",
+      "phone":"7735067090",
+      "snippet_text":"The food is great and the owner and staff couldn't be any nicer. But, I never see any review about their entertainment!\n\nWe swing by nearly every Friday...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/Mw0Haz-rP1kBXk1equE1kw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-506-7090",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387631797,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/ZSamr3v3Dyvn62QIFGwFfQ/ms.jpg",
+      "location":{
+        "cross_streets":"Winnemac Ave & Carmen Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5062 N Lincoln Ave",
+          "Lincoln Square",
+          "Chicago, IL 60625"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lincoln Square"
+        ],
+        "postal_code":"60625",
+        "country_code":"US",
+        "address":[
+          "5062 N Lincoln Ave"
+        ],
+        "coordinate":{
+          "latitude":41.973362,
+          "longitude":-87.691971
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/brigadoon-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":9,
+      "name":"Brigadoon",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/brigadoon-chicago",
+      "is_closed":false,
+      "phone":"7737772403",
+      "snippet_text":"Yea this bar is a great dive bar great staff and a young  really good looking bar back lol",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-777-2403",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"brigadoon-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5748 W Lawrence Ave",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "5748 W Lawrence Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9679794,
+          "longitude":-87.7716522
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/mcm-pub-and-eatery-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":11,
+      "name":"MCM Pub and Eatery",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/mcm-pub-and-eatery-chicago",
+      "is_closed":false,
+      "phone":"7737362644",
+      "snippet_text":"MCM Pub is a pretty cool place.  A liquor store, bar and a restaurant.  \n\nMy first visit here included a friendly greeting from the cashier and a comment on...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/2MFl6vjj_kOUmyClaGBCTA/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-736-2644",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"mcm-pub-and-eatery-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/uCjMncoM7TCo7He0ebZGvg/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "3906 N Cicero Ave",
+          "Portage Park",
+          "Chicago, IL 60689"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Portage Park"
+        ],
+        "postal_code":"60689",
+        "country_code":"US",
+        "address":[
+          "3906 N Cicero Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9519309997559,
+          "longitude":-87.7476577758789
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/mia-figlia-chicago-3",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":152,
+      "name":"Mia Figlia",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/mia-figlia-chicago-3",
+      "is_closed":false,
+      "id":"mia-figlia-chicago-3",
+      "phone":"7737928300",
+      "snippet_text":"Really enjoy this place! Close to the burbs which is helpful for us individuals longing for better, non-chain food options.\n\nMy favorite thing was the...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/u39ObUDXYs1unwbJ7nwzdA/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ]
+      ],
+      "display_phone":"+1-773-792-8300",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1416281876,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/4-Z6e0ZHdXakdRmOpm6gIQ/ms.jpg",
+      "location":{
+        "cross_streets":"Minnehaha Ave & Spokane Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5304 W Devon Ave",
+          "Forest Glen",
+          "Chicago, IL 60646"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Forest Glen"
+        ],
+        "postal_code":"60646",
+        "country_code":"US",
+        "address":[
+          "5304 W Devon Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9976311,
+          "longitude":-87.7609482
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/three-counties-irish-pub-chicago-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":7,
+      "name":"Three Counties Irish Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/three-counties-irish-pub-chicago-2",
+      "is_closed":false,
+      "phone":"7736313351",
+      "snippet_text":"I can't believe I've been a Chicagoan my whole life and never been here. If you're looking for a northside bar that won't disappoint, skip Moretti's, skip...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/skYaOU8sZVpHM6g2aXS8HQ/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-631-3351",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"three-counties-irish-pub-chicago-2",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/bRZ-FzWT5VLwtAlHBhzAvA/ms.jpg",
+      "location":{
+        "cross_streets":"Moody Ave & Medina Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5856 N Milwaukee Ave",
+          "Norwood Park",
+          "Chicago, IL 60646"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60646",
+        "country_code":"US",
+        "address":[
+          "5856 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.987983,
+          "longitude":-87.779459
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/jets-public-house-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":39,
+      "name":"Jet's Public House",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/jets-public-house-chicago",
+      "is_closed":false,
+      "phone":"7737922440",
+      "snippet_text":"Best neighborhood bar!  The food is great, the atmosphere is so comfortable, and the prices are low!  I not only go as a customer, but I have also had a...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/GkwieM9N-pliVkUT6_Yxrw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-792-2440",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"jets-public-house-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/3h18jCFNoPgQvIu4YBH16g/ms.jpg",
+      "location":{
+        "cross_streets":"Hyacinth St & Huntington St",
+        "city":"Chicago",
+        "display_address":[
+          "6148 N Milwaukee Ave",
+          "Norwood Park",
+          "Chicago, IL 60646"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Norwood Park"
+        ],
+        "postal_code":"60646",
+        "country_code":"US",
+        "address":[
+          "6148 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.993267,
+          "longitude":-87.784439
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/nite-cap-lounge-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":18,
+      "name":"Nite Cap Lounge",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/nite-cap-lounge-chicago-2",
+      "is_closed":false,
+      "phone":"7732828654",
+      "snippet_text":"Great place.  The owner, Dave, is a great guy.  Every 1st Mon of the month, they have a burlesque fetish show with hooks and bdsm acts for NO COVER....",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/AVakYyBs-LCqBA_bH9Hyag/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-773-282-8654",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"nite-cap-lounge-chicago-2",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/me7BPid1CRMcOGc44Y_2fA/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "5007 W Irving Pk Rd",
+          "Portage Park",
+          "Chicago, IL 60641"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Portage Park"
+        ],
+        "postal_code":"60641",
+        "country_code":"US",
+        "address":[
+          "5007 W Irving Pk Rd"
+        ],
+        "coordinate":{
+          "latitude":41.953053,
+          "longitude":-87.752609
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/mirabell-restaurant-and-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":155,
+      "name":"Mirabell Restaurant & Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/mirabell-restaurant-and-lounge-chicago",
+      "is_closed":false,
+      "id":"mirabell-restaurant-and-lounge-chicago",
+      "phone":"7734631962",
+      "snippet_text":"Started out with the 4 sampler for all the excellent German beers on tap.  Next it was time to eat.  I ordered the liver dumpling soup and goulash.  The...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/vt8bERAkKqZx-M2hAcASUQ/ms.jpg",
+      "categories":[
+        [
+          "German",
+          "german"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-463-1962",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1406972214,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/BslLyHfVrBLGcnnTR8lc4w/ms.jpg",
+      "location":{
+        "cross_streets":"St Louis Ave & Bernard St",
+        "city":"Chicago",
+        "display_address":[
+          "3454 W Addison St",
+          "Irving Park",
+          "Chicago, IL 60618"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Irving Park"
+        ],
+        "postal_code":"60618",
+        "country_code":"US",
+        "address":[
+          "3454 W Addison St"
+        ],
+        "coordinate":{
+          "latitude":41.9466782,
+          "longitude":-87.7148132
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/smallbar-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":233,
+      "name":"SmallBar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/smallbar-chicago",
+      "is_closed":false,
+      "phone":"7735099888",
+      "snippet_text":"My neighborhood bar--I'm slightly biased. I come for the Thursday night wing special.  Quality wings for .75. I remember when they were .50. But still good...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/_Oau4YkWUGIMr_beRu42QA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-509-9888",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"smallbar-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/T6UGRWYqAFXsXoaPrdxahg/ms.jpg",
+      "location":{
+        "cross_streets":"George St & Wellington Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2956 N Albany Ave",
+          "Avondale",
+          "Chicago, IL 60618"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Avondale"
+        ],
+        "postal_code":"60618",
+        "country_code":"US",
+        "address":[
+          "2956 N Albany Ave"
+        ],
+        "coordinate":{
+          "latitude":41.935667,
+          "longitude":-87.705441
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/city-tap-and-grill-norridge",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":52,
+      "name":"City Tap & Grill",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/city-tap-and-grill-norridge",
+      "is_closed":false,
+      "id":"city-tap-and-grill-norridge",
+      "phone":"7083955459",
+      "snippet_text":"First time trying out this place and it was great! Heard from friends that the food was great so I had to try it my self, first off the atmosphere is very...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/IJCZ_XGLstdQmsdr8JtpxQ/ms.jpg",
+      "categories":[
+        [
+          "Burgers",
+          "burgers"
+        ],
+        [
+          "Sandwiches",
+          "sandwiches"
+        ],
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-708-395-5459",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1415949920,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/dS44Ot_26kXR84dF0e-riw/ms.jpg",
+      "location":{
+        "cross_streets":"Forest Preserve Dr & Odell Ave",
+        "city":"Norridge",
+        "display_address":[
+          "7320 W Irving Park Rd",
+          "Dunning",
+          "Norridge, IL 60706"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Dunning"
+        ],
+        "postal_code":"60706",
+        "country_code":"US",
+        "address":[
+          "7320 W Irving Park Rd"
+        ],
+        "coordinate":{
+          "latitude":41.952971,
+          "longitude":-87.8107859
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/joe-es-unforgettable-lounge-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":24,
+      "name":"Joe E's Unforgettable Lounge",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/joe-es-unforgettable-lounge-chicago",
+      "is_closed":false,
+      "phone":"7732833422",
+      "snippet_text":"Drunken late night pool escapades become a reality at this place. Come thru to get wasted and stare creepily at bartenders. I have been wanting to come here...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/iCZnBXSIfS27zu8j-XJZcw/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-283-3422",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"joe-es-unforgettable-lounge-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/q6Ob1m9MOEGXFJo8BlH6YA/ms.jpg",
+      "location":{
+        "cross_streets":"Keeler Ave & Tripp Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4206 W Irving Park Rd",
+          "Irving Park",
+          "Chicago, IL 60641"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Irving Park"
+        ],
+        "postal_code":"60641",
+        "country_code":"US",
+        "address":[
+          "4206 W Irving Park Rd"
+        ],
+        "coordinate":{
+          "latitude":41.953914642334,
+          "longitude":-87.733024597168
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/tortugas-cantina-restaurant-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":11,
+      "name":"Tortugas Cantina Restaurant",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/tortugas-cantina-restaurant-chicago",
+      "is_closed":false,
+      "phone":"7739618414",
+      "snippet_text":"This place place opened about a year ago and I've been here a couple of times a month.\nEvery time I come here I taste diferent choices from their extense...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/Dt3QHk8NZ4yoQi4xNrTSPg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Latin American",
+          "latin"
+        ]
+      ],
+      "display_phone":"+1-773-961-8414",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"tortugas-cantina-restaurant-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Sawyer Ave & Kedzie Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3224 W Lawrence Ave",
+          "Albany Park",
+          "Chicago, IL 60625"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Albany Park"
+        ],
+        "postal_code":"60625",
+        "country_code":"US",
+        "address":[
+          "3224 W Lawrence Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9685745,
+          "longitude":-87.7094421
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/o-donnells-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":8,
+      "name":"O'Donnell's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/o-donnells-chicago",
+      "is_closed":false,
+      "phone":"7732820813",
+      "snippet_text":"When I first walked in I wondered if we walked into an American Legion by accident as there were 7 middle aged + men sitting scattered around the horseshoe...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/9y64AKFIikeLe9KgmmoBxQ/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-282-0813",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"o-donnells-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/feISrDrGfg8QfakU4rUe7g/ms.jpg",
+      "location":{
+        "cross_streets":"Keeler Ave & Kennicott Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4500 N Elston Ave",
+          "Irving Park",
+          "Chicago, IL 60630"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Irving Park"
+        ],
+        "postal_code":"60630",
+        "country_code":"US",
+        "address":[
+          "4500 N Elston Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9623870849609,
+          "longitude":-87.7323150634766
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-grafton-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":398,
+      "name":"The Grafton",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-grafton-chicago",
+      "is_closed":false,
+      "id":"the-grafton-chicago",
+      "phone":"7732719000",
+      "snippet_text":"I come here very often, it's a great little neighborhood bar and has a FIREPLACE so you can't really beat that. Draft selections are good and updated...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/4BsfrLbthi0X7e3T11qGXg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Irish",
+          "irish"
+        ]
+      ],
+      "display_phone":"+1-773-271-9000",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1402902865,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/Zhn0yFbZAhmQp3hGYS3qiA/ms.jpg",
+      "location":{
+        "cross_streets":"Sunnyside Ave & Wilson Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4530 N Lincoln Ave",
+          "Ravenswood",
+          "Chicago, IL 60625"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Ravenswood",
+          "Lincoln Square"
+        ],
+        "postal_code":"60625",
+        "country_code":"US",
+        "address":[
+          "4530 N Lincoln Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9639282,
+          "longitude":-87.6858673
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/live-wire-lounge-chicago-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":25,
+      "name":"Live Wire Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/live-wire-lounge-chicago-2",
+      "is_closed":false,
+      "phone":"7737565363",
+      "snippet_text":"Neat venue in Irving Park on a desolate strip of N Milwaukee. So unless you're coming to this place (or to get some mini blinds at the store across the...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/tmZAe40sWJCxupjGwSaeog/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-773-756-5363",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"live-wire-lounge-chicago-2",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/fqt5s0Em_s3vcj8ueZibGg/ms.jpg",
+      "location":{
+        "cross_streets":"Karlov Ave & Kedvale Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3394 N Milwaukee Ave",
+          "Irving Park",
+          "Chicago, IL 60641"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Irving Park"
+        ],
+        "postal_code":"60641",
+        "country_code":"US",
+        "address":[
+          "3394 N Milwaukee Ave"
+        ],
+        "coordinate":{
+          "latitude":41.942822,
+          "longitude":-87.730415
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

@@ -1,0 +1,949 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.07658112000000017,
+      "longitude_delta":0.11360492000000022
+    },
+    "center":{
+      "latitude":41.885076600000005,
+      "longitude":-87.7485696
+    }
+  },
+  "total":158,
+  "businesses":[
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/squirrely-shirley-cicero",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":1,
+      "name":"Squirrely Shirley",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/squirrely-shirley-cicero",
+      "is_closed":false,
+      "phone":"7082223750",
+      "snippet_text":"A small dive bar in Cicero. Pretty hot looking hispanic bartender and the bar seems to be mostly Spanish on the night I went with peoplenspeaking both...",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-708-222-3750",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"squirrely-shirley-cicero",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/QUv1kpz92Q4VkrnCqPbUbQ/ms.jpg",
+      "location":{
+        "cross_streets":"57th Ave & 56th Ct",
+        "city":"Cicero",
+        "display_address":[
+          "5643 W Cermak Rd",
+          "Cicero, IL 60804"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60804",
+        "country_code":"US",
+        "address":[
+          "5643 W Cermak Rd"
+        ],
+        "coordinate":{
+          "latitude":41.850616,
+          "longitude":-87.765991
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/als-italian-restaurant-banquets-and-pizzeria-cicero",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":94,
+      "name":"Al's Italian Restaurant Banquets & Pizzeria",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/als-italian-restaurant-banquets-and-pizzeria-cicero",
+      "is_closed":false,
+      "id":"als-italian-restaurant-banquets-and-pizzeria-cicero",
+      "phone":"7086561060",
+      "snippet_text":"I'm a guy who is VERY PICKY about my Pasta. I'm 100% Italian (actually mostly Sicilian) when I say I'm Picky I mean it. This place has the best Pasta! I...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/Lp9uvshi5o42FMY5QRETuA/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-708-656-1060",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1413549213,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/E0GSoGs0T-UMJ5hEhKDxvg/ms.jpg",
+      "location":{
+        "city":"Cicero",
+        "display_address":[
+          "6050 W Cermak Rd",
+          "Cicero, IL 60804"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60804",
+        "country_code":"US",
+        "address":[
+          "6050 W Cermak Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8511887,
+          "longitude":-87.7760162
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/la-espa%C3%B1ola-tapas-berwyn-2",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":83,
+      "name":"La Espa\u00f1ola Tapas",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/la-espa%C3%B1ola-tapas-berwyn-2",
+      "is_closed":false,
+      "id":"la-espa\u00f1ola-tapas-berwyn-2",
+      "phone":"7087887400",
+      "snippet_text":"I am not sure why this place got so many bad reviews. I have always liked it.  It is a good neighborhood spot where you can get some good tapas and a quick...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/k5Odnn58grzo6P3w3y6T_A/ms.jpg",
+      "categories":[
+        [
+          "Spanish",
+          "spanish"
+        ],
+        [
+          "Tapas Bars",
+          "tapas"
+        ]
+      ],
+      "display_phone":"+1-708-788-7400",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387643832,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/d54AP39UREIK6AmSj8SG_w/ms.jpg",
+      "location":{
+        "cross_streets":"East Ave & Scoville Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6543 Cermak Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6543 Cermak Rd"
+        ],
+        "coordinate":{
+          "latitude":41.850266,
+          "longitude":-87.788033
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/skylark-lounge-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":1,
+      "name":"Skylark Lounge",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/skylark-lounge-chicago",
+      "is_closed":false,
+      "phone":"7735229352",
+      "snippet_text":"I happen to drive lots coming from Roger's Park down to Garfield Ridge. As I curse myself for never moving more north, I try to find shortcuts. Well,...",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-773-522-9352",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"skylark-lounge-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/ZV3imyp29jL37AKT9q31Rw/ms.jpg",
+      "location":{
+        "cross_streets":"Pulaski Rd & Kedvale Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4007 W. Ogden",
+          "Lawndale",
+          "Chicago, IL 60623"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lawndale"
+        ],
+        "postal_code":"60623",
+        "country_code":"US",
+        "address":[
+          "4007 W. Ogden"
+        ],
+        "coordinate":{
+          "latitude":41.8506660461426,
+          "longitude":-87.7250900268555
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/paparazzi-berwyn",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":2,
+      "name":"Paparazzi",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/paparazzi-berwyn",
+      "is_closed":false,
+      "phone":"7087959000",
+      "snippet_text":"I had been searching for my \"go-to\" neighborhood spot and I think I may have found it in Paparazzi!\n\nThis place just opened 4 weeks ago according to the...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/CW_l-GHxhoFDkgWu5RClRQ/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-708-795-9000",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "id":"paparazzi-berwyn",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/6RDAf_M5vMWXMclayq81kQ/ms.jpg",
+      "location":{
+        "cross_streets":"Clinton Ave & Kenilworth Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6907 W Roosevelt Rd",
+          "Berwyn, IL 60304"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60304",
+        "country_code":"US",
+        "address":[
+          "6907 W Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8649711608887,
+          "longitude":-87.7969207763672
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/uncle-mikes-sports-bar-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"Uncle Mikes Sports Bar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/uncle-mikes-sports-bar-chicago",
+      "is_closed":false,
+      "phone":"7732631257",
+      "snippet_text":"Some day, a Logan Square hipster whose nose for craft beer is as a bloodhound's for deer will cross the tracks and realize that they have Revolution...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/ccHNR78DRDe42ITJo2xk5g/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-263-1257",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"uncle-mikes-sports-bar-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/XcDjfsl0aPjO6snqFPhmnQ/ms.jpg",
+      "location":{
+        "cross_streets":"Pulaski Rd & Keystone Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4010 W Armitage Ave",
+          "Hermosa",
+          "Chicago, IL 60639"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Hermosa"
+        ],
+        "postal_code":"60639",
+        "country_code":"US",
+        "address":[
+          "4010 W Armitage Ave"
+        ],
+        "coordinate":{
+          "latitude":41.917429,
+          "longitude":-87.727053
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":5.0,
+      "mobile_url":"http://m.yelp.com/biz/string-theory-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count":6,
+      "name":"String Theory",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url":"http://www.yelp.com/biz/string-theory-chicago",
+      "is_closed":false,
+      "phone":"7732783467",
+      "snippet_text":"String Theory played at our wedding reception and cocktail hour.  They were amazing!!  This is a very talented group, perfect for such an important, special...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/cQpQJdFakfc6gSFhHeoOww/ms.jpg",
+      "categories":[
+        [
+          "DJs",
+          "djs"
+        ],
+        [
+          "Performing Arts",
+          "theater"
+        ]
+      ],
+      "display_phone":"+1-773-278-3467",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id":"string-theory-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/AzsfZedDzQAfzTYXPpmMRg/ms.jpg",
+      "location":{
+        "cross_streets":"Francis Pl & Mc Lean Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2023 N California",
+          "Ste A2",
+          "Logan Square",
+          "Chicago, IL 60647"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Logan Square"
+        ],
+        "postal_code":"60647",
+        "country_code":"US",
+        "address":[
+          "2023 N California",
+          "Ste A2"
+        ],
+        "coordinate":{
+          "latitude":41.918384552002,
+          "longitude":-87.6969299316406
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/steves-sports-bar-and-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"Steve's Sports Bar & Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/steves-sports-bar-and-lounge-chicago",
+      "is_closed":false,
+      "phone":"7733842778",
+      "snippet_text":"I'd seen this bar before, because it's only a drunken winter's night stumble down the street from my abode. But I never ventured in\n because of the infamous...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/2AZ_EXG4OtpcOr2q71ysGA/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Dance Clubs",
+          "danceclubs"
+        ]
+      ],
+      "display_phone":"+1-773-384-2778",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"steves-sports-bar-and-lounge-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/xRF6q0c6aXxNr9CQhFSVFw/ms.jpg",
+      "location":{
+        "cross_streets":"Central Park Ave & St Louis Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3524 W North Ave",
+          "Humboldt Park",
+          "Chicago, IL 60647"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Humboldt Park"
+        ],
+        "postal_code":"60647",
+        "country_code":"US",
+        "address":[
+          "3524 W North Ave"
+        ],
+        "coordinate":{
+          "latitude":41.910358,
+          "longitude":-87.715195
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/la-posada-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"La Posada Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/la-posada-lounge-chicago",
+      "is_closed":false,
+      "phone":"7732271816",
+      "snippet_text":"The rough exterior of La Posada- a patchwork of wood shingle, painted-over graffiti, iron window grates, and promotional beer banners- calls to mind a bare...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/03Ad9mgTZ6ZcJNAT70Ug1w/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-227-1816",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"la-posada-lounge-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/XcDjfsl0aPjO6snqFPhmnQ/ms.jpg",
+      "location":{
+        "cross_streets":"Karlov Ave & Keystone Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4059 W Armitage Ave",
+          "Hermosa",
+          "Chicago, IL 60639"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hermosa"
+        ],
+        "postal_code":"60639",
+        "country_code":"US",
+        "address":[
+          "4059 W Armitage Ave"
+        ],
+        "coordinate":{
+          "latitude":41.916862,
+          "longitude":-87.72876
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/bodhi-thai-bistro-berwyn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":161,
+      "name":"Bodhi Thai Bistro",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/bodhi-thai-bistro-berwyn",
+      "is_closed":false,
+      "phone":"7084849250",
+      "snippet_text":"I have visited this restaurant over the last 6-7 months and the service and food is perfect every time. I always order the spicy Pad-khee-Mao (delicious!)\nI...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/IR40OdtZW53HkO14buZAaw/ms.jpg",
+      "categories":[
+        [
+          "Thai",
+          "thai"
+        ]
+      ],
+      "display_phone":"+1-708-484-9250",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"bodhi-thai-bistro-berwyn",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Ysb-XQ8L-XsuGJE8Ta-RDA/ms.jpg",
+      "location":{
+        "cross_streets":"Harvey Ave & Lombard Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6211 Roosevelt Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6211 Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.865124,
+          "longitude":-87.779655
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/albanos-pizzeria-cicero",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":71,
+      "name":"Albano's Pizzeria",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/albanos-pizzeria-cicero",
+      "is_closed":false,
+      "id":"albanos-pizzeria-cicero",
+      "phone":"7088630060",
+      "snippet_text":"The five stars is solely for the amazing Pizza Puff. Think of it as a gargantuan calzone (I ate 1/3 of it there, brought the remainder home, and the weight...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/h6lr72HPk92bAGd5IE3Dsw/ms.jpg",
+      "categories":[
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-708-863-0060",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387914732,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/HBVcceHjQWUNQVw3G0QpzA/ms.jpg",
+      "location":{
+        "city":"Cicero",
+        "display_address":[
+          "5913 W Roosevelt Rd",
+          "Cicero, IL 60804"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60804",
+        "country_code":"US",
+        "address":[
+          "5913 W Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.865222,
+          "longitude":-87.77227
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/mr-dees-12th-street-rag-berwyn",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":3,
+      "name":"Mr. Dees 12th Street Rag",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/mr-dees-12th-street-rag-berwyn",
+      "is_closed":false,
+      "phone":"7087494090",
+      "snippet_text":"This bar is a class act. Located right in Berwyn nextdoor to Big Guys Sausage Stand and across from the Jewel on Roosevelt Road.\n\nThe staff is personable....",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/_nzAM9klg5xOqr2GkDf5YQ/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-708-749-4090",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"mr-dees-12th-street-rag-berwyn",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/28_qkX9TVk2QAMGodtnpDg/ms.jpg",
+      "location":{
+        "cross_streets":"Home Ave & Wenonah Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "7023 W Roosevelt Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "7023 W Roosevelt Rd"
+        ],
+        "coordinate":{
+          "latitude":41.864777,
+          "longitude":-87.800087
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/las-islas-marias-chicago-3",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":19,
+      "name":"Las Islas Marias",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/las-islas-marias-chicago-3",
+      "is_closed":false,
+      "phone":"7736378233",
+      "snippet_text":"They have the best shrimp soup in the city! I've tried many other places and this spot here is above all. After you try it you will not like any other place.",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/-QnoiLyaFuVjBm_RURhw7w/ms.jpg",
+      "categories":[
+        [
+          "Mexican",
+          "mexican"
+        ],
+        [
+          "Seafood",
+          "seafood"
+        ]
+      ],
+      "display_phone":"+1-773-637-8233",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"las-islas-marias-chicago-3",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/ILGvamI6OWIrzhBc-cuIvA/ms.jpg",
+      "location":{
+        "cross_streets":"Keating Ave & Illinois Route 50",
+        "city":"Chicago",
+        "display_address":[
+          "4770 W Grand Ave",
+          "Humboldt Park",
+          "Chicago, IL 60639"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Humboldt Park"
+        ],
+        "postal_code":"60639",
+        "country_code":"US",
+        "address":[
+          "4770 W Grand Ave"
+        ],
+        "coordinate":{
+          "latitude":41.913748383522,
+          "longitude":-87.7454008162022
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/eyrie-oak-park-2",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":25,
+      "name":"Eyrie",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/eyrie-oak-park-2",
+      "is_closed":false,
+      "id":"eyrie-oak-park-2",
+      "phone":"7087638380",
+      "snippet_text":"I'm a culinary student at COD in Glen Ellyn, so I came out here to check out the competition! The food and ambiance were lovely. I have never been...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/lPeR8-JR4XNO8A_xeYNaAg/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-708-763-8380",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1425094672,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/zatmwqBnKpxkCo7xjs_wFg/ms.jpg",
+      "location":{
+        "cross_streets":"Pleasant St & South Blvd",
+        "city":"Oak Park",
+        "display_address":[
+          "128 N Oak Park Ave",
+          "Oak Park, IL 60302"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60302",
+        "country_code":"US",
+        "address":[
+          "128 N Oak Park Ave"
+        ],
+        "coordinate":{
+          "latitude":41.8882238119841,
+          "longitude":-87.7944369614124
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/sushi-junki-berwyn",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":65,
+      "name":"Sushi Junki",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/sushi-junki-berwyn",
+      "is_closed":false,
+      "phone":"7087883888",
+      "snippet_text":"This place is perfect for the suburbs. Great prices, huge menu, nice atmosphere, great rolls. Me and my wife have been multiple times with no disappointment...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/MXEzzeydrPlqXskvxT4gLw/ms.jpg",
+      "categories":[
+        [
+          "Sushi Bars",
+          "sushi"
+        ],
+        [
+          "Japanese",
+          "japanese"
+        ],
+        [
+          "Thai",
+          "thai"
+        ]
+      ],
+      "display_phone":"+1-708-788-3888",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"sushi-junki-berwyn",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/JCh0to64xGvBGLScq4dY-Q/ms.jpg",
+      "location":{
+        "cross_streets":"Clarence Ave & Wesley Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6639 W Roosevelt",
+          "Berwyn, IL 60304"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60304",
+        "country_code":"US",
+        "address":[
+          "6639 W Roosevelt"
+        ],
+        "coordinate":{
+          "latitude":41.864937,
+          "longitude":-87.790932
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/connie-and-johnnys-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":1,
+      "name":"Connie and Johnny's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/connie-and-johnnys-chicago",
+      "is_closed":false,
+      "snippet_text":"This is the best place to stop on the way to Alcoholics Anonymous next door at 3753 Armitage, and maybe give moderate drinking one last \"shot,\" so to...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/7BZySPDATGKIPcrIvj_8Gw/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"connie-and-johnnys-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/XcDjfsl0aPjO6snqFPhmnQ/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "3745 W Armitage",
+          "Logan Square",
+          "Chicago, IL 60647"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Logan Square"
+        ],
+        "postal_code":"60647",
+        "country_code":"US",
+        "address":[
+          "3745 W Armitage"
+        ],
+        "coordinate":{
+          "latitude":41.916972,
+          "longitude":-87.721048
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/taqueria-poncitlan-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":16,
+      "name":"Taqueria Poncitlan",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/taqueria-poncitlan-chicago",
+      "is_closed":false,
+      "id":"taqueria-poncitlan-chicago",
+      "phone":"7734861424",
+      "snippet_text":"Been here a few times and love it. I think their Horchata is second best (first is Atotonilco) but their tacos are spot on.  I recommend this place to anyone.",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/6vd6Dj3oc5IPlXVFjcA7GQ/ms.jpg",
+      "categories":[
+        [
+          "Mexican",
+          "mexican"
+        ]
+      ],
+      "display_phone":"+1-773-486-1424",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1417150689,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/CgTMOgu3AxMu6G0h2brTyQ/ms.jpg",
+      "location":{
+        "cross_streets":"Keeler Ave & Kedvale Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4158 W Armitage Ave",
+          "Hermosa",
+          "Chicago, IL 60639"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Hermosa"
+        ],
+        "postal_code":"60639",
+        "country_code":"US",
+        "address":[
+          "4158 W Armitage Ave"
+        ],
+        "coordinate":{
+          "latitude":41.917377,
+          "longitude":-87.731247
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/guadalajara-grill-and-bar-berwyn",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":6,
+      "name":"Guadalajara Grill & Bar",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/guadalajara-grill-and-bar-berwyn",
+      "is_closed":false,
+      "phone":"7087882600",
+      "snippet_text":"Big hurt brewhouse was an hour wait and we were hungry. We looked across the street while waiting and decided to head over and check it out. It was loud,...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/5d6O-IKHd6QQveiWcxvkJg/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Mexican",
+          "mexican"
+        ]
+      ],
+      "display_phone":"+1-708-788-2600",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"guadalajara-grill-and-bar-berwyn",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "city":"Berwyn",
+        "display_address":[
+          "6814 Cermak Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":8.0,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6814 Cermak Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8508186,
+          "longitude":-87.7939072
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/big-hurt-brewhouse-berwyn",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":86,
+      "name":"Big Hurt Brewhouse",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/big-hurt-brewhouse-berwyn",
+      "is_closed":false,
+      "id":"big-hurt-brewhouse-berwyn",
+      "phone":"7089567722",
+      "snippet_text":"After reading all the reviews I was expecting this place to be subpar. I went this past Friday with a group of four and was immediately sat, greeted by our...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/2hlW5xIz5jcBvve-hnT8SA/ms.jpg",
+      "categories":[
+        [
+          "Breweries",
+          "breweries"
+        ]
+      ],
+      "display_phone":"+1-708-956-7722",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1421659045,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/AFzRJfPlMFUduAr2ABvt-A/ms.jpg",
+      "location":{
+        "cross_streets":"Grove Ave & Oak Park Ave",
+        "city":"Berwyn",
+        "display_address":[
+          "6801 W Cermak Rd",
+          "Berwyn, IL 60402"
+        ],
+        "geo_accuracy":9.5,
+        "postal_code":"60402",
+        "country_code":"US",
+        "address":[
+          "6801 W Cermak Rd"
+        ],
+        "coordinate":{
+          "latitude":41.8504345252258,
+          "longitude":-87.7934906268553
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":2.5,
+      "mobile_url":"http://m.yelp.com/biz/grand-central-station-bar-and-grill-inc-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+      "review_count":4,
+      "name":"Grand Central Station Bar and Grill Inc",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png",
+      "url":"http://www.yelp.com/biz/grand-central-station-bar-and-grill-inc-chicago",
+      "is_closed":false,
+      "phone":"7736376376",
+      "snippet_text":"Good time there... I like the busy sometimes.  Always pack with beautiful people... however, location is a bitch since Taxi is probably the fastest way to...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/aWt6o4xzwYexXXl4sPHwRg/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-773-637-6376",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+      "id":"grand-central-station-bar-and-grill-inc-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/-lJ6tQVJKFw5vKvWcNR_0w/ms.jpg",
+      "location":{
+        "cross_streets":"Major Ave & Mango Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5726 W Grand Ave",
+          "Belmont Central",
+          "Chicago, IL 60639"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Belmont Central"
+        ],
+        "postal_code":"60639",
+        "country_code":"US",
+        "address":[
+          "5726 W Grand Ave"
+        ],
+        "coordinate":{
+          "latitude":41.919678,
+          "longitude":-87.769279
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

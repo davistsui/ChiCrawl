@@ -1,0 +1,1032 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.05550390999999877,
+      "longitude_delta":0.0449751500000275
+    },
+    "center":{
+      "latitude":41.95311005,
+      "longitude":-87.66697644999999
+    }
+  },
+  "total":3614,
+  "businesses":[
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/the-twisted-vine-chicago-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":21,
+      "name":"The Twisted Vine Chicago",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/the-twisted-vine-chicago-chicago",
+      "is_closed":false,
+      "phone":"7733880942",
+      "snippet_text":"This place is excellent! A perfect spot for meeting friends and enjoying delicious wine and cheese! The atmosphere is relaxed yet elegant. They have a wide...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/cN3ROdFHjYxe240wjWgubA/ms.jpg",
+      "categories":[
+        [
+          "Wine Bars",
+          "wine_bars"
+        ]
+      ],
+      "display_phone":"+1-773-388-0942",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"the-twisted-vine-chicago-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/OXQvLVN4XtypQkBoajMD0Q/ms.jpg",
+      "location":{
+        "cross_streets":"Brompton Ave & Cornelia Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3530 N  Halsted St",
+          "Lakeview",
+          "Chicago, IL 60657"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60657",
+        "country_code":"US",
+        "address":[
+          "3530 N  Halsted St"
+        ],
+        "coordinate":{
+          "latitude":41.946373,
+          "longitude":-87.64978
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-green-lady-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":70,
+      "name":"The Green Lady",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-green-lady-chicago",
+      "is_closed":false,
+      "phone":"7735255571",
+      "snippet_text":"One of my favorite bars in Chicago.\n\nGreat location, beautiful inside. Quiet enough that you can have conversations with people but still a great...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/T4DavSTJ1UKm2k34dkGJ1w/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-525-5571",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-green-lady-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/pEPN4Gf5CBosAM80hta9cg/ms.jpg",
+      "location":{
+        "cross_streets":"Roscoe St & Paulina St",
+        "city":"Chicago",
+        "display_address":[
+          "3328 N Lincoln Ave",
+          "Lakeview",
+          "Chicago, IL 60657"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60657",
+        "country_code":"US",
+        "address":[
+          "3328 N Lincoln Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9422760009766,
+          "longitude":-87.6708145141602
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-barrelhouse-flat-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":327,
+      "name":"The Barrelhouse Flat",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-barrelhouse-flat-chicago",
+      "is_closed":false,
+      "id":"the-barrelhouse-flat-chicago",
+      "phone":"7738570421",
+      "snippet_text":"What a great cocktail bar, I'm never disappointed when I make a stop here.  The drinks are taken seriously and are well crafted. But the drinks alone aren't...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/tFQbAKlK28mKzhX5jvFZQw/ms.jpg",
+      "categories":[
+        [
+          "Lounges",
+          "lounges"
+        ],
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ]
+      ],
+      "display_phone":"+1-773-857-0421",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1403507535,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/2cq7OZNtR25i0ToNfCOWJA/ms.jpg",
+      "location":{
+        "cross_streets":"Sheffield Ave & Wrightwood Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2624 N Lincoln Ave",
+          "Lincoln Park",
+          "Chicago, IL 60614"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lincoln Park",
+          "DePaul"
+        ],
+        "postal_code":"60614",
+        "country_code":"US",
+        "address":[
+          "2624 N Lincoln Ave"
+        ],
+        "coordinate":{
+          "latitude":41.929455,
+          "longitude":-87.654785
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/johnny-o-hagans-irish-pub-and-restaurant-chicago-2",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":21,
+      "name":"Johnny O'Hagan's Irish Pub & Restaurant",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/johnny-o-hagans-irish-pub-and-restaurant-chicago-2",
+      "is_closed":false,
+      "phone":"7738570944",
+      "snippet_text":"\"I'd rather suck on Malort flavored ice cubes than spend St. Patrick's day in Wrigleyville.\" These are exact words that came out of my mouth about a year...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/u2fF1f43bp6C1E7WbwsB9A/ms.jpg",
+      "categories":[
+        [
+          "Irish",
+          "irish"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-857-0944",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"johnny-o-hagans-irish-pub-and-restaurant-chicago-2",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/gQbiAykPhsoimd5k950GSA/ms.jpg",
+      "location":{
+        "cross_streets":"Roscoe St",
+        "city":"Chicago",
+        "display_address":[
+          "3374 N Clark St",
+          "Lakeview",
+          "Chicago, IL 60657"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60657",
+        "country_code":"US",
+        "address":[
+          "3374 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.9434898,
+          "longitude":-87.6537249
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/sheffields-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":483,
+      "name":"Sheffield's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/sheffields-chicago",
+      "is_closed":false,
+      "id":"sheffields-chicago",
+      "phone":"7732814989",
+      "snippet_text":"One of my go to spots for barbecue and beer. Pulled pork sandwich is my go to but have never had anything I didn't like. It has three bars (front bar, smoke...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/JlYlXeNzxexHzV9oOGaTIA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Barbeque",
+          "bbq"
+        ]
+      ],
+      "display_phone":"+1-773-281-4989",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1421919686,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/jNT0QoTsOS62nhzbiFjb8Q/ms.jpg",
+      "location":{
+        "cross_streets":"School St & Belmont Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3258 N Sheffield Ave",
+          "Lakeview",
+          "Chicago, IL 60657"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60657",
+        "country_code":"US",
+        "address":[
+          "3258 N Sheffield Ave"
+        ],
+        "coordinate":{
+          "latitude":41.941616,
+          "longitude":-87.65451
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/wood-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":253,
+      "name":"Wood",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/wood-chicago",
+      "is_closed":false,
+      "id":"wood-chicago",
+      "phone":"7739359663",
+      "snippet_text":"Had a pretty great experience here on Sunday night. It was a last minute decision but it looked fancy and I like to get fancy sometimes. There's just...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/vW0vis2Y9gtce1LxSD2G4A/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Tapas/Small Plates",
+          "tapasmallplates"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ]
+      ],
+      "display_phone":"+1-773-935-9663",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1414412074,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/L660JljeyZbpKOcIXkgTdg/ms.jpg",
+      "location":{
+        "cross_streets":"Buckingham Pl & Roscoe St",
+        "city":"Chicago",
+        "display_address":[
+          "3335 N Halsted St",
+          "Lakeview",
+          "Chicago, IL 60657"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60657",
+        "country_code":"US",
+        "address":[
+          "3335 N Halsted St"
+        ],
+        "coordinate":{
+          "latitude":41.942829280388,
+          "longitude":-87.649184667136
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/h%C3%BCettenbar-chicago-3",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":177,
+      "name":"H\u00fcettenbar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/h%C3%BCettenbar-chicago-3",
+      "is_closed":false,
+      "phone":"7735612507",
+      "snippet_text":"This is probably my favorite Lincoln Square bar.  Tons of delicious German beers on tap.  A cozy place, a good time, a notch above divey, and very...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/6brpJ9pBfZQQ7zminWlcIg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-561-2507",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"h\u00fcettenbar-chicago-3",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/89IKXkuvIZvyDLA_7MV09w/ms.jpg",
+      "location":{
+        "cross_streets":"Giddings St & Leland Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4721 N Lincoln Ave",
+          "Ravenswood",
+          "Chicago, IL 60625"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Ravenswood",
+          "Lincoln Square"
+        ],
+        "postal_code":"60625",
+        "country_code":"US",
+        "address":[
+          "4721 N Lincoln Ave"
+        ],
+        "coordinate":{
+          "latitude":41.967411,
+          "longitude":-87.6875534
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/beermiscuous-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":42,
+      "name":"Beermiscuous",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/beermiscuous-chicago",
+      "is_closed":false,
+      "phone":"8554502337",
+      "snippet_text":"I've been here 4 times since it opened and really like their \"coffeehouse replaced with beer\" concept.\n\n- I doubt there's a larger beer selection in...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/5AN3CQBw27GTyMD8WPLcUQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-855-450-2337",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"beermiscuous-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/ry6i-G5RdGblSfQQ-27dSw/ms.jpg",
+      "location":{
+        "cross_streets":"Lakewood Ave & Diversey Pky",
+        "city":"Chicago",
+        "display_address":[
+          "2812 N Lincoln Ave",
+          "Lakeview",
+          "Chicago, IL 60657"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60657",
+        "country_code":"US",
+        "address":[
+          "2812 N Lincoln Ave"
+        ],
+        "coordinate":{
+          "latitude":41.932827,
+          "longitude":-87.659398
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/simons-tavern-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":241,
+      "name":"Simon's Tavern",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/simons-tavern-chicago",
+      "is_closed":false,
+      "phone":"7738780894",
+      "snippet_text":"I have nothing bad to say about this place! Great bar in Andersonville. The bartenders and staff are very friendly as well as the other patrons :)\n\nI will...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/jDjuHvwn_YByfiFgYVo4kw/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-878-0894",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"simons-tavern-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/flOQZV6oJmfmJBFLcKe0bA/ms.jpg",
+      "location":{
+        "cross_streets":"Farragut Ave & United States Highway 41",
+        "city":"Chicago",
+        "display_address":[
+          "5210 N Clark St",
+          "Edgewater",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater",
+          "Uptown",
+          "Andersonville"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "5210 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.9765816,
+          "longitude":-87.6687469
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/b-l-u-e-s-chicago-2",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":169,
+      "name":"B.L.U.E.S.",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/b-l-u-e-s-chicago-2",
+      "is_closed":false,
+      "phone":"7735281012",
+      "snippet_text":"Awesome joint, very authentic and true to the city. If you want real blues, come to this spot. They won't discriminate for using a groupon! Lovely...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/WeHkZwVGLdllHC3O5WAz2A/ms.jpg",
+      "categories":[
+        [
+          "Jazz & Blues",
+          "jazzandblues"
+        ],
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Music Venues",
+          "musicvenues"
+        ]
+      ],
+      "display_phone":"+1-773-528-1012",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"b-l-u-e-s-chicago-2",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/sGdDfszFLBFQWl1i5BmrvQ/ms.jpg",
+      "location":{
+        "cross_streets":"Lill Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2519 N Halsted St",
+          "Lincoln Park",
+          "Chicago, IL 60614"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lincoln Park"
+        ],
+        "postal_code":"60614",
+        "country_code":"US",
+        "address":[
+          "2519 N Halsted St"
+        ],
+        "coordinate":{
+          "latitude":41.927886,
+          "longitude":-87.64849
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/zias-lago-vista-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":159,
+      "name":"Zia's Lago Vista",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/zias-lago-vista-chicago",
+      "is_closed":false,
+      "phone":"7738830808",
+      "snippet_text":"Incredible - Can't believe I hadn't even heard of Zia's prior to yesterday. Zia's is the holy grail of brunch. \n\nA couple paradigm-shifting experiences here...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/LYqgX-fM-XFAGHVwnQzdKA/ms.jpg",
+      "categories":[
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Wine Bars",
+          "wine_bars"
+        ]
+      ],
+      "display_phone":"+1-773-883-0808",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"zias-lago-vista-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/j-vztli64Dk2cJSdTU--yA/ms.jpg",
+      "location":{
+        "cross_streets":"Grace St & Byron St",
+        "city":"Chicago",
+        "display_address":[
+          "3819 N Ashland Ave",
+          "Lakeview",
+          "Chicago, IL 60613"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60613",
+        "country_code":"US",
+        "address":[
+          "3819 N Ashland Ave"
+        ],
+        "coordinate":{
+          "latitude":41.951302,
+          "longitude":-87.66848
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/coopers-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":280,
+      "name":"Cooper's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/coopers-chicago",
+      "is_closed":false,
+      "id":"coopers-chicago",
+      "phone":"7739292667",
+      "snippet_text":"We live in the area and have been to Cooper's a few times.  I walk out completely satisfied every time I'm there.  The inside has a dive bar feel to it with...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/O14LC4Qupv4A_LVFEDVLZQ/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone":"+1-773-929-2667",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387627531,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/ow6fS2D0Yhc675Rx6X-1iA/ms.jpg",
+      "location":{
+        "cross_streets":"Lakewood Ave & Racine Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1232 W Belmont Ave",
+          "Lakeview",
+          "Chicago, IL 60657"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60657",
+        "country_code":"US",
+        "address":[
+          "1232 W Belmont Ave"
+        ],
+        "coordinate":{
+          "latitude":41.940083,
+          "longitude":-87.660255
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/finley-dunnes-tavern-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":86,
+      "name":"Finley Dunnes Tavern",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/finley-dunnes-tavern-chicago",
+      "is_closed":false,
+      "phone":"7734777311",
+      "snippet_text":"Love Finley Dunnes.  The only negative isn't really something they can control, unless they turn away business, and that is not a realistic thing to expect....",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/p7J_xB-q8atwOua87F6rkg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-477-7311",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"finley-dunnes-tavern-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/I4LCV-e2BP1V2oDC56WU5Q/ms.jpg",
+      "location":{
+        "cross_streets":"Hermitage Ave & Newport Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3458 N Lincoln Ave",
+          "Lakeview",
+          "Chicago, IL 60657"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60657",
+        "country_code":"US",
+        "address":[
+          "3458 N Lincoln Ave"
+        ],
+        "coordinate":{
+          "latitude":41.94474,
+          "longitude":-87.672576
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-grafton-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":398,
+      "name":"The Grafton",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-grafton-chicago",
+      "is_closed":false,
+      "id":"the-grafton-chicago",
+      "phone":"7732719000",
+      "snippet_text":"I come here very often, it's a great little neighborhood bar and has a FIREPLACE so you can't really beat that. Draft selections are good and updated...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/4BsfrLbthi0X7e3T11qGXg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Irish",
+          "irish"
+        ]
+      ],
+      "display_phone":"+1-773-271-9000",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1402902865,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/Zhn0yFbZAhmQp3hGYS3qiA/ms.jpg",
+      "location":{
+        "cross_streets":"Sunnyside Ave & Wilson Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4530 N Lincoln Ave",
+          "Ravenswood",
+          "Chicago, IL 60625"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Ravenswood",
+          "Lincoln Square"
+        ],
+        "postal_code":"60625",
+        "country_code":"US",
+        "address":[
+          "4530 N Lincoln Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9639282,
+          "longitude":-87.6858673
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/nisei-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":101,
+      "name":"Nisei Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/nisei-lounge-chicago",
+      "is_closed":false,
+      "phone":"7735250557",
+      "snippet_text":"Free pool and darts, cheap beer, and they allow you to bring in food-- doesn't get any better than that! My friends are regulars here and I sometimes tag...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/Fv2IXjcwiGoGUttoxJ6Kdg/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-773-525-0557",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"nisei-lounge-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/uW42ErDDb3_XsIYeAT2N6w/ms.jpg",
+      "location":{
+        "cross_streets":"Clark St & Cornelia Ave",
+        "city":"Chicago",
+        "display_address":[
+          "3439 N Sheffield Ave",
+          "Lakeview",
+          "Chicago, IL 60657"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60657",
+        "country_code":"US",
+        "address":[
+          "3439 N Sheffield Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9447272270918,
+          "longitude":-87.6540628820658
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/uncommon-ground-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":769,
+      "name":"Uncommon Ground",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/uncommon-ground-chicago",
+      "is_closed":false,
+      "id":"uncommon-ground-chicago",
+      "phone":"7739293680",
+      "snippet_text":"I've visited now countless times since my original review and I still love the place.  \n\nThe food is delicious - yesterday, I tried the chopped salad (added...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/UeRXxGLkCXGxfh2zpqre-g/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "American (Traditional)",
+          "tradamerican"
+        ]
+      ],
+      "display_phone":"+1-773-929-3680",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1422613838,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/BK5g8_yRcPpYV4ZOLmMFlw/ms.jpg",
+      "location":{
+        "cross_streets":"Grace St",
+        "city":"Chicago",
+        "display_address":[
+          "3800 N Clark St",
+          "Lakeview",
+          "Chicago, IL 60613"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60613",
+        "country_code":"US",
+        "address":[
+          "3800 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.9512482,
+          "longitude":-87.6600723
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/jakes-pub-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":145,
+      "name":"Jake's Pub",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/jakes-pub-chicago",
+      "is_closed":false,
+      "phone":"7732483318",
+      "snippet_text":"Got greeted by an Akita and another dog as soon as I walked in. \nGreat beer selection and good prices. \nCan't wait to bring in my shiva inu one of these days.",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/YfUIouOQRwspIy8dRaCgUQ/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-248-3318",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"jakes-pub-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/Zw86oGXYP3UaQa34Kl570g/ms.jpg",
+      "location":{
+        "cross_streets":"Oakdale Ave & Wellington Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2932 N Clark St",
+          "Lakeview",
+          "Chicago, IL 60657"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60657",
+        "country_code":"US",
+        "address":[
+          "2932 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.9358711,
+          "longitude":-87.6477432
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/fountainhead-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":606,
+      "name":"Fountainhead",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/fountainhead-chicago",
+      "is_closed":false,
+      "phone":"7736978204",
+      "snippet_text":"A friend of mine suggested this as a meeting spot with good food and a good beer list, and I was happy to oblige.\n\nTrekking in from the 'burbs I tend to...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/KjvqCVRy_lAdAado88koRw/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-697-8204",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"fountainhead-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/_l_JMnWqYZCzCTSa8CaCIg/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "1970 W Montrose Ave",
+          "North Center",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "North Center",
+          "Ravenswood"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "1970 W Montrose Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9615629218619,
+          "longitude":-87.678840151738
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/ollies-lounge-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":35,
+      "name":"Ollie's Lounge",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/ollies-lounge-chicago",
+      "is_closed":false,
+      "phone":"7737845712",
+      "snippet_text":"Hey, what's this? A SCHLITZ sign? Ever since the original formula of the beer that made Milwaukee famous was bestowed upon us, I've sought it out like a...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/VHVpJI8v4ocpB6G-hIjJJA/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-784-5712",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"ollies-lounge-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/zYHqzna0N0Kwe6W09eornQ/ms.jpg",
+      "location":{
+        "cross_streets":"Kenmore Ave & Winthrop Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1064 W Berwyn Ave",
+          "Edgewater",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "1064 W Berwyn Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9783058,
+          "longitude":-87.657486
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/duke-of-perth-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":466,
+      "name":"Duke Of Perth",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/duke-of-perth-chicago",
+      "is_closed":false,
+      "phone":"7734771741",
+      "snippet_text":"Outstanding. I had the Watt Chicken Sand and my friend had the Leeke Pie. Both were absolutely delicious. \n\nEven better, they were enjoyed for lunch in a...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/2KB-jOB5rnnyOHhRM5ur3Q/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ],
+        [
+          "Fish & Chips",
+          "fishnchips"
+        ],
+        [
+          "Scottish",
+          "scottish"
+        ]
+      ],
+      "display_phone":"+1-773-477-1741",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"duke-of-perth-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/OhtZlF_AsGMpO554BEgluA/ms.jpg",
+      "location":{
+        "cross_streets":"Surf St & Oakdale Ave",
+        "city":"Chicago",
+        "display_address":[
+          "2913 N Clark St",
+          "Lakeview",
+          "Chicago, IL 60657"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lakeview"
+        ],
+        "postal_code":"60657",
+        "country_code":"US",
+        "address":[
+          "2913 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.935249,
+          "longitude":-87.646476
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}

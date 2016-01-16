@@ -1,0 +1,1034 @@
+{
+  "region":{
+    "span":{
+      "latitude_delta":0.043058070000000725,
+      "longitude_delta":0.01918477000000962
+    },
+    "center":{
+      "latitude":41.98867215,
+      "longitude":-87.66684065
+    }
+  },
+  "total":708,
+  "businesses":[
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/vincent-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":340,
+      "name":"Vincent",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/vincent-chicago",
+      "is_closed":false,
+      "id":"vincent-chicago",
+      "phone":"7733347168",
+      "snippet_text":"It's rare a restaurant continues to evolve and get better with time. Vincent started out as a nicer version of the famed Hopleaf but has evolved into it's...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/YSDaHg1jswW3S_B0HWG3QA/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ],
+        [
+          "Wine Bars",
+          "wine_bars"
+        ]
+      ],
+      "display_phone":"+1-773-334-7168",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387743150,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/R427c4CQVv9v_tKrpEj3hA/ms.jpg",
+      "location":{
+        "cross_streets":"Glenwood Ave & Clark St",
+        "city":"Chicago",
+        "display_address":[
+          "1475 W Balmoral Ave",
+          "Edgewater",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater",
+          "Andersonville"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "1475 W Balmoral Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9797249,
+          "longitude":-87.6674881
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/nookies-edgewater-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":298,
+      "name":"Nookies Edgewater",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/nookies-edgewater-chicago",
+      "is_closed":false,
+      "phone":"7735164188",
+      "snippet_text":"We came to Nookies for brunch with our friends who live in the area. We sat in the bar area and the bar staff served us at our table. They were super nice...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/6B5dCTzoDTG0Gj2QEPhfbA/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ],
+        [
+          "Sandwiches",
+          "sandwiches"
+        ]
+      ],
+      "display_phone":"+1-773-516-4188",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"nookies-edgewater-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/ofXvRvZP2RKpq_itzWxstA/ms.jpg",
+      "location":{
+        "cross_streets":"Winthrop Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1100 W Bryn Mawr",
+          "Edgewater",
+          "Chicago, IL 60660"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater"
+        ],
+        "postal_code":"60660",
+        "country_code":"US",
+        "address":[
+          "1100 W Bryn Mawr"
+        ],
+        "coordinate":{
+          "latitude":41.9837024062872,
+          "longitude":-87.6581257581711
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/martys-martini-bar-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":155,
+      "name":"Marty's Martini Bar",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/martys-martini-bar-chicago",
+      "is_closed":false,
+      "phone":"7734540161",
+      "snippet_text":"best martini in Chicago\nDon't drink more than 2 cause you will be on the floor\nsmall space - get there early or expect people to brush up against you all...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/xI3gIRRDZ7kvb_0ZdN6fqQ/ms.jpg",
+      "categories":[
+        [
+          "Gay Bars",
+          "gaybars"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-454-0161",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"martys-martini-bar-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/U6yZHo_H_HEH4V3srB-QLQ/ms.jpg",
+      "location":{
+        "cross_streets":"Ashland Ave & Clark St",
+        "city":"Chicago",
+        "display_address":[
+          "1511 W Balmoral Ave",
+          "Edgewater",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater",
+          "Andersonville"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "1511 W Balmoral Ave"
+        ],
+        "coordinate":{
+          "latitude":41.979801133275,
+          "longitude":-87.6685260236263
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/farraguts-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":58,
+      "name":"Farraguts",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/farraguts-chicago",
+      "is_closed":false,
+      "phone":"7737284903",
+      "snippet_text":"Awesome down-to-earth bar to grab a decent draft! The bartender usually keeps the jukebox stocked with great music, ranging from classic/90's rock to punk....",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/3nXqIEPfuFE8zuPfSxUzWg/ms.jpg",
+      "categories":[
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-728-4903",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"farraguts-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/upogmtMcNPPnVxYgCeCTDA/ms.jpg",
+      "location":{
+        "cross_streets":"Berwyn Ave & Farragut Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5240 N Clark St",
+          "Edgewater",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater",
+          "Andersonville"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "5240 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.9773674,
+          "longitude":-87.6685562
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/green-mill-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":571,
+      "name":"Green Mill",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/green-mill-chicago",
+      "is_closed":false,
+      "phone":"7738785552",
+      "snippet_text":"I have been to the Green Mill twice and have always had a great time. I was just there this past Saturday. On both occasions this place has been packed....",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/EGU6dsCki-ZVS_du-e8OuA/ms.jpg",
+      "categories":[
+        [
+          "Jazz & Blues",
+          "jazzandblues"
+        ],
+        [
+          "Lounges",
+          "lounges"
+        ]
+      ],
+      "display_phone":"+1-773-878-5552",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"green-mill-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/jEQKprT7AR8YphdvybXVHQ/ms.jpg",
+      "location":{
+        "cross_streets":"Gunnison St & Racine Ave",
+        "city":"Chicago",
+        "display_address":[
+          "4802 N Broadway St",
+          "Uptown",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Uptown"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "4802 N Broadway St"
+        ],
+        "coordinate":{
+          "latitude":41.9691748917103,
+          "longitude":-87.659740447998
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/the-glenwood-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":78,
+      "name":"The Glenwood",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/the-glenwood-chicago",
+      "is_closed":false,
+      "phone":"7737647363",
+      "snippet_text":"Flat screens galore...lots of high tables...pool table...darts..and some amazing patrons. \n\nNever rowdy, the Glenwood offers so much and more!\nSunday game...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/FvyNHYc76uoEs3fka9UcrA/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-764-7363",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"the-glenwood-chicago",
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/ZKOL7cqyNHUEV0nUXN4UGg/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "6962 N Glenwood Ave",
+          "Rogers Park",
+          "Chicago, IL 60626"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Rogers Park"
+        ],
+        "postal_code":"60626",
+        "country_code":"US",
+        "address":[
+          "6962 N Glenwood Ave"
+        ],
+        "coordinate":{
+          "latitude":42.008244,
+          "longitude":-87.666054
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/uncommon-ground-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":555,
+      "name":"Uncommon Ground",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/uncommon-ground-chicago-2",
+      "is_closed":false,
+      "id":"uncommon-ground-chicago-2",
+      "phone":"7734659801",
+      "snippet_text":"Uncommon Ground is a wonderful place for fresh, local food and great drinks.\n\nI've been here a number of times and they've always been great.  I appreciate...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/01sWva-MUatQZB3lChFcEg/ms.jpg",
+      "categories":[
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ]
+      ],
+      "display_phone":"+1-773-465-9801",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387640689,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/9v8se0gzv17BfjGTnNNLug/ms.jpg",
+      "location":{
+        "cross_streets":"Glenwood Ave & Newgard Ave",
+        "city":"Chicago",
+        "display_address":[
+          "1401 W Devon Ave",
+          "Edgewater",
+          "Chicago, IL 60660"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater"
+        ],
+        "postal_code":"60660",
+        "country_code":"US",
+        "address":[
+          "1401 W Devon Ave"
+        ],
+        "coordinate":{
+          "latitude":41.997948,
+          "longitude":-87.665718
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/pressure-billiards-and-cafe-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":79,
+      "name":"Pressure Billiards & Cafe",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/pressure-billiards-and-cafe-chicago",
+      "is_closed":false,
+      "phone":"7737437665",
+      "snippet_text":"I think I may be on some type of local bar streak finding some amazing spots lately. The great thing about this area of the city is you'll always find...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/Qkha8nII52HAQ3ptAGA81Q/ms.jpg",
+      "categories":[
+        [
+          "Pool Halls",
+          "poolhalls"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-743-7665",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"pressure-billiards-and-cafe-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/YWKASeE_bumYD3_PvOmYmQ/ms.jpg",
+      "location":{
+        "cross_streets":"Highland Ave & Rosemont Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6318 N Clark St",
+          "Edgewater",
+          "Chicago, IL 60660"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater"
+        ],
+        "postal_code":"60660",
+        "country_code":"US",
+        "address":[
+          "6318 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.997047,
+          "longitude":-87.670883
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/the-pumping-company-chicago",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":72,
+      "name":"The Pumping Company",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/the-pumping-company-chicago",
+      "is_closed":false,
+      "id":"the-pumping-company-chicago",
+      "phone":"7734659500",
+      "snippet_text":"Ordered on grub hub because I was craving a delicious burger. The Pumping Company definitely delivered!\n\nThe burger: Built my own, Bleu cheese, house rub,...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/Ouh-T5_A3ha_DpNREB1Obg/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-465-9500",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"eat24",
+      "menu_date_updated":1401911716,
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/UGLh23bkfpCH0riF0YHKHQ/ms.jpg",
+      "location":{
+        "cross_streets":"Hood Ave & Granville Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6157 N Broadway St",
+          "Edgewater",
+          "Chicago, IL 60660"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater"
+        ],
+        "postal_code":"60660",
+        "country_code":"US",
+        "address":[
+          "6157 N Broadway St"
+        ],
+        "coordinate":{
+          "latitude":41.9940186,
+          "longitude":-87.6602097
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/barrelman-tavern-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":12,
+      "name":"Barrelman Tavern",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/barrelman-tavern-chicago",
+      "is_closed":false,
+      "phone":"7736543110",
+      "snippet_text":"We LOVE this bar!! The bartenders are beyond great and they remember what we have been up to in our personal lives too!! We consider them friends!!...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/KGHfpBjCza4FuCtv7pS3fw/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ]
+      ],
+      "display_phone":"+1-773-654-3110",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"barrelman-tavern-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/M8vdMRHrcezUlMUDOPNYXQ/ms.jpg",
+      "location":{
+        "cross_streets":"Peterson Ave & Glenlake Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6001 N Paulina St",
+          "Edgewater",
+          "Chicago, IL 60660"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater"
+        ],
+        "postal_code":"60660",
+        "country_code":"US",
+        "address":[
+          "6001 N Paulina St"
+        ],
+        "coordinate":{
+          "latitude":41.990898,
+          "longitude":-87.671463
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/big-joes-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":82,
+      "name":"Big Joe's",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/big-joes-chicago",
+      "is_closed":false,
+      "phone":"7737848755",
+      "snippet_text":"I assume PETA knows about this place and the turtles are taken care of and have good homes and a healthy lifestyle, well outside of their mad dash to...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/HR3g5yvrOJD5Cbhl1Ih3Hg/ms.jpg",
+      "categories":[
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "display_phone":"+1-773-784-8755",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"big-joes-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/ldyQCHzeOhNqTyOg01qNCg/ms.jpg",
+      "location":{
+        "city":"Chicago",
+        "display_address":[
+          "1818 W Foster Ave",
+          "Lincoln Square",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Lincoln Square"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "1818 W Foster Ave"
+        ],
+        "coordinate":{
+          "latitude":41.976337,
+          "longitude":-87.67556
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/jackhammer-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":43,
+      "name":"Jackhammer",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/jackhammer-chicago",
+      "is_closed":false,
+      "phone":"7737435772",
+      "snippet_text":"I like this place because it attracts a refreshingly diverse crowd compared to all of the people you run into in Boystown.  They host various events...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/nQ70IBzaC8NYr_xgdOL6Ew/ms.jpg",
+      "categories":[
+        [
+          "Gay Bars",
+          "gaybars"
+        ]
+      ],
+      "display_phone":"+1-773-743-5772",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"jackhammer-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/gGziNVDpdd-StjAYQkyfLg/ms.jpg",
+      "location":{
+        "cross_streets":"Devon Ave & Schreiber Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6406 N Clark St",
+          "Rogers Park",
+          "Chicago, IL 60626"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Rogers Park"
+        ],
+        "postal_code":"60626",
+        "country_code":"US",
+        "address":[
+          "6406 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.9984086181955,
+          "longitude":-87.6709611556974
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.0,
+      "mobile_url":"http://m.yelp.com/biz/jerrys-chicago-3",
+      "rating_img_url":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "review_count":280,
+      "name":"Jerry's",
+      "rating_img_url_small":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "url":"http://www.yelp.com/biz/jerrys-chicago-3",
+      "is_closed":false,
+      "id":"jerrys-chicago-3",
+      "phone":"7737963777",
+      "snippet_text":"I came by Jerry's for the first time last week, and while I found the food and drink menu impressive, I learned from my boyfriend the list of sandwiches has...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/KdWtaqYkZqEbOTroB62ikw/ms.jpg",
+      "categories":[
+        [
+          "Sandwiches",
+          "sandwiches"
+        ],
+        [
+          "Southern",
+          "southern"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-796-3777",
+      "rating_img_url_large":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "menu_provider":"locu",
+      "menu_date_updated":1425137335,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/9LoGnQgc7-bPnSmNdu136g/ms.jpg",
+      "location":{
+        "cross_streets":"Rascher Ave & Balmoral Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5419 N Clark St",
+          "Edgewater",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater",
+          "Andersonville"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "5419 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.980476,
+          "longitude":-87.667969
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/big-jones-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":947,
+      "name":"Big Jones",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/big-jones-chicago",
+      "is_closed":false,
+      "id":"big-jones-chicago",
+      "phone":"7732755725",
+      "snippet_text":"Coming to Andersonville, (which is a place that I actually never been).. I guess I felt like some peasant in an area that is somehow \"reserved for rich...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/Xthh0xx_jXaRCTpCwl3mpQ/ms.jpg",
+      "categories":[
+        [
+          "Southern",
+          "southern"
+        ],
+        [
+          "Breakfast & Brunch",
+          "breakfast_brunch"
+        ]
+      ],
+      "display_phone":"+1-773-275-5725",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1414995144,
+      "snippet_image_url":"http://s3-media3.fl.yelpcdn.com/photo/wsRcFCmtLr96hUaPtZg-KA/ms.jpg",
+      "location":{
+        "cross_streets":"Summerdale Ave & Balmoral Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5347 N Clark St",
+          "Edgewater",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater",
+          "Andersonville"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "5347 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.979446,
+          "longitude":-87.667931
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/andersonville-brewing-co-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":43,
+      "name":"Andersonville Brewing Co",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/andersonville-brewing-co-chicago",
+      "is_closed":false,
+      "phone":"7737846969",
+      "snippet_text":"I am a proud M2F trans Latina and feel good here, despite competition.\nI like the sports on TV and the cute bartender.\n\nSoy una trans-latina orgullosa y...",
+      "image_url":"http://s3-media3.fl.yelpcdn.com/bphoto/bVbEB-m_8W757sJT2KTEzQ/ms.jpg",
+      "categories":[
+        [
+          "Sports Bars",
+          "sportsbars"
+        ],
+        [
+          "Breweries",
+          "breweries"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ]
+      ],
+      "display_phone":"+1-773-784-6969",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "id":"andersonville-brewing-co-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/tb-Mi66mA5q9e5hfz4aUPQ/ms.jpg",
+      "location":{
+        "cross_streets":"Rascher Ave & Balmoral Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5402 N Clark St",
+          "Edgewater",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater",
+          "Andersonville"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "5402 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.9800224,
+          "longitude":-87.6684723
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/lady-gregorys-chicago-2",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":476,
+      "name":"Lady Gregory's",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/lady-gregorys-chicago-2",
+      "is_closed":false,
+      "id":"lady-gregorys-chicago-2",
+      "phone":"7732715050",
+      "snippet_text":"Last evening we came in with a reservation party of 9. Our reservation was ready right away. \n\nWe have been many times and our server was outstanding as...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/SN-ImPvBtpxdqzidvln19Q/ms.jpg",
+      "categories":[
+        [
+          "Irish",
+          "irish"
+        ]
+      ],
+      "display_phone":"+1-773-271-5050",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1387747598,
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/photo/aFZB29AJ6UXEIr4WNMVY1Q/ms.jpg",
+      "location":{
+        "cross_streets":"Berwyn Ave & Farragut Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5260 N Clark St",
+          "Edgewater",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Edgewater",
+          "Andersonville"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "5260 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.977905992606,
+          "longitude":-87.668528260434
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.0,
+      "mobile_url":"http://m.yelp.com/biz/granville-anvil-chicago",
+      "rating_img_url":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count":25,
+      "name":"Granville Anvil",
+      "rating_img_url_small":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url":"http://www.yelp.com/biz/granville-anvil-chicago",
+      "is_closed":false,
+      "phone":"7739730006",
+      "snippet_text":"Back in the 1960's Joanne Bishop and Mike Costello turned this into a Gay bar. It is probably the oldest Gay bar on the North Side. \nNot continually owned...",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/FR9n8IAdloxFGSQ4lfpTgQ/ms.jpg",
+      "categories":[
+        [
+          "Gay Bars",
+          "gaybars"
+        ]
+      ],
+      "display_phone":"+1-773-973-0006",
+      "rating_img_url_large":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id":"granville-anvil-chicago",
+      "snippet_image_url":"http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+      "location":{
+        "cross_streets":"Broadway St",
+        "city":"Chicago",
+        "display_address":[
+          "1137 W Granville Ave",
+          "Edgewater",
+          "Chicago, IL 60660"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater"
+        ],
+        "postal_code":"60660",
+        "country_code":"US",
+        "address":[
+          "1137 W Granville Ave"
+        ],
+        "coordinate":{
+          "latitude":41.9944,
+          "longitude":-87.6595993
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/mas-alla-del-sol-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":90,
+      "name":"Mas Alla Del Sol",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/mas-alla-del-sol-chicago",
+      "is_closed":false,
+      "phone":"7736541900",
+      "snippet_text":"This place blows me away every time.  \n\nThing one--the drinks.  The Romano is delicious--weird (with a big jalapeno slice bobbing around in there!), but so...",
+      "image_url":"http://s3-media2.fl.yelpcdn.com/bphoto/OauNcttDV0Jqj08CmwX8pQ/ms.jpg",
+      "categories":[
+        [
+          "Mexican",
+          "mexican"
+        ]
+      ],
+      "display_phone":"+1-773-654-1900",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"mas-alla-del-sol-chicago",
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Gf2FWnmP8HOY98rxY3WWQg/ms.jpg",
+      "location":{
+        "cross_streets":"Thorndale Ave & Ardmore Ave",
+        "city":"Chicago",
+        "display_address":[
+          "5848 N Broadway St",
+          "Edgewater",
+          "Chicago, IL 60660"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Edgewater"
+        ],
+        "postal_code":"60660",
+        "country_code":"US",
+        "address":[
+          "5848 N Broadway St"
+        ],
+        "coordinate":{
+          "latitude":41.9884118474889,
+          "longitude":-87.6604411700977
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":true,
+      "rating":3.5,
+      "mobile_url":"http://m.yelp.com/biz/fat-cat-chicago",
+      "rating_img_url":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "review_count":434,
+      "name":"Fat Cat",
+      "rating_img_url_small":"http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "url":"http://www.yelp.com/biz/fat-cat-chicago",
+      "is_closed":false,
+      "id":"fat-cat-chicago",
+      "phone":"7735063100",
+      "snippet_text":"Wow, how could I have lived in Uptown for two years and never stepped foot in the Fat Cat?  It's really a shame it took me this long!\n\nThe staff are very...",
+      "image_url":"http://s3-media1.fl.yelpcdn.com/bphoto/W_WPlQCygmT0jnpOmsG05g/ms.jpg",
+      "categories":[
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ],
+        [
+          "American (New)",
+          "newamerican"
+        ],
+        [
+          "Pubs",
+          "pubs"
+        ]
+      ],
+      "display_phone":"+1-773-506-3100",
+      "rating_img_url_large":"http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "menu_provider":"single_platform",
+      "menu_date_updated":1426047201,
+      "snippet_image_url":"http://s3-media1.fl.yelpcdn.com/photo/Aa_hmw-0P9mrpnB0oNZ88w/ms.jpg",
+      "location":{
+        "cross_streets":"Ainslie St & Gunnison St",
+        "city":"Chicago",
+        "display_address":[
+          "4840 N Broadway St",
+          "Uptown",
+          "Chicago, IL 60640"
+        ],
+        "geo_accuracy":9.5,
+        "neighborhoods":[
+          "Uptown"
+        ],
+        "postal_code":"60640",
+        "country_code":"US",
+        "address":[
+          "4840 N Broadway St"
+        ],
+        "coordinate":{
+          "latitude":41.9701285262279,
+          "longitude":-87.6598516478398
+        },
+        "state_code":"IL"
+      }
+    },
+    {
+      "is_claimed":false,
+      "rating":4.5,
+      "mobile_url":"http://m.yelp.com/biz/fritzys-tavern-chicago",
+      "rating_img_url":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count":8,
+      "name":"Fritzy's Tavern",
+      "rating_img_url_small":"http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url":"http://www.yelp.com/biz/fritzys-tavern-chicago",
+      "is_closed":false,
+      "phone":"7737431797",
+      "snippet_text":"My regular haunt! Great people! Bartenders too. 5 TVs  free pool table and darts. \nThe Jack Daniels is always fresh, never stale!",
+      "image_url":"http://s3-media4.fl.yelpcdn.com/bphoto/UHDOtmgpDCZq0ciQft9Mmw/ms.jpg",
+      "categories":[
+        [
+          "Dive Bars",
+          "divebars"
+        ]
+      ],
+      "display_phone":"+1-773-743-1797",
+      "rating_img_url_large":"http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id":"fritzys-tavern-chicago",
+      "snippet_image_url":"http://s3-media2.fl.yelpcdn.com/photo/qMxIofAoEPP0s0iWBnBWcQ/ms.jpg",
+      "location":{
+        "cross_streets":"Hood Ave & Granville Ave",
+        "city":"Chicago",
+        "display_address":[
+          "6156 N Clark St",
+          "Edgewater",
+          "Chicago, IL 60660"
+        ],
+        "geo_accuracy":8.0,
+        "neighborhoods":[
+          "Edgewater"
+        ],
+        "postal_code":"60660",
+        "country_code":"US",
+        "address":[
+          "6156 N Clark St"
+        ],
+        "coordinate":{
+          "latitude":41.994274,
+          "longitude":-87.67054
+        },
+        "state_code":"IL"
+      }
+    }
+  ]
+}
